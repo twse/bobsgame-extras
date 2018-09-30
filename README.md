@@ -1,13 +1,18 @@
 # Extra stuff for bob's game
-This repository contains all the extra stuff created for use in bob's game.
+This repository contains all the extra stuff created for use in bob's game excluding fonts.
 
 ## Icons
-Icons using the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for OS/2 programs. Requires OS/2 2.0 or higher on a file system that supports long filenames, e.g. HPFS or FAT32. See Third-Party Notices.md for commercial and unsupported freeware credits. See [Extras page on the unofficial bobsgame Wikia portal](http://bobsgame.wikia.com/wiki/Extras) for non-commercial software credits. Use the **Edit** link on each section with the original copyright/license and contributor/translator lists.
+Icons using the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for OS/2 programs. Use them to replace icons from the program resources. Requires OS/2 2.0 or higher on a file system that supports long filenames, e.g. HPFS or FAT32. See Third-Party Notices.md for commercial and unsupported freeware credits. See [Extras page on the unofficial bobsgame Wikia portal](http://bobsgame.wikia.com/wiki/Extras) for non-commercial software credits. Use the **Edit** link on each section with the original copyright/license and contributor/translator lists.
 
 ## Art Department
-Hello world! Hello world! Hello world! Hello world! Hello world! Hello world! Hello world! Hello world! Hello world!
+Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
+
+## Boot Skin
+Use BootSkin (program to change boot screen on Windows XP) to replace the boot skin.
 
 ## Palm OS Emulator skin
+Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices.
+
 This skin can be used with the emulators listed below. Robert Pelloni is not the original author of these emulators. The original copyright notice and the license under which Robert Pelloni received such emulators, are set forth below. Such licenses and notices are provided for informational purposes only. Robert Pelloni licenses these emulators to you under the terms set forth in the BobCorporation EULA. Robert Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
 
 ### CoPilot/2
