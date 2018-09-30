@@ -5,7 +5,7 @@ Contains extra stuff for bob's game except fonts.
 Want to be a show-off? Impress your friends? This is the place. Robert Matthew Pelloni will be offering a wallpaper for you. In any case, please feel free to use them on your desktop.
 
 ### Icons
-Icons in OS/2 format based on the lowercase letters included in the bob's game font for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits. See **Legal Notices (language code).md** (multi-language) in each software category folder for brief legal notices, whereas **(language code)** is the language.
+Icons in OS/2 format based on the lowercase letters included in the bob's game font for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits. See **Legal Notices.md** in each software category folder for brief legal notices.
 
 ### Nintendo 3DS Skin
 Use theme managers ([Anemone](https://github.com/astronautlevel2/Anemone3DS), [CHMM2](https://github.com/Rinnegatamante/CHMM2), [Themely](https://github.com/Ann0ying/Themely), etc. etc. etc.) to replace the skin. The skin was created with [3DS Theme Editor](https://github.com/usagirei/3DS-Theme-Editor).
