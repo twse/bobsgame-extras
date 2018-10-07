@@ -83,4 +83,6 @@ Se actualizará continuamente para Windows, Mac, Linux, el navegador Web, Androi
 * Temas personalizados, sonidos y música
 * Soporte para Android, iOS y navegador
 
-# Licenca:
+# Licensa:
+Robert Matthew Pelloni es el autor de este software con fines de copyright. Todos los derechos reservados.<br />
+Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® es una marca registrada de Robert Pelloni.
