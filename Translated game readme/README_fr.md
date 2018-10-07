@@ -1,4 +1,4 @@
-**bob's game** est une "source disponible" et "libre comme dans la bière" mais ne pas "source ouvrir" et "libre comme dans la discours (pour le moment).
+**bob's game** est une "source disponible" et "libre comme dans la bière" mais ne pas "source ouvrir" et "libre comme dans la discours" (pour le moment).
 
 Cela signifie **pas de forks** sauf pour créer requêtes pull !
 
@@ -24,6 +24,32 @@ https://github.com/bobsgame/BobNetLibs
 # *bob's game* est :
 
 ## *LE PLUS GRAND JEU DE PUZZLE JAMAIS RÉALISÉ*
+
+## CHAQUE JEU DE PUZZLE EN UN
+
+## UN SYSTÈME DE CRÉATION DE JEU DE PUZZLE PERSONNALISÉ
+
+## UNE PLATFORNE DE TOURNOIS MONDIAUX ET UN CLASSEMENT MONDIAL AINSI QUE DES CLASSEMENTS POUR TOUS LES JEUX DE RÉFLEXION
+
+## MULTIJOUEUR LOCAL AVEC UN NOMBRE ILLIMITÉ DE JOUEURS
+
+## MULTIJOUEUR EN LIGNE AVEC UN NOMBRE ILLIMITÉ DE JOUEURS
+
+## MODE MIXTE MULTIJOUEUR LOCAL/EN LIGNE
+
+## ÉCRIT EN C++
+
+## COMPLÈTEMENT LIBRE
+
+## TÉLÉCHARGER MAINTENANT !
+
+## Ce jeu est activement développé. De nouvelles fonctionnalités sont ajoutées constamment et des bugs vont se produire.
+
+[Le forum de développement (en anglais)](http://bobsgame.com/forum) est ouvert aux rapportes de bogues. Veuillez signaler tout problème que vous remarquez. Je compte sur vos tests.
+
+http://www.bobcorporation.com (Site principal) (en anglais)
+
+[L'article de Wikipédia en attendant (en anglais)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), aidez-moi à réviser l'entrée actuelle, car je ne suis pas autorisé à faire.
 
 ## Licence :
 
