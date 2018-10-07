@@ -69,6 +69,8 @@ Créez vos propres modes de puzzle ! Inventez des règles personnalisées ou dé
 
 Il sera mis à jour permanence pour Windows, Mac, Linux, le navigateur Web, Android, iPhone et éventuellement Nintendo Switch et PlayStation 4.
 
+Le code source sera également disponible sur GitHub afin de devenir une plate-forme de tournoi standard pour tous les jeux de puzzle !
+
 ## Licence :
 Robert Matthew Pelloni est le auteur de ce logiciel au regard du droit de l'auteur. Tous droits réservés.<br />
 Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® est une marqué registrée de Robert Pelloni.
