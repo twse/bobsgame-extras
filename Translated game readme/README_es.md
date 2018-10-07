@@ -1,6 +1,6 @@
 **bob's game** es "fuente disponible" y "libre comme en cerveza" pero no "código abierto" y "libre como en el discurso" (todavía).
 
-¡Eso significa que **no hay horquillas**, excepto para crear solicitudes de extracción!
+¡Eso significa que **no hay forks**, excepto para crear solicitudes de extracción!
 
 Veja también:
 
@@ -68,3 +68,5 @@ Más que eso, se ha hecho un gran cuidado para asegurar que **bob's game** sea l
 Actualmente, **bob's game** admite tantos jugadores locales o de red como quieras, multijugador local/de red mixto, integración Facebook, compatibilidad con dispositivos de juego y más.
 
 Se actualizará continuamente para Windows, Mac, Linux, el navegador Web, Android, iPhone, y, posiblemente, Nintendo Switch y PlayStation 4.
+
+¡También tendrá el código fuente disponible en GitHub para que pueda convertirse en una plataforma de torneo estándar para todos los juegos de rompecabezas!
