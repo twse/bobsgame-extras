@@ -72,3 +72,15 @@ Se actualizará continuamente para Windows, Mac, Linux, el navegador Web, Androi
 ¡También tendrá el código fuente disponible en GitHub para que pueda convertirse en una plataforma de torneo estándar para todos los juegos de rompecabezas!
 
 **bob's game no está listo, es bastante jugable, pero estoy agregando muchas más funciones.**
+
+# Liste de características futuras:
+* Muchas más funciones de modo de juego, modos y objectivos
+* Mejor lobby multijugador con chat
+* Características del torneo y escaleras, regionales y globales
+* Matchmaking por región o rango
+* Verificación del servidor
+* Modo espectador, repeticiones, repetición de desafío
+* Temas personalizados, sonidos y música
+* Soporte para Android, iOS y navegador
+
+# Licenca:
