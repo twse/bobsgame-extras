@@ -29,7 +29,7 @@ https://github.com/bobsgame/BobNetLibs
 
 ## UN SYSTÈME DE CRÉATION DE JEU DE PUZZLE PERSONNALISÉ
 
-## UNE PLATFORNE DE TOURNOIS MONDIAUX ET UN CLASSEMENT MONDIAL AINSI QUE DES CLASSEMENTS POUR TOUS LES JEUX DE RÉFLEXION
+## UNE PLATFORME DE TOURNOIS MONDIAUX ET UN CLASSEMENT MONDIAL AINSI QUE DES CLASSEMENTS POUR TOUS LES JEUX DE RÉFLEXION
 
 ## MULTIJOUEUR LOCAL AVEC UN NOMBRE ILLIMITÉ DE JOUEURS
 
@@ -50,6 +50,8 @@ https://github.com/bobsgame/BobNetLibs
 http://www.bobcorporation.com (Site principal) (en anglais)
 
 [L'article de Wikipédia en attendant (en anglais)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), aidez-moi à réviser l'entrée actuelle, car je ne suis pas autorisé à faire.
+
+**bob's game**
 
 ## Licence :
 
