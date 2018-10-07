@@ -65,4 +65,6 @@ Más que eso, se ha hecho un gran cuidado para asegurar que **bob's game** sea l
 
 **bob's game** está en constante evolución con nuevos paquetes de temas, nuevas reglas y paquetes de rompecabezas diseñados por el usuario.
 
-Actualmente, **bob's game** admite tantos jugadores locales o de red como quieras, multijugador local/de red mixto, integración Facrbook, compatibilidad con dispositivos de juego y más.
+Actualmente, **bob's game** admite tantos jugadores locales o de red como quieras, multijugador local/de red mixto, integración Facebook, compatibilidad con dispositivos de juego y más.
+
+Se actualizará continuamente para Windows, Mac, Linux, el navegador Web, Android, iPhone, y, posiblemente, Nintendo Switch y PlayStation 4.
