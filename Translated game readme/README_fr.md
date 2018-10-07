@@ -71,7 +71,17 @@ Il sera mis à jour permanence pour Windows, Mac, Linux, le navigateur Web, Andr
 
 Le code source sera également disponible sur GitHub afin de devenir une plate-forme de tournoi standard pour tous les jeux de puzzle !
 
-## Licence :
+# Liste de fonctionnalités à venir :
+* Beaucoup plus de fonctionnalités, de modes d'objectifs de mode de jeu
+* Neilleur lobby multijoueur avec chat
+* Caractéristiques du tournoi et échelles, régionales et mondiales
+* Jumelage par région ou rang
+* Vérification du serveur
+* Mode spectateur, replays, challenge replay
+* Thèmes, sons et musique personnalisés
+* Support de Android, iOS et navigateur Web
+
+# Licence :
 Robert Matthew Pelloni est le auteur de ce logiciel au regard du droit de l'auteur. Tous droits réservés.<br />
 Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® est une marqué registrée de Robert Pelloni.
 
