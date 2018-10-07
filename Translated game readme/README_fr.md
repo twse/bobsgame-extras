@@ -81,7 +81,7 @@ Le code source sera également disponible sur GitHub afin de devenir une plate-f
 * Thèmes, sons et musique personnalisés
 * Support de Android, iOS et navigateur Web
 
-# Licence :
+# Licence
 Robert Matthew Pelloni est le auteur de ce logiciel au regard du droit de l'auteur. Tous droits réservés.<br />
 Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® est une marqué registrée de Robert Pelloni.
 
