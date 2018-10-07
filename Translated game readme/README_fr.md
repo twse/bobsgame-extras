@@ -71,7 +71,7 @@ Il sera mis à jour permanence pour Windows, Mac, Linux, le navigateur Web, Andr
 
 Le code source sera également disponible sur GitHub afin de devenir une plate-forme de tournoi standard pour tous les jeux de puzzle !
 
-# Liste de fonctionnalités à venir :
+## Liste de fonctionnalités à venir :
 * Beaucoup plus de fonctionnalités, de modes d'objectifs de mode de jeu
 * Neilleur lobby multijoueur avec chat
 * Caractéristiques du tournoi et échelles, régionales et mondiales
@@ -93,7 +93,7 @@ La redistribution et l'utilisation sous forme de source et sous forme binaire, a
 
 3. Vous ne pouvez pas distribuer le code source ou le fichier binaire du bob's game ni produire d’œuvres dérivées de son code source sous un autre nom. Les redistributions du code source ou de la forme binaire doivent être nommées « bob's game ».
 
-4. Vous ne pouvez pas distribuer ou utiliser le code source ou binaire à des fins de profit ou de revenu, y compris les revenus de la publicité, des tournois, etc. Toutes les redistributions et utilisations doivent être entièrement gratuites. Les vidéos ou autres vidéos diffusées en continu sont exemptées et peuvent inclure des revenus publicitaires.
+4. Vous ne pouvez pas distribuer ou utiliser le code source ou binaire à des fins de profit ou de revenu, y compris les revenus de la publicité, des tournois, etc. Toutes les redistributions et utilisations doivent être entièrement gratuites. Les vidéos « Let's Play » ou autres vidéos diffusées en continu sont exemptées et peuvent inclure des revenus publicitaires.
 
 5. Vous ne pouvez pas créer et maintenir une distribution unique ou une redistribution unique du code source du bob's game, à l’exception d’un fork GitHub dans le but de soumettre des requêtes pull, ne pas distribuer indépendamment. La version du code source du bob's game vise à ce que sa communauté puisse soumettre des corrections de bogues et des ajouts au projet principal.
 
