@@ -68,3 +68,18 @@ O **bob's game** atualmente suporta quantos jogadores locais ou de rede você qu
 Ele será continuamente atualizado para Windows, Mac, Linux, o navegador da Web, Android, iPhone e possivelmente Nintendo Switch e PlayStation 4.
 
 Ele também terá o código-fonte disponível no GitHub para que ele possa se transformar em uma plataforma de torneio padrão para todos os jogos de quebra-cabeça!
+
+**O bob's game não está pronto - é bastante jogável, mas estou adicionando ativamente muitos outros recursos.**
+
+## Próxima lista de recursos:
+* Muitos mais recursos, modos e metas do modo de jogo
+* Melhor lobby multijogador com chat
+* Recursos e escadas de torneios, regionais e globãis
+* Matchmaking por região ou rank
+* Verificação do servidor
+* Modo espectador, replays, replay do desafio
+* Temas, sons e músicas personalizadas
+* Soporte para Android, iOS e navegador Web
+
+# Licença
+Robert Matthew Pelloni é o autor deste software para fins de direitos autorais. Todos os direitos reservados.
