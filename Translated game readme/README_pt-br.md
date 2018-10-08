@@ -50,3 +50,7 @@ https://github.com/bobsgame/BobNetLibs
 http://wew.bobcorporation.com (Site principal) (em inglês)
 
 [O artigo da Wikipedia en aguardando (em inglês)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ajude a revisar a entrada atual, pois não tenho permissão.
+
+O **bob's game** (do infame RPG próximo *"bob's game"*) é um jogo da quebra-cabeça multijogador - mas não apenas qualquer jogo de quebra-cabeça, **CADA jogo de quebra-cabeça!** É um jogo de quebra-cabeça construído com um criador de jogos de quebra-cabeça onde VOCÊ define todas as regras para o seu próprio jogo personalizado!
+
+Mais do que isso, grande cuidado foi feito para garantir que **bob's game** é a *melhor* versão de todos os jogos de quebra-cabeça. Eu passei por todos os fóruns de jogos de quebra-cabeça e wiki que encontrei e fiz questão de implementar todos os detalhes e recursos exigidos pelos jogadores hardcore de nível de torneio. Tem chutes na parede, chutes no chão, chutes giratórios, giros em T, cronometragem ajustável, potenciadores, o nome dele. Todos esses recursos se aplicam a todos os jogos que você quiser, tornando-se a melhor versão de todos os jogos!
