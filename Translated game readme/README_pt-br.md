@@ -92,3 +92,5 @@ A redistribuição e uso na forma de código-fonte e formato binário, com ou se
 2. As redistribuições em formato binário devem reproduzir o aviso de copyright acima, esta lista de condições e o seguinte aviso na documentação e/ou em outros materiais fornecidos com a distribuição.
 
 3. Você não pode distribuir o código-fonte ou binário do bob's game ou produzir qualquer trabalho derivado de seu código-fonte sob outro nome. As redistribuições do código-fonte ou formato binário devem ser chamados "bob's game".
+
+4. Você não pode distribuir ou usar o código-fonte ou binário para obter lucro ou receita, imcluindo receita de publicidade, torneios, etc. Todas as redistribuições e usos devem ser fornecidos gratuitamente. Os vídeos "Let's Play" ou outros vídeos de streaming estão isentos e podem incluir receita de publicidade.
