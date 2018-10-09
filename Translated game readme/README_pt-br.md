@@ -82,4 +82,11 @@ Ele também terá o código-fonte disponível no GitHub para que ele possa se tr
 * Soporte para Android, iOS e navegador Web
 
 # Licença
-Robert Matthew Pelloni é o autor deste software para fins de direitos autorais. Todos os direitos reservados.
+Robert Matthew Pelloni é o autor deste software para fins de direitos autorais. Todos os direitos reservados.<br />
+Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® é una marca registrada do Robert Pelloni.
+
+A redistribuição e uso na forma de código-fonte e formato binário, com ou sem modificação, são permitidos desde que as seguintes condições sejam atendidas:
+
+1. A redistribuição do código-fonte deve conter o aviso de copyright acima, esta lista de condições e o seguinte aviso.
+
+2. As redistribuições em formato binário devem reproduzir o aviso de copyright acima, esta lista de condições e o seguinte aviso na documentação e/ou em outros materiais fornecidos com a distribuição.
