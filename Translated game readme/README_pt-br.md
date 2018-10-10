@@ -94,3 +94,5 @@ A redistribuição e uso na forma de código-fonte e formato binário, com ou se
 3. Você não pode distribuir o código-fonte ou binário do bob's game ou produzir qualquer trabalho derivado de seu código-fonte sob outro nome. As redistribuições do código-fonte ou formato binário devem ser chamados "bob's game".
 
 4. Você não pode distribuir ou usar o código-fonte ou binário para obter lucro ou receita, imcluindo receita de publicidade, torneios, etc. Todas as redistribuições e usos devem ser fornecidos gratuitamente. Os vídeos "Let's Play" ou outros vídeos de streaming estão isentos e podem incluir receita de publicidade.
+
+5. Você não pode criar e manter um fork ou redistribuição exclusiva do código-fonte do bob's game, com exceção de um fork do GitHub com a finalidade en enviar solicitações pull, para não sera distribuído independemente. A intenção do lançamento do código-fonte do bob's game é para que sua comunidade possa enviar correções de erros e adições ao projeto principal.
