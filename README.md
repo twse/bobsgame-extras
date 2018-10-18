@@ -11,9 +11,9 @@ Want to be a show-off? Impress your friends? This is the place. Robert Pelloni o
 Use BootSkin (program to change boot screen on Windows XP, available for free in the Stardock website) to replace the boot skin.
 
 ## Palm OS Emulator skin
-Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices.
+Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with PMView.
 
-This skin can be used with the emulators listed below. Robert Pelloni is not the original author of these emulators. The original copyright notice and the license under which Robert Pelloni received such emulators, are set forth below. Such licenses and notices are provided for informational purposes only. Robert Pelloni licenses these emulators to you under the terms set forth in the BobCorporation EULA. Robert Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
+This skin can be used with the emulators listed below. Robert Pelloni is not the original author of these emulators. The original copyright notice and the license is set forth below. Such licenses and notices are provided for informational purposes only. Robert Pelloni licenses these emulators to you under the terms set forth in the BobCorporation EULA. Robert Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
 
 ### CoPilot/2
 See Extras page on the unofficial bobsgame Wikia portal at the beginning above.
