@@ -50,3 +50,7 @@ https://github.com/bobsgame/BobNetLibs
 http://www.bobcorporation.com (Site principal) (în limba engleză)
 
 [Articolului Wikipedia în așteptarea (în limba engleză)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ajută la revizuirea înregistrării curente, așa cum nu îmi este permisă.
+
+**bob's game** (de la RPG-ul infamat *"bob's game"*) este un joc de puzzle multiplayer - dar nu orice joc puzzle, **TOATE joc de puzzle!** Este un joc de puzzle construit-propriu cu un creator de jocuri de puzzle în care definiți toate regulile jocului dvs. personalizat!
+
+Mai mult decât atât, o mare atenție a fost făcută pentru a se asigura că **bob's game** este cea *mai bună* versiune a fiecărui joc de puzzle. Am trecut prin fiecare forum de jocuri puzzle și wiki pe care l-am putut găsi și i-am asigurat să implementeze fiecare detaliu și caracteristică cerută de jucătorii de hardcore la nivel de turneu. Ea are lovituri de perete, lovituri de podea, lovituri de spin, rotiri T, sincronizare reglabilă, powerups, o numiți. Toate aceste caracteristici se aplică tuturor jocurilor pe care le doriți, făcându-le cea mai bună versiune a fiecărui joc!
