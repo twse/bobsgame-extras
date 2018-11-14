@@ -46,3 +46,7 @@ https://github.com/bobsgame/BobNetLibs
 ## Acest joc este activ dezvoltat. Noile caracteristici sunt adăugate în mod constant și se vor întâmpla erori.
 
 [Forumul de dezvoltare (în limba engleză)](http://bobsgame.com/forum) este deschis pentru rapoartele de erori. Vă rugăm să raportați toate problemele pe care le observați. Mă bazez pe testarea ta.
+
+http://www.bobcorporation.com (Site principal) (în limba engleză)
+
+[Articolului Wikipedia în așteptarea (în limba engleză)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ajută la revizuirea înregistrării curente, așa cum nu îmi este permisă.
