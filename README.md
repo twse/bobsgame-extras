@@ -2,7 +2,7 @@
 This repository contains all the extra stuff created for use in bob's game excluding fonts (see bobsgame-fonts repository).
 
 ## Icons
-Icons using the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for OS/2 programs. Use them to replace icons from the program resources. Requires OS/2 2.0 or higher on a file system that supports long filenames, e.g. HPFS, JFS or FAT32. See Third-Party Notices.md for commercial and unsupported freeware credits.
+Icons using the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for OS/2 programs. Use them to replace icons from the program resources. See Third-Party Notices.md for commercial and unsupported freeware credits.
 
 ## Art Department
 Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
