@@ -25,7 +25,7 @@
 8. RapidJSON (no OS/2 port)
    - – License : MIT License
    - – Copyright Notice : Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip.
-   - – Download Site : http://www.rapidjson.org/
+   - – Download Site : http://rapidjson.org/
 9. SimpleJSON (no OS/2 port)
    - – License : MIT License
    - – Copyright Notice : Copyright (c) 2006-2018 Bob Ippolito
