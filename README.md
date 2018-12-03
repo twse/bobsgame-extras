@@ -1,6 +1,9 @@
 # Extra stuff for bob's game
 This repository contains all the extra stuff created for use in bob's game excluding fonts (see bobsgame-fonts repository).
 
+## Google search form
+The Bob Corporation website does not have a Google search form. This form requires an active connection to the internet.
+
 ## Icons
 Icons using the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for OS/2 programs. Use them to replace icons from the program resources. See Third-Party Notices.md for commercial and unsupported freeware credits.
 
