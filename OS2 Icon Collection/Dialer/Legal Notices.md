@@ -12,22 +12,25 @@
 4. EuroDial
    - – License : Free
    - – Copyright Notice : Copyright (c) 1996 Robin Atwood
-5. ISDNPM
+5. InJoy
+   - – License : Unsupported freeware
+   - – Copyright Notice : Copyright (c) 1998-2004 F/X Communications
+6. ISDNPM
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1999-2003 Willibald Meyer
-6. PhoneAttention
+7. PhoneAttention
    - – License : Free
    - – Copyright Notice : Copyright (c) 1992 Mikael Wahlgren
-7. PhoneBoy
+8. PhoneBoy
    - – License : Free
    - – Copyright Notice : Copyright (c) 1995 Igor Divjak
-8. PMphone
+9. PMphone
    - – License : Free
    - – Copyright Notice : Copyright (c) 1997 Gary L. Robinson
-9. SHOW3270
-   - – License : Shareware
-   - – Copyright Notice : Copyright (c) 1995 Mikael Wahlgren
-10. VoiceDialer/2
+10. SHOW3270
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1995 Mikael Wahlgren
+11. VoiceDialer/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996-1999 Rossen Assenov
 
