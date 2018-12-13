@@ -66,7 +66,6 @@
 20. Scythia
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2007-2011 Frédéric Julian
-    - – Download Site : http://scythia.free.fr/
 21. VxFTP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Howard Hyten
