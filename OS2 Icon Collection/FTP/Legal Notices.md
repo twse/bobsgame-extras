@@ -26,7 +26,7 @@
    - – Copyright Notice : Copyright (c) 2007 Miles Kuperus
 9. FTPD Tracefile Logger
    - – License : Free
-   - – Copyright Notice : Copyright (c) 1994 Justin Dolske
+   - – Copyright Notice : Copyright (c) 1994 Justin H. Dolske
 10. FTPPM
     - – License : Commercial
     - – Copyright Notice : IBM
@@ -54,8 +54,8 @@
     - – Copyright Notice : Copyright (c) 1994 Albert Crosby
 17. NcFTP
     - – License : Clarified Artistic License
-    - – Copyright Notice : Copyright (c) 1992-2011 Mike Gleason
-    - – Download Site : http://www.ncftp.com/
+    - – Copyright Notice : Copyright (c) 1992-2016 Mike Gleason
+    - – Download Site : https://www.ncftp.com/
 18. NFTP
     - – License : MIT License
     - – Copyright Notice : Copyright (c) 1994-2011 Sergey Ayukov
