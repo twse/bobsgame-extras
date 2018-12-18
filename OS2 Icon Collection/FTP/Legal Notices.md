@@ -65,7 +65,7 @@
     - – Copyright Notice : Copyright (c) 1993 Cliff DeCarlo
 20. RxFTP
     - – License : IBM EWS
-    - – Copyright Notice : Copyright (c) 1994 Patrick J. Mueller
+    - – Copyright Notice : Copyright (c) 1994 Patrick J. Mueller, Cliff Nadler
 21. Scythia
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2007-2011 Frédéric Julian
