@@ -60,13 +60,16 @@
     - – License : MIT License
     - – Copyright Notice : Copyright (c) 1994-2011 Sergey Ayukov
     - – Download Site : http://www.ayukov.com/
-19. RxFTP
+19. PMSPX
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1993 Cliff DeCarlo
+20. RxFTP
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1994 Patrick J. Mueller
-20. Scythia
+21. Scythia
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2007-2011 Frédéric Julian
-21. VxFTP
+22. VxFTP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Howard Hyten
 
