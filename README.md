@@ -11,7 +11,7 @@ Icons using the lowercase letters of [bob's game font](http://www.bobcorporation
 Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
 
 ## Boot Skin
-Use BootSkin (program to change boot screen on Windows XP, available for free in the Stardock website) to replace the boot skin.
+Use BootSkin (program to change boot screen on Windows XP and Vista – available for free in the Stardock website) to replace the boot skin.
 
 ## Palm OS Emulator skin
 Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with PMView.
@@ -24,12 +24,12 @@ See [Extras page on the Bob's Game Wiki](http://bobsgame.wikia.com/wiki/Extras).
 ### Palm Hardware Emulator
 Program available as expensive in the Google Play Store
 
-Source code copyright: Portions of this software are Palm Hardware Emulator Copyright (C) 2013-2014 Perpendox Software LLC used under the terms of the GNU General Public License as published by the Free Software Foundation, Version 2.0. All rights reserved.
+Source code copyright: Portions of this software are Palm Hardware Emulator Copyright (C) 2013-2014 Perpendox Software LLC used under the terms of the GNU General Public License as published by the Free Software Foundation, version 2.0. All rights reserved.
 
 ### Palm OS Emulator
 Provided for Informational Purposes Only
 
-Portions of this software are Palm OS Emulator Copyright (C) 1998-2002 Palm, Inc. used under the terms of the GNU General Public License as published by the Free Software Foundation, Version 2.0. All rights reserved.
+Portions of this software are Palm OS Emulator Copyright (C) 1998-2002 Palm, Inc. used under the terms of the GNU General Public License as published by the Free Software Foundation, version 2.0. All rights reserved.
 
 #### Contributors
 * Adam Dingle
