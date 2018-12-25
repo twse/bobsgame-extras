@@ -24,7 +24,7 @@ This folder may contain the following software:
    - – Copyright Notice : Copyright (c) 2002-2006 Eugene Romanenko
 8. Rexx/CURL
    - – License : LGPL 2.0
-   - – Copyright Notice : Copyright (c) 2000-2012 Mark Hessling
+   - – Copyright Notice : Copyright (c) 2001-2012 Mark Hessling
    - – Download Site : http://rexxcurl.sourceforge.net/
 9. Sslurp!
    - – License : Free
