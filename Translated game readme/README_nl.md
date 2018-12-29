@@ -84,7 +84,7 @@ Het zal ook de broncode beschikbaar hebben op GitHub zodat het kan uitgroeien to
 * Ondersteuning voor Android, iOS en browser
 
 # License
-Robert Pelloni is de auteur van deze software met betrekking tot het recht van de auteur. Alle rechten voorbehouden.<br />
+Robert Matthew Pelloni is de auteur van deze software met betrekking tot het recht van de auteur. Alle rechten voorbehouden.<br />
 Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® is een geregistreerd handelsmerk van Robert Pelloni.
 
 Herdistributie en gebruik in bronvorm en in binaire vorm, met of zonder wijziging, zijn toegestaan ​​op voorwaarde dat aan de volgende voorwaarden wordt voldaan:
