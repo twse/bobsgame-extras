@@ -22,6 +22,6 @@
 6. TinyXML (no OS/2 port)
    - – License : zlib
    - – Copyright Notice : Copyright (c) 2002-2006 Lee Thomason
-   - – Download Site : http://www.grinninglizard.com/
+   - – Download Site : http://www.grinninglizard.com/tinyxml/index.html
 
 For full legal notices, contributor and translator lists, please visit http://bobsgame.wikia.com/wiki/Extras
