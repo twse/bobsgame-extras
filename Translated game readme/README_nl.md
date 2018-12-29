@@ -65,7 +65,7 @@ Maak je eigen puzzelmodi! Bedenk aangepaste regels of daag je vrienden uit voor 
 
 **bob's game** evolueert voortdurend met nieuwe themapakketten, nieuwe regels en door de gebruiker ontworpen puzzelpakketten.
 
-**bob's game** ondersteunt momenteel zoveel lokale of netwerkspelers als u wilt, gemengde multiplayer voor lokale / netwerken, Facebook-integratie, ondersteuning voor gamecontrollers en meer.
+**bob's game** ondersteunt momenteel zoveel lokale of netwerkspelers als u wilt, gemengde multiplayer voor lokale/netwerken, Facebook-integratie, ondersteuning voor gamecontrollers en meer.
 
 Het wordt voortdurend bijgewerkt voor Windows, Mac, Linux, webbrowser, Android, iPhone en mogelijk Nintendo Switch en Playstation 4.
 
