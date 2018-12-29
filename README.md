@@ -145,6 +145,7 @@ Portions of this software are Palm OS Emulator Copyright (C) 1998-2002 Palm, Inc
 * Mark Ordal
 * Mark Peters
 * Markus Schmid
+* Marq Watkin - Pandora build
 * Martin Kobold
 * Matt Disher
 * Matthias Ulrich Neeracher
