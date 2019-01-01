@@ -3,7 +3,7 @@ These textual icons are for use with OS/2 applications. The operating system sho
 Note that you have to use these icons on a file system which supports long file names. FAT16 does not support long file names, while the existing FAT32 or even NTFS file system drivers for OS/2, eCS and Arca OS are experimental at best, so the safest bet is to use a native IBM file system like HPFS (the OS/2, eCS and Arca OS default FS) or JFS.
 
 ### ANNEX: How to add or update existing software entries.
-To add or update existing software entries, attach the following text, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax. The protocol for each download site should be http (append s if the site is from a secure connection). FTP server don't automatically create links except in OctoDroid (Android GIT client). (The servers will appear underlined during editing.) For software without an OS/2 port, add "no OS/2 port" after the software name in parentheses.
+To add or update existing software entries, attach the following text, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax. The protocol for each download site should be http (append s if the site is from a secure connection). FTP servers don't automatically create links except in OctoDroid (Android GIT client). The servers will appear underlined during editing. If the software has no OS/2 port, add "no OS/2 port" after the software name in parentheses.
 
 ```
 N. Software
