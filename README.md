@@ -22,13 +22,11 @@ This skin can be used with the emulators listed below. Robert Pelloni is not the
 See [Extras page on the Bob's Game Wiki](http://bobsgame.wikia.com/wiki/Extras).
 
 ### Palm Hardware Emulator
-Program available as expensive in the Google Play Store
+Available as commercial program in the Google Play Store
 
 Source code copyright: Portions of this software are Palm Hardware Emulator Copyright (C) 2013-2014 Perpendox Software LLC used under the terms of the GNU General Public License as published by the Free Software Foundation, version 2.0. All rights reserved.
 
 ### Palm OS Emulator
-Provided for Informational Purposes Only
-
 Portions of this software are Palm OS Emulator Copyright (C) 1998-2002 Palm, Inc. used under the terms of the GNU General Public License as published by the Free Software Foundation, version 2.0. All rights reserved.
 
 #### Contributors
