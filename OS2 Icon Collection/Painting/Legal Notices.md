@@ -14,7 +14,7 @@
    - – License : MIT License
    - – Copyright Notice : Copyright (c) 2012-2013 Nikita Grishko
 5. GIMP
-   - – License : GPL 3.0 for program and LGPL 3.0 for library
+   - – License : GPL 3.0 for program, LGPL 3.0 for library and CC-SA 4.0 for website
    - – Copyright Notice : Copyright (c) 1995-2019 Spencer Kimball, Peter Mattis and the GIMP Development Team
    - – Download Site : https://www.gimp.org/
 6. IPAD
