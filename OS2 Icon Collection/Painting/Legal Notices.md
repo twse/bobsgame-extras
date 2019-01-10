@@ -13,24 +13,28 @@
 4. EasyPaint
    - – License : MIT License
    - – Copyright Notice : Copyright (c) 2012-2013 Nikita Grishko
-5. IPAD
+5. GIMP
+   - – License : GPL 3.0 for program and LGPL 3.0 for library
+   - – Copyright Notice : Copyright (c) 1995-2019 Spencer Kimball, Peter Mattis and the GIMP Development Team
+   - – Download Site : https://www.gimp.org/
+6. IPAD
    - – License : Beta
    - – Copyright Notice : Copyright (c) 1997 Sergio Masci
-6. LogoArt
+7. LogoArt
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1996-1997 WORKLab System Solutions GmbH
-7. Painter
+8. Painter
    - – License : GPL 2.0
-8. PhotoTiger
+9. PhotoTiger
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1996-2001 Michael Mögn
-9. PMDRAW
-   - – License : Shareware
-   - – Copyright Notice : Copyright (c) 1989,1990 Mark I. Walsh
-10. PmPaint
+10. PMDRAW
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1989,1990 Mark I. Walsh
+11. PmPaint
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991 Mitchell Fisher
-11. TPaint
+12. TPaint
     - – License : GPL 2.0
 
 For full legal notices, contributor and translator lists, please visit http://bobsgame.wikia.com/wiki/Extras
