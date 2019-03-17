@@ -37,4 +37,4 @@ This folder may contain the following software:
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999 Terry Fry
 
-For full legal notices, contributor and translator lists, please visit http://bobsgame.wikia.com/wiki/Extras
+For full legal notices, contributor and translator lists, please visit https://bobsgame.fandom.com/wiki/Extras

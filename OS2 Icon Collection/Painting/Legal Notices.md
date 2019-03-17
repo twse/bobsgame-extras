@@ -8,7 +8,7 @@
    - – Copyright Notice : Copyright (c) 1995 Jasper de Keijzer
 3. DrawPile
    - – License : GPL 3.0 for program and MIT or CC-SA 4.0 licenses for website
-   - – Copyright Notice : Copyright (c) 2006-2018 Calle Laakkonen
+   - – Copyright Notice : Copyright (c) 2006-2019 Calle Laakkonen
    - – Download Site : https://drawpile.net/
 4. EasyPaint
    - – License : MIT License
@@ -30,11 +30,11 @@
    - – Copyright Notice : Copyright (c) 1996-2001 Michael Mögn
 10. PMDRAW
     - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1989,1990 Mark I. Walsh
+    - – Copyright Notice : Copyright (c) 1989-1990 Mark I. Walsh
 11. PmPaint
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991 Mitchell Fisher
 12. TPaint
     - – License : GPL 2.0
 
-For full legal notices, contributor and translator lists, please visit http://bobsgame.wikia.com/wiki/Extras
+For full legal notices, contributor and translator lists, please visit https://bobsgame.fandom.com/wiki/Extras

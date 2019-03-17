@@ -19,4 +19,4 @@ This folder may contain the following software:
    - – License : IBM EWS
    - – Copyright Notice : Copyright (c) 1993-1994 Brent King
 
-For full legal notices, contributor and translator lists, please visit http://bobsgame.wikia.com/wiki/Extras
+For full legal notices, contributor and translator lists, please visit https://bobsgame.fandom.com/wiki/Extras
