@@ -6,7 +6,7 @@
 2. DrawIt
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1995 Jasper de Keijzer
-3. DrawPile
+3. Drawpile
    - – License : GPL 3.0 for program and MIT or CC-SA 4.0 licenses for website
    - – Copyright Notice : Copyright (c) 2006-2019 Calle Laakkonen
    - – Download Site : https://drawpile.net/
@@ -15,7 +15,7 @@
    - – Copyright Notice : Copyright (c) 2012-2013 Nikita Grishko
 5. GIMP
    - – License : GPL 3.0 for program, LGPL 3.0 for library and CC-SA 4.0 for website
-   - – Copyright Notice : Copyright (c) 1995-2019 Spencer Kimball, Peter Mattis and the GIMP Development Team
+   - – Copyright Notice : Copyright (c) 1995-2018 Spencer Kimball, Peter Mattis and the GIMP Development Team
    - – Download Site : https://www.gimp.org/
 6. IPAD
    - – License : Beta
