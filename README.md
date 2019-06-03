@@ -21,13 +21,26 @@ This skin can be used with the emulators listed below. Robert Pelloni is not the
 ### CoPilot/2
 See [Extras page on the Bob's Game Wiki](https://bobsgame.fandom.com/wiki/Extras).
 
-### Palm Hardware Emulator
+### [Palm Hardware Emulator](http://www.perpendox.com/phem/index.html)
 Available as commercial program in the Google Play Store
 
-Source code copyright: Portions of this software are Palm Hardware Emulator Copyright (C) 2013-2014 Perpendox Software LLC used under the terms of the GNU General Public License as published by the Free Software Foundation, version 2.0. All rights reserved.
+#### Source code copyright
+Copyright © 2013-2014 Perpendox Software LLC
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see .
 
 ### Palm OS Emulator
-Portions of this software are Palm OS Emulator Copyright (C) 1998-2002 Palm, Inc. used under the terms of the GNU General Public License as published by the Free Software Foundation, version 2.0. All rights reserved.
+Copyright © 1998-2002 Palm, Inc.
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see .
 
 #### Contributors
 * Adam Dingle
