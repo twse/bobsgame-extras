@@ -22,7 +22,7 @@ This skin can be used with the emulators listed below. Robert Pelloni is not the
 See [Extras page on the Bob's Game Wiki](https://bobsgame.fandom.com/wiki/Extras).
 
 ### [Palm Hardware Emulator](http://www.perpendox.com/phem/index.html)
-Available as commercial program in the Google Play Store
+Available as non-free commercial program in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem)
 
 #### Source code copyright
 Copyright © 2013-2014 Perpendox Software LLC
