@@ -73,7 +73,7 @@ Le code source sera également disponible sur GitHub afin de devenir une plate-f
 
 ## Liste de fonctionnalités à venir :
 * Beaucoup plus de fonctionnalités, de modes d'objectifs de mode de jeu
-* Neilleur lobby multijoueur avec chat
+* Meilleur lobby multijoueur avec chat
 * Caractéristiques du tournoi et échelles, régionales et mondiales
 * Jumelage par région ou rang
 * Vérification du serveur
