@@ -51,7 +51,7 @@ http://www.bobcorporation.com (Site principal) (en anglais)
 
 [L'article de Wikipédia en attendant (en anglais)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), aidez-moi à réviser l'entrée actuelle, car je ne suis pas autorisé à faire.
 
-**bob's game** (du célèbre RPG à venir *"bob's game"* est un jeu de puzzle multijoueur - mais pas n'importe quel jeu de puzzle, **TOUS les jeux de puzzle !** C'est un jeu de construction à faire soi-même avec un créateur où VOUS définissez toutes les règles pour votre propre jeu personnalisé !
+**bob's game** (du célèbre RPG à venir *"bob's game"*) est un jeu de puzzle multijoueur - mais pas n'importe quel jeu de puzzle, **TOUS les jeux de puzzle !** C'est un jeu de construction à faire soi-même avec un créateur où VOUS définissez toutes les règles pour votre propre jeu personnalisé !
 
 Plus que cela, un soin particulier a été apporté pour que **bob's game** soit la *meilleure* version de tous les jeux de puzzle. J'ai parcouru tous les forums de jeus de puzzle et wiki que je pouvais trouver et je me suis assuré de mettre en œuvre tous les détails et toutes les fonctionnalités nécessaires aux joueurs hardcore de niveau tournoi. Il a des coups de pied muraux, des coups de pied au soul, des coups de pieds tournants, des rotations en T, un timing ajustable, des bonus, etc. Toutes ces fonctionnalités s'appliquent à tous les jeux comme vous le souhaitez, ce qui en fait la meilleure version de tous les jeux !
 
@@ -65,11 +65,11 @@ Créez vos propres modes de puzzle ! Inventez des règles personnalisées ou dé
 
 **bob's game** prend actuellemente en charge autant de joueurs locaux ou réseau que vous le souhaitez, un mode multijoueur local/réseau mixte, une intégration Facebook, un support de contrôleur de jeu, etc.
 
-**bob's game n'est pas terminé - il est assez jouable, mais j'ajoute activement beaucoup plus de fonctionnalités.**
-
 Il sera mis à jour permanence pour Windows, Mac, Linux, le navigateur Web, Android, iPhone et éventuellement Nintendo Switch et PlayStation 4.
 
 Le code source sera également disponible sur GitHub afin de devenir une plate-forme de tournoi standard pour tous les jeux de puzzle !
+
+**bob's game n'est pas terminé - il est assez jouable, mais j'ajoute activement beaucoup plus de fonctionnalités.**
 
 ## Liste de fonctionnalités à venir :
 * Beaucoup plus de fonctionnalités, de modes d'objectifs de mode de jeu
