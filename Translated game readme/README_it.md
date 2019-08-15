@@ -46,11 +46,11 @@ https://github.com/bobsgame/BobNetLibs
 
 ## Questo gioco è stato sviluppato attivamente. Nuove funzionalità vengono aggiunte costantemente e si verificheranno bug.
 
-[Il forum di sviluppo (in inglese](http://bobsgame.com/forum) è aperto per segnalazioni di bug. Si prega di segnalare eventuali problemi che si notano. Mi affido ai tuoi test.
+[Il forum di sviluppo (link in inglese)](http://bobsgame.com/forum) è aperto per segnalazioni di bug. Si prega di segnalare eventuali problemi che si notano. Mi affido ai tuoi test.
 
-http://www.bobcorporation.com (Sito web principale) (in inglese)
+http://www.bobcorporation.com (Sito web principale) (link in inglese)
 
-[In attesa dell'articolo di Wikipedia (in inglese)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), aiuta a rivedere la voce corrente come non mi è permesso.
+[In attesa dell'articolo di Wikipedia (link in inglese)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), aiuta a rivedere la voce corrente come non mi è permesso.
 
 **bob's game** (dal famigerato gioco di ruolo in arrivo *"bob's game"*) è un gioco puzzle multiplayer - ma non solo un gioco puzzle, **OGNI gioco puzzle!**  È un puzzle game personalizzato con un creatore di puzzle game in cui TU definisci tutte le regole per il tuo gioco personalizzato!
 
