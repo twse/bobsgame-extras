@@ -49,7 +49,7 @@ https://github.com/bobsgame/BobNetLibs
 
 [Foro de desarrollo (enlace en inglés)](http://bobsgame.com/forum) está abierto para informes de errores. Por favor reporte cualquier problema que note. Confío en tus pruebas.
 
-http://www.bobcorporation.com (Sitio web principal) (en inglés)
+http://www.bobcorporation.com (Sitio web principal) (enlace en inglés)
 
 [El artículo de Wikipedia en espera (enlace en inglés)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ayude a revisar la entrada actual, ya que no tengo permiso para hacerlo.
 
