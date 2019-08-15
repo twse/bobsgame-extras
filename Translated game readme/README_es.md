@@ -47,11 +47,11 @@ https://github.com/bobsgame/BobNetLibs
 
 ## Este juego está desarrollado activamente. Nuevas características se están agregando constantemente y los errores sucederán.
 
-[Foro de desarrollo (en inglés)](http://bobsgame.com/forum) está abierto para informes de errores. Por favor reporte cualquier problema que note. Confío en tus pruebas.
+[Foro de desarrollo (enlace en inglés)](http://bobsgame.com/forum) está abierto para informes de errores. Por favor reporte cualquier problema que note. Confío en tus pruebas.
 
 http://www.bobcorporation.com (Sitio web principal) (en inglés)
 
-[El artículo de Wikipedia en espera (en inglés)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ayude a revisar la entrada actual, ya que no tengo permiso para hacerlo.
+[El artículo de Wikipedia en espera (enlace en inglés)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ayude a revisar la entrada actual, ya que no tengo permiso para hacerlo.
 
 **bob's game** (del famoso RPG próximo *"bob's game"*) es un juego de rompecabezas multijugador, ¡pero no cualquier juego de rompecabezas, **CADA juego de rompecabezas!** ¡Es un juego de creación de rompecabezas con un creador de juegos de rompecabezas en el que USTED define todas las reglas para su propio juego personalizado!
 
