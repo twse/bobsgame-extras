@@ -45,11 +45,11 @@ https://github.com/bobsgame/BobNetLibs
 
 ## Aquest joc està desenvolupat activament.  Les funcions noves s’afegeixen constantment i es produiran errors.
 
-[El Fòrum de desenvolupament](http://bobsgame.com/forum) (enllaç en anglès) està obert a informes d'errors.  Si us plau, informeu de qualsevol problema que observeu.  Confio en les teves proves.
+[El Fòrum de desenvolupament (enllaç en anglès)](http://bobsgame.com/forum) està obert a informes d'errors.  Si us plau, informeu de qualsevol problema que observeu.  Confio en les teves proves.
 
 http://www.bobcorporation.com (Web principal) (enllaç en anglès)
 
-[L’article de Wikipedia pendent](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467) (enllaç en anglès), ajuda a revisar l’entrada actual com no tinc permís.
+[L’article de Wikipedia pendent (enllaç en anglès)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ajuda a revisar l’entrada actual com no tinc permís.
 
 **bob's game** (del famós proper RPG *"bob's game"*) és un joc de trencaclosques multijugador, però no només qualsevol joc de trencaclosques, **TOTS els jocs de trencaclosques.**  És un joc de trencaclosques propi amb un creador de jocs de trencaclosques on definiu totes les regles del vostre propi joc personalitzat.
 
