@@ -11,7 +11,7 @@ Icons using the lowercase letters of [bob's game font](http://www.bobcorporation
 Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
 
 ## Boot Skin
-Use BootSkin (program to change boot screen on Windows XP and Vista – available for free in the Stardock website) to replace the boot skin.
+Use [BootSkin](https://www.stardock.com/products/bootskin) (changes boot screen on Windows XP and Vista) to replace the boot skin.
 
 ## Palm OS Emulator skin
 Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with PMView.
