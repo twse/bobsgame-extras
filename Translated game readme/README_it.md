@@ -88,9 +88,9 @@ Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® è un marchi
 
 La ridistribuzione e l'utilizzo sotto forma di codice sorgente e binario, con o senza modifiche, è concessa alle seguenti condizioni:
 
-1. La ridistribuzione del codice sorgente deve rispettare l'informativa di copyright sopra riportata, questo elenco di condizioni ela seguente esclusione di garanzie.
+1. La ridistribuzione del codice sorgente deve rispettare l'informativa di copyright sopra riportata, questo elenco di condizioni e la seguente esclusione di garanzie.
 
-2. La ridistribuzione in forma binaria deve riprodurre l'informativa di copyright sopra riportata, questo elenco di condizioni e laseguente esclusione di garanzie nella documentazione e/o in altri materiali forniti con la distribuzione.
+2. La ridistribuzione in forma binaria deve riprodurre l'informativa di copyright sopra riportata, questo elenco di condizioni e la seguente esclusione di garanzie nella documentazione e/o in altri materiali forniti con la distribuzione.
 
 3. Non puoi distribuire il codice sorgente o il file binario del bob's game o produrre opere derivate dal suo codice sorgente con un altro nome. La ridistribuzione del codice sorgente o del forma binario devono essere denominate "bob's game".
 
