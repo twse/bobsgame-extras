@@ -99,7 +99,6 @@ You should have received a copy of the GNU General Public License along with thi
 * David Slotter
 * David Vaportrails
 * Derek Johnson
-* Doitchinov Ivan
 * Doug Morrison
 * Douglas R. Shefsky
 * Easy Software
@@ -124,13 +123,14 @@ You should have received a copy of the GNU General Public License along with thi
 * Holger Klawitter
 * Horace Ho
 * International Business Machines
+* Ivan Doitchinov
 * James Phillips
 * Jameson Quinn
 * Jason Simpkins
 * Jean-loup Gailly
 * Jeff Prosise
 * Jeff Yasuda
-* Jerry Kirk
+* Jerry L. Kirk
 * Jerry Lin
 * Jesse Donaldson
 * John C. Daub
@@ -163,8 +163,8 @@ You should have received a copy of the GNU General Public License along with thi
 * Maurizio Moretti
 * Michael Glickman
 * Michael Hado
-* Michael Kedl
 * Michael Nordstrom
+* Michael R. Kedl
 * Michael S. Davis
 * Mike Chen
 * Mike McCollister
@@ -182,7 +182,7 @@ You should have received a copy of the GNU General Public License along with thi
 * Peter Burka
 * Peter N Lewis
 * Phil Shoemaker
-* Quinn "The Eskimo"
+* Quinn "The Eskimo!"
 * Radu Cornea
 * Red Dutta
 * Regis Nicolas
