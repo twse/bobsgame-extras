@@ -47,11 +47,11 @@ https://github.com/bobsgame/BobNetLibs
 
 ## Deze game is actief ontwikkeld. Nieuwe functies worden constant toegevoegd en er zullen bugs optreden.
 
-[Ontwikkelingsforum (en engels)](http://bobsgame.com/forum) staat open voor bugrapporten. Rapporteer eventuele problemen die u opmerkt. Ik vertrouw op je testen.
+[Ontwikkelingsforum (koppeling en engels)](http://bobsgame.com/forum) staat open voor bugrapporten. Rapporteer eventuele problemen die u opmerkt. Ik vertrouw op je testen.
  
-http://www.bobcorporation.com (Hoofdwebsite) (en engels)
+http://www.bobcorporation.com (Hoofdwebsite) (koppeling en engels)
  
-[Wikipedia-artikel in afwachting (en engels)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), help de huidige invoer te herzien zoals ik dat niet mag.
+[Wikipedia-artikel in afwachting (koppeling en engels)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), help de huidige invoer te herzien zoals ik dat niet mag.
 
 **bob's game** (van de beruchte aankomende RPG *"bob's game"*) is een multiplayer-puzzelspel - maar niet zomaar een puzzelspel, **ELK puzzelspel!** Het is een bouw je eigen puzzelspel met een maker van een puzzelspel waarin JE alle regels definieert voor je eigen aangepaste spel!
 
