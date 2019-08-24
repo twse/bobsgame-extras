@@ -26,6 +26,46 @@ For full legal notices, contributor and translator lists, see the Extras page in
 
 ## Translations of Legal Notices.md to other languages
 
+### Catalan
+Aquesta carpeta pot contenir el programari següent:
+
+Nom programari
+* – Llicència:
+* – Avís de copyright:
+* – Lloc de descàrrega:
+
+Per a avisos legals complets, llistes de col·laboradors i traductors, visiteu https://bobsgame.fandom.com/wiki/Extras (enllaç en anglès)
+
+### Danish
+Denne mappe kan indeholde følgende software:
+
+Software nam
+* – Licens:
+* – Meddelelse om ophavsret:
+* – Download site:
+
+For fuld juridiske meddelelser, bidragyder og oversætter lister, kan du besøge https://bobsgame.fandom.com/wiki/Extras (link på engels)
+
+### Dutch
+Deze map kan de volgende software bevatten:
+
+Nam van software
+* – Licentie:
+* – Copyright notice:
+* – Download site:
+
+Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in engels) bezoeken
+
+### Finnish
+Tämä kansio saattaa sisältää seuraavat ohjelmistot:
+
+Ohjelmistonam
+* – Lisenssi:
+* – Tekijän oikeus ilmoitus:
+* – Lataussivusto:
+
+Saat täydelliset oikeudelliset ilmoitukset, avustaja-ja kääntäjä luettelot osoitteesta https://bobsgame.fandom.com/wiki/Extras
+
 ### French
 Ce dossier peut contenir le logiciel suivant :
 
@@ -45,3 +85,43 @@ Nam von Software
 * – Download-Site:
 
 Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+
+### Italian
+Questa cartella può contenere il seguente software:
+
+Nome di software
+* – Licenza:
+* – Avviso di copyright:
+* – Sito di download:
+
+Per le notifiche legali complete, gli elenchi dei collaboratori e dei traduttori, si prega di visitare https://bobsgame.fandom.com/wiki/Extras (link in inglese)
+
+### Portuguese
+Esta pasta pode conter o seguinte software:
+
+Nome de software
+* – Licença:
+* – Aviso de copyright:
+* – Site de download:
+
+Para avisos legais completos, listas de colaboradores e tradutora, por favor visite https://bobsgame.fandom.com/wiki/Extras (link em inglês)
+
+### Spanish
+Esta carpeta puede contener el siguiente software:
+
+Nombre de software
+* – Licencia:
+* – Aviso de derechos de autor
+* – Sitio de descarga:
+
+Para obtener avisos legales completos, listas de colaboradores y traductores, visite https://bobsgame.fandom.com/wiki/Extras (enlace en inglés)
+
+### Swedish
+Den här mappen kan innehålla följande programvara:
+
+Nam programvara
+* – Licens:
+* – Copyrightmeddelande:
+* – Nedladdningssida:
+
+För fullständig juridisk information, bidragsgivare och listor översättare, vänligen besök https://bobsgame.fandom.com/wiki/Extras (link på engelska)
