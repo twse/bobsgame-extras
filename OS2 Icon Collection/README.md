@@ -111,7 +111,7 @@ Esta carpeta puede contener el siguiente software:
 
 Nombre de software
 * – Licencia:
-* – Aviso de derechos de autor
+* – Aviso de derechos de autor:
 * – Sitio de descarga:
 
 Para obtener avisos legales completos, listas de colaboradores y traductores, visite https://bobsgame.fandom.com/wiki/Extras (enlace en inglés)
