@@ -64,7 +64,7 @@ Ohjelmistonam
 * – Tekijän oikeus ilmoitus:
 * – Lataussivusto:
 
-Saat täydelliset oikeudelliset ilmoitukset, avustaja-ja kääntäjä luettelot osoitteesta https://bobsgame.fandom.com/wiki/Extras
+Saat täydelliset oikeudelliset ilmoitukset, avustaja-ja kääntäjä luettelot osoitteesta https://bobsgame.fandom.com/wiki/Extras (linkki sivulla englanti)
 
 ### French
 Ce dossier peut contenir le logiciel suivant :
