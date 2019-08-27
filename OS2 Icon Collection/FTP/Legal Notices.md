@@ -73,4 +73,4 @@
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Howard Hyten
 
-For full legal notices, contributor and translator lists, please visit http://bobsgame.wikia.com/wiki/Extras
+For full legal notices, contributor and translator lists, please visit https://bobsgame.fandom.com/wiki/Extras
