@@ -107,9 +107,9 @@ Nome de software
 Para avisos legais completos, listas de colaboradores e tradutora, por favor visite https://bobsgame.fandom.com/wiki/Extras (link em inglês)
 
 ### Romanian
-* - Licențiere:
-* - Nota de drepturile de autor:
-* - Site descărcare:
+* – Licențiere:
+* – Nota de drepturile de autor:
+* – Site descărcare:
 
 ### Spanish
 Esta carpeta puede contener el siguiente software:
