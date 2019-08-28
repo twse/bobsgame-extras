@@ -86,6 +86,16 @@ Nam von Software
 
 Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
 
+### Hungarian
+Ez a mappa a következő szoftvereket tartalmazhatja:
+
+Szoftver
+* – Licenc:
+* – Szerzői jogi figyelmeztetés:
+* – Letöltési hely:
+
+A teljes jogi közlemények, közreműködő és fordító listák, kérjük, látogasson el a https://bobsgame.fandom.com/wiki/Extras (angol nyelvem)
+
 ### Italian
 Questa cartella può contenere il seguente software:
 
@@ -95,6 +105,16 @@ Nome di software
 * – Sito di download:
 
 Per le notifiche legali complete, gli elenchi dei collaboratori e dei traduttori, si prega di visitare https://bobsgame.fandom.com/wiki/Extras (link in inglese)
+
+### Polish
+Ten folder może zawierać następujące oprogramowanie:
+
+Nazwa oprogramowania
+* – Licencja:
+* – Informacja o prawach autorskich:
+* – Strona pobierania:
+
+W celu uzyskania pełnych informacji prawnych, list autorów i tłumaczy prosimy odwiedzić https://bobsgame.fandom.com/wiki/Extras (w angielski)
 
 ### Portuguese
 Esta pasta pode conter o seguinte software:
@@ -107,9 +127,14 @@ Nome de software
 Para avisos legais completos, listas de colaboradores e tradutora, por favor visite https://bobsgame.fandom.com/wiki/Extras (link em inglês)
 
 ### Romanian
-* – Licențiere:
-* – Nota de drepturile de autor:
-* – Site descărcare:
+Acest folder poate conține următorul software:
+
+Nomul de software
+* – Licenta:
+* – Aviz de copyright:
+* – Site-ul de download:
+
+Pentru notificări legale complete, contribuitor și liste de Traducator, vă rugăm să vizitați https://bobsgame.fandom.com/wiki/Extras (legătură în limba engleza)
 
 ### Spanish
 Esta carpeta puede contener el siguiente software:
