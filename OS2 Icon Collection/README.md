@@ -26,6 +26,16 @@ For full legal notices, contributor and translator lists, see the Extras page in
 
 ## Translations of Legal Notices.md to other languages
 
+### Bulgarian
+Тази папка може да съдържа следния софтуер:
+
+Име софтуер
+* – Лиценз:
+* – Известие за авторско право:
+* – Изтегляне сайт:
+
+За пълни правни съобщения, списъци с сътрудници и преводачи, моля, посетете https://bobsgame.fandom.com/wiki/Extras (връзка в англиский)
+
 ### Catalan
 Aquesta carpeta pot contenir el programari següent:
 
@@ -35,6 +45,16 @@ Nom programari
 * – Lloc de descàrrega:
 
 Per a avisos legals complets, llistes de col·laboradors i traductors, visiteu https://bobsgame.fandom.com/wiki/Extras (enllaç en anglès)
+
+### Czech
+Tato složka může obsahovat následující software:
+
+Jméno software
+* – Licence:
+* – Upozornění na autorská práva:
+* – Server pro stahování:
+
+Úplné právní doložky, seznamy přispěvatelů a převaděče naleznete na https://bobsgame.fandom.com/wiki/Extras (odkaz v angličtina)
 
 ### Danish
 Denne mappe kan indeholde følgende software:
@@ -86,6 +106,16 @@ Nam von Software
 
 Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
 
+### Greek
+Αυτός ο φάκελος μπορεί να περιέχει το ακόλουθο λογισμικό:
+
+Όνομα ακόλουθο
+* – Άδεια:
+* – Ειδοποίηση πνευματικών δικαιωμάτων:
+* – Λήψη site:
+
+Για πλήρεις νομικές ανακοινώσεις, λίστες συμβαλλόντων και μεταφραστή, παρακαλούμε επισκεφτείτε https://bobsgame.fandom.com/wiki/Extras (σύνδεσμος)
+
 ### Hungarian
 Ez a mappa a következő szoftvereket tartalmazhatja:
 
@@ -136,6 +166,26 @@ Nomul de software
 
 Pentru notificări legale complete, contribuitor și liste de Traducator, vă rugăm să vizitați https://bobsgame.fandom.com/wiki/Extras (legătură în limba engleza)
 
+### Russian
+Эта папка может содержать следующее программное обеспечение:
+
+Имя программное
+* – Лицензия:
+* – Уведомление об авторском праве:
+* – Скачать сайт:
+
+Для получения полных юридических уведомлений, списков участников и переводчиков, пожалуйста, посетите https://bobsgame.fandom.com/wiki/Extras (линк в англиский)
+
+### Slovak
+Tento priečinok môže obsahovať nasledujúci softvér:
+
+Meno softvér
+* – Licencia:
+* – Copyright upozornenie:
+* – Server pro stáhovanie:
+
+Pre úplné právne upozornenia, prispievateľ a prekladateľ zoznamy, prosím, navštívte https://bobsgame.fandom.com/wiki/Extras (link v angličtina)
+
 ### Spanish
 Esta carpeta puede contener el siguiente software:
 
@@ -155,3 +205,13 @@ Nam programvara
 * – Nedladdningssida:
 
 För fullständig juridisk information, bidragsgivare och listor översättare, vänligen besök https://bobsgame.fandom.com/wiki/Extras (link på engelska)
+
+### Turkish
+Bu klasör aşağıdaki yazılımı içerebilir:
+
+Ad yazılımı
+* – Lisans:
+* – Telif Hakkı Bildirimi:
+* – İndirme Sitesi:
+
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda) ziyaret edin
