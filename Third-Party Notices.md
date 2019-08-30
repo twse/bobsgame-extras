@@ -142,16 +142,6 @@ Written by Joseph McVerry
 ## For use of Icon Heaven, Sound
 Copyright © 1996 Paul van Keep
 
-## For use of InJoy Firewall
-Copyright © 1998-2004 F/X Communications<br />
-Written by Bjarne Jensen
-
-F/X would like to thank ALL the people who helped during the development phase and the beta testing phase. Last, but not least, a thanks to our customers.
-
-The InJoy Firewall is copyrighted and licensed (not sold). Title is not transfer to you. You obtain no rights other than those granted you under this license.
-
-By installing and using this program you accept it as is and with the understanding that there is no representations or warranty as to the suitability of the InJoy Firewall for your particular purpose, and that to the extent you use or implement this program in your own setting, you do so at your own risk. In no event will I be held liable for any damages, whether consequential, incidental, or special, arising out of the use of or inability to use the program provided herewith.
-
 ## For use of Linear eXecutable Dump Facility/2
 Copyright (C) by Roman Stangl, 1999
 
