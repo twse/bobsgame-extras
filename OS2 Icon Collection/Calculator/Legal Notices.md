@@ -53,7 +53,7 @@
 17. RPCALC
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Nathan Liskov
-    - – Download Site : http://nateliskov.com/os2apps/myapps.htm
+    - – Download Site : http://nateliskov.com/os2apps/myapps.htm(Warning: Spam content)
 18. SourceCalc
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 SourceCalc Software, Inc.

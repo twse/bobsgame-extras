@@ -25,6 +25,7 @@
 8. Short Filename Namer
    - – License : Free
    - – Copyright Notice : Copyright (c) 1997 Samuel Audet
+   - – Download Site : http://nova.polymtl.ca/~guardia/smallutils.php
 9. SmartRename
    - – License : Free
    - – Copyright Notice : Copyright (c) 2009 Jan Waliszewski
