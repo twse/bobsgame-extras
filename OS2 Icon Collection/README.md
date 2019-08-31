@@ -33,7 +33,7 @@ For full legal notices, contributor and translator lists, see the Extras page in
 * – Лиценз:
 * – Известие за авторско право:
 * – Изтегляне сайт:
-
+
 За пълни правни съобщения, списъци с сътрудници и преводачи, моля, посетете https://bobsgame.fandom.com/wiki/Extras (връзка в англиский)
 
 ### Catalan
@@ -109,7 +109,7 @@ Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie 
 ### Greek
 Αυτός ο φάκελος μπορεί να περιέχει το ακόλουθο λογισμικό:
 
-Όνομα ακόλουθο
+Όνομα λογισμικό
 * – Άδεια:
 * – Ειδοποίηση πνευματικών δικαιωμάτων:
 * – Λήψη site:
