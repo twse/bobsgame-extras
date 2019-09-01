@@ -30,7 +30,7 @@
 9. POP-Play
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1995-1996 Seppo Lehikoinen
-10. PowerMOD, UltiMOD
+10. PowerMOD
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996-1998 Antony T Curtis
 11. Real Audio Player
