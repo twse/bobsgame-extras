@@ -63,6 +63,9 @@ This folder may contain the following software:
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2001-2018 Scribus Team
     - – Download Site : https://www.scribus.net/
+20. Task Timer
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1993 Eduard Kappel
 20. Tasker
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Don Elledge
@@ -72,19 +75,22 @@ This folder may contain the following software:
 22. Thingz to Do
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Jeremy Eden
-23. WarpCron
+23. Tracker
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1993 Paul Beverly
+24. WarpCron
     - – License : Cardware
     - – Copyright Notice : Copyright (c) 1998 Julian Buss
-24. WarpLog
+25. WarpLog
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2001 Mark H. Tucker
-25. When and What
+26. When and What
     - – License : Free
     - – Copyright Notice : Copyright (c) 2017 Konstantinos Kafetzidis
-26. WhO
+27. WhO
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Patrick Schulte
-27. Yrolo
+28. Yrolo
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Muhammad A Muquit
     - – Download Site : http://www.muquit.com/muquit/software/yrolo/yrolo.html
