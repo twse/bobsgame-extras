@@ -13,7 +13,7 @@ Want to be a show-off? Impress your friends? This is the place. Robert Pelloni o
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
 
-Under Windows Vista and newer, you have to add the Manufacturer with the value of Robert Matthew Pelloni in OEMInformation under the HKLM key.
+Under Windows Vista and newer, you have to add the Logo with the value as OEMlogo.bmp and Manufacturer with the value of Robert Matthew Pelloni in OEMInformation under the HKLM key.
 
 ## Boot Skin
 The actual logo is in BootSkin Windows XP format. Attempting to install this logo under Windows Vista will most likely result in an error message, so please don't try it. I created this with Windows Paint.
@@ -23,7 +23,7 @@ Use the Windows XP version of [BootSkin](https://www.stardock.com/products/boots
 ## Palm OS Emulator Skin
 Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with PMView.
 
-This skin can be used with the emulators listed below. Robert Pelloni is not the original author of these emulators. The original copyright notice and the license is set forth below. Such licenses and notices are provided for informational purposes only. Robert Pelloni licenses these emulators to you under the terms set forth in the BobCorporation EULA. Robert Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
+This skin can be used with the emulators listed below. Robert Pelloni is not the original author of these emulators. The original copyright notice and the license and contributor list is set forth below. Robert Pelloni licenses these emulators to you under the terms set forth in the BobCorporation EULA. Robert Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
 
 ### CoPilot/2
 See [Extras page on the Bob's Game Wiki](https://bobsgame.fandom.com/wiki/Extras).
