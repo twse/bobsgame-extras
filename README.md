@@ -11,7 +11,7 @@ Icons using the lowercase letters of [bob's game font](http://www.bobcorporation
 Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
 
 ## Windows OEM Branding
-The zipped archive is included for use with Windows XP.
+The zipped archive is included for use with Windows 95 until XP.
 
 Under Windows Vista and newer, you have to add the Manufacturer with the value of Robert Matthew Pelloni in OEMInformation under the HKLM key.
 
