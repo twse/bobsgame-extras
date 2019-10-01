@@ -1,33 +1,33 @@
 ﻿This folder may contain the following software:
 
 1. 1.88MB driver and formatter
-    - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1995 Stanimir Georgiev Boychev
+   - – License : Shareware
+   - – Copyright Notice : Copyright (c) 1995 Stanimir Georgiev Boychev
 2. CDSpeed2
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 2009 Marcel Müller
-    - – Download Site : http://maazl.de/
+   - – License : Free
+   - – Copyright Notice : Copyright (c) 2009 Marcel Müller
+   - – Download Site : http://maazl.de/
 3. CHKSTORE
-    - – License : IBM EWS
-    - – Copyright Notice : Copyright (c) 1994 David Kelsey
+   - – License : IBM EWS
+   - – Copyright Notice : Copyright (c) 1994 David Kelsey
 4. Disk eXPress, Super Virtual Disk
-    - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1991-1998 Albert J. Shan
+   - – License : Shareware
+   - – Copyright Notice : Copyright (c) 1991-1998 Albert J. Shan
 5. Disk Label Utility
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 1990 Jim Huang
+   - – License : Free
+   - – Copyright Notice : Copyright (c) 1990 Jim Huang
 6. Diskette Image Unpacker
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 1998 IBM
+   - – License : Free
+   - – Copyright Notice : Copyright (c) 1998 IBM
 7. DisketteArchive
-    - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1992 Ngb Technologies
+   - – License : Shareware
+   - – Copyright Notice : Copyright (c) 1992 Ngb Technologies
 8. DISKIO
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 1994-1998 Kai-Uwe Rommel, 2004 Stepan Kazakov
+   - – License : Free
+   - – Copyright Notice : Copyright (c) 1994-1998 Kai-Uwe Rommel, 2004 Stepan Kazakov
 9. DiskStat PLUS!
-    - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1996 Oberon Software, Inc.
+   - – License : Shareware
+   - – Copyright Notice : Copyright (c) 1996 Oberon Software, Inc.
 10. DISKUSE
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1993-2002 Enrico Zapanta
