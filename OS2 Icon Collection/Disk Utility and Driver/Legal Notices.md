@@ -1,6 +1,6 @@
 ﻿This folder may contain the following software:
 
-1. 1.88MB driver and formatter
+1. 1.88MB driver
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1995 Stanimir Georgiev Boychev
 2. CDSpeed2
@@ -81,29 +81,32 @@
 26. PMFORMAT
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 1995-2015 Noller & Breining Software
-27. QDiskUsage
+27. PXTOOL
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 2008 Nikolay Kolosov
+28. QDiskUsage
     - – License : GPL 3.0
-28. QFORMAT
+29. QFORMAT
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992 John K. Gotwals
-29. RSJ CD Writer
+30. RSJ CD Writer
     - – License : Commercial
     - – Copyright Notice : Copyright (c) 2002 RSJ
-30. RxLVM
+31. RxLVM
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 2006-2007 Alexander Taylor
     - – Download Site : http://www.altsan.org/
-31. SCSIMON
+32. SCSIMON
     - – License : Free
     - – Copyright Notice : Copyright (c) 2006 Nikolay Kolosov
-32. SMART Monitoring Tools
+33. SMART Monitoring Tools
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2002-2009 Bruce Allen, 2004-2019 Christian Franke
     - – Download Site : https://www.smartmontools.org/
-33. SMARTMON
+34. SMARTMON
     - – License : Free
     - – Copyright Notice : Copyright (c) 2005 Andrew A. Belov
-34. XDSKF
+35. XDSKF
     - – License : Free
     - – Copyright Notice : Copyright (c) 2001-2004 Christian Langanke
 
