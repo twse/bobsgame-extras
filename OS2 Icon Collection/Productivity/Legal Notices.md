@@ -30,7 +30,10 @@ This folder may contain the following software:
 10. Filer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Thomas Baier
-11. LyX
+11. LightWaves
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1994 Hammer of the Gods Software
+12. LyX
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1995-2019 LyX Team
     - – Download Site : https://www.lyx.org/
