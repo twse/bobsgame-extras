@@ -45,55 +45,67 @@ This folder may contain the following software:
     - – License : Apache 2.0
     - – Copyright Notice : Copyright (c) 2011-2019 Apache Software Foundation
     - – Download Site : http://www.openoffice.org/
-14. PM-Cron
+14. PMRemind
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1996 Richard Hasty
+15. PM-Cron
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Florian Große-Coosmann
     - – Download Site : http://www.grosse-coosmann.de/
-15. Relish
+16. Relish
     - – License : Commercial
     - – Copyright Notice : Copyright (c) 2004 Sundial Systems
-16. Remind
+17. Remind
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1993-2018 Roaring Penguin Software
     - – Download Site : https://dianne.skoll.ca/projects/remind/
-17. RScheduler
+18. RemindMe
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1995 Eric A. Wolf
+19. RemindYou/2
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1995 Ecee Software
+20. RScheduler
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996-2003 Sergey Radochin, Ilfat Kutdusov, Alexey Gankov
-18. Schedule-It!
+21. Schedule-It!
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Keith Luken
-19. Scribus
+22. Scribus
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2001-2018 Scribus Team
     - – Download Site : https://www.scribus.net/
-20. Task Timer
+23. Task Timer
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993 Eduard Kappel
-20. Tasker
+24. Tasker
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Don Elledge
-21. The New York Telephone Scheduler
+25. The New York Telephone Scheduler
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997 Stu Mark
-22. Thingz to Do
+26. Thingz to Do
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Jeremy Eden
-23. Tracker
+27. Tracker
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993 Paul Beverly
-24. WarpCron
+28. VoiceClock/REXX
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1996 Chris Boyd
+29. WarpCron
     - – License : Cardware
     - – Copyright Notice : Copyright (c) 1998 Julian Buss
-25. WarpLog
+30. WarpLog
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2001 Mark H. Tucker
-26. When and What
+31. When and What
     - – License : Free
     - – Copyright Notice : Copyright (c) 2017 Konstantinos Kafetzidis
-27. WhO
+32. WhO
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Patrick Schulte
-28. Yrolo
+33. Yrolo
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Muhammad A Muquit
     - – Download Site : http://www.muquit.com/muquit/software/yrolo/yrolo.html
