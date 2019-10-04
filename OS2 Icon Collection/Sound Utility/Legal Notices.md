@@ -19,7 +19,7 @@
 6. BackTalk
    - – License : Free
    - – Copyright Notice : Copyright (c) 1996-1997 Samuel Audet, 1996 Jim Little
-   - – Download Site : http://nova.polymtl.ca/~guardia/smallutils.php
+   - – Download Site : https://nova.polymtl.ca/~guardia/smallutils.php
 8. BatchBurn
    - – License : Free
    - – Copyright Notice : Copyright (c) 2005 Martin Vieregg
