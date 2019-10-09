@@ -47,6 +47,9 @@
 15. CUBE
     - – License : Free
     - – Copyright Notice : Copyright (c) 2003 Greg Jarvis
+16. DeRegisterer
+    - – License : GPL 3.0
+    - – Copyright Notice : Copyright (c) 1995-2013 Jens Glathe
 16. Desktop Maintenance Tool
     - – License : Licensed to Mensys B.V.
     - – Copyright Notice : Copyright (c) 2011-2012 Richard L. Walsh
