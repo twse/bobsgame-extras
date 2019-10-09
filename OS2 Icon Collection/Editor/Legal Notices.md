@@ -124,7 +124,7 @@
     - – Download Site : http://www.manglais.com/
 38. Quick Text Editor
     - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 2018 Alexander Taylor
+    - – Copyright Notice : Copyright (c) 2018-2019 Alexander Taylor
     - – Download Site : http://www.altsan.org/
 39. Quicky
     - – License : GPL 2.0
