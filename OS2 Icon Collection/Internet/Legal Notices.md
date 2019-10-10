@@ -81,13 +81,13 @@
 26. FTPD Tracefile Logger
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Justin H. Dolske
-27. FTP-It!
-    - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1995-1997 Ben Brown
-28. FTPPM
+27. FTPPM
     - – License : Commercial
     - – Copyright Notice : IBM
     - – Download Site : part of OS/2
+28. FTP-It!
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1995-1997 Ben Brown
 29. getstats
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Kevin Hughes
