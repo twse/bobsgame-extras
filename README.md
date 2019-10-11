@@ -1,8 +1,8 @@
 ﻿# Extra stuff for bob's game
-This repository contains all the extra stuff created for use in bob's game excluding fonts (see bobsgame-fonts repository).
+This repository contains extra stuff created for bob's game except fonts.
 
 ## Google search form
-The Bob Corporation website does not have a Google search form. This form requires an active connection to the internet.
+The [Bob Corporation website](http://www.bobcorporation.com/) does not have a Google search form. This form requires an active connection to the internet.
 
 ## Icons
 Icons using the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for OS/2 programs. Use them to replace icons from the program resources. See Third-Party Notices.md for commercial and unsupported freeware credits.
@@ -11,17 +11,17 @@ Icons using the lowercase letters of [bob's game font](http://www.bobcorporation
 Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
 
 ## Nintendo 3DS Skin
-Use Anemone or Themely to replace the skin. The skin was created with 3DS Theme Editor.
+Use theme managers (e.g. Anemone, CHMM, Themely, ThemePack...) to replace the skin. The skin was created with 3DS Theme Editor.
 
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
 
-Under Windows Vista and newer, you have to add the Logo with the value as OEMlogo.bmp and Manufacturer with the value of Robert Matthew Pelloni in OEMInformation under the HKLM key.
+Under Windows Vista and newer, add the Logo using `OEMlogo.bmp` as value and Manufacturer using Robert Matthew Pelloni as value in `OEMInformation` under the HKLM key.
 
 ## Boot Skin
 The actual logo is in BootSkin Windows XP format. Attempting to install this logo under Windows Vista will most likely result in an error message, so please don't try it. I created this with Windows Paint.
 
-Use the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin) to replace the boot skin.
+Use the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) to replace the boot skin.
 
 ## Palm OS Emulator Skin
 Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with PMView.
