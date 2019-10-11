@@ -1,4 +1,4 @@
-# Extra stuff for bob's game
+﻿# Extra stuff for bob's game
 This repository contains all the extra stuff created for use in bob's game excluding fonts (see bobsgame-fonts repository).
 
 ## Google search form
@@ -9,6 +9,9 @@ Icons using the lowercase letters of [bob's game font](http://www.bobcorporation
 
 ## Art Department
 Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
+
+## Nintendo 3DS Skin
+Use Anemone or Themely to replace the skin. The skin was created with 3DS Theme Editor.
 
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
