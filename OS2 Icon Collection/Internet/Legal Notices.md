@@ -395,27 +395,23 @@
 126. WebWriter/2
      - — License : Shareware
      - — Copyright Notice : Copyright (c) 1995-1996 John Blumel
-127. WebSee
-     - — License : ISC License
-     - — Copyright Notice : Copyright (c) 2013-2016 Wim Brul
-     - — Download Site : http://home.hccnet.nl/w.m.brul/
-128. WFAX
+127. WFAX
      - – License : Free
      - – Copyright Notice : Copyright (c) 1997 Jürgen Dankoweit
-129. Wget
+128. Wget
      - – License : GPL 3.0
      - – Copyright Notice : Copyright (c) 1995-2019 Hrvoje Nikšić
      - – Download Site : http://www.gnu.org/software/wget/
-130. whois
+129. whois
      - – License : Free
      - – Copyright Notice : Copyright (c) 1998 Thomas Fotherby, 1995 Richard J. Sexton
-131. WSiever
+130. WSiever
      - — License : Free
      - — Copyright Notice : Copyright (c) 2003 A.Y. Dayo
-132. WWWGrab/2
+131. WWWGrab/2
      - – License : Shareware
      - – Copyright Notice : Copyright (c) 1998 Jiří Rubeš
-133. zeupd
+132. zeupd
      - – License : Free
      - – Copyright Notice : Copyright (c) 2004 Ken Laurie
 
