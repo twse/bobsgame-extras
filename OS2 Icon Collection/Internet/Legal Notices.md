@@ -30,384 +30,392 @@
 10. CheckLink
     - — License : Free
     - — Copyright Notice : Copyright (c) 1998 Daniel Hellerstein
-11. Color Chaser
+11. ClipGrab
+    - — License : GPL 3.0
+    - — Copyright Notice : Copyright (c) 2007-2018 Philipp Schmieder
+    - — Download Site : https://www.clipgrab.org/ (English) or https://www.clipgrab.de/ (Deutsch und mehrer Sprache)
+12. Color Chaser
     - — License : Free
     - — Copyright Notice : Copyright (c) 1996 Scott Russell
-12. cURL
+13. cURL
     - – License : MIT License
     - – Copyright Notice : Copyright (c) 1996-2019 Daniel Stenberg
     - – Download Site : https://curl.haxx.se/
-13. Deja News Reader
+14. Deja News Reader
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997 High Boskage House
-14. Dragen FTP, get
+15. Dragen FTP, get
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997-2000 Keith Cotroneo
-15. DragURL'Base
+16. DragURL'Base
     - — License : Cardware
     - — Copyright Notice : Copyright (c) 1998 UltiHouse Software B.V.
-16. EHTML
+17. EHTML
     - — License : Free
     - — Copyright Notice : Copyright (c) 1995 Gunner Prießnitz
-17. EmTec FTP
+18. EmTec FTP
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997-1999 EmTec Innovative Software
-18. Element.ary!, PM Weather
+19. Element.ary!, PM Weather
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 David DuPré
-19. Falkon/QupZilla
+20. Falkon/QupZilla
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2010-2019 David Rosca
     - – Download Site : https://www.falkon.org/
-20. Firefox, SeaMonkey, Thunderbird
+21. Firefox, SeaMonkey, Thunderbird
     - – License : MPL 2.0
     - – Copyright Notice : Copyright (c) 1998-2019 Contributors to the Mozilla codebase, see the credits page at https://www.mozilla.org/credits/ (sorted) or the monument in the San Francisco office (unsorted).
     - – Download Site : https://www.mozilla.org/
-21. FormCheck/2
+22. FormCheck/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Arne Blankerts
-22. FSP
+23. FSP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Larkin Lowrey
-23. FTP Browser
+24. FTP Browser
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 Jason Rushton
-24. FTP Manager
+25. FTP Manager
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 John W. Rugo
-25. FTPBox/2
+26. FTPBox/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 2007 Miles Kuperus
-26. FTPD Tracefile Logger
+27. FTPD Tracefile Logger
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Justin H. Dolske
-27. FTPPM
+28. FTPPM
     - – License : Commercial
     - – Copyright Notice : IBM
     - – Download Site : part of OS/2
-28. FTP-It!
+29. FTP-It!
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995-1997 Ben Brown
-29. getstats
+30. getstats
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Kevin Hughes
-30. GetURL
+31. GetURL
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Decker Automation
-31. Gismo
+32. Gismo
     - — License : GPL 2.0
     - — Copyright Notice : Copyright (c) 1997-2011 Ken Kinoshita
-32. Goose
+33. Goose
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2000-2011 Ken Kinoshita
-33. GoSWISH, WWW-Count
+34. GoSWISH, WWW-Count
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997-1999 Daniel Hellerstein
-34. GrabSite
+35. GrabSite
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999 Daniel Hellerstein
-35. HandyFTP
+36. HandyFTP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999-2011 Brian Smith
-36. Hazel
+37. Hazel
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1993 Golden G. Richard III
-37. HL_News
+38. HL_News
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999 Tom Fredrickson
-38. HomePage Publisher
+39. HomePage Publisher
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1995-2000 Jean-Bernard Clerin
-39. HTML ColourPlucker
+40. HTML ColourPlucker
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1997 Antonino Iannella
-40. HTML Studio
+41. HTML Studio
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1996 Panacea Software
-41. HTML Viewer
+42. HTML Viewer
     - — License : Free
     - — Copyright Notice : Copyright (c) 1996 John Martin Alfredsson, Nianqing Liu
-42. HTMLGen
+43. HTMLGen
     - — License : Unsupported freeware
     - — Copyright Notice : Copyright (c) 1993-1999 American Coders Ltd.
-43. HTML-Ed
+44. HTML-Ed
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1996 Ian Prest
-44. Hypertable
+45. Hypertable
     - — License : Free
     - — Copyright Notice : Copyright (c) 1998 Tino Knips
-45. IceCQ
+46. IceCQ
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1998 Konstantin Bondarchuk
-46. Integra
+47. Integra
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993-1997 Soft Earls
-47. InterFTP
+48. InterFTP
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1998 Jonathan Tew
-48. Internet Adventurer
+49. Internet Adventurer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997-1998 Adventure Software
-49. Internet Gate
+50. Internet Gate
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997-1999 Marco Maccaferri
-50. Internet Junkbuster Proxy
+51. Internet Junkbuster Proxy
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1997-1998 Junkbusters Corp.
-51. ipconfig
+52. ipconfig
     - – License : Free
     - – Copyright Notice : Copyright (c) 2001 John J. LeMay Jr.
-52. IpConfigPM
+53. IpConfigPM
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2008-2010 Dušan Golubič
-53. IPSpeed
+54. IPSpeed
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1996-1997 Michael Bock
-54. Istart
+55. Istart
     - – License : Free
     - – Copyright Notice : Copyright (c) 2002 Michel Such
-55. Jasmine
+56. Jasmine
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1997-2011 Ken Kinoshita
-56. kipcfg
+57. kipcfg
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2011 Myung-Hun Ko
-57. KSCP
+58. KSCP
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 2012-2017 Myung-Hun Ko
-58. Kuvert/2
+59. Kuvert/2
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Peter Wansch
-42. Links
+60. Links
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1999-2019 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
     - – Download Site : http://links.twibright.com/
-43. LJV Toolkit
+61. LJV Toolkit
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1989-1991 Les J. Ventimiglia
-44. Login
+62. Login
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1998 Aaron B. Brown
-45. LWPFTP
+63. LWPFTP
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Lynn W. Deffenbaugh
-46. Lynx
+64. Lynx
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1997-2019 Garrett Arch Blythe, Thomas E. Dickey, Michael Grobe, Craig Lavender, Foteos Macrides, Lou Montulli, Charles Rezac
     - – Download Site : https://invisible-island.net/lynx/ (info) or https://lynx.invisible-island.net/ (source code/binaries)
-47. L-LIST
+65. L-LIST
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 Alessandro Trebbi
-48. MailRun
+66. MailRun
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1994-2012 Gary L. Robinson, 2012-2017 André Doff
-49. MAILTO
+67. MAILTO
     - – License : Free
     - – Copyright Notice : Copyright (c) 2002 Mike Ruskai
-50. Marvin's Retriever
+68. Marvin's Retriever
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 2002 Diarmuid Albers
-51. MaxiFTP
+69. MaxiFTP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Albert Crosby
-52. MaxList
+70. MaxList
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Wilfried Brinkmann
-53. MICQ
+71. MICQ
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1998-1999 Matthew D. Smith, 2000-2007 Rüdiger Kuhlmann
     - – Download Site : http://www.micq.org/
-54. MPING
+72. MPING
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Maxim Annenkov
-55. MR/2 ICE
+73. MR/2 ICE
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996-2005 Knightware Software Company
-56. MUEd/PM
+74. MUEd/PM
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993-1995 Craig A. Morrison
-57. MYIP
+75. MYIP
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2006 Alexander Taylor, 2012-2019 Andreas Buchinger
     - – Download Site : http://web.utanet.at/abuchin1/index_e.html
-58. NCB
+76. NCB
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Pavel Shtemenko
-59. NcFTP
+77. NcFTP
     - – License : Clarified Artistic License
     - – Copyright Notice : Copyright (c) 1992-2016 Mike Gleason
     - – Download Site : https://www.ncftp.com/
-60. NDFSCONF
+78. NDFSCONF
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Eirik Øverby
-61. NetChat
+79. NetChat
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 Gary L. Robinson
-62. Netextra, Netwatch, Web Willy Watch
+80. Netextra, Netwatch, Web Willy Watch
     - – License : Unsupported freeware
     - – Copyright Notice : Copyright (c) 1999 Momotek Computer Specialties
-63. NETIO
+81. NETIO
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997-2012 Kai-Uwe Rommel
-64. Netscape
+82. Netscape
     - – License : MPL 2.0
     - – Copyright Notice : Copyright (c) 1997-2008 Netscape Communications Corporation and everyone else at IBM who worked on the OS/2 port, see the developer race at about:authors.
-65. NetUse
+83. NetUse
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1999-2004 Thomas Bohn
-66. Network Configuration Manager
+84. Network Configuration Manager
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 John Blumel
-67. News Harvest
+85. News Harvest
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 1997-2011 Kingsley Turner, Steven H. Levine
-68. Newsbeat
+86. Newsbeat
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Dave Minogue, Vipin Bhargava
-69. NFTP
+87. NFTP
     - – License : MIT License
     - – Copyright Notice : Copyright (c) 1994-2011 Sergey Ayukov
     - – Download Site : http://www.ayukov.com/
-70. NIFMON
+88. NIFMON
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 John R Clark
-71. nslint
+89. nslint
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992-2009 The Regents of the University of California
-72. OpenIRC/2
+90. OpenIRC/2
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 Max Mikhanosha
-73. OpenXP
+91. OpenXP
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1992-1999 Peter Mandrella
-74. Opera
+92. Opera
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994-2019 Opera Software ASA
     - – Download Site : https://www.opera.com/
-75. OS2_NTPD
+93. OS2_NTPD
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Bruce M. Penrod
-76. Page
+94. Page
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1996 Derek Clarkson
-77. Picardy 3
+95. Picardy 3
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1996 David Devaney, Jr.
-78. Pigeon
+96. Pigeon
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 2001-2002 Christopher Angelico
-79. PM Downloader
+97. PM Downloader
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 2002-2006 Eugene Romanenko
-80. PM Weather
+98. PM Weather
     - – License : Free or Shareware
     - – Copyright Notice : Copyright (c) 1994 Mike Kopack, Ed Boykin, Stephen Loomis, David DuPré
-81. PMINews
+99. PMINews
     - – License : Commercial
     - – Copyright Notice : Copyright (c) 1998 SouthSoft Inc., Stardock Systems Inc.
-82. PMSPX
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 1993 Cliff DeCarlo
-83. PMStripper
-    - – License : Shareware
-    - – Copyright Notice : Copyright (c) 2000 Don Hawkinson
-84. QadHTML
-    - — License : Shareware
-    - — Copyright Notice : Copyright (c) 1995 QAD Software
-85. QBrows
-    - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 2010 Denis Bespalov
-86. QtWeb
-    - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2008-2013 QtWeb contributors
-    - – Download Site : http://www.qtweb.net/
-87. RacerNet
-    - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1999 Frugal Software
-88. ripMIME
-    - – License : BSD 3-Clause
-    - – Copyright Notice : Copyright (c) 2002-2011 Paul L. Daniels
-    - – Download Site : https://www.pldaniels.com/ripmime
-89. rxCalcNet
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 2010 VicTor Smirnoff
-90. RxFTP
-    - – License : IBM EWS
-    - – Copyright Notice : Copyright (c) 1994 Patrick J. Mueller, Cliff Nadler
-91. Scythia
-    - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 2007-2011 Frédéric Julian
-92. Sslurp!
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 1997-2003 Michael Hohner
-    - – Download Site : http://sslurp.mhohner.de/
-93. TafelEd/2
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 1996 Justin S. Cooksey
-94. Tag Thief, Cookie Thief
-    - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1997 Iftach Silberman
-95. TCP/IP Profile Manager
-    - – License : BSD 3-Clause
-    - – Copyright Notice : Copyright (c) 2010 Alexander Taylor
-    - – Download Site : http://www.altsan.org/
-96. TESTLOCK
-    - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1993-1994 Burton Systems Software
-97. timEd
-    - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1994 Gerard van Essen
-98. TNEF
-    - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2000-2018 Mark Simpson
-99. Traffic Visor III
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 2007 Andrey Vasilkin
-100. UNHTML
+100. PMSPX
+     - – License : Free
+     - – Copyright Notice : Copyright (c) 1993 Cliff DeCarlo
+101. PMStripper
+     - – License : Shareware
+     - – Copyright Notice : Copyright (c) 2000 Don Hawkinson
+102. QadHTML
+     - — License : Shareware
+     - — Copyright Notice : Copyright (c) 1995 QAD Software
+103. QBrows
+     - – License : GPL 3.0
+     - – Copyright Notice : Copyright (c) 2010 Denis Bespalov
+104. QtWeb
+     - – License : GPL 2.0
+     - – Copyright Notice : Copyright (c) 2008-2013 QtWeb contributors
+     - – Download Site : http://www.qtweb.net/
+105. RacerNet
+     - – License : Shareware
+     - – Copyright Notice : Copyright (c) 1999 Frugal Software
+106. ripMIME
+     - – License : BSD 3-Clause
+     - – Copyright Notice : Copyright (c) 2002-2011 Paul L. Daniels
+     - – Download Site : https://www.pldaniels.com/ripmime
+107. rxCalcNet
+     - – License : Free
+     - – Copyright Notice : Copyright (c) 2010 VicTor Smirnoff
+108. RxFTP
+     - – License : IBM EWS
+     - – Copyright Notice : Copyright (c) 1994 Patrick J. Mueller, Cliff Nadler
+109. Scythia
+     - – License : GPL 3.0
+     - – Copyright Notice : Copyright (c) 2007-2011 Frédéric Julian
+110. Sslurp!
+     - – License : Free
+     - – Copyright Notice : Copyright (c) 1997-2003 Michael Hohner
+     - – Download Site : http://sslurp.mhohner.de/
+111. TafelEd/2
+     - – License : Free
+     - – Copyright Notice : Copyright (c) 1996 Justin S. Cooksey
+112. Tag Thief, Cookie Thief
+     - – License : Shareware
+     - – Copyright Notice : Copyright (c) 1997 Iftach Silberman
+113. TCP/IP Profile Manager
+     - – License : BSD 3-Clause
+     - – Copyright Notice : Copyright (c) 2010 Alexander Taylor
+     - – Download Site : http://www.altsan.org/
+114. TESTLOCK
+     - – License : Shareware
+     - – Copyright Notice : Copyright (c) 1993-1994 Burton Systems Software
+115. timEd
+     - – License : Shareware
+     - – Copyright Notice : Copyright (c) 1994 Gerard van Essen
+116. TNEF
+     - – License : GPL 2.0
+     - – Copyright Notice : Copyright (c) 2000-2018 Mark Simpson
+117. Traffic Visor III
+     - – License : Free
+     - – Copyright Notice : Copyright (c) 2007 Andrey Vasilkin
+118. UNHTML
      - — License : GPL 2.0
      - — Copyright Notice : Copyright (c) 1996-2004 Stephen Loomis
-101. URL Scanner
+119. URL Scanner
      - — License : Free
      - — Copyright Notice : Copyright (c) 1998 Jerry McBride
-102. URLCopy
+120. URLCopy
      - – License : Free
      - – Copyright Notice : Copyright (c) 2000-2002 Lothar Söns
-103. URLObjectTool
+121. URLObjectTool
      - — License : GPL 2.0
      - — Copyright Notice : Copyright (c) 1998-2000 Norbert Kohl
-104. VxFTP
+122. VxFTP
      - – License : Free
      - – Copyright Notice : Copyright (c) 1994 Howard Hyten
-105. VX-FSP
+123. VX-FSP
      - – License : Free
      - – Copyright Notice : Copyright (c) 1994 Semir Patel
-106. Web G.R.A.B., Web S.L.I.D.E.
+124. Web G.R.A.B., Web S.L.I.D.E.
      - – License : Free
      - – Copyright Notice : Copyright (c) 1996 Asbjørn Pettersen
-107. WebExplorer
+125. WebExplorer
      - – License : Commercial
      - – Copyright Notice : IBM
      - – Download Site : part of OS/2 WARP 4.0 installation CDs
-108. WebWriter/2
+126. WebWriter/2
      - — License : Shareware
      - — Copyright Notice : Copyright (c) 1995-1996 John Blumel
-109. WFAX
+127. WebSee
+     - — License : ISC License
+     - — Copyright Notice : Copyright (c) 2013-2016 Wim Brul
+     - — Download Site : http://home.hccnet.nl/w.m.brul/
+128. WFAX
      - – License : Free
      - – Copyright Notice : Copyright (c) 1997 Jürgen Dankoweit
-110. Wget
+129. Wget
      - – License : GPL 3.0
      - – Copyright Notice : Copyright (c) 1995-2019 Hrvoje Nikšić
      - – Download Site : http://www.gnu.org/software/wget/
-111. whois
+130. whois
      - – License : Free
      - – Copyright Notice : Copyright (c) 1998 Thomas Fotherby, 1995 Richard J. Sexton
-112. WSiever
+131. WSiever
      - — License : Free
      - — Copyright Notice : Copyright (c) 2003 A.Y. Dayo
-113. WWWGrab/2
+132. WWWGrab/2
      - – License : Shareware
      - – Copyright Notice : Copyright (c) 1998 Jiří Rubeš
-114. zeupd
+133. zeupd
      - – License : Free
      - – Copyright Notice : Copyright (c) 2004 Ken Laurie
 
