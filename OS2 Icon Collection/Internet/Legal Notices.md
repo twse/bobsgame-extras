@@ -5,7 +5,7 @@
    - – Copyright Notice : Copyright (c) 2001-2004 Christian Langanke
 2. Alpine
    - – License : Apache 2.0
-   - – Copyright Notice : Copyright (c) 2006-2008 University of Washington
+   - – Copyright Notice : Copyright (c) 2006-2008 University of Washington, 2012-2019 Eduardo Chappa
 3. AnDan Software Message Generator
    - – License : Free
    - – Copyright Notice : Copyright (c) 1991-1996 Scandinavian Digital Systems AB
@@ -21,89 +21,89 @@
 7. Binary Newsreader
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1996-1997 Ralf Christen
-8. BlackRose FTP
+8. Bing Downloader
+   - – License : GPL 2.0
+   - – Copyright Notice : Copyright (c) 2009-2012 Sebastian Bota
+9. BlackRose FTP
    - – License : Beta
    - – Copyright Notice : Copyright (c) 1994 Stephen F Townsend
-9. BM2WPS
-   - — License : Free
-   - — Copyright Notice : Copyright (c) 1989 Markus Jasinski
-10. CheckLink
+10. BM2WPS
+    - — License : Free
+    - — Copyright Notice : Copyright (c) 1989 Markus Jasinski
+11. CheckLink
     - — License : Free
     - — Copyright Notice : Copyright (c) 1998 Daniel Hellerstein
-11. ClipGrab
+12. ClipGrab
     - — License : GPL 3.0
     - — Copyright Notice : Copyright (c) 2007-2018 Philipp Schmieder
     - — Download Site : https://www.clipgrab.org/ (English) or https://www.clipgrab.de/ (Deutsch und mehrer Sprache)
-12. Color Chaser
+13. Color Chaser
     - — License : Free
     - — Copyright Notice : Copyright (c) 1996 Scott Russell
-13. cURL
+14. cURL
     - – License : MIT License
     - – Copyright Notice : Copyright (c) 1996-2019 Daniel Stenberg
     - – Download Site : https://curl.haxx.se/
-14. Deja News Reader
+15. Deja News Reader
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997 High Boskage House
-15. Dragen FTP, get
+16. Dragen FTP, get
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997-2000 Keith Cotroneo
-16. DragURL'Base
+17. DragURL'Base
     - — License : Cardware
     - — Copyright Notice : Copyright (c) 1998 UltiHouse Software B.V.
-17. EHTML
+18. EHTML
     - — License : Free
     - — Copyright Notice : Copyright (c) 1995 Gunner Prießnitz
-18. EmTec FTP
+19. EmTec FTP
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997-1999 EmTec Innovative Software
-19. Element.ary!, PM Weather
+20. Element.ary!, PM Weather
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 David DuPré
-20. Falkon/QupZilla
+21. Falkon/QupZilla
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2010-2019 David Rosca
     - – Download Site : https://www.falkon.org/
-21. Firefox, SeaMonkey, Thunderbird
+22. Firefox, SeaMonkey, Thunderbird
     - – License : MPL 2.0
     - – Copyright Notice : Copyright (c) 1998-2019 Contributors to the Mozilla codebase, see the credits page at https://www.mozilla.org/credits/ (sorted) or the monument in the San Francisco office (unsorted).
     - – Download Site : https://www.mozilla.org/
-22. FormCheck/2
+23. FormCheck/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Arne Blankerts
-23. FSP
+24. FSP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Larkin Lowrey
-24. FTP Browser
+25. FTP Browser
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 Jason Rushton
-25. FTP Manager
+26. FTP Manager
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 John W. Rugo
-26. FTPBox/2
+27. FTPBox/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 2007 Miles Kuperus
-27. FTPD Tracefile Logger
+28. FTPD Tracefile Logger
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Justin H. Dolske
-28. FTPPM
+29. FTPPM
     - – License : Commercial
     - – Copyright Notice : IBM
     - – Download Site : part of OS/2
-29. FTP-It!
+30. FTP-It!
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995-1997 Ben Brown
-30. getstats
+31. getstats
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Kevin Hughes
-31. GetURL
+32. GetURL
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Decker Automation
-32. Gismo
+33. Gismo, Goose
     - — License : GPL 2.0
     - — Copyright Notice : Copyright (c) 1997-2011 Ken Kinoshita
-33. Goose
-    - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2000-2011 Ken Kinoshita
 34. GoSWISH, WWW-Count
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997-1999 Daniel Hellerstein
@@ -391,7 +391,6 @@
 125. WebExplorer
      - – License : Commercial
      - – Copyright Notice : IBM
-     - – Download Site : part of OS/2 WARP 4.0 installation CDs
 126. WebWriter/2
      - — License : Shareware
      - — Copyright Notice : Copyright (c) 1995-1996 John Blumel
