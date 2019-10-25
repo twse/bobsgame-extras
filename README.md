@@ -13,6 +13,9 @@ Want to be a show-off? Impress your friends? This is the place. Robert Pelloni o
 ## Nintendo 3DS Skin
 Use theme managers (e.g. Anemone, CHMM, Themely, ThemePack...) to replace the skin. The skin was created with 3DS Theme Editor.
 
+## Startup Sound
+Use this to replace the system startup sound or change it through the sound settings (e.g. in Control Panel in Windows or System Setup in OS/2 and System Preferences in macOS, it is located under Sounds and Multimedia in Windows 95, 98 or ME, Sounds in Windows 2000, Sounds and Audio Devices in Windows XP, and under Sound in Windows Vista or higher, macOS, BeOS, OS/2 and more).
+
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
 
