@@ -23,34 +23,38 @@
    - — License : Free
    - — Copyright Notice : Copyright (c) 2001-2012 André Doff
    - — Download Site : http://home.uni-one.nl/m1
-8. PM Checksum
+8. OpenSSL
+   - – License : Apache 2.0
+   - – Copyright Notice : Copyright (c) 1998-2019 The OpenSSL Project
+   - – Download Site : https://www.openssl.org/
+9. PM Checksum
    - — License : Shareware
    - — Copyright Notice : Copyright (c) 1996 Uwe Schlenther
-9. PMBASE64
-   - — License : Free
-   - — Copyright Notice : Copyright (c) 1996 Cliff DeCarlo
-10. PMCRC32
+10. PMBASE64
+    - — License : Free
+    - — Copyright Notice : Copyright (c) 1996 Cliff DeCarlo
+11. PMCRC32
     - — License : Free
     - — Copyright Notice : Copyright (c) 1999-2002 Reinhard Berger
-11. PMDigest
+12. PMDigest
     - — License : Free
     - — Copyright Notice : Copyright (c) 2007 Gunner Prießnitz
-12. QUIPU
+13. QUIPU
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1995 Michael Mieves
-13. REXX_MD5
+14. REXX_MD5
     - — License : Free
     - — Copyright Notice : Copyright (c) 2000 Daniel Hellerstein
-14. RxBlFish
+15. RxBlFish
     - — License : Free
     - — Copyright Notice : Copyright (c) 2000 Daniel Hellerstein, Michal Nečásek
-15. RxCRC32
+16. RxCRC32
     - — License : Cardware
     - — Copyright Notice : Copyright (c) 1998 Mads Orbesen Troest (SIRIUS Cybernetics)
-16. RXGWA
+17. RXGWA
     - — License : Free
     - — Copyright Notice : Copyright (c) 1993 Gerald W. (Jerry) am Ende
-17. RxHash
+18. RxHash
     - — License : Mozilla 1.1
     - — Copyright Notice : Copyright (c) 2003 Patrick TJ McPhee
 

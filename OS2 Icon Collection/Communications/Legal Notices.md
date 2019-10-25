@@ -104,92 +104,88 @@
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1995-1996 Avian Research, 2002-2004 Giovanni Giacobbi
     - – Download Site : http://netcat.sourceforge.net/
-35. OpenSSL
-    - – License : Apache 2.0
-    - – Copyright Notice : Copyright (c) 1998-2019 The OpenSSL Project
-    - – Download Site : https://www.openssl.org/
-36. OS2TERM
+35. OS2TERM
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993 Jeff M. Garzik
-37. PhoneAttention
+36. PhoneAttention
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992 Mikael Wahlgren
-38. PhoneBoy
+37. PhoneBoy
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Igor Divjak
-39. pilot-link
+38. pilot-link
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2002-2010 David A. Desrosiers, Kenneth Albanowski and pilot-link developers
-40. PM Napster
+39. PM Napster
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000-2002 Ricardo Mayrink
-41. PM Timer
+40. PM Timer
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996-1997 Jeffrey Habets
-42. PMBiff
+41. PMBiff
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Thomas Vandahl
-43. Pmcomm
+42. Pmcomm
     - – License : Free
     - – Copyright Notice : Copyright (c) 1990-1996 Multi-Net Communications
-44. PMphone
+43. PMphone
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997 Gary L. Robinson
-45. POPBiff
+44. POPBiff
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Michele Marziani
-46. ProTalk
+45. ProTalk
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Brian Fisher
-47. Psion OS/2 utilities
+46. Psion OS/2 utilities
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1999-2000 Andy A. Porro
-48. REXX Named Pipes
+47. REXX Named Pipes
     - – License : DAP Software
     - – Copyright Notice : Copyright (c) 1994 Graham Ewart
-49. RexxIPC
+48. RexxIPC
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994-1995 Serge Brisson
-50. RexxSem
+49. RexxSem
     - – License : Unsupported freeware
     - – Copyright Notice : Copyright (c) 1997-2000 Darin McBride
-51. REXXSOCKVM
+50. REXXSOCKVM
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Peter R. Flass
-52. RxMirror
+51. RxMirror
     - – License : Free
     - – Copyright Notice : Sergey Ayukov
-53. RXPOP
+52. RXPOP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995-1996 Christoph Lechleitner
-54. RxSock
+53. RxSock
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1993 Patrick J. Mueller
-55. RxTelnet
+54. RxTelnet
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999 Ben Ravago
-56. SEAlink
+55. SEAlink
     - – License : Free
     - – Copyright Notice : Copyright (c) 1986-1992 System Enhancement Associates, Inc.
-57. SHOW3270
+56. SHOW3270
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Mikael Wahlgren
-58. SOUPbox
+57. SOUPbox
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Carl Austin Bennett
-59. tcpmon
+58. tcpmon
     - – License : Free
     - – Copyright Notice : Cliff Brady, Martin Lafaix
-60. Terminal Manager
+59. Terminal Manager
     - – License : Free
     - – Copyright Notice : Copyright (c) 1990-1995 Qiiq Ltd.
-61. Terminal/2
+60. Terminal/2
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1992 Mikael Wahlgren
-62. VoiceDialer/2
+61. VoiceDialer/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996-1999 Rossen Assenov
-63. ZOC
+62. ZOC
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1993-2019 EmTec Innovative Software
     - – Download Site : https://www.emtec.com/zoc/
