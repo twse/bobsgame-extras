@@ -24,7 +24,7 @@
 8. Wanda
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 2001-2007 Thorsten Thielen
-   - – Download Site : http://www.c2226.de/ 
+   - – Download Site : http://www.c2226.de/
 9. WarpNote
    - – License : Free
    - – Copyright Notice : Copyright (c) 1997-2003 Uwe Schlenther
