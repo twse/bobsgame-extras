@@ -5,7 +5,7 @@
    - – Copyright Notice : Copyright (c) 1994 Bill Weschke
 2. Acrobat Reader
    - – License : Free
-   - – Copyright Notice : Copyright (c) 1987-2018 Adobe Systems Incorporated
+   - – Copyright Notice : Copyright (c) 1984-2018 Adobe Systems Incorporated
 3. Antiword
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 1998-2005 Adriaan van Os
@@ -37,10 +37,7 @@
 12. ReRead
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Mike Lastucka
-13. STLView
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 1999 Andrea Venturoli
-14. TextView
+13. TextView
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Raphaël Vanney
 
