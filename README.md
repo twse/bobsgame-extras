@@ -14,7 +14,7 @@ Want to be a show-off? Impress your friends? This is the place. Robert Pelloni o
 Use theme managers (e.g. Anemone, CHMM, Themely, ThemePack...) to replace the skin. The skin was created with 3DS Theme Editor.
 
 ## Sound Scheme
-Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2 and **System Preferences** in macOS, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 95, 98 or ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP, and under **Sound** (also in Personalization) in Windows Vista or higher, macOS, BeOS, OS/2 and more).
+Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2 and **System Preferences** in macOS, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 9x or ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound** (also in Appearance and **Personalization** if using category view or in **Personalization** if displayed with all icons) in Windows Vista or higher, macOS, BeOS, OS/2 and more).
 
 ### Index of sounds
 | Windows event | OS/2 event                | Filename        |
