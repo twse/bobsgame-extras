@@ -17,17 +17,17 @@ Use theme managers (e.g. Anemone, CHMM, Themely, ThemePack...) to replace the sk
 Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2 and **System Preferences** in macOS, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 95, 98 or ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP, and under **Sound** (also in Personalization) in Windows Vista or higher, macOS, BeOS, OS/2 and more).
 
 ### Index of sounds
-| Windows event | OS/2 event      | Filename        |
-|---------------|-----------------|-----------------|
-| None          | Alarm           | BG Alarm.wav    |
-| Asterisk      | TBD             | TBD             |
-| Close program | TBD             | TBD             |
-| Critical Stop | TBD             | TBD             |
-| Default sound | TBD             | TBD             |
-| Exclamation   | TBD             | TBD             |
-| Recycle       | Recycle         | BG Recycle.wav  |
-| Exit Windows  | System shutdown | BG Shutdown.wav |
-| Start Windows | System startup  | BG Startup.wav  |
+| Windows event | OS/2 event                | Filename        |
+|---------------|---------------------------|-----------------|
+| None          | Alarm                     | BG Alarm.wav    |
+| Asterisk      | None                      | TBD             |
+| Close program | Closing window (Animated) | TBD             |
+| Critical Stop | Error                     | BG Error.wav    |
+| Default sound | TBD                       | TBD             |
+| Exclamation   | Warning                   | TBD             |
+| Exit Windows  | System shutdown           | BG Shutdown.wav |
+| Recycle       | Recycle                   | BG Recycle.wav  |
+| Start Windows | System startup            | BG Startup.wav  |
 
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
