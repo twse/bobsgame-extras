@@ -16,8 +16,8 @@ Use theme managers (e.g. Anemone, CHMM, Themely, ThemePack...) to replace the sk
 ## Sound Scheme
 Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2 and **System Preferences** in macOS, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 9x or ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound** (also in Appearance and **Personalization** if using category view or in **Personalization** if displayed with all icons) in Windows Vista or higher, macOS, BeOS, OS/2 and more).
 
-### Index of sounds
-| Windows event | OS/2 event                | Filename        |
+### Index of sound events
+| Windows name  | OS/2 name                 | Filename        |
 |---------------|---------------------------|-----------------|
 | None          | Alarm                     | BG Alarm.wav    |
 | Asterisk      | None                      | TBD             |
@@ -35,12 +35,12 @@ The zipped archive is included for use with Windows 95 until XP.
 Under Windows Vista and newer, add the Logo using `OEMlogo.bmp` as value and Manufacturer using Robert Matthew Pelloni as value in `OEMInformation` under the HKLM key.
 
 ## Boot Skin
-The actual logo is in BootSkin Windows XP format. Attempting to install this logo under Windows Vista will most likely result in an error message, so please don't try it. I created this with Windows Paint.
+The actual logo is in BootSkin Windows XP format. Attempting to install this logo under the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
 
 Use the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) to replace the boot skin.
 
 ## Palm OS Emulator Skin
-Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with PMView.
+Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with [PMView](https://www.pmview.com/).
 
 This skin can be used with the emulators listed below. Robert Pelloni is not the original author of these emulators. The original copyright notice and the license and contributor list is set forth below. Robert Pelloni licenses these emulators to you under the terms set forth in the BobCorporation EULA. Robert Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
 
@@ -48,16 +48,7 @@ This skin can be used with the emulators listed below. Robert Pelloni is not the
 See [Extras page on the Bob's Game Wiki](https://bobsgame.fandom.com/wiki/Extras).
 
 ### [Palm Hardware Emulator](http://www.perpendox.com/phem/index.html)
-Available as pay commercial software in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem)
-
-#### Source code copyright
-Copyright © 2013-2014 Perpendox Software LLC
-
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program. If not, see .
+Available as commercial software in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem)
 
 ### Palm OS Emulator
 Copyright © 1998-2002 Palm, Inc.
