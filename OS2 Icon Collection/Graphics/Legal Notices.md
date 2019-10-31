@@ -143,7 +143,7 @@
 45. JasPer
     - – License : Free
     - – Copyright Notice : Copyright (c) 2001-2019 Michael David Adams
-    - – Download Site : http://www.ece.uvic.ca/~frodo/jasper/
+    - – Download Site : https://www.ece.uvic.ca/~frodo/jasper/
 46. Jhead
     - – License : Public Domain
     - – Copyright Notice : Copyright (c) 2001-2018 Matthias Wandel
