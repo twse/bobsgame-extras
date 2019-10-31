@@ -14,20 +14,22 @@ Want to be a show-off? Impress your friends? This is the place. Robert Pelloni o
 Use theme managers (e.g. Anemone, CHMM, Themely, ThemePack...) to replace the skin. The skin was created with 3DS Theme Editor.
 
 ## Sound Scheme
-Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2 and **System Preferences** in macOS, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 9x or ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound** (also in Appearance and **Personalization** if using category view or in **Personalization** if displayed with all icons) in Windows Vista or higher, macOS, BeOS, OS/2 and more).
+Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2 and **System Preferences** in macOS, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 9x or ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound** (also in Appearance and **Personalization** if using category view or in **Personalization** if displayed with all icons) in Windows Vista or higher, macOS, BeOS, OS/2 and more). The sound scheme was created with Windows Sound Recorder and Wavosaur.
 
 ### Index of sound events
-| Windows name  | OS/2 name                 | Filename        |
-|---------------|---------------------------|-----------------|
-| None          | Alarm                     | BG Alarm.wav    |
-| Asterisk      | None                      | TBD             |
-| Close program | Closing window (Animated) | TBD             |
-| Critical Stop | Error                     | BG Error.wav    |
-| Default sound | TBD                       | TBD             |
-| Exclamation   | Warning                   | TBD             |
-| Exit Windows  | System shutdown           | BG Shutdown.wav |
-| Recycle       | Recycle                   | BG Recycle.wav  |
-| Start Windows | System startup            | BG Startup.wav  |
+| Windows name  | OS/2 name                 | Filename           |
+|---------------|---------------------------|--------------------|
+| None          | Alarm                     | BG Alarm.wav       |
+| Asterisk      | None                      | TBD                |
+| Close program | Closing window (Animated) | TBD                |
+| Critical Stop | Error                     | BG Error.wav       |
+| Default sound | None                      | TBD                |
+| Exclamation   | Warning                   | BG Exclamation.wav |
+| Exit Windows  | System shutdown           | BG Shutdown.wav    |
+| Open program  | Opening window (Animated) | TBD                |
+| None          | Printer error             | TBD                |
+| Recycle       | Recycle                   | BG Recycle.wav     |
+| Start Windows | System startup            | BG Startup.wav     |
 
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
