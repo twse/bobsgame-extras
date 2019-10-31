@@ -42,244 +42,275 @@
 13. Cameraderie
     - – License : MPL 1.1
     - – Copyright Notice : Copyright (c) 2006-2007 Richard L. Walsh
-14. cvbmp
+14. COLORPT
+    - – License : IBM EWS
+    - – Copyright Notice : Copyright (c) 1992-1993 Barry R. Diller
+15. Colortool
+    - – License : GPL 2.0
+    - – Copyright Notice : Copyright (c) 2010 Tobias Vogel
+16. cvbmp
     - – License : Free
     - – Copyright Notice : Copyright (c) 1990 Michael C. Robert
-15. CVTICO
+17. CVTICO
     - – License : Free
     - – Copyright Notice : Copyright (c) 1990 Kevin Nickerson
-16. DCRaw
+18. DCRaw
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1997-2018 David Coffin
-17. denef
+19. denef
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2000 Daniel Stephens
-18. DrawIt
+20. Display Font Editor
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1998 VicTor Smirnoff, Nikolay Kolosov
+21. DrawIt
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Jasper de Keijzer
-19. Drawpile
+22. Drawpile
     - – License : GPL 3.0 (program); MIT and CC-SA 4.0 (website)
     - – Copyright Notice : Copyright (c) 2006-2019 Calle Laakkonen
     - – Download Site : https://drawpile.net/
-20. EasyImageSizer
+23. EasyImageSizer
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2011-2012 FalseCAM
-21. EasyPaint
+24. EasyPaint
     - – License : MIT License
     - – Copyright Notice : Copyright (c) 2012-2013 Nikita Grishko
-22. Embellish
+25. Embellish
     - – License : Commercial
-23. exiftags
+26. exiftags
     - – License : BSD 4-Clause
     - – Copyright Notice : Copyright (c) 2002-2007 Eric M. Johnston
     - – Download Site : http://johnst.org/sw/exiftags/
-24. exiftool
+27. exiftool
     - – License : Free
     - – Copyright Notice : Copyright (c) 2004-2017 Marcel Müller
     - – Download Site : http://maazl.de/project/misc/exiftool.html
-25. fBMP
+28. fBMP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992 Raja Thiagarajan
-26. Galleria
+29. FontFolder
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1997 Cliff Cullum
+30. FreeType
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1994-2019 The FreeType Project
+    - – Download Site : https://www.freetype.org/
+31. Galleria
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 Bitware Australia Pty. Ltd.
-27. GIFLIB
+32. GIFLIB
     - – License : MIT License
     - – Copyright Notice : Copyright (c) 1997 Eric S. Raymond
     - – Download Site : http://giflib.sourceforge.net/
-28. GIFtrans
+33. GIFtrans
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1994 Andreas Ley
-29. GIMP
-    - – License : GPL 3.0 for program, LGPL 3.0 for library and CC-SA 4.0 for website
+34. GIMP
+    - – License : GPL 3.0 (program), LGPL 3.0 (library), CC-SA 4.0 (website)
     - – Copyright Notice : Copyright (c) 1995-2019 Spencer Kimball, Peter Mattis and the GIMP Development Team
     - – Download Site : https://www.gimp.org/
-30. Graphics Mode Printing for REXX
+35. Graphics Mode Printing for REXX
     - – License : Public Domain
     - – Copyright Notice : Copyright (c) 1994-2002 ADD Consulting
-31. GRFXREXX
+36. GRFXREXX
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Raphaël Vanney
-32. HPGS
+37. HPGS
     - – License : LGPL 2.1
     - – Copyright Notice : Copyright (c) 2004-2009 Wolfgang Glas
-33. Image Alchemy
+38. IconEase
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1995 New Freedom Data Center
+39. Image Alchemy
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1993 CHAOS Software
-34. Image Archiver, Image Notebook
+40. Image Archiver, Image Notebook
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Lou Miranda
-35. ImgMeta, PMExif
+41. ImgMeta, PMExif
     - – License : Free
     - – Copyright Notice : Copyright (c) 2002-2013 Lutz Wagner
-36. imShow
+42. imShow
     - – License : Free
     - – Copyright Notice : Copyright (c) 1989-1993 Martin Erzberger
-37. INFO2BMP
+43. INFO2BMP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Duncan Wilcox
-38. IPAD
+44. IPAD
     - – License : Beta
     - – Copyright Notice : Copyright (c) 1997 Sergio Masci
-39. JasPer
+45. JasPer
     - – License : Free
-    - – Copyright Notice : Copyright (c) 2001-2016 Michael David Adams
+    - – Copyright Notice : Copyright (c) 2001-2019 Michael David Adams
     - – Download Site : http://www.ece.uvic.ca/~frodo/jasper/
-40. Jhead
+46. Jhead
     - – License : Public Domain
     - – Copyright Notice : Copyright (c) 2001-2018 Matthias Wandel
     - – Download Site : http://www.sentex.net/~mwandel/jhead/
-41. jp2a
+47. jp2a
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2006 Christian Stigen Larsen
     - – Download Site : https://csl.name/jp2a/
-42. jpeg2ps
+48. jpeg2ps
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994-2002 Thomas Merz
-43. KDC_DC2, OutJPEG
+49. KDC_DC2, OutJPEG
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999-2001 Stéphane Charette
     - – Download Site : http://charette.no-ip.com:81/main_apps.html
-44. LibGD
+50. LibGD
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994-2004 Thomas Boutell, 2000-2016 Pierre-Alain Joye
     - – Download Site : https://libgd.github.io/
-45. libjpeg
+51. libjpeg
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991-2018 Thomas G. Lane, Guido Vollbeding
     - – Download Site : http://www.ijg.org/
-46. libpng
+52. libpng
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2019 Cosmin Truța
     - – Download Site : http://www.libpng.org/pub/png/libpng.html (stable release) or https://libpng.sourceforge.io/ (development release)
-47. LogoArt
+53. LogoArt
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996-1997 WORKLab System Solutions GmbH
-48. NHView
+54. NHView
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Jonny Rein Eriksen
-49. Nicki's USBCamera-To-HardDrive-Thingy
+55. Nicki's USBCamera-To-HardDrive-Thingy
     - – License : Free
     - – Copyright Notice : Copyright (c) 2003 Peter Brown
-50. nJPGd
+56. nJPGd
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Marko Zarkovic
-51. OptiPNG
+57. OptiPNG
     - – License : zlib
     - – Copyright Notice : Copyright (c) 2001-2017 Cosmin Truța and the Contributing Authors
     - – Download Site : http://optipng.sourceforge.net/
-52. Painter, TPaint
+58. Painter, TPaint
     - – License : GPL 2.0
-53. Panorama Tools
+59. Panorama Tools
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1998-2006 Helmut Dersch
     - – Download Site : http://panotools.sourceforge.net/
-54. PhotoQt
+60. PhotoQt
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2011-2018 Lukas Spies
     - – Download Site : https://photoqt.org/
-55. PhotoTiger
+61. PhotoTiger
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996-2001 Michael Mögn
-56. PM I-Cat
+62. PM I-Cat
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Barry R. Diller
-57. PM/GIF
+63. PM/GIF
     - – License : Free
     - – Copyright Notice : Copyright (c) 1989 Andy Levine
-58. PMDIB
+64. PMDIB
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1991 Midori S.A.
-59. PMDRAW
+65. PMDRAW
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1989-1990 Mark I. Walsh
-60. PMJPEG
+66. PMJPEG
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 2008 PixVision Software
     - – Download Site : http://www.pixvision.com/
-61. PmPaint
+67. PmPaint
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991 Mitchell Fisher
-62. PMSheet
+68. PMSheet
     - – License : Free
     - – Copyright Notice : Copyright (c) 2002-2010 Jasper de Keijzer
-63. PMView
+69. PMView
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1992-2017 Nielsen Software Enterprises
     - – Download Site : https://www.pmview.com/
-64. pngcheck
+70. pngcheck
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995-2007 Greg Roelofs
-65. pngmeta
+71. pngmeta
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998-2001 David Beckett
     - – Download Site : https://pmt.sourceforge.io/pngmeta
-66. Potrace
+72. Potrace
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2001-2017 Peter Selinger
     - – Download Site : http://potrace.sourceforge.net/
-67. PPM2FLI
+73. PPM2FLI
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993-1999 Klaus Ehrenfried
-68. PTPro
+74. PTPro
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2006-2015 Richard L. Walsh
-69. QIViewer
+75. QIViewer
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2010 Dario Ignacio Aguilera
-70. Qtnp
+76. Qtnp
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2007-2012 Victor Hackeridze
-71. QVV
+77. QVV
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1999-2017 Vladi Belperchinov-Shabanski
     - – Download Site : http://cade.datamax.bg/qvv
-72. RTMMM
+78. RTMMM
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Filippo Sartori
-73. RXEXIF
+79. RXEXIF
     - – License : Free
     - – Copyright Notice : Copyright (c) 2003-2005 Lone Peak Automation, LLC
-74. RXGDUTIL
+80. RXGDUTIL
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Andrew J. Wysocki
-75. SANE
+81. RxTTF
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1999 Michal Nečásek, Daniel Hellerstein
+82. SANE
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1998-2017 David Mosberger-Tang and the SANE developers
     - – Download Site : http://www.sane-project.org/
-76. ShowBMP
+83. ShowBMP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992 Bill Leonard
-77. SPFig
+84. ShowFont
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1996 Norbert Heller
+85. SPFig
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999 Pierre Santoni
-78. Squash
+86. Squash
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2007 Seb Ruiz
-79. STLView
+87. STLView
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999 Andrea Venturoli
-80. The Wall
+88. Tame/2
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1997-2004 Goran Ivanković, Klaus Städtler
+89. The Wall
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1995-2011 Ken Kinoshita
-81. ThirdEye
+90. ThirdEye
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 2001-2002 Igor Vanin, Andrei A. Porodko, Eugene Gorbunoff
-82. unpaper
+91. unpaper
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2005-2009 Jens Gulden, 2011-2014 Diego Elio Pettenò
     - – Download Site : https://www.flameeyes.com/projects/unpaper
-83. VGASYNC
+92. VGASYNC
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991 John B. Thiel
-84. VIEWGIF
+93. VIEWGIF
     - – License : Free
     - – Copyright Notice : Copyright (c) 1990 DATAD Telecom Products
-85. VImage Toolkit
+94. VImage Toolkit
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1991 Larry Salomon Jr.
-86. Wallpaper Finer
+95. Wallpaper Finer
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2012 Péter Deak
+96. XIcon
+    - – License : GPL 2.0
+    - – Copyright Notice : Copyright (c) 1993 Norman Walsh
 
 For full legal notices, contributor and translator lists, please visit https://bobsgame.fandom.com/wiki/Extras
