@@ -169,7 +169,7 @@
     - – Copyright Notice : Copyright (c) 1995 Leshek Fiedorowicz
 56. RxSwitchQuery
     - – License : Cardware
-    - – Copyright Notice : Copyright (c) 1997 Mads Orbesen Troest & SIRIUS Cybernetics
+    - – Copyright Notice : Copyright (c) 1997 Mads Orbesen Troest (SIRIUS Cybernetics)
 57. Stats
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 Gary L. Robinson
@@ -228,7 +228,7 @@
     - – Copyright Notice : Copyright (c) 1993 Mike Nice
 75. Wireless LAN Monitor
     - – License : LGPL 2.0 
-    - – Copyright Notice : Copyright (c) 2003-2015 Netlabs WLan Project
+    - – Copyright Notice : Copyright (c) 2003-2015 Netlabs
 76. wpsMon
     - – License : Free
     - – Copyright Notice : Copyright (c) 2009 Clemens-Elias Fischer
