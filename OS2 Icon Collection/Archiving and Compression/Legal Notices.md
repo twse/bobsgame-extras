@@ -40,7 +40,7 @@
 12. LHA
     - – License : Free
     - – Copyright Notice : Copyright (c) 1989 Yooichi Tagawa, 1990 Haruyasu Yoshizaki, 1991 Masaru Oki, 1993-1995 Nobutaka Wakazaki, 1998-2008 Koji Arai, 2000 Tsugio Okamoto
-    - – Download Site : http://lha.osdn.jp/
+    - – Download Site : http://lha.osdn.jp/ (in Japanese only / 日本語のみ)
 13. LSZipWizard
     - – License : Free
     - – Copyright Notice : Copyright (c) 2017-2018 Lothar Söns
@@ -59,7 +59,7 @@
 18. RPF Zip Control
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1993-2007 RPF Software
-    - – Download Site : http://www.rpfsoftware.com/
+    - – Download Site : https://www.rpfsoftware.com/
 19. rxGZlib
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Daniel Hellerstein
