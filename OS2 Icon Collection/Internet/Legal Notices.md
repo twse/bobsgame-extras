@@ -36,7 +36,7 @@
 12. ClipGrab
     - — License : GPL 3.0
     - — Copyright Notice : Copyright (c) 2007-2018 Philipp Schmieder
-    - — Download Site : https://www.clipgrab.org/ (English) or https://www.clipgrab.de/ (Deutsch und mehrer Sprache)
+    - — Download Site : https://www.clipgrab.org/ (in English) or https://www.clipgrab.de/ (in German and other languages / auf Deutsch und anderer Sprache)
 13. Color Chaser
     - — License : Free
     - — Copyright Notice : Copyright (c) 1996 Scott Russell
@@ -56,12 +56,12 @@
 18. EHTML
     - — License : Free
     - — Copyright Notice : Copyright (c) 1995 Gunner Prießnitz
-19. EmTec FTP
-    - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1997-1999 EmTec Innovative Software
-20. Element.ary!, PM Weather
+19. Element.ary!, PM Weather
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 David DuPré
+20. EmTec FTP
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1997-1999 EmTec Innovative Software
 21. Falkon/QupZilla
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2010-2019 David Rosca
@@ -69,7 +69,7 @@
 22. Firefox, SeaMonkey, Thunderbird
     - – License : MPL 2.0
     - – Copyright Notice : Copyright (c) 1998-2019 Contributors to the Mozilla codebase, see the credits page at https://www.mozilla.org/credits/ (sorted) or the monument in the San Francisco office (unsorted).
-    - – Download Site : https://www.mozilla.org/
+    - – Download Site : https://www.mozilla.org/ (Firefox), http://www.seamonkey-project.org/ (SeaMonkey) or https://www.thunderbird.net/ (Thunderbird)
 23. FormCheck/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Arne Blankerts
@@ -387,8 +387,8 @@
      - – License : Free
      - – Copyright Notice : Copyright (c) 1996 Asbjørn Pettersen
 124. WebExplorer
-     - – License : Commercial
-     - – Copyright Notice : IBM
+     - – License : Free
+     - – Copyright Notice : Copyright (c) 1995-1998 IBM
 125. WebWriter/2
      - — License : Shareware
      - — Copyright Notice : Copyright (c) 1995-1996 John Blumel
