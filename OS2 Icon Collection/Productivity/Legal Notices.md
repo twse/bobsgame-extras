@@ -66,7 +66,7 @@
 21. PM-Cron
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Florian Große-Coosmann
-    - – Download Site : http://www.grosse-coosmann.de/
+    - – Download Site : http://www.grosse-coosmann.de/~florian/
 22. Quicky
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2008 Elad Lahav
@@ -75,7 +75,7 @@
     - – Copyright Notice : Copyright (c) 2004 Sundial Systems
 24. Remind
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1993-2018 Roaring Penguin Software
+    - – Copyright Notice : Copyright (c) 1993-2018 Dianne F. Skoll
     - – Download Site : https://dianne.skoll.ca/projects/remind/
 25. RemindMe
     - – License : Shareware
