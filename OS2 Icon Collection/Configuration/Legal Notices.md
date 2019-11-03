@@ -80,7 +80,7 @@
 24. IMPINI
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994-2003 Christian Langanke
-    - – Download Site : http://www.clanganke.de/os2/sw/ (link in German)
+    - – Download Site : http://www.clanganke.de/os2/sw/ (in German only / nur auf Deutsch)
 25. INI2Rexx
     - – License : Free
     - – Copyright Notice : Copyright (c) 2003 Alfredo Fernández Díaz, 2017 André Doff

@@ -19,7 +19,7 @@
 6. Crovert
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1996 Domagoj Klepac
-   - – Download Site : https://www.blagi.net/hrslova/hrslovpl.html (link in Croatian)
+   - – Download Site : https://www.blagi.net/hrslova/hrslovpl.html (in Croatian only / samo v Hrvatski)
 7. DC
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1997-1999 Evgeny Kotsuba

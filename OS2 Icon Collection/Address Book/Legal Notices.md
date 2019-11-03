@@ -21,7 +21,7 @@
 7. PM Adressen
    - – License : Free
    - – Copyright Notice : Copyright (c) 1997-2003 Thomas Nolte
-   - – Download Site : http://os2.thono.com/ (link in German)
+   - – Download Site : http://os2.thono.com/ (in German only / nur auf Deutsch)
 8. PM Scrapbook
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1995 Coolware
