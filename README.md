@@ -5,7 +5,7 @@ This repository contains extra stuff created for bob's game except fonts.
 The [Bob Corporation website](http://www.bobcorporation.com/) does not have a Google search form. This form requires an active connection to the internet.
 
 ## Icons
-Icons using the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for OS/2 programs. Use them to replace icons from the program resources. See Third-Party Notices.md for commercial and unsupported freeware credits.
+Icons using the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits.
 
 ## Art Department
 Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
@@ -14,22 +14,22 @@ Want to be a show-off? Impress your friends? This is the place. Robert Pelloni o
 Use theme managers (e.g. Anemone, CHMM, Themely, ThemePack...) to replace the skin. The skin was created with 3DS Theme Editor.
 
 ## Sound Scheme
-Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2 and **System Preferences** in macOS, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 9x or ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound** (also in Appearance and **Personalization** if using category view or in **Personalization** if displayed with all icons) in Windows Vista or higher, macOS, BeOS, OS/2 and more). The sound scheme was created with Windows Sound Recorder and Wavosaur.
+Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 9x or ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound** (also in Appearance and **Personalization** if using category view or in **Hardware and Sound** or **Personalization** if displayed with all icons) in Windows Vista or higher, BeOS, OS/2 and more). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
 
 ### Index of sound events
-| Windows name  | OS/2 name                 | Filename           |
-|---------------|---------------------------|--------------------|
-| None          | Alarm                     | BG Alarm.wav       |
-| Asterisk      | None                      | TBD                |
-| Close program | Closing window (Animated) | TBD                |
-| Critical Stop | Error                     | BG Error.wav       |
-| Default sound | None                      | TBD                |
-| Exclamation   | Warning                   | BG Exclamation.wav |
-| Exit Windows  | System shutdown           | BG Shutdown.wav    |
-| Open program  | Opening window (Animated) | TBD                |
-| None          | Printer error             | TBD                |
-| Recycle       | Recycle                   | BG Recycle.wav     |
-| Start Windows | System startup            | BG Startup.wav     |
+| Windows name      | OS/2 name                 | Filename           |
+|-------------------|---------------------------|--------------------|
+| None              | Alarm                     | BG Alarm.wav       |
+| Asterisk          | None                      | TBD                |
+| Close Program     | Closing window (Animated) | TBD                |
+| Critical Stop     | Error                     | BG Error.wav       |
+| Default Beep      | None                      | TBD                |
+| Exclamation       | Warning                   | BG Exclamation.wav |
+| Exit Windows      | System shutdown           | BG Shutdown.wav    |
+| Open Program      | Opening window (Animated) | TBD                |
+| None              | Printer error             | TBD                |
+| Empty Recycle Bin | Recycle                   | BG Recycle.wav     |
+| Start Windows     | System startup            | BG Startup.wav     |
 
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
@@ -44,7 +44,7 @@ Use the Windows XP version of [BootSkin](https://www.stardock.com/products/boots
 ## Palm OS Emulator Skin
 Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with [PMView](https://www.pmview.com/).
 
-This skin can be used with the emulators listed below. Robert Pelloni is not the original author of these emulators. The original copyright notice and the license and contributor list is set forth below. Robert Pelloni licenses these emulators to you under the terms set forth in the BobCorporation EULA. Robert Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
+This skin can be used with the emulators listed below. Robert Pelloni is not the original author of these emulators. The original copyright notice and the license and contributor list is set forth below. Robert Pelloni licenses these emulators to you under the terms set forth in the BobCorporation license agreement. Robert Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
 
 ### CoPilot/2
 See [Extras page on the Bob's Game Wiki](https://bobsgame.fandom.com/wiki/Extras).
