@@ -26,7 +26,7 @@
 8. PM123
    - – License : BSD 3-Clause
    - – Copyright Notice : Copyright (c) 1997-2003 Samuel Audet, Taneli Leppä, 2004-2017 Dmitry A. Steklenev, Marcel Müller
-   - – Download Site : http://www.5nets.ru/ or http://maazl.de/project/pm123/index.html
+   - – Download Site : http://www.5nets.ru/pm123.html or http://maazl.de/project/pm123/index.html
 9. POP-Play
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1995-1996 Seppo Lehikoinen
