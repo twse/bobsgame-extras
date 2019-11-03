@@ -37,8 +37,8 @@
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Thomas Baier
 13. Jot
-   - – License : Shareware
-   - – Copyright Notice : Copyright (c) 1996 Jacqueline Wells
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1996 Jacqueline Wells
 14. LightWaves
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Hammer of the Gods Software
@@ -129,7 +129,7 @@
     - – Copyright Notice : Copyright (c) 1997-2003 Uwe Schlenther
 41. When and What
     - – License : Free
-    - – Copyright Notice : Copyright (c) 2017 Konstantinos Kafetzidis40
+    - – Copyright Notice : Copyright (c) 2017 Konstantinos Kafetzidis
 42. WhO
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Patrick Schulte
