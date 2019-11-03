@@ -24,11 +24,11 @@ Use this to replace system sounds or change it through the sound settings (e.g. 
 | Close Program     | Closing window (Animated) | TBD                |
 | Critical Stop     | Error                     | BG Error.wav       |
 | Default Beep      | None                      | TBD                |
+| Empty Recycle Bin | Recycle                   | BG Recycle.wav     |
 | Exclamation       | Warning                   | BG Exclamation.wav |
 | Exit Windows      | System shutdown           | BG Shutdown.wav    |
 | Open Program      | Opening window (Animated) | TBD                |
 | None              | Printer error             | TBD                |
-| Empty Recycle Bin | Recycle                   | BG Recycle.wav     |
 | Start Windows     | System startup            | BG Startup.wav     |
 
 ## Windows OEM Branding
