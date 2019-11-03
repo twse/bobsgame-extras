@@ -21,8 +21,7 @@
    - — Copyright Notice : Copyright (c) 1993 QB SoftWare
 7. DirMaster
    - — License : Shareware
-   - — Copyright Notice : Copyright (c) 1993-2009 Alexander Wilkens
-   - — Download Site : http://www.enriva.com/
+   - — Copyright Notice : Copyright (c) 1993-1998 Alexander Wilkens
 8. EF Commander
    - — License : Shareware
    - — Copyright Notice : Copyright (c) 1994-2010 Emil Fickel
