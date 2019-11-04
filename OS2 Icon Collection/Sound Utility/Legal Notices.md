@@ -115,90 +115,100 @@
 35. mp3asm
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Oliver Fromme
-36. MyMP3
+36. Mup
+    - – License : BSD 3-Clause
+    - – Copyright Notice : Copyright (c) 1995-2017 Arkkra Enterprises
+    - – Download Site : http://www.arkkra.com/
+37. MyMP3
     - – License : Free
     - – Copyright Notice : Copyright (c) 2001 Charles Cohen
-37. Nota Musica Sequencer
+38. Nota Musica Sequencer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 Johannes Martin Software-Entwicklung
-38. Ogg Vorbis, Opus, Speex, Theora
+39. Ogg Vorbis, Opus, Speex, Theora
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 2001-2018 Xiph.org Foundation
     - – Download Site : https://www.xiph.org/
-39. OplID
+40. OplID
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 François D. Ménard
-40. Playlist
+41. Playlist
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Randall W. Jenkins
-41. PM Radio
+42. PM Radio
     - – License : Free or GPL 2.0
     - – Copyright Notice : Copyright (c) 1992-2004 Stephen Loomis, 1997-1999 Paul Ratcliffe
-42. PMaud
+43. PMaud
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Ryan C. Gordon 
-43. PMCD2WAV
+44. PMCD2WAV
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 Norbert Heller
-44. PMMixer
+45. PMMixer
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Jeroen Hoppenbrouwers
-45. PMPoze, Sounder
+46. PMPoze, Sounder
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994-1996 Todd Stokes
-46. PMsndX
+47. PMsndX
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 William S. Hiles
-47. PMUniMix
+48. PMUniMix
     - – License : Free
     - – Copyright Notice : Copyright (c) 2015-2017 David W. Parsons
-48. Radiofax
+49. Radiofax
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 William Sutton
-49. RxRTCtrl
+50. RxRTCtrl
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Nicky Morrow, Armin Schwarz
-50. RxShout
+51. RxShout
     - – License : Free
     - – Copyright Notice : Copyright (c) 2007 Andrey Vasilkin
-51. RxWav
+52. RxWav
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1999-2000 Giorgio Vicario
-52. SBPM/2
+53. SBPM/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997 Gerard Gerritsen
-53. SetRegPM
+54. SetRegPM
     - – License : Free
     - – Copyright Notice : Copyright (c) 2002 Carsten Arnold
     - – Download Site : http://www.ca-arnold.de/
-54. SGPMix
+55. SGPMix
     - – License : Free
     - – Copyright Notice : Copyright (c) 2002 Doodle
-55. Sound Scheme Editor
+56. Sound Scheme Editor
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996-1997 Travis Watford
-56. SoX
+57. SoX
     - – License : GPL 2.0 (program), LGPL 2.1 (library and more)
     - – Copyright Notice : Copyright (c) 1991 Lance Norskog
-57. trk2iso
+58. TagTool
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1998 Richard Röjfors
+59. trk2iso
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Valerie Vrabie
-58. VoiX
+60. VoiX
     - – License : LGPL 2.0
     - – Copyright Notice : Copyright (c) 2008 Zhichao Zhang
-59. Warped Wave Editor
+61. WarpAMP Playlist Editor
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1998 Mike Ruskai
+62. Warped Wave Editor
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999-2002 Doodle
-60. WarpRadio
+63. WarpRadio
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Armin Schwarz
-61. WarpTuner
+64. WarpTuner
     - – License : Shareware 
     - – Copyright Notice : Copyright (c) 1998 Dmitry Malenok, Andrew Smirnov 
-62. wav2cdr
+65. wav2cdr
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1997-2016 Volker Kuhlmann
-63. WavMix
+66. WavMix
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999 Terry Fry
 
