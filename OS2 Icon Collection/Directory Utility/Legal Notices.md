@@ -21,37 +21,43 @@
 7. DIRSTAT
    - – License : IBM EWS
    - – Copyright Notice : Copyright (c) 1992-1993 Chris Ahl
-8. EQTREE
+8. dSync/2
+   - – License : Free
+   - – Copyright Notice : Copyright (c) 2001-2002 Stepan Kazakov
+9. EQTREE
    - – License : Free
    - – Copyright Notice : Copyright (c) 1994 Stephan Gerle
-9. Folder Recurse
-   - – License : Free
-   - – Copyright Notice : Copyright (c) 1995 Robert McDermid
-10. JLCD
+10. Folder Recurse
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1995 Robert McDermid
+11. GO2
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1995-1996 James E. Johnson Jr.
+12. JLCD
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Jari Laaksonen
-11. PMTree
+13. PMTree
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Torsten Balle Koefoed
-12. Private Folder
+14. Private Folder
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1993 Michel Granger
-13. SeeTree
+15. SeeTree
     - – License : Free
     - – Copyright Notice : Copyright (c) 1987 Hector L. Santos
-14. SyncDir
+16. SyncDir
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999-2010 David Azarewicz
-15. TreeDo
+17. TreeDo
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Mike Lempriere
-16. TreeSize
+18. TreeSize
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993 Idead Computersoftware Elaborations
-17. WackyDir
+19. WackyDir
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Reverse Engineering
-18. Wolfgang's Change Directory
+20. Wolfgang's Change Directory
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Wolfgang Sarp
 
