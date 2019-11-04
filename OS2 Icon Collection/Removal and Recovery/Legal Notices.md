@@ -40,10 +40,13 @@
 13. VUnDel
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993 Multitask Consulting
-14. XDEL
+14. Waste/2
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1993-1994 Paul S. Gazo
+15. XDEL
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995-2004 Klaus Joosz
-15. ZIPDEL
+16. ZIPDEL
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995-1997 Wonkoo Kim
 
