@@ -15,7 +15,14 @@
 5. KCopy/2
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 1999 Myung-Hun Ko
-6. WSSFill
+6. RCopy
+   - – License : Free
+   - – Copyright Notice : Copyright (c) 1996 Vitus Jensen
+7. Safecopy
+   - – License : GPL 2.0
+   - – Copyright Notice : Copyright (c) 2005-2012 Eric Noack
+   - – Download Site : http://safecopy.sourceforge.net/
+8. WSSFill
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1998 Robert W. Babcock
 
