@@ -19,19 +19,19 @@ Use this to replace system sounds or change it through the sound settings (e.g. 
 macOS only allows the user to change the alert sound.
 
 ### Index of sound events
-| Windows name      | OS/2 name                 | Filename           |
-|-------------------|---------------------------|--------------------|
-| None              | Alarm                     | BG Alarm.wav       |
-| Asterisk          | None                      | TBD                |
-| Close Program     | Closing window (Animated) | TBD                |
-| Critical Stop     | Error                     | BG Error.wav       |
-| Default Beep      | None                      | TBD                |
-| Empty Recycle Bin | Recycle                   | BG Recycle.wav     |
-| Exclamation       | Warning                   | BG Exclamation.wav |
-| Exit Windows      | System shutdown           | BG Shutdown.wav    |
-| Open Program      | Opening window (Animated) | TBD                |
-| None              | Printer error             | TBD                |
-| Start Windows     | System startup            | BG Startup.wav     |
+| Windows name      | OS/2 name                 | Filename             |
+|-------------------|---------------------------|----------------------|
+| None              | Alarm                     | BG Alarm.wav         |
+| Asterisk          | None                      | TBD                  |
+| Close Program     | Closing window (Animated) | BG Close Program.wav |
+| Critical Stop     | Error                     | BG Error.wav         |
+| Default Beep      | None                      | TBD                  |
+| Empty Recycle Bin | Recycle                   | BG Recycle.wav       |
+| Exclamation       | Warning                   | BG Exclamation.wav   |
+| Exit Windows      | System shutdown           | BG Shutdown.wav      |
+| Open Program      | Opening window (Animated) | BG Open Program.wav  |
+| None              | Printer error             | TBD                  |
+| Start Windows     | System startup            | BG Startup.wav       |
 
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
