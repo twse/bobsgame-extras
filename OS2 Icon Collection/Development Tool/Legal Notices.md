@@ -271,7 +271,7 @@
 84. SWI-Prolog
     - – License : BSD 2-Clause
     - – Copyright Notice : Copyright (c) 1985-2019 University of Amsterdam
-    - – Download Site : http://www.swi-prolog.org/
+    - – Download Site : https://www.swi-prolog.org/
 85. The Interactive Disassembler
     - – License : Freemium
     - – Copyright Notice : Copyright (c) 1996 Datarescue sprl
