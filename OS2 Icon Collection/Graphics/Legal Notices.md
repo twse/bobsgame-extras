@@ -295,6 +295,7 @@
     - – Copyright Notice : Copyright (c) 1997-2004 Goran Ivanković, Klaus Städtler
 91. Tesseract
     - – License : Apache 2.0
+    - – Copyright Notice : Copyright (c) 1985-1998 Hewlett-Packard Company, 2006-2018 Google LLC
 92. The Wall
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1995-2011 Ken Kinoshita
