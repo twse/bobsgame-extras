@@ -43,7 +43,7 @@
     - – Download Site : http://lha.osdn.jp/ (in Japanese only / 日本語のみ)
 13. LSZipWizard
     - – License : Free
-    - – Copyright Notice : Copyright (c) 2017-2018 Lothar Söns
+    - – Copyright Notice : Copyright (c) 2017-2019 Lothar Söns
 14. lxLite
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1996-1997 Andrew Zabolotny, 2001-2015 Max Alekseyev, 2017 bitwise works GmbH
@@ -63,55 +63,58 @@
 19. rxGZlib
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Daniel Hellerstein
-20. Simple ZipShell, ZipShell
+20. SAFEPACK
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1995 D J Harvey Software
+21. Simple ZipShell, ZipShell
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993-1996 Martin Vieregg
     - – Download Site : http://www.hypermake.com/ (broken download links)
-21. TarGZipPM
+22. TarGZipPM
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Virtual Publication
-22. The UnZip Shell
+23. The UnZip Shell
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994-1996 John Wagner
-23. UNRAR
+24. UNRAR
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1993-2017 Alexander Roshal
     - – Download Site : https://www.rarlab.com/
-24. WarpExpander
+25. WarpExpander
     - – License : Free
     - – Copyright Notice : Copyright (c) 2003 Salvador Parra Camacho
-25. WarpIN
+26. WarpIN
     - – License : LGPL 2.1
     - – Copyright Notice : Copyright (c) 1997-2012 Netlabs
-26. WarpZip
+27. WarpZip
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996-2000 PillarSoft
-27. Workplace Shell UnZip
+28. Workplace Shell UnZip
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Scott Maxwell
-28. WPIView
+29. WPIView
     - – License : Free
     - – Copyright Notice : Copyright (c) 2006-2010 Herwig Bauernfeind
-29. Zip Chunker Pro
+30. Zip Chunker Pro
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1991-1995 Scott Jibben
-30. Zip Viewer
+31. Zip Viewer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1993 Custom Design Software
-31. ZiPMe
+32. ZiPMe
     - – License : Cardware
     - – Copyright Notice : Copyright (c) 1995-1996 Peter Eggert
-32. Zippy
+33. Zippy
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 2017 Dmitry A. Steklenev
     - – Download Site : http://www.5nets.ru/
-33. ZipStream
+34. ZipStream
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994-1995 Carbon Based Software
-34. ZipZap
+35. ZipZap
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1997-2012 Gary L. Robinson
-35. zlib
+36. zlib
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler
     - – Download Site : http://www.zlib.net/
