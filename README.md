@@ -1,8 +1,8 @@
 ﻿# Extra stuff for bob's game
 This repository contains extra stuff created for bob's game except fonts.
 
-## Google search form
-The [Bob Corporation website](http://www.bobcorporation.com/) does not have a Google search form. This form requires an active connection to the internet.
+## Google search form (requires internet connection)
+The [Bob Corporation website](http://www.bobcorporation.com/) has no Google search form. Includes an option to search for the wiki hosted by FANDOM.
 
 ## Icons
 Icons using the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits.
@@ -11,12 +11,12 @@ Icons using the lowercase letters of [bob's game font](http://www.bobcorporation
 Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
 
 ## Nintendo 3DS Skin
-Use theme managers (e.g. Anemone, CHMM, Themely, ThemePack...) to replace the skin. The skin was created with 3DS Theme Editor.
+Use theme managers (Anemone, CHMM, Themely, ThemePack, etc. etc. etc.) to replace the skin. The skin was created with 3DS Theme Editor.
 
 ## Sound Scheme
 Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 9x or ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound** (also in **Hardware and Sound** or **Personalization** in icon view) in Windows Vista or higher, BeOS, OS/2 and more, and **Sound and Audio Devices** on ReactOS). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
 
-macOS only allows the user to change the alert sound.
+macOS only allows changing the alert sound.
 
 ### Index of sound events
 | Windows name      | OS/2 name                 | Filename             |
@@ -31,12 +31,15 @@ macOS only allows the user to change the alert sound.
 | Exit Windows      | System shutdown           | BG Shutdown.wav      |
 | Open Program      | Opening window (Animated) | BG Open Program.wav  |
 | None              | Printer error             | TBD                  |
+| Select            | None                      | BG Select.wav        |
 | Start Windows     | System startup            | BG Startup.wav       |
 
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
 
-Under Windows Vista and newer, add the Logo using `OEMlogo.bmp` as value and Manufacturer using Robert Matthew Pelloni as value in `OEMInformation` under the HKLM key.
+The suggested registry keys for use with Vista & above in HKLM on OEMInformation are as follows.
+* **Logo** is `OEMlogo.bmp`
+* **Manufacturer** is Robert Matthew Pelloni
 
 ## Boot Skin
 The actual logo is in BootSkin Windows XP format. Attempting to install this logo under the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
