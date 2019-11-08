@@ -31,16 +31,25 @@
 10. L2
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1992-1993 A. Donnie Hale, Jr.
-11. LOOK2
+11. LIST
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1983-2005 Vernon D. Buerg
+12. ListPM
+    - – License : GPL 2.0
+    - – Copyright Notice : Copyright (c) 1996 Paul Elliott
+13. LOOK2
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996-1997 Gary Bourque
-12. ReRead
+14. LST
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1995 Richard Wagner
+15. ReRead
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Mike Lastucka
-13. TextView
+16. TextView
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Raphaël Vanney
-14. YACReader
+17. YACReader
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2009-2018 Luis Ángel San Martín Rodríguez
     - – Download Site : https://www.yacreader.com/
