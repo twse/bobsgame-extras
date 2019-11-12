@@ -1,7 +1,7 @@
-### Windows Boot Skin License
-Use this boot skin for free.
+### License for Sound Scheme et al.
+Use this sound scheme, boot skin and other materials for free.
 
-### OS/2 Icon Collection License
+### License for OS/2 Icon Collection
 Use this icon collection for free.
 
 And, of course:
