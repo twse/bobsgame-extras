@@ -29,6 +29,7 @@ macOS only allows changing the alert sound.
 | Empty Recycle Bin | Recycle                   | BG Recycle.wav       |
 | Exclamation       | Warning                   | BG Exclamation.wav   |
 | Exit Windows      | System shutdown           | BG Shutdown.wav      |
+| Information       | Information               | BG Information.wav   |
 | Open Program      | Opening window (Animated) | BG Open Program.wav  |
 | None              | Printer error             | TBD                  |
 | Select            | None                      | BG Select.wav        |
