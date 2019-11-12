@@ -70,7 +70,7 @@
 21. GenINI
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2008-2014 Peter Moylan
-    - – Download Site : http://www.pmoylan.org/
+    - – Download Site : http://www.pmoylan.org/pages/os2/genini.html
 22. I Browse
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Jay Freeman

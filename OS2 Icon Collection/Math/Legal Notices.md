@@ -56,7 +56,7 @@
 18. KeyCalc
     - – License : Free
     - – Copyright Notice : Copyright (c) 2008-2009 Peter Moylan
-    - – Download Site : http://www.pmoylan.org/
+    - – Download Site : http://www.pmoylan.org/pages/os2/keycalc.html
 19. Kind Constructor
     - – License : Free
     - – Copyright Notice : Copyright (c) 2001-2002 Michal Žemlička
