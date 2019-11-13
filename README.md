@@ -16,7 +16,7 @@ Use theme managers (Anemone, CHMM, Themely, ThemePack, etc. etc. etc.) to replac
 ## Sound Scheme
 Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 9x or ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound** (also in **Hardware and Sound** or **Personalization** in icon view) in Windows Vista or higher, BeOS, OS/2 and more, and **Sound and Audio Devices** on ReactOS). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
 
-macOS only allows changing the alert sound.
+Windows 95 until 7 allows the user to change the login/logoff and shutdown sound. macOS only allows changing the alert sound.
 
 ### Index of sound events
 | Windows name      | OS/2 name                 | Filename             |

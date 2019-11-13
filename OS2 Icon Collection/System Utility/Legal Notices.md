@@ -45,7 +45,7 @@
 15. FREE
     - — License : Free
     - — Copyright Notice : Copyright (c) 1994 Harald Bögeholz
-16. GONE
+16. GONE, NewScan
     - — License : Free
 17. ItsNow!
     - — License : Shareware
@@ -98,7 +98,7 @@
     - — Copyright Notice : Copyright (c) 1994 Dave Boll, 1999 Walter Metcalf
 33. ScreenSpace
     - — License : Free
-    - — Copyright Notice : Copyright (c) 1996 Shprota
+    - — Copyright Notice : Copyright (c) 1996 *Shprota*
 34. SDFDump
     - — License : Free
     - — Copyright Notice : Copyright (c) 2001 Andrew Belov
@@ -120,26 +120,29 @@
 40. Syslog
     - — License : Free
     - — Copyright Notice : Copyright (c) 1983-1988 The Regents of the University of California
-41. ThStat
+41. THD ProScan
+    - — License : Free
+    - — Copyright Notice : Copyright (c) 1995 David Muir
+42. ThStat
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1989 Franz Krainer
-42. TLHIDE
+43. TLHIDE
     - — License : Free
     - — Copyright Notice : Copyright (c) 1995 Christian Langanke
-43. TuneUp
+44. TuneUp
     - — License : IBM EWS
     - — Copyright Notice : Copyright (c) 1993 Ken Hubacher
-44. UpdCd
+45. UpdCd
     - — License : Free
     - — Copyright Notice : Copyright (c) 2000-2007 Dimitris 'sehh' Michelinakis, Zsolt Kádár
-45. uptime
+46. uptime
     - — License : Free
     - — Copyright Notice : Copyright (c) 1995 Cheng-Yang Tan, 2000 Mark Eckstein
-46. USB Resource Manager
+47. USB Resource Manager
     - — License : Free
     - — Copyright Notice : Copyright (c) 2017 Wim Brul
     - — Download Site : http://home.hccnet.nl/w.m.brul/
-47. WillUtil
+48. WillUtil
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1992-1994 Will E. Rose
 
