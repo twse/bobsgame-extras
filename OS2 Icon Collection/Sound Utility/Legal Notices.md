@@ -56,7 +56,7 @@
 17. Festival
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996-2017 University of Edinburgh
-    - – Download Site : http://www.cstr.ed.ac.uk/projects/festival/ or http://festvox.org/festival/
+    - – Download Site : http://www.cstr.ed.ac.uk/projects/festival/ (British) or http://festvox.org/festival/ (American)
 18. Filter Designer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Antonino Iannella
