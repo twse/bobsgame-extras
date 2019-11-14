@@ -39,74 +39,95 @@
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991-2011 Daniel Valot
     - – Download Site : http://dvalot.free.fr/
-13. Floppy-Copy
+13. FileSize
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1996 Newton C. Sanches
+14. FileStat
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1993 Gregory Czaja, Ghassan Salem
+15. FILL
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1995 Fabrizio Fioravanti
+16. Floppy-Copy
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1993-1995 Oliver J. Albrecht, Sönke Mumm
-14. fst
+17. fst
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1995-1996 Eberhard Mattes
-15. Harddisk Manager
+18. Harddisk Manager
     - – License : Free
     - – Copyright Notice : Copyright (c) 2005 Frank Ambacher
-16. Informations & Sets for JFS
+19. Hogger
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1994 Jason Henriksen
+20. Informations & Sets for JFS
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000-2004 Pavel Shtemenko
-17. KNOWDISK
+21. KNOWDISK
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Pete Graszer
-18. KORT_IMG
+22. KORT_IMG
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997 Henk den Adel
-19. MEject/2
+23. MEject/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Roger Sennert
-20. Parallel Hard Disk Xfer
+24. Parallel Hard Disk Xfer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Alan A. Guggenheim
-21. PM Disk Catalog
+25. PM Disk Catalog
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 Rainer Falkner
-22. PM Disk Map
+26. PM Disk Map
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Joël Armengaud
-23. PM Disk Usage
+27. PM Disk Usage
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 Antonino Iannella
-24. PM Diskcopy
+28. PM File & Disk Utility
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1991 ASH Software, Inc.
+29. PM Diskcopy
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1998 Bernd Wetzel
-25. PMFloppy
+30. PMFloppy
     - – License : Public Domain
     - – Copyright Notice : Copyright (c) 1990 Greg Bryant, 1995 Brady Flowers
-26. PMFORMAT
+31. PMFORMAT
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 1995-2015 Noller & Breining Software
-27. PXTOOL
+32. PXTOOL
     - – License : Free
     - – Copyright Notice : Copyright (c) 2008 Nikolay Kolosov
-28. QDiskUsage
+33. QDiskUsage
     - – License : GPL 3.0
-29. QFORMAT
+34. QFORMAT
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992 John K. Gotwals
-30. RSJ CD Writer
+35. RSJ CD Writer
     - – License : Commercial
     - – Copyright Notice : Copyright (c) 2002 RSJ
-31. RxLVM
+36. RxLVM
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 2006-2007 Alexander Taylor
     - – Download Site : http://www.altsan.org/
-32. SCSIMON
+37. SCSIMON
     - – License : Free
     - – Copyright Notice : Copyright (c) 2006 Nikolay Kolosov
-33. SMART Monitoring Tools
+38. SMART Monitoring Tools
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2002-2009 Bruce Allen, 2004-2019 Christian Franke
     - – Download Site : https://www.smartmontools.org/
-34. SMARTMON
+39. SMARTMON
     - – License : Free
     - – Copyright Notice : Copyright (c) 2005 Andrew A. Belov
-35. XDSKF
+40. Usage
+    - – License : Public Domain
+    - – Copyright Notice : Copyright (c) 1990-1992 John Ridges
+41. VFATMon
+    - – License : GPL 2.0
+    - – Copyright Notice : Copyright (c) 2004 Jason Stefanovich
+42. XDSKF
     - – License : Free
     - – Copyright Notice : Copyright (c) 2001-2004 Christian Langanke
 
