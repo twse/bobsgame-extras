@@ -127,13 +127,16 @@
 40. WarpNote
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997-2003 Uwe Schlenther
-41. When and What
+41. WatsOnTV
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1995 John Pedersen
+42. When and What
     - – License : Free
     - – Copyright Notice : Copyright (c) 2017 Konstantinos Kafetzidis
-42. WhO
+43. WhO
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Patrick Schulte
-43. Yrolo
+44. Yrolo
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Muhammad A Muquit
     - – Download Site : http://www.muquit.com/muquit/software/yrolo/yrolo.html
