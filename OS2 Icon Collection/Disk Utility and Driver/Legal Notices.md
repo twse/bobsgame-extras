@@ -51,83 +51,110 @@
 16. Floppy-Copy
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1993-1995 Oliver J. Albrecht, Sönke Mumm
+17. fpart
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1998 Stan J. Towianski
 17. fst
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1995-1996 Eberhard Mattes
-18. Harddisk Manager
+18. GibbChg
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1994 Gibbon Computer Products
+19. Harddisk Manager
     - – License : Free
     - – Copyright Notice : Copyright (c) 2005 Frank Ambacher
-19. Hogger
+20. Hogger
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Jason Henriksen
-20. Informations & Sets for JFS
+21. HPFSPm
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1996 Stefano Zamprogno
+22. HPFSTool
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1994-1995 Peter Kraufmann
+23. HPFSUtil
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 2000 Mike Ruskai
+24. Informations & Sets for JFS
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000-2004 Pavel Shtemenko
-21. KNOWDISK
+25. KNOWDISK
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Pete Graszer
-22. KORT_IMG
+26. KORT_IMG
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997 Henk den Adel
-23. MEject/2
+27. MEject/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Roger Sennert
-24. Parallel Hard Disk Xfer
+28. Parallel Hard Disk Xfer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Alan A. Guggenheim
-25. PM Disk Catalog
+29. PM Disk Catalog
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 Rainer Falkner
-26. PM Disk Map
+30. PM Disk Map
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Joël Armengaud
-27. PM Disk Usage
+31. PM Disk Usage
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 Antonino Iannella
-28. PM File & Disk Utility
+32. PM File & Disk Utility
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991 ASH Software, Inc.
-29. PM Diskcopy
+33. PM Diskcopy
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1998 Bernd Wetzel
-30. PMFloppy
+34. PMFloppy
     - – License : Public Domain
     - – Copyright Notice : Copyright (c) 1990 Greg Bryant, 1995 Brady Flowers
-31. PMFORMAT
+35. PMFORMAT
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 1995-2015 Noller & Breining Software
-32. PXTOOL
+36. PXTOOL
     - – License : Free
     - – Copyright Notice : Copyright (c) 2008 Nikolay Kolosov
-33. QDiskUsage
+37. QDiskUsage
     - – License : GPL 3.0
-34. QFORMAT
+38. QFORMAT
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992 John K. Gotwals
-35. RSJ CD Writer
+39. RSJ CD Writer
     - – License : Commercial
     - – Copyright Notice : Copyright (c) 2002 RSJ
-36. RxLVM
+40. RxLVM
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 2006-2007 Alexander Taylor
     - – Download Site : http://www.altsan.org/
-37. SCSIMON
+41. SCSIMON
     - – License : Free
     - – Copyright Notice : Copyright (c) 2006 Nikolay Kolosov
-38. SMART Monitoring Tools
+42. SLICE2, SPLICE2
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1992 Gary L. Robinson
+43. SMART Monitoring Tools
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2002-2009 Bruce Allen, 2004-2019 Christian Franke
     - – Download Site : https://www.smartmontools.org/
-39. SMARTMON
+44. SMARTMON
     - – License : Free
     - – Copyright Notice : Copyright (c) 2005 Andrew A. Belov
-40. Usage
+45. Spacca, Unisci
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1994 Enrico Demarin
+46. Spacehog
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 2000 Wing F. Yuen
+47. TFile
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1997 Tom Brown
+48. Usage
     - – License : Public Domain
     - – Copyright Notice : Copyright (c) 1990-1992 John Ridges
-41. VFATMon
+49. VFATMon
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2004 Jason Stefanovich
-42. XDSKF
+50. XDSKF
     - – License : Free
     - – Copyright Notice : Copyright (c) 2001-2004 Christian Langanke
 
