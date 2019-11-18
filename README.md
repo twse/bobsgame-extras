@@ -2,7 +2,7 @@
 This repository contains extra stuff created for bob's game except fonts.
 
 ## Google search form (requires internet connection)
-The [Bob Corporation website](http://www.bobcorporation.com/) has no Google search form. Includes an option to search for the wiki hosted by FANDOM.
+The [Bob Corporation website](http://www.bobcorporation.com/) has no Google search form. Includes an option to search the wiki hosted by FANDOM.
 
 ## Icons
 Icons using the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits.
@@ -19,21 +19,24 @@ Use this to replace system sounds or change it through the sound settings (e.g. 
 Windows 95 until 7 allows the user to change the login/logoff and shutdown sound. macOS only allows changing the alert sound.
 
 ### Index of sound events
-| Windows name      | OS/2 name                 | Filename             |
-|-------------------|---------------------------|----------------------|
-| None              | Alarm                     | BG Alarm.wav         |
-| Asterisk          | None                      | TBD                  |
-| Close Program     | Closing window (Animated) | BG Close Program.wav |
-| Critical Stop     | Error                     | BG Error.wav         |
-| Default Beep      | None                      | TBD                  |
-| Empty Recycle Bin | Recycle                   | BG Recycle.wav       |
-| Exclamation       | Warning                   | BG Exclamation.wav   |
-| Exit Windows      | System shutdown           | BG Shutdown.wav      |
-| Information       | Information               | BG Information.wav   |
-| Open Program      | Opening window (Animated) | BG Open Program.wav  |
-| None              | Printer error             | TBD                  |
-| Select            | None                      | BG Select.wav        |
-| Start Windows     | System startup            | BG Startup.wav       |
+| Windows name             | OS/2 name                 | Filename               |
+|--------------------------|---------------------------|------------------------|
+| None                     | Alarm                     | BG Alarm.wav           |
+| Asterisk                 | None                      | TBD                    |
+| Close Program            | Closing window (Animated) | BG Close Program.wav   |
+| Critical Stop            | Error                     | BG Error.wav           |
+| Default Beep             | None                      | TBD                    |
+| Device Connect           | None                      | BG Hardware Insert.wav |
+| Device Disconnect        | None                      | BG Hardware Remove.wav |
+| Device Failed to Connect | None                      | BG Hardware Fail.wav   |
+| Empty Recycle Bin        | Recycle                   | BG Recycle.wav         |
+| Exclamation              | Warning                   | BG Exclamation.wav     |
+| Exit Windows             | System shutdown           | BG Shutdown.wav        |
+| Information              | Information               | BG Information.wav     |
+| Open Program             | Opening window (Animated) | BG Open Program.wav    |
+| None                     | Printer error             | TBD                    |
+| Select                   | None                      | BG Select.wav          |
+| Start Windows            | System startup            | BG Startup.wav         |
 
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
