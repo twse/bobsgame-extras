@@ -5,7 +5,7 @@ This repository contains extra stuff created for bob's game except fonts.
 The [Bob Corporation website](http://www.bobcorporation.com/) has no Google search form. Includes an option to search the wiki hosted by FANDOM.
 
 ## Icons
-Icons using the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits.
+Icons based on the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for use with OS/2 programs. The icons are in OS/2 format so it cannot be applied with Windows. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits.
 
 ## Art Department
 Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
@@ -25,7 +25,7 @@ Windows 95 until 7 allows the user to change the login/logoff and shutdown sound
 | Asterisk                 | None                      | TBD                    |
 | Close Program            | Closing window (Animated) | BG Close Program.wav   |
 | Critical Stop            | Error                     | BG Error.wav           |
-| Default Beep             | None                      | TBD                    |
+| Default Beep             | Error                     | TBD                    |
 | Device Connect           | None                      | BG Hardware Insert.wav |
 | Device Disconnect        | None                      | BG Hardware Remove.wav |
 | Device Failed to Connect | None                      | BG Hardware Fail.wav   |
@@ -37,13 +37,14 @@ Windows 95 until 7 allows the user to change the login/logoff and shutdown sound
 | None                     | Printer error             | TBD                    |
 | Select                   | None                      | BG Select.wav          |
 | Start Windows            | System startup            | BG Startup.wav         |
+| Windows Change Theme     | None                      | TBD                    |
 
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
 
-The suggested registry keys for use with Vista & above in HKLM on OEMInformation are as follows.
-* **Logo** is `OEMlogo.bmp`
-* **Manufacturer** is Robert Matthew Pelloni
+Suggested registry keys in Windows Vista & above in HKLM on OEMInformation are as follows.
+* **Logo**: `OEMlogo.bmp`
+* **Manufacturer**: Robert Matthew Pelloni
 
 ## Boot Skin
 The actual logo is in BootSkin Windows XP format. Attempting to install this logo under the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
