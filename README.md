@@ -14,7 +14,7 @@ Want to be a show-off? Impress your friends? This is the place. Robert Pelloni o
 Use theme managers (Anemone, CHMM, Themely, ThemePack, etc. etc. etc.) to replace the skin. The skin was created with 3DS Theme Editor.
 
 ## Sound Scheme
-Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 9x or ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** or **Personalization** in icon view) in Windows Vista or higher, BeOS, OS/2 and more, and **Sound and Audio Devices** on ReactOS). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
+Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 9x or ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** or **Personalization** in icon view) in Windows Vista or higher, BeOS, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Theme: Sound** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
 
 Windows 95 until 7 allows the user to change the login/logoff and shutdown sound. macOS only allows changing the alert sound.
 
@@ -24,6 +24,7 @@ Windows 95 until 7 allows the user to change the login/logoff and shutdown sound
 | None                         | Alarm                     | BG Alarm.wav           |
 | Asterisk                     | None                      | TBD                    |
 | Close Program                | Closing window (Animated) | BG Close Program.wav   |
+| Critical Battery Alarm       | None                      | BG Alarm.wav           |
 | Critical Stop                | Error                     | BG Error.wav           |
 | Default Beep                 | Error                     | TBD                    |
 | Device Connect               | None                      | BG Hardware Insert.wav |
@@ -33,7 +34,6 @@ Windows 95 until 7 allows the user to change the login/logoff and shutdown sound
 | Exclamation                  | Warning                   | BG Exclamation.wav     |
 | Exit Windows                 | System shutdown           | BG Shutdown.wav        |
 | Information                  | Information               | BG Information.wav     |
-| Critical Battery Alarm       | None                      | TBD                    |
 | Maximize                     | Maximize (animated)       | TBD                    |
 | Menu Command                 | None                      | TBD                    |
 | Menu Pop-up                  | None                      | TBD                    |
@@ -52,8 +52,8 @@ Windows 95 until 7 allows the user to change the login/logoff and shutdown sound
 | Start Windows                | System startup            | BG Startup.wav         |
 | System Notification          | Information               | BG Information.wav     |
 | Windows Change Theme         | None                      | TBD                    |
-| Windows Logoff               | None                      | BG Shutdown.wav        |
-| Windows Logon                | None                      | BG Startup.wav         |
+| Windows Logoff               | System shutdown           | BG Shutdown.wav        |
+| Windows Logon                | System startup            | BG Startup.wav         |
 | Windows User Account Control | None                      | TBD                    |
 
 ## Windows OEM Branding
