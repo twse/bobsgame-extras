@@ -25,7 +25,7 @@ Windows 95 until 7 allows the user to change the login/logoff and shutdown sound
 | Asterisk                     | None                      | TBD                         |
 | Close Program                | Closing window (Animated) | BG Close Program.wav        |
 | Critical Battery Alarm       | None                      | BG Alarm.wav                |
-| Critical Stop                | Error                     | BG Error.wav                |
+| Critical Stop                | Error                     | BG Critical Stop.wav        |
 | Default Beep                 | Error                     | TBD                         |
 | Device Connect               | None                      | BG Hardware Insert.wav      |
 | Device Disconnect            | None                      | BG Hardware Remove.wav      |
