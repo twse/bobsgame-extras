@@ -58,6 +58,6 @@
 18. VLC
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1996-2019 VideoLAN
-    - – Download Site : http://www.videolan.org/
+    - – Download Site : http://www.videolan.org/vlc/
 
 For full legal notices, contributor and translator lists, please visit https://bobsgame.fandom.com/wiki/Extras
