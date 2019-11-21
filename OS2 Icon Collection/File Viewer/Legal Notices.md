@@ -5,7 +5,7 @@
    - – Copyright Notice : Copyright (c) 1994 Bill Weschke
 2. Acrobat Reader
    - – License : Free
-   - – Copyright Notice : Copyright (c) 1984-2018 Adobe Systems Incorporated, see the credits list for the program itself or plugins in old versions.
+   - – Copyright Notice : Copyright (c) 1984-2018 Adobe Systems Incorporated, see credits for the program or plugins in old versions.
 3. Antiword
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 1998-2005 Adriaan van Os
@@ -46,10 +46,13 @@
 15. ReRead
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Mike Lastucka
-16. TextView
+16. Structure Look
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1997-1999 Eugene Suslikov
+17. TextView
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Raphaël Vanney
-17. YACReader
+18. YACReader
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2009-2018 Luis Ángel San Martín Rodríguez
     - – Download Site : https://www.yacreader.com/
