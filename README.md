@@ -26,7 +26,7 @@ Windows 95 until 7 allows the user to change the login/logoff and shutdown sound
 | Close Program                | Closing window (Animated) | BG Close Program.wav        |
 | Critical Battery Alarm       | None                      | BG Alarm.wav                |
 | Critical Stop                | Error                     | BG Critical Stop.wav        |
-| Default Beep                 | Error                     | TBD                         |
+| Default Beep                 | Error                     | BG Error.wav                |
 | Device Connect               | None                      | BG Hardware Insert.wav      |
 | Device Disconnect            | None                      | BG Hardware Remove.wav      |
 | Device Failed to Connect     | None                      | BG Hardware Fail.wav        |
@@ -102,7 +102,6 @@ You should have received a copy of the GNU General Public License along with thi
 * Anthony Fishbeck
 * Art Dahm
 * Arturo Tena
-* AvantGo
 * B. Cameron Lesiuk
 * Ben Combee
 * Ben Darnell - Debian packaging
@@ -119,7 +118,7 @@ You should have received a copy of the GNU General Public License along with thi
 * Bob Petersen
 * Brian Estes
 * Brian Mathis
-* Bruce Ashley Photography - Skin creator
+* Bruce Ashley - Skins
 * Carlton Craighead
 * Catherine White
 * Chad House
@@ -128,7 +127,6 @@ You should have received a copy of the GNU General Public License along with thi
 * Christian Falch
 * Christopher Hunt
 * Chunk Bazil
-* Cooperative Computers, Inc.
 * Craig Schofield - macOS port
 * Dan Fahrion
 * Dan Poirier
@@ -147,7 +145,6 @@ You should have received a copy of the GNU General Public License along with thi
 * Derek Johnson
 * Doug Morrison
 * Douglas R. Shefsky
-* Easy Software
 * Eric House
 * Eskil Heyn Olsen
 * Eugene Chin
@@ -162,13 +159,11 @@ You should have received a copy of the GNU General Public License along with thi
 * Gregory Allen Gaub
 * Guilherme C. Hazan
 * Hal Mueller
-* Handspring
 * Harini Bharadvaj
 * Harry Dolan
 * Hiroyuki Okamoto
 * Holger Klawitter
 * Horace Ho
-* International Business Machines
 * Ivan Doitchinov
 * James Phillips
 * Jameson Quinn
@@ -194,7 +189,6 @@ You should have received a copy of the GNU General Public License along with thi
 * Ken Hancock
 * Ken Krugler
 * Kenneth Albanowski
-* Llamagraphics, Inc.
 * Mahendra Tailor
 * Mark Baysinger
 * Mark Corry
