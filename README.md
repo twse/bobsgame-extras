@@ -76,7 +76,7 @@ This skin can be used with the emulators listed below. Robert Pelloni is not the
 ### CoPilot/2
 Available in the [Hobbes archive](http://hobbes.nmsu.edu/). See [Extras page on the Bob's Game Wiki](https://bobsgame.fandom.com/wiki/Extras).
 
-### [Palm Hardware Emulator](http://www.perpendox.com/phem/index.html)
+### Palm Hardware Emulator
 Available as commercial software in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem)
 
 ### Palm OS Emulator
