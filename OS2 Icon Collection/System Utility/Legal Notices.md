@@ -36,116 +36,137 @@
 12. DSTAT
     - — License : Free
     - — Copyright Notice : Copyright (c) 1994-1996 tauZero Systems
-13. Elapsed
+13. EABackup
+    - — License : Free
+    - — Copyright Notice : Copyright (c) 1994 David Thorn, 1995 Pat Curtis
+14. EasySync
+    - — License : Shareware
+    - — Copyright Notice : Copyright (c) 2009-2015 Keith Merrington
+15. Elapsed
     - — License : Free
     - — Copyright Notice : Copyright (c) 1999 Dan Holmes
-14. EMX
+16. EMX
     - — License : GPL 2.0
     - — Copyright Notice : Copyright (c) 1990-1998 Eberhard Mattes
-15. FINDSEG
+17. ExecNet
+    - — License : Free
+    - — Copyright Notice : Copyright (c) 1995 Rolf Breuning
+18. File Cutter
+    - — License : Free
+    - — Copyright Notice : Copyright (c) 1996 VG Soft
+19. File Utilities
+    - — License : Free
+    - — Copyright Notice : Copyright (c) 1996 John S Glover
+20. FileREXX
+    - — License : Free
+    - — Copyright Notice : Copyright (c) 1995 Jeff Glatt
+21. FINDSEG
     - — License : IBM EWS
     - — Copyright Notice : Copyright (c) 1990-1992 Takaaki Nonaka
-16. FREE
+22. FREE
     - — License : Free
     - — Copyright Notice : Copyright (c) 1994 Harald Bögeholz
-17. GONE, NewScan
+23. FSync
     - — License : Free
-18. ItsNow!
+    - — Copyright Notice : Copyright (c) 1999-2010 David Azarewicz
+24. GONE, NewScan
+    - — License : Free
+25. ItsNow!
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1992 Theo Foster
-19. JShifter
+26. JShifter
     - — License : IBM EWS
     - — Copyright Notice : Copyright (c) 1995-1997 Jeppe Cramon
-20. JUMP
+27. JUMP
     - — License : Free
     - — Copyright Notice : Copyright (c) 1994 Thomas S. Opheys
-21. KL-Virus
+28. KL-Virus
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1993 Keith Luken
-22. L40BATT
+29. L40BATT
     - — License : IBM EWS
     - — Copyright Notice : Copyright (c) 1992-1993 Barry R. Diller
-23. LIMIT
+30. LIMIT
     - — License : Free
     - — Copyright Notice : Copyright (c) 1992 Jan Bernard van Doorn
-24. LogIt
+31. LogIt
     - — License : Free
     - — Copyright Notice : Copyright (c) 1997 Julian Buss
-25. NoCAD
+32. NoCAD
     - — License : Free
     - — Copyright Notice : Copyright (c) 1993 Bernd Kunrath
-26. noList
+33. noList
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1993 Jack Tan
-27. Odin
+34. Odin
     - — License : Free
     - — Copyright Notice : Copyright (c) 1999-2017 Netlabs
     - — Download Site : http://odin.netlabs.org/
-28. OS/2 Command Line Utilities
+35. OS/2 Command Line Utilities
     - — License : Free
     - — Copyright Notice : Copyright (c) 1991-2004 Jonathan de Boyne Pollard
-29. PM Patrol
+36. PM Patrol
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1996 WallyWare
-30. Protime
+37. Protime
     - — License : Emailware
     - — Copyright Notice : Copyright (c) 2004 Gene Angel
-31. RMX
+38. RMX
     - — License : Free
     - — Copyright Notice : Copyright (c) 1995 Johan Wikman
-32. RUNFOR
+39. RUNFOR
     - — License : Free
     - — Copyright Notice : Copyright (c) 1995 Wonkoo Kim
-33. RXU
+40. RXU
     - — License : Free
     - — Copyright Notice : Copyright (c) 1994 Dave Boll, 1999 Walter Metcalf
-34. ScreenSpace
+41. ScreenSpace
     - — License : Free
     - — Copyright Notice : Copyright (c) 1996 *Shprota*
-35. SDFDump
+42. SDFDump
     - — License : Free
     - — Copyright Notice : Copyright (c) 2001 Andrew Belov
-36. Showfrag
+43. Showfrag
     - — License : Free
     - — Copyright Notice : Copyright (c) 1991-1992 Bob Flanders, Michael Holmes, Dennis Lang
-37. SOS Utilities
+44. SOS Utilities
     - — License : GPL 2.0
     - — Copyright Notice : Copyright (c) 1993 Tommi Nieminen
-38. SWAPDCP
+45. SWAPDCP
     - — License : Free
     - — Copyright Notice : Copyright (c) 1992 Ned Konz
-39. SWAPSIZE
+46. SWAPSIZE
     - — License : Free
     - — Copyright Notice : Copyright (c) 1991 Bob Mahan
-40. Syslev
+47. Syslev
     - — License : BSD 3-Clause
     - — Copyright Notice : Copyright (c) 2000-2016 Robert D Eager
-41. Syslog
+48. Syslog
     - — License : Free
     - — Copyright Notice : Copyright (c) 1983-1988 The Regents of the University of California
-42. THD ProScan
+49. THD ProScan
     - — License : Free
     - — Copyright Notice : Copyright (c) 1995 David Muir
-43. ThStat
+50. ThStat
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1989 Franz Krainer
-44. TLHIDE
+51. TLHIDE
     - — License : Free
     - — Copyright Notice : Copyright (c) 1995 Christian Langanke
-45. TuneUp
+52. TuneUp
     - — License : IBM EWS
     - — Copyright Notice : Copyright (c) 1993 Ken Hubacher
-46. UpdCd
+53. UpdCd
     - — License : Free
     - — Copyright Notice : Copyright (c) 2000-2007 Dimitris 'sehh' Michelinakis, Zsolt Kádár
-47. uptime
+54. uptime
     - — License : Free
     - — Copyright Notice : Copyright (c) 1995 Cheng-Yang Tan, 2000 Mark Eckstein
-48. USB Resource Manager
+55. USB Resource Manager
     - — License : Free
     - — Copyright Notice : Copyright (c) 2017 Wim Brul
     - — Download Site : http://home.hccnet.nl/w.m.brul/
-49. WillUtil
+56. WillUtil
     - — License : Shareware
     - — Copyright Notice : Copyright (c) 1992-1994 Will E. Rose
 
