@@ -14,10 +14,10 @@
    - – Copyright Notice : Copyright (c) 1999 Jure Skvarč
 5. LVB
    - – License : BSD 3-Clause
-   - – Copyright Notice : Copyright (c) 2003-2015 Daniel Barker, Miguel Pinheiro, Maximilian Strobl, Chris Wood
+   - – Copyright Notice : Copyright (c) 2003-2019 Daniel Barker, Joseph Guscott, Miguel Pinheiro, Maximilian Strobl, Chris Wood
    - – Download Site : http://lvb.bio.ed.ac.uk/
 6. MegaHAL
-   - – License : Public Domain
+   - – License : Unlicense
    - – Copyright Notice : Copyright (c) 1998-2016 Jason Hutchens
 7. ngSpice
    - – License : BSD 3-Clause
@@ -26,7 +26,7 @@
 8. Night Vision
    - – License : GPL 3.0
    - – Copyright Notice : Copyright (c) 1996-2015 Brian Simpson
-   - – Download Site : http://www.nvastro.com/
+   - – Download Site : http://www.nvastro.com/nvj.html (Java) or http://www.nvastro.com/nvsn.html (OS/2 version)
 9. NOCTIS
    - – License : Free
    - – Copyright Notice : Copyright (c) 1997-2000 Andrea Di Paola
@@ -64,7 +64,7 @@
 20. WarpGLOBE
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1998 Sergio Costas Rodríguez
-    - – Download Site : http://www.rastersoft.com/programas/globe.html
+    - – Download Site : http://www.rastersoft.com/programas/globe.html (in English) or http://www.rastersoft.com/programas/globe_es.html (in Spanish / en Español)
 21. XEphem
     - – License : Free
     - – Copyright Notice : Copyright (c) 1990-2015 Elwood Charles Downey
