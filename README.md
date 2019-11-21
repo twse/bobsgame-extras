@@ -19,42 +19,42 @@ Use this to replace system sounds or change it through the sound settings (e.g. 
 Windows 95 until 7 allows the user to change the login/logoff and shutdown sound. macOS only allows changing the alert sound.
 
 ### Index of sound events
-| Windows name                 | OS/2 name                 | Filename               |
-|------------------------------|---------------------------|------------------------|
-| None                         | Alarm                     | BG Alarm.wav           |
-| Asterisk                     | None                      | TBD                    |
-| Close Program                | Closing window (Animated) | BG Close Program.wav   |
-| Critical Battery Alarm       | None                      | BG Alarm.wav           |
-| Critical Stop                | Error                     | BG Error.wav           |
-| Default Beep                 | Error                     | TBD                    |
-| Device Connect               | None                      | BG Hardware Insert.wav |
-| Device Disconnect            | None                      | BG Hardware Remove.wav |
-| Device Failed to Connect     | None                      | BG Hardware Fail.wav   |
-| Empty Recycle Bin            | Recycle                   | BG Recycle.wav         |
-| Exclamation                  | Warning                   | BG Exclamation.wav     |
-| Exit Windows                 | System shutdown           | BG Shutdown.wav        |
-| Information                  | Information               | BG Information.wav     |
-| Maximize                     | Maximize (animated)       | TBD                    |
-| Menu Command                 | None                      | TBD                    |
-| Menu Pop-up                  | None                      | TBD                    |
-| Minimize                     | Minimize (animated)       | TBD                    |
-| New Fax Notification         | None                      | TBD                    |
-| New Mail Notification        | None                      | TBD                    |
-| Open Program                 | Opening window (Animated) | BG Open Program.wav    |
-| Print Complete               | None                      | TBD                    |
-| None                         | Printer error             | TBD                    |
-| Program Error                | Error                     | BG Error.wav           |
-| Question                     | Information               | BG Information.wav     |
-| Restore Down                 | Minimize (animated)       | TBD                    |
-| Restore Up                   | Maximize (animated)       | TBD                    |
-| Select                       | None                      | BG Select.wav          |
-| Show Toolbar Band            | None                      | TBD                    |
-| Start Windows                | System startup            | BG Startup.wav         |
-| System Notification          | Information               | BG Information.wav     |
-| Windows Change Theme         | None                      | TBD                    |
-| Windows Logoff               | System shutdown           | BG Shutdown.wav        |
-| Windows Logon                | System startup            | BG Startup.wav         |
-| Windows User Account Control | None                      | TBD                    |
+| Windows name                 | OS/2 name                 | Filename                    |
+|------------------------------|---------------------------|-----------------------------|
+| None                         | Alarm                     | BG Alarm.wav                |
+| Asterisk                     | None                      | TBD                         |
+| Close Program                | Closing window (Animated) | BG Close Program.wav        |
+| Critical Battery Alarm       | None                      | BG Alarm.wav                |
+| Critical Stop                | Error                     | BG Error.wav                |
+| Default Beep                 | Error                     | TBD                         |
+| Device Connect               | None                      | BG Hardware Insert.wav      |
+| Device Disconnect            | None                      | BG Hardware Remove.wav      |
+| Device Failed to Connect     | None                      | BG Hardware Fail.wav        |
+| Empty Recycle Bin            | Recycle                   | BG Recycle.wav              |
+| Exclamation                  | Warning                   | BG Exclamation.wav          |
+| Exit Windows                 | System shutdown           | BG Shutdown.wav             |
+| Information                  | Information               | BG Information.wav          |
+| Maximize                     | Maximize (animated)       | TBD                         |
+| Menu Command                 | None                      | TBD                         |
+| Menu Pop-up                  | None                      | TBD                         |
+| Minimize                     | Minimize (animated)       | TBD                         |
+| New Fax Notification         | None                      | TBD                         |
+| New Mail Notification        | None                      | TBD                         |
+| Open Program                 | Opening window (Animated) | BG Open Program.wav         |
+| Print Complete               | None                      | TBD                         |
+| None                         | Printer error             | TBD                         |
+| Program Error                | Error                     | BG Error.wav                |
+| Question                     | Information               | BG Information.wav          |
+| Restore Down                 | Minimize (animated)       | TBD                         |
+| Restore Up                   | Maximize (animated)       | TBD                         |
+| Select                       | None                      | BG Select.wav               |
+| Show Toolbar Band            | None                      | TBD                         |
+| Start Windows                | System startup            | BG Startup.wav              |
+| System Notification          | Information               | BG Information.wav          |
+| Windows Change Theme         | None                      | TBD                         |
+| Windows Logoff               | System shutdown           | BG Shutdown.wav             |
+| Windows Logon                | System startup            | BG Startup.wav              |
+| Windows User Account Control | None                      | BG User Account Control.wav |
 
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.

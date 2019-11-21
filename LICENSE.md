@@ -1,5 +1,9 @@
-### License for Sound Scheme et al.
+### License for Sound Scheme, Skin and Other Materials
 Use this sound scheme, boot skin and other materials for free.
+
+And, of course:
+
+Thanks goes to Microsoft for the majority of these sounds.
 
 ### License for OS/2 Icon Collection
 Use this icon collection for free.
