@@ -14,7 +14,7 @@ Want to be a show-off? Impress your friends? This is the place. Robert Pelloni o
 Use theme managers (Anemone, CHMM, Themely, ThemePack, etc. etc. etc.) to replace the skin. The skin was created with 3DS Theme Editor.
 
 ## Sound Scheme
-Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 9x or ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** or **Personalization** in icon view) in Windows Vista or higher, BeOS, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Theme: Sound** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
+Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, BeOS, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
 
 Windows 95 until 7 allows the user to change the login/logoff and shutdown sound. macOS only allows changing the alert sound.
 
@@ -59,7 +59,7 @@ Windows 95 until 7 allows the user to change the login/logoff and shutdown sound
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
 
-Suggested registry keys in Windows Vista & above in HKLM on OEMInformation are as follows.
+Suggested registry keys in Windows Vista & above in HKLM on `OEMInformation` are as follows.
 * **Logo**: `OEMlogo.bmp`
 * **Manufacturer**: Robert Matthew Pelloni
 
