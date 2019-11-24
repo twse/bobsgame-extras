@@ -14,7 +14,7 @@ Want to be a show-off? Impress your friends? This is the place. Robert Pelloni o
 Use theme managers (Anemone, CHMM, Themely, ThemePack, etc. etc. etc.) to replace the skin. The skin was created with 3DS Theme Editor.
 
 ## Sound Scheme
-Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, BeOS, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
+Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, BeOS, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
 
 Windows 95 until 7 allows the user to change the login/logoff and shutdown sound.
 
@@ -95,7 +95,7 @@ You should have received a copy of the GNU General Public License along with thi
 * Vladimir Amarante
 * Chris Antos
 * Akhil Arora
-* Bruce Ashley - Skins
+* Bruce Ashley – Skins
 * Jon Aslund
 * Andrew Ball
 * Mark Baysinger
@@ -116,7 +116,7 @@ You should have received a copy of the GNU General Public License along with thi
 * Carlton Craighead
 * David Creemer
 * Art Dahm
-* Ben Darnell - Debian packaging
+* Ben Darnell – Debian packaging
 * John C. Daub
 * Michael S. Davis
 * David A. Desrosiers
@@ -141,17 +141,17 @@ You should have received a copy of the GNU General Public License along with thi
 * Ron Flax
 * Roger Flores
 * Jon Fo
-* Jean-loup Gailly - Principal author of zlib
+* Jean-loup Gailly – Principal author of zlib
 * Gregory Allen Gaub
 * Michael Glickman
 * Gary Gorsline
-* Scott Gruby - Carbon port
+* Scott Gruby – Carbon port
 * Michael Hado
 * Adam Hampson
 * Ken Hancock
 * Steve Haneman
 * Guilherme C. Hazan
-* Greg Hewgill - Original author
+* Greg Hewgill – Original author
 * Stephen P. Hill
 * Horace Ho
 * Stefan Hoffmeister
@@ -185,7 +185,7 @@ You should have received a copy of the GNU General Public License along with thi
 * Jerry Lin
 * Andreas Linke
 * Adam Liss
-* John Ludwig - FreeBSD packaging
+* John Ludwig – FreeBSD packaging
 * Mark Lussier
 * Kelly Maher
 * Stuart Malone
@@ -229,8 +229,8 @@ You should have received a copy of the GNU General Public License along with thi
 * Keith Rollin
 * Dan Rowley
 * Markus Schmid
-* Bernd Schmidt - Amiga port
-* Craig Schofield - macOS port
+* Bernd Schmidt – Amiga port
+* Craig Schofield – macOS port
 * Ben Sessoms
 * Douglas R. Shefsky
 * Flash Sheridan
@@ -248,7 +248,7 @@ You should have received a copy of the GNU General Public License along with thi
 * David Vaportrails
 * Rick Wagner
 * Mike Walter
-* Marq Watkin - Pandora build
+* Marq Watkin – Pandora build
 * William F. Weiher III
 * Catherine White
 * Tim Wiegman
