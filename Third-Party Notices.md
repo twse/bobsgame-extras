@@ -3,6 +3,11 @@
 ## For use of DOOM
 © 2016 id Software, LLC, a ZeniMax Media company. Bethesda, Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. DOOM, id, id Software, id Tech and related logos are registered trademarks or trademarks of id Software LLC in the U.S. and/or other countries.
 
+## For use of Excel
+Copyright © 1987-2019 Microsoft Corporation. All rights reserved.
+
+See the about dialog in the program itself for copyright notices for proofing tools per multiple languages.
+
 ## For use of Golden CommPass
 Copyright © 1998 Creative Services Programming Corporation<br />
 Written by Donna S. Finkelstein
@@ -46,6 +51,15 @@ Copyright © 1997 QVision, Inc.
 7. In no case will QVision, Inc. or its suppliers be held liable for direct or incidental damages resulting from any defect or omission in the software, written materials or other related items and processes, including, but not limited to, any interruption of service, loss of business, anticipated profit, or other consequential damages. Some states do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
 8. This warranty gives you specific legal rights, and you may also have other rights which vary from state to state.
 9. The above warranty does not apply if you make any unauthorized attempt to modify or duplicate the product, or if the product has been damaged by accident or abuse.
+
+## For use of Word
+Copyright © 1983-2019 Microsoft Corporation. All rights reserved.
+
+See the about dialog in the program itself for copyright notices for proofing tools per multiple languages.
+
+### Word Development Credits
+* Charles Simonyi – Original author
+* Richard Brodie – Original author
 
 # Unsupported Free Software
 
