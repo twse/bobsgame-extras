@@ -16,7 +16,7 @@ Use theme managers (Anemone, CHMM, Themely, ThemePack, etc. etc. etc.) to replac
 ## Sound Scheme
 Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows or **System Setup** in OS/2, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** if using category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, BeOS, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
 
-Windows 95 until 7 allows the user to change the login/logoff and shutdown sound. macOS only allows changing the alert sound.
+Windows 95 until 7 allows the user to change the login/logoff and shutdown sound.
 
 ### Index of sound events
 | Windows name                 | OS/2 name                 | Filename                    |
@@ -24,7 +24,7 @@ Windows 95 until 7 allows the user to change the login/logoff and shutdown sound
 | None                         | Alarm                     | BG Alarm.wav                |
 | Asterisk                     | None                      | TBD                         |
 | Close Program                | Closing window (Animated) | BG Close Program.wav        |
-| Critical Battery Alarm       | None                      | BG Alarm.wav                |
+| Critical Battery Alarm       | None                      | BG Battery Critical.wav     |
 | Critical Stop                | Error                     | BG Critical Stop.wav        |
 | Default Beep                 | Error                     | BG Error.wav                |
 | Device Connect               | None                      | BG Hardware Insert.wav      |
@@ -89,171 +89,171 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU General Public License along with this program. If not, see .
 
 #### Contributors
-* Adam Dingle
-* Adam Hampson
-* Adam Liss
-* Akhil Arora
-* Alan Finke
-* Alex Robinson
-* Alexandre Parenteau
-* Andreas Linke
-* Andrew Ball
-* Andy Ihlenfeldt
-* Anthony Fishbeck
-* Art Dahm
-* Arturo Tena
-* B. Cameron Lesiuk
-* Ben Combee
-* Ben Darnell - Debian packaging
-* Ben Sessoms
-* Ben Thomas
-* Ben Williamson
-* Bernd Schmidt - Amiga port
-* Bert Driehuis
-* Bill Kirby
-* Bill Pittore
-* Bill Spitzak
-* Bob Ebert
-* Bob Marcum
-* Bob Petersen
-* Brian Estes
-* Brian Mathis
-* Bruce Ashley - Skins
-* Carlton Craighead
-* Catherine White
-* Chad House
-* Chris Antos
-* Chris Ridd
-* Christian Falch
-* Christopher Hunt
-* Chunk Bazil
-* Craig Schofield - macOS port
-* Dan Fahrion
-* Dan Poirier
-* Dan Rowley
-* Dan Smith
-* Daniel McCarthy
-* Darren Kropp
-* Dave Johnson
-* David A. Desrosiers
-* David A. Jablonski
-* David Creemer
-* David Fedor
-* David Kendall
-* David Slotter
-* David Vaportrails
-* Derek Johnson
-* Doug Morrison
-* Douglas R. Shefsky
-* Eric House
-* Eskil Heyn Olsen
-* Eugene Chin
-* Flash Sheridan
-* Florent Pillet
-* Frank Yellin
-* Frederic Paolucci
-* Gary Gorsline
-* Gavin Peacock
-* Greg Hewgill - Original author
-* Greg Simon
-* Gregory Allen Gaub
-* Guilherme C. Hazan
-* Hal Mueller
-* Harini Bharadvaj
-* Harry Dolan
-* Hiroyuki Okamoto
-* Holger Klawitter
-* Horace Ho
-* Ivan Doitchinov
-* James Phillips
-* Jameson Quinn
-* Jason Simpkins
-* Jean-loup Gailly
-* Jeff Prosise
-* Jeff Yasuda
-* Jerry L. Kirk
-* Jerry Lin
-* Jesse Donaldson
-* John C. Daub
-* John Duhart
-* John Kinast
-* John Ludwig - FreeBSD packaging
-* John Marshall
-* Jon Aslund
-* Jon Fo
-* Jonathan Cox
-* Justin Clark
-* Keith Rollin
-* Keith Wolcott
-* Kelly Maher
-* Ken Hancock
-* Ken Krugler
-* Kenneth Albanowski
-* Mahendra Tailor
-* Mark Baysinger
-* Mark Corry
-* Mark Lussier
-* Mark Ordal
-* Mark Peters
-* Markus Schmid
-* Marq Watkin - Pandora build
-* Martin Kobold
-* Matt Disher
-* Matthias Ulrich Neeracher
-* Maurizio Moretti
-* Michael Glickman
-* Michael Hado
-* Michael Nordstrom
-* Michael R. Kedl
-* Michael S. Davis
-* Mike Chen
-* Mike McCollister
-* Mike Nagy
-* Mike Puckett
-* Mike Turcotte
-* Mike Walter
-* Neil Rhodes
-* Oliver King-Smith
-* Patrick Porlan
-* Paul Dugas
-* Paul Nevai
-* Paul Silagi
-* Pedro Alves
-* Peter Burka
-* Peter N Lewis
-* Phil Shoemaker
-* Quinn "The Eskimo!"
-* Radu Cornea
-* Red Dutta
-* Regis Nicolas
-* Richard Ziegelmaier
-* Rick Richardson
-* Rick Wagner
-* Rob Leslie
-* Roger Flores
-* Ron Flax
-* Ron Kupke
-* Ron Marianetti
-* Ryan Robertson
-* Scott Gruby - Carbon port
-* Scott Johnson
-* Scott Maxwell
-* Stefan Hoffmeister
-* Stephen Best
-* Stephen P. Hill
 * Steve Achelis
-* Steve Haneman
-* Steve Lemke
-* Stuart Eichert
-* Stuart Malone
-* Sushama Dharmadhikari
-* Thomas Hagen Johansen
-* Tilo Christ
-* Tim Wiegman
-* Tom Bulatewicz
-* Toshi Clark
-* Vitaly Kruglikov
+* Kenneth Albanowski
+* Pedro Alves
 * Vladimir Amarante
-* Waddah Kudaimi
-* William F. Weiher III
+* Chris Antos
+* Akhil Arora
+* Bruce Ashley - Skins
+* Jon Aslund
+* Andrew Ball
+* Mark Baysinger
+* Chunk Bazil
+* Stephen Best
+* Harini Bharadvaj
+* Tom Bulatewicz
+* Peter Burka
+* Mike Chen
+* Eugene Chin
+* Tilo Christ
+* Justin Clark
+* Toshi Clark
+* Ben Combee
+* Radu Cornea
+* Mark Corry
+* Jonathan Cox
+* Carlton Craighead
+* David Creemer
+* Art Dahm
+* Ben Darnell - Debian packaging
+* John C. Daub
+* Michael S. Davis
+* David A. Desrosiers
+* Sushama Dharmadhikari
+* Adam Dingle
+* Matt Disher
+* Ivan Doitchinov
+* Harry Dolan
+* Jesse Donaldson
+* Bert Driehuis
+* Paul Dugas
+* John Duhart
+* Red Dutta
+* Bob Ebert
+* Stuart Eichert
+* Brian Estes
+* Dan Fahrion
+* Christian Falch
+* David Fedor
+* Alan Finke
+* Anthony Fishbeck
+* Ron Flax
+* Roger Flores
+* Jon Fo
+* Jean-loup Gailly - Principal author of zlib
+* Gregory Allen Gaub
+* Michael Glickman
+* Gary Gorsline
+* Scott Gruby - Carbon port
+* Michael Hado
+* Adam Hampson
+* Ken Hancock
+* Steve Haneman
+* Guilherme C. Hazan
+* Greg Hewgill - Original author
+* Stephen P. Hill
+* Horace Ho
+* Stefan Hoffmeister
+* Chad House
+* Eric House
+* Christopher Hunt
+* Andy Ihlenfeldt
+* David A. Jablonski
+* Thomas Hagen Johansen
+* Dave Johnson
+* Derek Johnson
+* Scott Johnson
+* Michael R. Kedl
+* David Kendall
+* John Kinast
+* Oliver King-Smith
+* Bill Kirby
+* Jerry L. Kirk
+* Holger Klawitter
+* Martin Kobold
+* Darren Kropp
+* Ken Krugler
+* Vitaly Kruglikov
 * Yoshiyuki Kubo
+* Waddah Kudaimi
+* Ron Kupke
+* Steve Lemke
+* B. Cameron Lesiuk
+* Rob Leslie
+* Peter N Lewis
+* Jerry Lin
+* Andreas Linke
+* Adam Liss
+* John Ludwig - FreeBSD packaging
+* Mark Lussier
+* Kelly Maher
+* Stuart Malone
+* Bob Marcum
+* Ron Marianetti
+* John Marshall
+* Brian Mathis
+* Scott Maxwell
+* Daniel McCarthy
+* Mike McCollister
+* Maurizio Moretti
+* Doug Morrison
+* Hal Mueller
+* Mike Nagy
+* Matthias Ulrich Neeracher
+* Paul Nevai
+* Regis Nicolas
+* Michael Nordstrom
+* Hiroyuki Okamoto
+* Eskil Heyn Olsen
+* Mark Ordal
+* Frederic Paolucci
+* Alexandre Parenteau
+* Gavin Peacock
+* Mark Peters
+* Bob Petersen
+* James Phillips
+* Florent Pillet
+* Bill Pittore
+* Dan Poirier
+* Patrick Porlan
+* Jeff Prosise
+* Mike Puckett
+* Jameson Quinn
+* Quinn "The Eskimo!"
+* Neil Rhodes
+* Rick Richardson
+* Chris Ridd
+* Ryan Robertson
+* Alex Robinson
+* Keith Rollin
+* Dan Rowley
+* Markus Schmid
+* Bernd Schmidt - Amiga port
+* Craig Schofield - macOS port
+* Ben Sessoms
+* Douglas R. Shefsky
+* Flash Sheridan
+* Phil Shoemaker
+* Paul Silagi
+* Greg Simon
+* Jason Simpkins
+* David Slotter
+* Dan Smith
+* Bill Spitzak
+* Mahendra Tailor
+* Arturo Tena
+* Ben Thomas
+* Mike Turcotte
+* David Vaportrails
+* Rick Wagner
+* Mike Walter
+* Marq Watkin - Pandora build
+* William F. Weiher III
+* Catherine White
+* Tim Wiegman
+* Ben Williamson
+* Keith Wolcott
+* Jeff Yasuda
+* Frank Yellin
+* Richard Ziegelmaier
