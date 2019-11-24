@@ -317,7 +317,7 @@
     - – Copyright Notice : Copyright (c) 1991 Larry Salomon Jr.
 98. Wallpaper Finer
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2012 Péter Deak
+    - – Copyright Notice : Copyright (c) 2012 Péter Deák
 99. XIcon
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1993 Norman Walsh
