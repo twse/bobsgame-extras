@@ -33,110 +33,116 @@
 11. ExCal
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1993-1994 Dan Kehn, Diana Soost
-12. Filer
+12. Excel
+    - – License : Commercial
+    - – Copyright Notice : Copyright (c) 1987-2019 Microsoft Corporation, see credits for the program via Easter eggs in Excel 95 up to Excel 2000.
+13. Filer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Thomas Baier
-13. Jot
+14. Jot
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 Jacqueline Wells
-14. LightWaves
+15. LightWaves
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Hammer of the Gods Software
-15. LyX
+16. LyX
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1995-2019 LyX Team
     - – Download Site : https://www.lyx.org/
-16. Maul Publisher
+17. Maul Publisher
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995-2018 Peter Koller
     - – Download Site : http://www.manglais.com/
-17. nobleNote
+18. nobleNote
     - – License : MIT License
     - – Copyright Notice : Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler
-18. OpenOffice
+19. OpenOffice
     - – License : Apache 2.0
     - – Copyright Notice : Copyright (c) 2011-2019 Apache Software Foundation
     - – Download Site : http://www.openoffice.org/download/index.html
-19. PmNotes
+20. PmNotes
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997-1998 Jeffrey Habets
-20. PMRemind
+21. PMRemind
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Richard Hasty
-21. PM-Cron
+22. PM-Cron
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Florian Große-Coosmann
     - – Download Site : http://www.grosse-coosmann.de/~florian/
-22. Quicky
+23. Quicky
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2008 Elad Lahav
-23. Relish
+24. Relish
     - – License : Commercial
     - – Copyright Notice : Copyright (c) 2004 Sundial Systems
-24. Remind
+25. Remind
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1993-2018 Dianne F. Skoll
     - – Download Site : https://dianne.skoll.ca/projects/remind/
-25. RemindMe
+26. RemindMe
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Eric A. Wolf
-26. RemindYou/2
+27. RemindYou/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Ecee Software
-27. RScheduler
+28. RScheduler
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996-2003 Sergey Radochin, Ilfat Kutdusov, Alexey Gankov
-28. Schedule-It!
+29. Schedule-It!
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Keith Luken
-29. Scribus
+30. Scribus
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2001-2018 Scribus Team
     - – Download Site : https://www.scribus.net/
-30. Task Timer
+31. Task Timer
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993 Eduard Kappel
-31. Tasker
+32. Tasker
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Don Elledge
-32. The New York Telephone Scheduler
+33. The New York Telephone Scheduler
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997 Stu Mark
-33. Thingz to Do
+34. Thingz to Do
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Jeremy Eden
-34. TMPostit
+35. TMPostit
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 Stefano Zamprogno
-35. Tracker
+36. Tracker
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993 Paul Beverly
-36. VoiceClock/REXX
+37. VoiceClock/REXX
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Chris Boyd
-37. Wanda
+38. Wanda
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2001-2007 Thorsten Thielen
     - – Download Site : http://www.c2226.de/
-38. WarpCron
+39. WarpCron
     - – License : Cardware
     - – Copyright Notice : Copyright (c) 1998 Julian Buss
-39. WarpLog
+40. WarpLog
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2001 Mark H. Tucker
-40. WarpNote
+41. WarpNote
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997-2003 Uwe Schlenther
-41. WatsOnTV
+42. WatsOnTV
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 John Pedersen
-42. When and What
+43. When and What
     - – License : Free
     - – Copyright Notice : Copyright (c) 2017 Konstantinos Kafetzidis
-43. WhO
+44. WhO
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Patrick Schulte
-44. Yrolo
+45. Word
+    - – License : Commercial
+    - – Copyright Notice : Copyright (c) 1983-2019 Microsoft Corporation, see credits for the program via Easter eggs in Word 2.0 up to Word 2000.
+46. Yrolo
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Muhammad A Muquit
     - – Download Site : http://www.muquit.com/muquit/software/yrolo/yrolo.html
