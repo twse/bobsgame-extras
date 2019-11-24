@@ -5,7 +5,7 @@
    - – Copyright Notice : Copyright (c) 1994 Bill Weschke
 2. Acrobat Reader
    - – License : Free
-   - – Copyright Notice : Copyright (c) 1984-2018 Adobe Systems Incorporated, see credits for the program or plugins in old versions.
+   - – Copyright Notice : Copyright (c) 1984-2019 Adobe Systems Incorporated, see credits for the program or plugins in old versions.
 3. Antiword
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 1998-2005 Adriaan van Os
