@@ -17,7 +17,7 @@
    - – Copyright Notice : Copyright (c) 1998-2019 Fabrice Bellard and FFmpeg contributors
 6. Flash Player
    - – License : Free
-   - – Copyright Notice : Copyright (c) 1995-2018 Adobe Macromedia Software LLC
+   - – Copyright Notice : Copyright (c) 1995-2019 Adobe Macromedia Software LLC
 7. JPLAY, PM Jukebox
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1993-1994 Jeff Elkins
