@@ -77,7 +77,7 @@
 24. JED
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1992-1994, 2002, 2004, 2009 John E. Davis
-    - – Download Site : http://www.jedsoft.org/jed/
+    - – Download Site : http://www.jedsoft.org/jed/ (Releases available via https variant)
 25. Joe's Own Editor
     - – License : GPL 1.0
     - – Copyright Notice : Copyright (c) 1991-2018 Joseph H. Allen, 2001 Marek Grac
@@ -132,7 +132,7 @@
 40. Vim
     - – License : Charityware
     - – Copyright Notice : Copyright (c) 2001-2019 Bram Moolenaar
-    - – Download Site : https://www.vim.org/ or https://vim.fandom.com/ for tips and tricks
+    - – Download Site : https://www.vim.org/
 41. ZED
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 1995-2013 E. Bruce Shankle III
