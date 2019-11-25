@@ -21,7 +21,7 @@ Windows 95 until 7 allows the user to change the login/logoff and shutdown sound
 ### Index of sound events
 | Windows name                 | OS/2 name                 | Filename                    |
 |------------------------------|---------------------------|-----------------------------|
-| None                         | Alarm                     | BG Alarm.wav                |
+| None                         | Alarm                     | TBD                         |
 | Asterisk                     | None                      | TBD                         |
 | Close Program                | Closing window (Animated) | BG Close Program.wav        |
 | Critical Battery Alarm       | None                      | BG Battery Critical.wav     |
@@ -38,10 +38,10 @@ Windows 95 until 7 allows the user to change the login/logoff and shutdown sound
 | Menu Command                 | None                      | TBD                         |
 | Menu Pop-up                  | None                      | TBD                         |
 | Minimize                     | Minimize (animated)       | TBD                         |
-| New Fax Notification         | None                      | TBD                         |
-| New Mail Notification        | None                      | TBD                         |
+| New Fax Notification         | None                      | BG Notify.wav               |
+| New Mail Notification        | None                      | BG Notify.wav               |
 | Open Program                 | Opening window (Animated) | BG Open Program.wav         |
-| Print Complete               | None                      | TBD                         |
+| Print Complete               | None                      | BG Notify.wav               |
 | None                         | Printer error             | TBD                         |
 | Program Error                | Error                     | BG Error.wav                |
 | Question                     | Information               | BG Information.wav          |
