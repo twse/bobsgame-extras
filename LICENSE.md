@@ -10,4 +10,4 @@ Use this icon collection for free.
 
 And, of course:
 
-Individual software and libraries are available under different licenses as shown in the **Legal Notices.md** file in each software category or in the [Bob's Game Wiki extras page](https://bobsgame.fandom.com/wiki/Extras) unless otherwise noted.
+Individual software and libraries are available under different licenses in **Legal Notices.md** for each category or the [extras page](https://bobsgame.fandom.com/wiki/Extras) from the Bob's Game Wiki unless otherwise noted.
