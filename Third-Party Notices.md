@@ -13,6 +13,7 @@ See the about dialog in the program itself for proofing tool legal notices.
 * Tim Ahlers
 * Darrell Aldrich
 * Jason Allen
+* Emad Alsholi
 * Cesar Alvarez
 * Curtis Anderson
 * Krista Anderson
@@ -21,6 +22,7 @@ See the about dialog in the program itself for proofing tool legal notices.
 * Bob Archer
 * Todd Aton
 * Hermann Bacher
+* Kamiar Bahri
 * Prudy Bair
 * Matt Bamberger
 * Genevieve Barnes
@@ -34,7 +36,6 @@ See the about dialog in the program itself for proofing tool legal notices.
 * Joella June Berry
 * Chris Besancon
 * Anil Bhansali
-* Terri Bly
 * Ed Bomke
 * Aaron Bregel
 * Chris Brown
@@ -64,6 +65,7 @@ See the about dialog in the program itself for proofing tool legal notices.
 * Tom Conlon
 * Michael Connolly
 * Bob Cook
+* Jim Cooley
 * Jeff Cooperstein
 * Daniel Corey
 * Monica Correa
@@ -77,7 +79,7 @@ See the about dialog in the program itself for proofing tool legal notices.
 * Amit Dekate
 * Régis Denèfle
 * Stuart Denman
-* Terri (Bly) Desmond
+* Terri Desmond
 * Jon De Vaan
 * Fernando Diaz
 * Pete Duniho
@@ -95,6 +97,7 @@ See the about dialog in the program itself for proofing tool legal notices.
 * Shane Frigon
 * Ananda Ganguly
 * Michael Gardner
+* Michael Gates
 * Andrew Gillaspie
 * Melissa Glerum
 * Anatoly Grabar
@@ -129,6 +132,7 @@ See the about dialog in the program itself for proofing tool legal notices.
 * Michael Jaber
 * Lisa James
 * Jeff Johnson
+* Laurie Johnson
 * Russell Johnson
 * Bruce Jones
 * David Jones
@@ -171,6 +175,7 @@ See the about dialog in the program itself for proofing tool legal notices.
 * Jill Mainquist
 * Lelah Manz
 * Mike Marcelais
+* Laura Martinez
 * Jaye Massena
 * Eric Matteson
 * Richard McAniff
@@ -207,7 +212,9 @@ See the about dialog in the program itself for proofing tool legal notices.
 * Dyane Nguyen
 * Juha Niemisto
 * Rebecca Norlander
+* David Norris
 * Paul Noseworthy
+* David Olsen
 * Marc Olson
 * John O'Neill
 * Kristi Overfelt
@@ -248,6 +255,7 @@ See the about dialog in the program itself for proofing tool legal notices.
 * Erik Schwiebert
 * Sam Sengupta
 * Drew Sherman
+* Roman Sherman
 * Andrew Short
 * Stacy Silvernail
 * Chris Simison
@@ -426,7 +434,7 @@ See the about dialog in the program itself for proofing tool legal notices.
 * John Devere
 * M. Nancy Domini
 * Julia Donk
-* Rob Donner
+* Robert Donner
 * Pam Douthit
 * Stephen Dunagan
 * Tonia Dunn
@@ -472,8 +480,8 @@ See the about dialog in the program itself for proofing tool legal notices.
 * Christine Henriques
 * Tonya Henry
 * Michael Herzfeld
+* Kazuko Higashiyama
 * Nobuya Higashiyama
-* Kazuko Hishikawa
 * Jason Hills
 * Jonathan Hoffman
 * Ken Hoffman
