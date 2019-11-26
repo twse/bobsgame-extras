@@ -77,7 +77,7 @@ This skin can be used with the emulators listed below. Robert Pelloni is not the
 Available in the [Hobbes archive](http://hobbes.nmsu.edu/). See [Extras page on the Bob's Game Wiki](https://bobsgame.fandom.com/wiki/Extras).
 
 ### Palm Hardware Emulator
-Available as commercial software in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem)
+Available as commercial software in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem). Perpendox Software LLC hosted the source code under the same license in Palm OS Emulator but the company's website is currently down.
 
 ### Palm OS Emulator
 Copyright © 1998-2002 Palm, Inc.
