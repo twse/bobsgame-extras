@@ -1,8 +1,8 @@
 ﻿This folder may contain the following software:
 
-1. CoPilot
+1. CoPilot/2
    - – License : Free
-   - – Copyright Notice : Copyright (c) 1998 Siegfried Hanisch
+   - – Copyright Notice : Copyright (c) 1997 Siegfried Hanisch
 2. DOSBox
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 2002-2018 The DOSBox Team
