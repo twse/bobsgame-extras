@@ -22,7 +22,6 @@
 7. Nice OS/2 Enhancer
    - — License : BSD 3-Clause
    - — Copyright Notice : Copyright (c) 1994-2015 Sergey Posokhov
-   - — Download Site : http://www.r-5.org/
 8. NPS WPS Enhancer
    - — License : Free
    - — Copyright Notice : Copyright (c) 1995-1996 Shinji Takasugi
