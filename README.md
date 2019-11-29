@@ -1,8 +1,8 @@
 ﻿# Extra stuff for bob's game
-This repository contains extra stuff created for bob's game except fonts.
+Contains extra stuff for bob's game except fonts.
 
 ## Google search form (requires internet connection)
-The [Bob Corporation website](http://www.bobcorporation.com/) has no Google search form. Includes an option to search the wiki hosted by FANDOM.
+There's no Google search form in the [Bob Corporation website](http://www.bobcorporation.com/). Includes an option to search the wiki hosted by FANDOM.
 
 ## Icons (All icons in OS/2 format)
 Icons based on the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits.
@@ -14,9 +14,9 @@ Want to be a show-off? Impress your friends? This is the place. Robert Pelloni o
 Use theme managers (Anemone, CHMM, Themely, ThemePack, etc. etc. etc.) to replace the skin. The skin was created with 3DS Theme Editor.
 
 ## Sound Scheme
-Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
+Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10 or **Desktop Themes: Apply: Sound events** under Microsoft Plus! for Windows 95 or 98). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
 
-Windows 95 until 7 allows the user to change the sounds used when logging off, logging on or shutting down the operating system.
+Windows 95 until 7 allows the user to change the sounds used when logging off or on or shutting down the operating system.
 
 ### Index of sound events
 | Windows name                 | OS/2 name                 | Filename                    |
