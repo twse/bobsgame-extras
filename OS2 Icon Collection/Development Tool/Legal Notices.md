@@ -106,14 +106,13 @@
 33. HexDump
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1992 Joseph Nord
-    - – Download Site : http://www.joenord.com/os2/index.html
 34. HexEdit/2
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 1994-1996 Bennett C. Baker
 35. HexIt
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995-2001 Mikael Klasson
-    - – Download Site : http://www.mklasson.com/
+    - – Download Site : http://www.mklasson.com/hexit.php
 36. Hiew
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997-2018 Eugene Suslikov
@@ -124,7 +123,7 @@
 38. ICU
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991-2018 Unicode, Inc.
-    - – Download Site : http://icu-project.org/
+    - – Download Site : http://site.icu-project.org/
 39. Installed Product Tracker
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Kai Evers
