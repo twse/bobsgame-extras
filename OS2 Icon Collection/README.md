@@ -3,7 +3,7 @@
 Note that you have to use these icons on a file system which supports long file names. FAT16 does not support long file names, while the existing FAT32 or even NTFS file system drivers for OS/2, eCS and Arca OS are experimental at best, so the safest bet is to use a native IBM file system like HPFS (the OS/2, eCS and Arca OS default FS) or JFS.
 
 ### ANNEX: How to add or update existing software entries.
-To add or update existing software entries, attach the following text, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax. The protocol for each download site should be http for insecure or https for secure sites. FTP servers don't automatically create links except in OctoDroid (Android GIT client). The servers will appear underlined during editing.
+To add or update existing software entries, attach the following text, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax. The protocol for each download site should be **http** (insecure sites) or **https** (secure sites). If the site is an FTP server, links won't be automatically created except in OctoDroid. The servers will appear underlined when editing in the GitHub web UI.
 
 ```
 N. Software
