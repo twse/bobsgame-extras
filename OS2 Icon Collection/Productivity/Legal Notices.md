@@ -141,7 +141,7 @@
     - – Copyright Notice : Copyright (c) 1996 Patrick Schulte
 45. Word
     - – License : Commercial
-    - – Copyright Notice : Copyright (c) 1983-2019 Microsoft Corporation, see credits for the program via Easter eggs in Word 2.0 up to Word 2000.
+    - – Copyright Notice : Copyright (c) 1983-2019 Microsoft Corporation, see credits for the program via Easter eggs in Word 2.0 up to Word 97.
 46. Yrolo
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Muhammad A Muquit
