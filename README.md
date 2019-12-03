@@ -21,8 +21,9 @@ Windows 95 until 7 allows the user to change the sounds used when logging off or
 ### Index of sound events
 | Windows name                 | OS/2 name                 | Filename                    |
 |------------------------------|---------------------------|-----------------------------|
-| None                         | Alarm                     | TBD                         |
+| None                         | Alarm Clock               | TBD                         |
 | Asterisk                     | None                      | TBD                         |
+| None                         | Begin drag                | TBD                         |
 | Close Program                | Closing window (Animated) | BG Close Program.wav        |
 | Critical Battery Alarm       | None                      | BG Battery Critical.wav     |
 | Critical Stop                | Error                     | BG Critical Stop.wav        |
@@ -31,13 +32,14 @@ Windows 95 until 7 allows the user to change the sounds used when logging off or
 | Device Disconnect            | None                      | BG Hardware Remove.wav      |
 | Device Failed to Connect     | None                      | BG Hardware Fail.wav        |
 | Empty Recycle Bin            | Recycle                   | BG Recycle.wav              |
+| None                         | End drag                  | TBD                         |
 | Exclamation                  | Warning                   | BG Exclamation.wav          |
 | Exit Windows                 | System shutdown           | BG Shutdown.wav             |
 | Information                  | Information               | BG Information.wav          |
-| Maximize                     | Maximize (animated)       | TBD                         |
+| Maximize                     | None                      | TBD                         |
 | Menu Command                 | None                      | TBD                         |
 | Menu Pop-up                  | None                      | TBD                         |
-| Minimize                     | Minimize (animated)       | TBD                         |
+| Minimize                     | None                      | BG Minimize.wav             |
 | New Fax Notification         | None                      | BG Notify.wav               |
 | New Mail Notification        | None                      | BG Notify.wav               |
 | Open Program                 | Opening window (Animated) | BG Open Program.wav         |
@@ -45,8 +47,8 @@ Windows 95 until 7 allows the user to change the sounds used when logging off or
 | None                         | Printer error             | BG Error.wav                |
 | Program Error                | Error                     | BG Error.wav                |
 | Question                     | Information               | BG Information.wav          |
-| Restore Down                 | Minimize (animated)       | TBD                         |
-| Restore Up                   | Maximize (animated)       | TBD                         |
+| Restore Down                 | None                      | TBD                         |
+| Restore Up                   | None                      | TBD                         |
 | Select                       | None                      | BG Select.wav               |
 | Show Toolbar Band            | None                      | TBD                         |
 | Start Windows                | System startup            | BG Startup.wav              |
