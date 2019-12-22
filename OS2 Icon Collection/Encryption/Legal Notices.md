@@ -17,7 +17,7 @@
    - – Copyright Notice : Copyright (c) 2004-2006 Axel Meiss
 6. GnuPG
    - – License : GPL 3.0
-   - – Copyright Notice : Copyright (c) 1998-2018 Werner Koch
+   - – Copyright Notice : Copyright (c) 1998-2019 Werner Koch
    - – Download Site : https://www.gnupg.org/
 7. MCrypt
    - – License : Free
