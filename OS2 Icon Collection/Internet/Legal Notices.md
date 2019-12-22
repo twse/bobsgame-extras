@@ -6,6 +6,7 @@
 2. Alpine
    - – License : Apache 2.0
    - – Copyright Notice : Copyright (c) 2006-2008 University of Washington, 2012-2019 Eduardo Chappa
+   - – Download Site : http://alpine.x10host.com/alpine/
 3. AnDan Software Message Generator
    - – License : Free
    - – Copyright Notice : Copyright (c) 1991-1996 Scandinavian Digital Systems AB
@@ -28,18 +29,18 @@
    - – License : Beta
    - – Copyright Notice : Copyright (c) 1994 Stephen F Townsend
 10. BM2WPS
-    - — License : Free
-    - — Copyright Notice : Copyright (c) 1989 Markus Jasinski
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1989 Markus Jasinski
 11. CheckLink
-    - — License : Free
-    - — Copyright Notice : Copyright (c) 1998 Daniel Hellerstein
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1998 Daniel Hellerstein
 12. ClipGrab
-    - — License : GPL 3.0
-    - — Copyright Notice : Copyright (c) 2007-2018 Philipp Schmieder
-    - — Download Site : https://www.clipgrab.org/ (in English) or https://www.clipgrab.de/ (in German and other languages / auf Deutsch und anderer Sprache)
+    - – License : GPL 3.0
+    - – Copyright Notice : Copyright (c) 2007-2018 Philipp Schmieder
+    - – Download Site : https://www.clipgrab.org/ (in English) or https://www.clipgrab.de/ (in German and other languages / auf Deutsch und anderer Sprache)
 13. Color Chaser
-    - — License : Free
-    - — Copyright Notice : Copyright (c) 1996 Scott Russell
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1996 Scott Russell
 14. cURL
     - – License : MIT License
     - – Copyright Notice : Copyright (c) 1996-2019 Daniel Stenberg
@@ -51,11 +52,11 @@
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997-2000 Keith Cotroneo
 17. DragURL'Base
-    - — License : Cardware
-    - — Copyright Notice : Copyright (c) 1998 UltiHouse Software B.V.
+    - – License : Cardware
+    - – Copyright Notice : Copyright (c) 1998 UltiHouse Software B.V.
 18. EHTML
-    - — License : Free
-    - — Copyright Notice : Copyright (c) 1995 Gunner Prießnitz
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1995 Gunner Prießnitz
 19. Element.ary!, PM Weather
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 David DuPré
@@ -102,8 +103,8 @@
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Decker Automation
 33. Gismo, Goose
-    - — License : GPL 2.0
-    - — Copyright Notice : Copyright (c) 1997-2011 Ken Kinoshita
+    - – License : GPL 2.0
+    - – Copyright Notice : Copyright (c) 1997-2011 Ken Kinoshita
 34. GoSWISH, GrabSite, WWW-Count
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997-1999 Daniel Hellerstein
@@ -117,26 +118,26 @@
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999 Tom Fredrickson
 38. HomePage Publisher
-    - — License : Shareware
-    - — Copyright Notice : Copyright (c) 1995-2000 Jean-Bernard Clerin
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1995-2000 Jean-Bernard Clerin
 39. HTML ColourPlucker
-    - — License : Shareware
-    - — Copyright Notice : Copyright (c) 1997 Antonino Iannella
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1997 Antonino Iannella
 40. HTML Studio
-    - — License : Shareware
-    - — Copyright Notice : Copyright (c) 1996 Panacea Software
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1996 Panacea Software
 41. HTML Viewer
-    - — License : Free
-    - — Copyright Notice : Copyright (c) 1996 John Martin Alfredsson, Nianqing Liu
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1996 John Martin Alfredsson, Nianqing Liu
 42. HTMLGen
-    - — License : Unsupported freeware
-    - — Copyright Notice : Copyright (c) 1993-1999 American Coders Ltd.
+    - – License : Unsupported freeware
+    - – Copyright Notice : Copyright (c) 1993-1999 American Coders Ltd.
 43. HTML-Ed
-    - — License : Shareware
-    - — Copyright Notice : Copyright (c) 1996 Ian Prest
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1996 Ian Prest
 44. Hypertable
-    - — License : Free
-    - — Copyright Notice : Copyright (c) 1998 Tino Knips
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1998 Tino Knips
 45. IceCQ
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1998 Konstantin Bondarchuk
@@ -294,11 +295,11 @@
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Bruce M. Penrod
 94. Page
-    - — License : Shareware
-    - — Copyright Notice : Copyright (c) 1996 Derek Clarkson
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1996 Derek Clarkson
 95. Picardy 3
-    - — License : Shareware
-    - — Copyright Notice : Copyright (c) 1996 David Devaney, Jr.
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1996 David Devaney, Jr.
 96. Pigeon
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 2001-2002 Christopher Angelico
@@ -318,8 +319,8 @@
      - – License : Shareware
      - – Copyright Notice : Copyright (c) 2000 Don Hawkinson
 102. QadHTML
-     - — License : Shareware
-     - — Copyright Notice : Copyright (c) 1995 QAD Software
+     - – License : Shareware
+     - – Copyright Notice : Copyright (c) 1995 QAD Software
 103. QBrows
      - – License : GPL 3.0
      - – Copyright Notice : Copyright (c) 2010 Denis Bespalov
@@ -370,17 +371,17 @@
      - – License : Free
      - – Copyright Notice : Copyright (c) 2007 Andrey Vasilkin
 118. UNHTML
-     - — License : GPL 2.0
-     - — Copyright Notice : Copyright (c) 1996-2004 Stephen Loomis
+     - – License : GPL 2.0
+     - – Copyright Notice : Copyright (c) 1996-2004 Stephen Loomis
 119. URL Scanner
-     - — License : Free
-     - — Copyright Notice : Copyright (c) 1998 Jerry McBride
+     - – License : Free
+     - – Copyright Notice : Copyright (c) 1998 Jerry McBride
 120. URLCopy
      - – License : Free
      - – Copyright Notice : Copyright (c) 2000-2002 Lothar Söns
 121. URLObjectTool
-     - — License : GPL 2.0
-     - — Copyright Notice : Copyright (c) 1998-2000 Norbert Kohl
+     - – License : GPL 2.0
+     - – Copyright Notice : Copyright (c) 1998-2000 Norbert Kohl
 122. VxFTP
      - – License : Free
      - – Copyright Notice : Copyright (c) 1994 Howard Hyten
@@ -394,8 +395,8 @@
      - – License : Free
      - – Copyright Notice : Copyright (c) 1995-1998 IBM
 126. WebWriter/2
-     - — License : Shareware
-     - — Copyright Notice : Copyright (c) 1995-1996 John Blumel
+     - – License : Shareware
+     - – Copyright Notice : Copyright (c) 1995-1996 John Blumel
 127. WFAX
      - – License : Free
      - – Copyright Notice : Copyright (c) 1997 Jürgen Dankoweit
@@ -407,8 +408,8 @@
      - – License : Free
      - – Copyright Notice : Copyright (c) 1998 Thomas Fotherby, 1995 Richard J. Sexton
 130. WSiever
-     - — License : Free
-     - — Copyright Notice : Copyright (c) 2003 A.Y. Dayo
+     - – License : Free
+     - – Copyright Notice : Copyright (c) 2003 A.Y. Dayo
 131. WWWGrab/2
      - – License : Shareware
      - – Copyright Notice : Copyright (c) 1998 Jiří Rubeš
