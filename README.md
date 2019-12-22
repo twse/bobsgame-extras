@@ -16,52 +16,66 @@ Use theme managers (Anemone, CHMM, Themely, ThemePack, etc. etc. etc.) to replac
 ## Sound Scheme
 Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Desktop Themes: Settings: Sound events** or **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
 
-Windows 95 until 7 allows the user to change the sounds used when logging off or on or shutting down the operating system.
+Windows 95 until 7 allows the user to change the sounds used when logging off or on or shutting down the operating system (with Windows 8 & above, the ExcludeFromCPL value was added to WindowsLogoff and WindowsLogon sound events; remove this value to show these events).
 
 ### Index of sound events
-| Windows name                 | OS/2 name                 | Filename                    |
-|------------------------------|---------------------------|-----------------------------|
-| None                         | Alarm Clock               | TBD                         |
-| Asterisk                     | None                      | TBD                         |
-| None                         | Begin drag                | TBD                         |
-| Close Program                | Closing window (Animated) | BG Close Program.wav        |
-| Critical Battery Alarm       | None                      | BG Battery Critical.wav     |
-| Critical Stop                | Error                     | BG Critical Stop.wav        |
-| Default Beep                 | Error                     | BG Error.wav                |
-| Device Connect               | None                      | BG Hardware Insert.wav      |
-| Device Disconnect            | None                      | BG Hardware Remove.wav      |
-| Device Failed to Connect     | None                      | BG Hardware Fail.wav        |
-| Empty Recycle Bin            | Recycle                   | BG Recycle.wav              |
-| None                         | End drag                  | TBD                         |
-| Exclamation                  | Warning                   | BG Exclamation.wav          |
-| Exit Windows                 | System shutdown           | BG Shutdown.wav             |
-| Information                  | Information               | BG Information.wav          |
-| Maximize                     | None                      | TBD                         |
-| Menu Command                 | None                      | TBD                         |
-| Menu Pop-up                  | None                      | TBD                         |
-| Minimize                     | None                      | BG Minimize.wav             |
-| New Fax Notification         | None                      | BG Notify.wav               |
-| New Mail Notification        | None                      | BG Notify.wav               |
-| Open Program                 | Opening window (Animated) | BG Open Program.wav         |
-| Print Complete               | None                      | BG Notify.wav               |
-| None                         | Printer error             | BG Error.wav                |
-| Program Error                | Error                     | BG Error.wav                |
-| Question                     | Information               | BG Information.wav          |
-| Restore Down                 | None                      | TBD                         |
-| Restore Up                   | None                      | TBD                         |
-| Select                       | None                      | BG Select.wav               |
-| Show Toolbar Band            | None                      | TBD                         |
-| Start Windows                | System startup            | BG Startup.wav              |
-| System Notification          | Information               | BG Information.wav          |
-| Windows Change Theme         | None                      | TBD                         |
-| Windows Logoff               | System shutdown           | BG Shutdown.wav             |
-| Windows Logon                | System startup            | BG Startup.wav              |
-| Windows User Account Control | None                      | BG User Account Control.wav |
+| Windows name                  | OS/2 name                 | Filename                    |
+|-------------------------------|---------------------------|-----------------------------|
+| None                          | Alarm Clock               | TBD                         |
+| Asterisk                      | None                      | TBD                         |
+| None                          | Begin drag                | TBD                         |
+| Blocked Pop-up Window         | None                      | TBD                         |
+| Calendar Reminder             | None                      | BG Notify.wav               |
+| Close Program                 | Closing window (Animated) | BG Close Program.wav        |
+| Complete Navigation           | None                      | TBD                         |
+| Critical Battery Alarm        | None                      | BG Battery Critical.wav     |
+| Critical Stop                 | Error                     | BG Critical Stop.wav        |
+| Default Beep                  | Error                     | BG Error.wav                |
+| Desktop Mail Notification     | None                      | BG Notify.wav               |
+| Device Connect                | None                      | BG Hardware Insert.wav      |
+| Device Disconnect             | None                      | BG Hardware Remove.wav      |
+| Device Failed to Connect      | None                      | BG Hardware Fail.wav        |
+| Empty Recycle Bin             | Recycle                   | BG Recycle.wav              |
+| None                          | End drag                  | TBD                         |
+| Exclamation                   | Warning                   | BG Exclamation.wav          |
+| Exit Windows                  | System shutdown           | BG Shutdown.wav             |
+| Feed Discovered               | None                      | TBD                         |
+| Information                   | Information               | BG Information.wav          |
+| Instant Message Notification  | None                      | BG Notify.wav               |
+| Maximize                      | None                      | TBD                         |
+| Menu Command                  | None                      | TBD                         |
+| Menu Pop-up                   | None                      | TBD                         |
+| Message Badge                 | None                      | TBD                         |
+| Minimize                      | None                      | BG Minimize.wav             |
+| Move Menu Item                | None                      | TBD                         |
+| New Fax Notification          | None                      | BG Notify.wav               |
+| New Mail Notification         | None                      | BG Notify.wav               |
+| New Text Message Notification | None                      | BG Notify.wav               |
+| NFIP Completion               | None                      | TBD                         |
+| NFIP Connection               | None                      | TBD                         |
+| Notification                  | None                      | BG Notify.wav               |
+| Notification Bar              | None                      | BG Notify.wav               |
+| Open Program                  | Opening window (Animated) | BG Open Program.wav         |
+| Print Complete                | None                      | BG Notify.wav               |
+| None                          | Printer error             | BG Error.wav                |
+| Program Error                 | Error                     | BG Error.wav                |
+| Question                      | Information               | BG Information.wav          |
+| Restore Down                  | None                      | TBD                         |
+| Restore Up                    | None                      | TBD                         |
+| Select                        | None                      | BG Select.wav               |
+| Show Toolbar Band             | None                      | TBD                         |
+| Start Navigation              | None                      | TBD                         |
+| Start Windows                 | System startup            | BG Startup.wav              |
+| System Notification           | Information               | BG Information.wav          |
+| Windows Change Theme          | None                      | TBD                         |
+| Windows Logoff                | System shutdown           | BG Shutdown.wav             |
+| Windows Logon                 | System startup            | BG Startup.wav              |
+| Windows User Account Control  | None                      | BG User Account Control.wav |
 
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
 
-Suggested registry keys in Windows Vista & above in HKLM on `OEMInformation` are as follows.
+Since Windows Vista & above, the registry keys are located in HKLM on `OEMInformation` by adding the following keys:
 * **Logo**: `OEMlogo.bmp`
 * **Manufacturer**: Robert Matthew Pelloni
 
@@ -79,7 +93,7 @@ This skin can be used with the emulators listed below. Robert Pelloni is not the
 Available in the [Hobbes archive](http://hobbes.nmsu.edu/). See [Extras page on the Bob's Game Wiki](https://bobsgame.fandom.com/wiki/Extras).
 
 ### Palm Hardware Emulator
-Available as commercial software in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem). Perpendox Software LLC hosted the source code under the same license in Palm OS Emulator but the company's website is currently down.
+Available as proprietary commercial software in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem). Perpendox Software LLC hosted the source code under the same license in Palm OS Emulator but the company's website is dead.
 
 ### Palm OS Emulator
 Copyright © 1998-2002 Palm, Inc.
