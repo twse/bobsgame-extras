@@ -401,7 +401,7 @@
      - – Copyright Notice : Copyright (c) 1997 Jürgen Dankoweit
 128. Wget
      - – License : GPL 3.0
-     - – Copyright Notice : Copyright (c) 1995-2019 Hrvoje Nikšić, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
+     - – Copyright Notice : Copyright (c) 1995-2019 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
      - – Download Site : http://www.gnu.org/software/wget/
 129. whois
      - – License : Free
