@@ -42,7 +42,7 @@
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Scott Russell
 14. cURL
-    - – License : MIT License
+    - – License : Free
     - – Copyright Notice : Copyright (c) 1996-2019 Daniel Stenberg
     - – Download Site : https://curl.haxx.se/
 15. Deja News Reader
@@ -91,8 +91,7 @@
     - – Copyright Notice : Copyright (c) 1994 Justin H. Dolske
 29. FTPPM
     - – License : Commercial
-    - – Copyright Notice : IBM
-    - – Download Site : part of OS/2
+    - – Copyright Notice : Copyright (c) IBM
 30. FTP-It!
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995-1997 Ben Brown
@@ -211,8 +210,8 @@
     - – Copyright Notice : Copyright (c) 2000-2019 Peter Moylan
     - – Download Site : http://www.pmoylan.org/pages/os2/Major.html
 68. Marvin's Retriever
-   - – License : GPL 2.0
-   - – Copyright Notice : Copyright (c) 2002 Diarmuid Albers
+    - – License : GPL 2.0
+    - – Copyright Notice : Copyright (c) 2002 Diarmuid Albers
 69. MaxiFTP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Albert Crosby
@@ -274,7 +273,7 @@
 87. NFTP
     - – License : MIT License
     - – Copyright Notice : Copyright (c) 1994-2011 Sergey Ayukov
-    - – Download Site : http://www.ayukov.com/
+    - – Download Site : http://www.ayukov.com/nftp/index.html
 88. NIFMON
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 John R Clark
