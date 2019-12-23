@@ -63,43 +63,46 @@
 21. PM File Finder
     - – License : Free
     - – Copyright Notice : Copyright (c) 1989 Jerry Weldon
-22. PMSpy
+22. PmDup
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1993 Roland Mayer
+23. PMSpy
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1993 Jürg von Känel, Steve M. Diering
-23. ReplText/2
+24. ReplText/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999 Robert Schroeder
-24. Rh
+25. Rh
     - – License : Free
     - – Copyright Notice : Copyright (c) 1990 Ken Stauffer
-25. RWPC
+26. RWPC
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1998 Rupert Weber-Henschel
-26. RxMulch
+27. RxMulch
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994-1996 Rony G. Flatscher
-27. Search Editor PM
+28. Search Editor PM
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Norbert Heller
-28. SearchPlus
+29. SearchPlus
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 2007-2014 Keith Merrington
-29. Searchraw
+30. Searchraw
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Trevor Hemsley
-30. strrpl
+31. strrpl
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1998 Ulrich Möller
-31. Text Search
+32. Text Search
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Reto Pauli
-32. WaitSem
+33. WaitSem
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Günther Huber
-33. Whereis
+34. Whereis
     - – License : Free
     - – Copyright Notice : Copyright (c) 1989-1992 Code Blazers, Inc.
-34. Wild Find
+35. Wild Find
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1988-1996 NPL Corporation
 
