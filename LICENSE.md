@@ -3,7 +3,7 @@ Use this sound scheme, boot skin and other materials for free.
 
 And, of course:
 
-The sound scheme includes many sounds from proprietary content with transformation effects applied.
+The sound scheme includes proprietary content with transformation effects applied.
 
 ### License for OS/2 Icon Collection
 Use this icon collection for free.
