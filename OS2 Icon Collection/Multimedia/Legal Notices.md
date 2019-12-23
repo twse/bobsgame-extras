@@ -105,169 +105,177 @@
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 2010-2019 The WebM Project Authors
     - – Download Site : https://www.webmproject.org/
-33. MadCast
+33. Lyrics, MotivatorMaker, QScaleGen
+    - – License : GPL 2.0
+34. MadCast
     - – License : Free
     - – Copyright Notice : Copyright (c) 2002 Dmitry V. Zakharov
-34. MainActor
+35. MainActor
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1998 MainConcept, GbR
-35. Master Volume Direct Set Utility
+36. Master Volume Direct Set Utility
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996-2001 TEAM MMOS/2 TOKYO Multimedia Communications!
-36. MIDI Station
+37. MIDI Station
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 Christopher D. Hodges
-37. MiniMixer
+38. MiniMixer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994-1995 John V. Schweinfurth
-38. Minta
+39. Minta
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1996-2003 Thorsten Thielen
     - – Download Site : http://www.c2226.de/programs/minta/index.phtml
-39. Mixomat
+40. Mixomat
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997-1998 Christoph Bratschi
-40. MMScope
+41. MMScope
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995-1996 Rainer Falkner
-41. MooSick
+42. MooSick
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2008-2011 Philipp Ruppel
-42. mp3asm
+43. mp3asm
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Oliver Fromme
-43. MPG123
+44. MPG123
     - – License : LGPL 2.1
     - – Copyright Notice : Copyright (c) 1995-2017 Michael Hipp, Thomas Orgis and others
     - – Download Site : http://www.mpg123.de/
-44. MPlayer
+45. MPlayer
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2000-2019 Árpád Gereöffy and MPlayer team
     - – Download Site : http://www.mplayerhq.hu/
-45. Mup
+46. Mup
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 1995-2017 Arkkra Enterprises
     - – Download Site : http://www.arkkra.com/
-46. MyMP3
+47. MyMP3
     - – License : Free
     - – Copyright Notice : Copyright (c) 2001 Charles Cohen
-38. Nota Musica Sequencer
+48. Nota Musica Sequencer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 Johannes Martin Software-Entwicklung
-39. Ogg Vorbis, Opus, Speex, Theora
+49. Ogg Vorbis, Opus, Speex, Theora
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 2001-2018 Xiph.org Foundation
     - – Download Site : https://www.xiph.org/
-40. OplID
+50. OplID
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 François D. Ménard
-41. PlayBoy
+51. PlayBoy
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Igor Divjak
-42. Playlist
+52. Playlist
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Randall W. Jenkins
-43. PM Radio
+53. PM Radio
     - – License : Free or GPL 2.0
     - – Copyright Notice : Copyright (c) 1992-2004 Stephen Loomis, 1997-1999 Paul Ratcliffe
-44. PM123
+54. PM123
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 1997-2003 Samuel Audet, Taneli Leppä, 2004-2017 Dmitry A. Steklenev, Marcel Müller
     - – Download Site : http://www.5nets.ru/pm123.html or http://maazl.de/project/pm123/index.html
-45. PMaud
+55. PMaud
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Ryan C. Gordon 
-46. PMCD2WAV
+56. PMCD2WAV
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 Norbert Heller
-47. PMMixer
+57. PMMixer
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Jeroen Hoppenbrouwers
-48. PMPoze, Sounder
+58. PMPoze, Sounder
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994-1996 Todd Stokes
-49. PMsndX
+59. PMsndX
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 William S. Hiles
-50. PMUniMix
+60. PMUniMix
     - – License : Free
     - – Copyright Notice : Copyright (c) 2015-2017 David W. Parsons
-51. POP-Play
+61. POP-Play
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995-1996 Seppo Lehikoinen
-52. PowerMOD
+62. PowerMOD
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996-1998 Antony T Curtis
-53. Radiofax
+63. Radiofax
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 William Sutton
-54. Real Audio Player
+64. Real Audio Player
     - – License : Free
-55. RxRTCtrl
+65. Rio
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1998 The Snowblind Alliance
+66. RxRTCtrl
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Nicky Morrow, Armin Schwarz
-56. RxShout
+67. RxShout
     - – License : Free
     - – Copyright Notice : Copyright (c) 2007 Andrey Vasilkin
-57. RxWav
+68. RxWav
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1999-2000 Giorgio Vicario
-58. SBPM/2
+69. SBPM/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997 Gerard Gerritsen
-59. SetRegPM
+70. SetRegPM
     - – License : Free
     - – Copyright Notice : Copyright (c) 2002 Carsten Arnold
     - – Download Site : http://www.ca-arnold.de/
-60. SGPMix
+71. SGPMix
     - – License : Free
     - – Copyright Notice : Copyright (c) 2002 Doodle
-61. SMPlayer
+72. SMPlayer
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2006-2019 Ricardo Villalba
     - – Download Site : https://www.smplayer.info/
-62. Sound Scheme Editor
+73. Sound Scheme Editor
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996-1997 Travis Watford
-63. SoX
+74. SoX
     - – License : GPL 2.0 (program), LGPL 2.1 (library and more)
     - – Copyright Notice : Copyright (c) 1991 Lance Norskog
-64. TagTool
+75. Subtitler
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1999-2002 Doodle
+76. TagTool
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Richard Röjfors
-65. TiMidity
+77. TiMidity
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1997-2012 Masanao Izumo, Tuukka Toivanen and TiMidity contributors
     - – Download Site : http://timidity.sourceforge.net/
-66. trk2iso
+78. trk2iso
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Valerie Vrabie
-67. UltiMOD
+79. UltiMOD
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Sander van Leeuwen
-68. VLC
+80. VLC
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1996-2019 VideoLAN
     - – Download Site : http://www.videolan.org/vlc/
-69. VoiX
+81. VoiX
     - – License : LGPL 2.0
     - – Copyright Notice : Copyright (c) 2008 Zhichao Zhang
-70. WarpAMP Playlist Editor
+82. WarpAMP Playlist Editor
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Mike Ruskai
-71. Warped Wave Editor
+83. Warped Wave Editor
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999-2002 Doodle
-72. WarpRadio
+84. WarpRadio
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Armin Schwarz
-73. WarpTuner
+85. WarpTuner
     - – License : Shareware 
     - – Copyright Notice : Copyright (c) 1998 Dmitry Malenok, Andrew Smirnov 
-74. wav2cdr
+86. wav2cdr
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1997-2016 Volker Kuhlmann
-75. WavMix
+87. WavMix
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999 Terry Fry
 
