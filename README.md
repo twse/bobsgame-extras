@@ -16,13 +16,13 @@ Use theme managers (Anemone, CHMM, Themely, ThemePack, etc. etc. etc.) to replac
 ## Sound Scheme
 Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Desktop Themes: Settings: Sound events** or **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
 
-Windows 95 until 7 allows the user to change the sounds used when logging off or on or shutting down the operating system (with Windows 8 & above, the ExcludeFromCPL value was added to WindowsLogoff and WindowsLogon sound events; remove this value to show these events).
+Windows 95 until 7 allows the user to change the sounds used when logging off or on or shutting down the operating system (with Windows 8 & above, the `ExcludeFromCPL` value was added to `WindowsLogoff` and `WindowsLogon` sound events; remove this value to show these events).
 
 ### Index of sound events
 | Windows name                  | OS/2 name                 | Filename                    |
 |-------------------------------|---------------------------|-----------------------------|
 | None                          | Alarm Clock               | TBD                         |
-| Asterisk                      | None                      | TBD                         |
+| Asterisk                      | None                      | BG Balloon.wav              |
 | None                          | Begin drag                | TBD                         |
 | Blocked Pop-up Window         | None                      | TBD                         |
 | Calendar Reminder             | None                      | BG Notify.wav               |
@@ -45,7 +45,7 @@ Windows 95 until 7 allows the user to change the sounds used when logging off or
 | Maximize                      | None                      | TBD                         |
 | Menu Command                  | None                      | TBD                         |
 | Menu Pop-up                   | None                      | TBD                         |
-| Message Badge                 | None                      | TBD                         |
+| Message Badge                 | None                      | BG Notify.wav               |
 | Minimize                      | None                      | BG Minimize.wav             |
 | Move Menu Item                | None                      | TBD                         |
 | New Fax Notification          | None                      | BG Notify.wav               |
@@ -80,7 +80,7 @@ Since Windows Vista & above, the registry keys are located in HKLM on `OEMInform
 * **Manufacturer**: Robert Matthew Pelloni
 
 ## Boot Skin
-The actual logo is in BootSkin Windows XP format. Attempting to install this logo under the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
+The actual skin is in BootSkin Windows XP format and is available in English, German and Polish. Attempting to install this skin under the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
 
 Use the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) to replace the boot skin.
 
