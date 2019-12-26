@@ -51,7 +51,7 @@ Windows 95 until 7 allows the user to change the sounds used when logging off or
 | New Fax Notification          | None                      | BG Notify.wav               |
 | New Mail Notification         | None                      | BG Notify.wav               |
 | New Text Message Notification | None                      | BG Notify.wav               |
-| NFIP Completion               | None                      | TBD                         |
+| NFIP Completion               | None                      | BG Notify.wav               |
 | NFIP Connection               | None                      | TBD                         |
 | Notification                  | None                      | BG Notify.wav               |
 | Notification Bar              | None                      | BG Notify.wav               |
