@@ -80,7 +80,7 @@ Since Windows Vista & above, the registry keys are located in HKLM on `OEMInform
 * **Manufacturer**: Robert Matthew Pelloni
 
 ## Boot Skin
-For use with the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) only. Available in English, German, Polish, Spanish and Turkish. Attempting to install this skin under the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
+For use with the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) only. Available in English, German, Polish, Spanish, Swedish and Turkish. Attempting to install this skin under the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
 
 ## Palm OS Emulator Skin
 Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with [PMView](https://www.pmview.com/).
