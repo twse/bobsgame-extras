@@ -39,13 +39,12 @@
 13. PMPrintf
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992-1993 Michael F. Cowlishaw, 2009-2017 Andreas Buchinger, 2009 Dennis Bareis
-14. PrintPS
+14. PMStripper
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 2000 Don Hawkinson
+15. PrintPS
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1992 Mike Perks
-15. Rexx/Curses
-    - – License : CPL 1.0
-    - – Copyright Notice : Copyright (c) 2001-2015 Mark Hessling
-    - – Download Site : http://rexxcurses.sourceforge.net/
 16. Signature/2
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Reinhard Fischer
