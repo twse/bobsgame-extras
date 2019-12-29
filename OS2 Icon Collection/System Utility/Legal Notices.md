@@ -150,47 +150,56 @@
 49. SDFDump
     - – License : Free
     - – Copyright Notice : Copyright (c) 2001 Andrew Belov
-50. Showfrag
+50. shar
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1986 Mike Kersenbrock
+51. Showfrag
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991-1992 Bob Flanders, Michael Holmes, Dennis Lang
-51. SOS Utilities
+52. SOS Utilities
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1993 Tommi Nieminen
-52. SWAPDCP
+53. STATE
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1990 Dirk Rober
+54. SWAPDCP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992 Ned Konz
-53. SWAPSIZE
+55. SWAPSIZE
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991 Bob Mahan
-54. Syslev
+56. Syslev
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 2000-2016 Robert D Eager
-55. Syslog
+57. Syslog
     - – License : Free
     - – Copyright Notice : Copyright (c) 1983-1988 The Regents of the University of California
-56. THD ProScan
+58. THD ProScan
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 David Muir
-57. ThStat
+59. ThStat
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1989 Franz Krainer
-58. TLHIDE
+60. TLHIDE
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Christian Langanke
-59. TuneUp
+61. TuneUp
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1993 Ken Hubacher
-60. UpdCd
+62. UNIQ
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1995 Edwin Groothuis
+63. UpdCd
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000-2007 Dimitris 'sehh' Michelinakis, Zsolt Kádár
-61. uptime
+64. uptime
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Cheng-Yang Tan, 2000 Mark Eckstein
-62. USB Resource Manager
+65. USB Resource Manager
     - – License : Free
     - – Copyright Notice : Copyright (c) 2017 Wim Brul
     - – Download Site : http://home.hccnet.nl/w.m.brul/
-63. WillUtil
+66. WillUtil
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1992-1994 Will E. Rose
 
