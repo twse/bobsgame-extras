@@ -89,9 +89,6 @@ Use this to replace the Generic skin from the executable file (bmp) or simply ac
 
 This skin can be used with the emulators listed below. Robert Pelloni is not the original author of these emulators. The original copyright notice and the license and contributor list is set forth below. Robert Pelloni licenses these emulators to you under the terms set forth in the BobCorporation license agreement. Robert Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
 
-### CoPilot/2
-Available in the [Hobbes archive](http://hobbes.nmsu.edu/). See [Extras page on the Bob's Game Wiki](https://bobsgame.fandom.com/wiki/Extras).
-
 ### Palm Hardware Emulator
 Available as proprietary commercial software in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem). Perpendox Software LLC hosted the source code under the same license in Palm OS Emulator but the company's website is dead.
 
