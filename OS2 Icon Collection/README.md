@@ -17,7 +17,7 @@ Thanks goes to Apache and Infraware for these texts.
 This icon collection is subject to the following OS/2 software archives and websites which are located at:
 * eCSoft/2: https://www.ecsoft2.org/ (available in English or/o in Italiano)
 * EDM/2: http://www.edm2.com/
-* Hobbes: http://hobbes.nmsu.edu/
+* Hobbes: https://hobbes.nmsu.edu/
 * LEO: ftp://crydee.sai.msu.ru/pub/comp/os/os2/leo/
 * Netlabs: ftp://ftp.netlabs.org/pub/
 * OS/2 World: https://www.os2world.com/
