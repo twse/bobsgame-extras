@@ -52,7 +52,7 @@ Windows 95 until 7 allows the user to change the sounds used when logging off or
 | New Mail Notification         | None                      | BG Notify.wav               |
 | New Text Message Notification | None                      | BG Notify.wav               |
 | NFIP Completion               | None                      | BG Notify.wav               |
-| NFIP Connection               | None                      | TBD                         |
+| NFIP Connection               | None                      | BG Hardware Insert.wav      |
 | Notification                  | None                      | BG Notify.wav               |
 | Notification Bar              | None                      | BG Notify.wav               |
 | Open Program                  | Opening window (Animated) | BG Open Program.wav         |
@@ -60,7 +60,7 @@ Windows 95 until 7 allows the user to change the sounds used when logging off or
 | None                          | Printer error             | BG Error.wav                |
 | Program Error                 | Error                     | BG Error.wav                |
 | Question                      | Information               | BG Information.wav          |
-| Restore Down                  | None                      | TBD                         |
+| Restore Down                  | None                      | BG Minimize.wav             |
 | Restore Up                    | None                      | TBD                         |
 | Select                        | None                      | BG Select.wav               |
 | Show Toolbar Band             | None                      | TBD                         |
