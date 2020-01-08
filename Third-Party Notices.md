@@ -3,6 +3,8 @@
 ## For use of DOOM
 © 2016 id Software, LLC, a ZeniMax Media company. Bethesda, Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. DOOM, id, id Software, id Tech and related logos are registered trademarks or trademarks of id Software LLC in the U.S. and/or other countries.
 
+See the credits in the game for lead developers and many other developers.
+
 ## For use of Excel
 Copyright © 1987-2019 Microsoft Corporation. All rights reserved.
 
@@ -341,6 +343,8 @@ Copyright © 1990-2004 Sundial Systems Corporation. All rights reserved.
 
 ## For use of SimCity
 Copyright © 1994-2013 Electronic Arts Inc.
+
+See the credits in the game for lead developers and many other developers.
 
 ## For use of Tensor
 Copyright © 1997 QVision, Inc.
