@@ -85,6 +85,7 @@
 26. WarpIN
     - – Licenze: LGPL 2.1
     - – Avviso di copyright: Copyright (c) 1997-2012 Netlabs
+    - – Sito di download: http://warpin.netlabs.org/ (link in inglese)
 27. WarpZip
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1996-2000 PillarSoft
