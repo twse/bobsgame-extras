@@ -42,7 +42,7 @@ Windows 95 until 7 allows the user to change the sounds used when logging off or
 | Feed Discovered               | None                      | TBD                         |
 | Information                   | Information               | BG Information.wav          |
 | Instant Message Notification  | None                      | BG Notify.wav               |
-| Maximize                      | None                      | TBD                         |
+| Maximize                      | None                      | BG Maximize.wav             |
 | Menu Command                  | None                      | TBD                         |
 | Menu Pop-up                   | None                      | TBD                         |
 | Message Badge                 | None                      | BG Notify.wav               |
@@ -80,9 +80,7 @@ Since Windows Vista & above, the registry keys are located in HKLM on `OEMInform
 * **Manufacturer**: Robert Matthew Pelloni
 
 ## Boot Skin
-For use with the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) only. Available in Dutch, English, French, German, Italian, Korean, Polish, Russian, Spanish, Swedish and Turkish. Attempting to install with the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
-
-Portuguese users should use the Spanish boot skin (this language uses the same word).
+For use with the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) only. Available in DE, EN, ES, FR, IT, KO, NL, PL, RU, SV and TR. Attempting to install with the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
 
 ## Palm OS Emulator Skin
 Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with [PMView](https://www.pmview.com/).
