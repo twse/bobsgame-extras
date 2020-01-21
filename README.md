@@ -26,6 +26,7 @@ Windows 95 until 7 allows the user to change the sounds used when logging off or
 | None                          | Begin drag                | TBD                         |
 | Blocked Pop-up Window         | None                      | TBD                         |
 | Calendar Reminder             | None                      | BG Notify.wav               |
+| Change Theme                  | None                      | TBD                         |
 | Close Program                 | Closing window (Animated) | BG Close Program.wav        |
 | Complete Navigation           | None                      | TBD                         |
 | Critical Battery Alarm        | None                      | BG Battery Critical.wav     |
@@ -39,9 +40,13 @@ Windows 95 until 7 allows the user to change the sounds used when logging off or
 | None                          | End drag                  | TBD                         |
 | Exclamation                   | Warning                   | BG Exclamation.wav          |
 | Exit Windows                  | System shutdown           | BG Shutdown.wav             |
+| Fax error                     | None                      | TBD                         |
+| Fax line rings                | None                      | TBD                         |
+| Fax sent                      | None                      | TBD                         |
 | Feed Discovered               | None                      | TBD                         |
-| Information                   | Information               | BG Information.wav          |
+| Information                   | Information               | BG Information Bar.wav      |
 | Instant Message Notification  | None                      | BG Notify.wav               |
+| Low Battery Alarm             | None                      | BG Battery Low.wav          |
 | Maximize                      | None                      | BG Maximize.wav             |
 | Menu Command                  | None                      | TBD                         |
 | Menu Pop-up                   | None                      | TBD                         |
@@ -59,15 +64,15 @@ Windows 95 until 7 allows the user to change the sounds used when logging off or
 | Print Complete                | None                      | BG Notify.wav               |
 | None                          | Printer error             | BG Error.wav                |
 | Program Error                 | Error                     | BG Error.wav                |
-| Question                      | Information               | BG Information.wav          |
+| Question                      | Information               | TBD                         |
 | Restore Down                  | None                      | BG Minimize.wav             |
 | Restore Up                    | None                      | TBD                         |
+| Search Provider Discovered    | None                      | TBD                         |
 | Select                        | None                      | BG Select.wav               |
 | Show Toolbar Band             | None                      | TBD                         |
 | Start Navigation              | None                      | TBD                         |
 | Start Windows                 | System startup            | BG Startup.wav              |
 | System Notification           | Information               | BG Information.wav          |
-| Windows Change Theme          | None                      | TBD                         |
 | Windows Logoff                | System shutdown           | BG Shutdown.wav             |
 | Windows Logon                 | System startup            | BG Startup.wav              |
 | Windows User Account Control  | None                      | BG User Account Control.wav |
@@ -78,6 +83,7 @@ The zipped archive is included for use with Windows 95 until XP.
 Since Windows Vista & above, the registry keys are located in HKLM on `OEMInformation` by adding the following keys:
 * **Logo**: `OEMlogo.bmp`
 * **Manufacturer**: Robert Matthew Pelloni
+* **SupportURL**: Line2 in Support Information heading in OEMinfo.ini
 
 ## Boot Skin
 For use with the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) only. Available in DE, EN, ES, FR, IT, KO, NL, PL, RU, SV and TR. Attempting to install with the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
