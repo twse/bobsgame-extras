@@ -87,12 +87,12 @@ Ohjelmistonam
 Saat täydelliset oikeudelliset ilmoitukset, avustaja-ja kääntäjä luettelot osoitteesta https://bobsgame.fandom.com/wiki/Extras (linkki sivulla englanti)
 
 ### French
-Ce dossier peut contenir le logiciel suivant :
+Ce dossier peut contenir le logiciel suivant :
 
 Nom de logiciel
-* – Licence :
-* – Avis de copyright :
-* – Site de téléchargement :
+* – Licence :
+* – Avis de copyright :
+* – Site de téléchargement :
 
 Pour obtenir des avis légalés completes, des listes de contributeurs et de traducteurs, veuillez consulter https://bobsgame.fandom.com/wiki/Extras (lien en anglais)
 
