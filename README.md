@@ -83,12 +83,15 @@ Windows 95 until 7 allows the user to change the sounds used when logging off or
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
 
-Since Windows Vista & above, the registry keys are located in HKLM on `OEMInformation` by adding the following keys:
+For users running Windows Vista & above, the registry keys are located in HKLM on `OEMInformation` by adding the following keys:
 * **Logo**: `OEMlogo.bmp`
 * **Manufacturer**: Robert Matthew Pelloni
-* **SupportURL**: Line2 in Support Information heading in OEMinfo.ini
+* **SupportURL**: Second line in the `Support Information` heading in `OEMinfo.ini`
 
-## Boot Skin
+## Boot Skin (Windows 95, 98 and ME)
+Available in DE, EN and FR. Rename `bobsgame.bmp` to `logo.sys` (copied to root drive's parent directory), `shutdown.bmp` to `logow.sys` and `safetopoweroff.bmp` to `logos.sys` (copied to Windows directory).
+
+## Boot Skin (Windows XP)
 For use with the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) only. Available in DE, EN, ES, FR, IT, KO, NL, PL, RU, SV and TR. Attempting to install with the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
 
 ## Palm OS Emulator Skin
@@ -97,7 +100,9 @@ Use this to replace the Generic skin from the executable file (bmp) or simply ac
 This skin can be used with the emulators listed below. Robert Pelloni is not the original author of these emulators. The original copyright notice and the license and contributor list is set forth below. Robert Pelloni licenses these emulators to you under the terms set forth in the BobCorporation license agreement. Robert Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
 
 ### Palm Hardware Emulator
-Available as proprietary commercial software in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem). Perpendox Software LLC hosted the source code under the same license in Palm OS Emulator but the company's website is dead.
+Copyright © 2013-2014 Perpendox Software LLC
+
+Available as proprietary commercial software in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem). The company hosted the source code under the same license in Palm OS Emulator (see below) but the company's website is dead.
 
 ### Palm OS Emulator
 Copyright © 1998-2002 Palm, Inc.
