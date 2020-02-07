@@ -69,7 +69,7 @@ For fuld juridiske meddelelser, bidragyder og oversætter lister, kan du besøge
 ### Dutch
 Deze map kan de volgende software bevatten:
 
-Nam van software
+Naam van software
 * – Licentie:
 * – Copyright notice:
 * – Download site:
@@ -112,7 +112,7 @@ Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie 
 Όνομα λογισμικό
 * – Άδεια:
 * – Ειδοποίηση πνευματικών δικαιωμάτων:
-* – Λήψη site:
+* – Λήψη:
 
 Για πλήρεις νομικές ανακοινώσεις, λίστες συμβαλλόντων και μεταφραστή, παρακαλούμε επισκεφτείτε https://bobsgame.fandom.com/wiki/Extras (σύνδεσμος)
 

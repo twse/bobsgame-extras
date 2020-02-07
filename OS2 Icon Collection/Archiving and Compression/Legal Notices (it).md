@@ -14,7 +14,7 @@
    - – Avviso di copyright: Copyright (c) 2009-2013 Alexander Taylor
    - – Sito di download: http://www.altsan.org/
 5. ARJ
-   - – Licenze: Libre où shareware
+   - – Licenze: Libre o shareware
    - – Avviso di copyright: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
    - – Sito di download: http://www.arjsoftware.com/ (link in inglese) o http://arj.sourceforge.net/ (link in inglese)
 6. CABextract
@@ -119,4 +119,4 @@
     - – Avviso di copyright: Copyright (c) 1995-2017 Jean-loup Gailly e Mark Adler
     - – Sito di download: http://www.zlib.net/ (link in inglese)
 
-Pour obtenir des avis légalés completes, des listes de contributeurs et de traducteurs, veuillez consulter https://bobsgame.fandom.com/wiki/Extras (lien en anglais)
+Per le notifiche legali complete, gli elenchi dei collaboratori e dei traduttori, si prega di visitare https://bobsgame.fandom.com/wiki/Extras (link in inglese)
