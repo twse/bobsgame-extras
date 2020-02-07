@@ -108,7 +108,7 @@
     - – Copyright Notice : Copyright (c) 1994 Andreas Ley
 34. GIMP
     - – License : GPL 3.0 (program), LGPL 3.0 (library), CC-SA 4.0 (website)
-    - – Copyright Notice : Copyright (c) 1995-2019 Spencer Kimball, Peter Mattis and the GIMP Development Team
+    - – Copyright Notice : Copyright (c) 1995-2020 Spencer Kimball, Peter Mattis and the GIMP Development Team
     - – Download Site : https://www.gimp.org/
 35. GramoFile
     - – License : GPL 2.0
@@ -150,7 +150,7 @@
 47. Jhead
     - – License : Public Domain
     - – Copyright Notice : Copyright (c) 2001-2018 Matthias Wandel
-    - – Download Site : http://www.sentex.net/~mwandel/jhead/
+    - – Download Site : https://www.sentex.ca/~mwandel/jhead/
 48. jp2a
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2006 Christian Stigen Larsen
@@ -241,7 +241,7 @@
     - – Download Site : https://pmt.sourceforge.io/pngmeta
 74. Potrace
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2001-2017 Peter Selinger
+    - – Copyright Notice : Copyright (c) 2001-2019 Peter Selinger
     - – Download Site : http://potrace.sourceforge.net/
 75. PPM2FLI
     - – License : Free

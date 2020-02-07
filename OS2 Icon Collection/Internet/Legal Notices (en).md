@@ -43,7 +43,7 @@
     - – Copyright Notice : Copyright (c) 1996 Scott Russell
 14. cURL
     - – License : Free
-    - – Copyright Notice : Copyright (c) 1996-2019 Daniel Stenberg
+    - – Copyright Notice : Copyright (c) 1996-2020 Daniel Stenberg
     - – Download Site : https://curl.haxx.se/
 15. Deja News Reader
     - – License : Free

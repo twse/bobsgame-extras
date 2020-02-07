@@ -130,7 +130,7 @@ A teljes jogi közlemények, közreműködő és fordító listák, kérjük, l�
 Questa cartella può contenere il seguente software:
 
 Nome di software
-* – Licenza:
+* – Licenze:
 * – Avviso di copyright:
 * – Sito di download:
 
@@ -146,15 +146,25 @@ Nazwa oprogramowania
 
 W celu uzyskania pełnych informacji prawnych, list autorów i tłumaczy prosimy odwiedzić https://bobsgame.fandom.com/wiki/Extras (w angielski)
 
-### Portuguese
+### Portuguese (Brazil)
 Esta pasta pode conter o seguinte software:
 
-Nome de software
+Nome do software
 * – Licença:
 * – Aviso de copyright:
 * – Site de download:
 
 Para avisos legais completos, listas de colaboradores e tradutora, por favor visite https://bobsgame.fandom.com/wiki/Extras (link em inglês)
+
+### Portuguese (Portugal)
+Esta pasta pode conter o seguinte software:
+
+Nome do software
+* – Licença:
+* – Aviso de direitos autorais:
+* – Site de descarregamento:
+
+Para avisos legais completos, listas de contribuintes e tradutores, consulte https://bobsgame.fandom.com/wiki/Extras (link em inglês)
 
 ### Romanian
 Acest folder poate conține următorul software:
