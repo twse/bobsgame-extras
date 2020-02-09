@@ -54,155 +54,158 @@
 18. Elapsed
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999 Dan Holmes
-19. EMX
+19. ELEPHANT
+    - – License : IBM EWS
+    - – Copyright Notice : Copyright (c) 1992 David Slauson
+20. EMX
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1990-1998 Eberhard Mattes
-20. ExecNet
+21. ExecNet
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Rolf Breuning
-21. File Attributes
+22. File Attributes
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1988-1993 Turgut Kalfaoğlu
-22. File Cutter
+23. File Cutter
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 VG Soft
-23. File Utilities
+24. File Utilities
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 John S Glover
-24. FileREXX
+25. FileREXX
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Jeff Glatt
-25. FINDSEG
+26. FINDSEG
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1990-1992 Takaaki Nonaka
-26. flip
+27. flip
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992 Rahul Dhesi, Carlsberg A/S
-27. FREE
+28. FREE
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Harald Bögeholz
-28. FSync
+29. FSync
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999-2010 David Azarewicz
-29. GONE, NewScan
+30. GONE, NewScan
     - – License : Free
-30. ItsNow!
+31. ItsNow!
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1992 Theo Foster
-31. JShifter
+32. JShifter
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1995-1997 Jeppe Cramon
-32. JUMP
+33. JUMP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Thomas S. Opheys
-33. KL-Virus
+34. KL-Virus
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1993 Keith Luken
-34. L40BATT
+35. L40BATT
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1992-1993 Barry R. Diller
-35. LIMIT
+36. LIMIT
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992 Jan Bernard van Doorn
-36. LogIt
+37. LogIt
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997 Julian Buss
-37. MultifileDetector
+38. MultifileDetector
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2010-2011 Alexander Pilloud
-38. NoCAD
+39. NoCAD
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993 Bernd Kunrath
-39. noList
+40. noList
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1993 Jack Tan
-40. Odin
+41. Odin
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999-2017 Netlabs
     - – Download Site : http://odin.netlabs.org/
-41. OS/2 Command Line Utilities
+42. OS/2 Command Line Utilities
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991-2004 Jonathan de Boyne Pollard
-42. PM Patrol
+43. PM Patrol
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 WallyWare
-43. PMAttrib
+44. PMAttrib
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 Antonino Iannella
-44. PMSplit
+45. PMSplit
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Michael Eckert
-45. Protime
+46. Protime
     - – License : Emailware
     - – Copyright Notice : Copyright (c) 2004 Gene Angel
-46. PSPLIT
+47. PSPLIT
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Claes Lindblom
-47. RMX
+48. RMX
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Johan Wikman
-48. RUNFOR
+49. RUNFOR
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Wonkoo Kim
-49. RXU
+50. RXU
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Dave Boll, 1999 Walter Metcalf
-50. ScreenSpace
+51. ScreenSpace
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 *Shprota*
-51. SDFDump
+52. SDFDump
     - – License : Free
     - – Copyright Notice : Copyright (c) 2001 Andrew Belov
-52. shar
+53. shar
     - – License : Free
     - – Copyright Notice : Copyright (c) 1986 Mike Kersenbrock
-53. Showfrag
+54. Showfrag
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991-1992 Bob Flanders, Michael Holmes, Dennis Lang
-54. SOS Utilities
+55. SOS Utilities
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1993 Tommi Nieminen
-55. STATE
+56. STATE
     - – License : Free
     - – Copyright Notice : Copyright (c) 1990 Dirk Rober
-56. SWAPDCP
+57. SWAPDCP
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992 Ned Konz
-57. SWAPSIZE
+58. SWAPSIZE
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991 Bob Mahan
-58. Syslev
+59. Syslev
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 2000-2016 Robert D Eager
-59. Syslog
+60. Syslog
     - – License : Free
     - – Copyright Notice : Copyright (c) 1983-1988 The Regents of the University of California
-60. THD ProScan
+61. THD ProScan
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 David Muir
-61. ThStat
+62. ThStat
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1989 Franz Krainer
-62. TLHIDE
+63. TLHIDE
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Christian Langanke
-63. TuneUp
+64. TuneUp
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1993 Ken Hubacher
-64. UNIQ
+65. UNIQ
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Edwin Groothuis
-65. UpdCd
+66. UpdCd
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000-2007 Dimitris 'sehh' Michelinakis, Zsolt Kádár
-66. uptime
+67. uptime
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Cheng-Yang Tan, 2000 Mark Eckstein
-67. USB Resource Manager
+68. USB Resource Manager
     - – License : Free
     - – Copyright Notice : Copyright (c) 2017 Wim Brul
     - – Download Site : http://home.hccnet.nl/w.m.brul/usbcalls/index.html
-68. WillUtil
+69. WillUtil
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1992-1994 Will E. Rose
 
