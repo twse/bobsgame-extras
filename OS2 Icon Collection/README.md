@@ -74,7 +74,7 @@ Naam van software
 * – Copyright notice:
 * – Download site:
 
-Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in engels) bezoeken
+Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken
 
 ### Finnish
 Tämä kansio saattaa sisältää seuraavat ohjelmistot:
@@ -85,16 +85,6 @@ Ohjelmistonam
 * – Lataussivusto:
 
 Saat täydelliset oikeudelliset ilmoitukset, avustaja-ja kääntäjä luettelot osoitteesta https://bobsgame.fandom.com/wiki/Extras (linkki sivulla englanti)
-
-### French
-Ce dossier peut contenir le logiciel suivant :
-
-Nom de logiciel
-* – Licence :
-* – Avis de copyright :
-* – Site de téléchargement :
-
-Pour obtenir des avis légalés completes, des listes de contributeurs et de traducteurs, veuillez consulter https://bobsgame.fandom.com/wiki/Extras (lien en anglais)
 
 ### German
 Diese Ordner kann die folgende Software enthalten:
@@ -125,16 +115,6 @@ Szoftver
 * – Letöltési hely:
 
 A teljes jogi közlemények, közreműködő és fordító listák, kérjük, látogasson el a https://bobsgame.fandom.com/wiki/Extras (angol nyelvem)
-
-### Italian
-Questa cartella può contenere il seguente software:
-
-Nome di software
-* – Licenze:
-* – Avviso di copyright:
-* – Sito di download:
-
-Per le notifiche legali complete, gli elenchi dei collaboratori e dei traduttori, si prega di visitare https://bobsgame.fandom.com/wiki/Extras (link in inglese)
 
 ### Polish
 Ten folder może zawierać następujące oprogramowanie:
