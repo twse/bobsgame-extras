@@ -200,7 +200,7 @@
     - – Copyright Notice : Copyright (c) 2001-2003 Yury Pogrebnyak
 62. Python
     - – License : Free
-    - – Copyright Notice : Copyright (c) 2001-2019 Python Software Foundation
+    - – Copyright Notice : Copyright (c) 2001-2020 Python Software Foundation
     - – Download Site : https://www.python.org/
 63. QDevelop
     - – License : GPL 2.0
