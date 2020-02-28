@@ -116,7 +116,7 @@
 40. ScreenSaver
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1993-1996 Siegfried Hanisch
-    - – Download Site : http://www.hanisch.com/cms/index.php?cID=39
+    - – Download Site : https://www.hanisch.com/cms/index.php/home_en/screensaver_en/index.html
 41. Security/2
     - – License : Free for non-commercial use
     - – Copyright Notice : Copyright (c) 2002-2007 Nikolay Kolosov
