@@ -46,6 +46,16 @@ Nom programari
 
 Per a avisos legals complets, llistes de col·laboradors i traductors, visiteu https://bobsgame.fandom.com/wiki/Extras (enllaç en anglès)
 
+### Croatian
+Ova mapa može sadržavati sljedeći softver:
+
+Naziv softvera
+* – Licenca:
+* – Obavijest o autorskom pravu:
+* – Web-mjesto za preuzimanje:
+
+Potpune pravne obavijesti, popise suradnika i prevoditelja potražite na ovoj stranici (poveznica na engleskom jeziku)
+
 ### Czech
 Tato složka může obsahovat následující software:
 
@@ -56,26 +66,6 @@ Jméno software
 
 Úplné právní doložky, seznamy přispěvatelů a převaděče naleznete na https://bobsgame.fandom.com/wiki/Extras (odkaz v angličtina)
 
-### Danish
-Denne mappe kan indeholde følgende software:
-
-Software nam
-* – Licens:
-* – Meddelelse om ophavsret:
-* – Download site:
-
-For fuld juridiske meddelelser, bidragyder og oversætter lister, kan du besøge https://bobsgame.fandom.com/wiki/Extras (link på engels)
-
-### Dutch
-Deze map kan de volgende software bevatten:
-
-Naam van software
-* – Licentie:
-* – Copyright notice:
-* – Download site:
-
-Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken
-
 ### Finnish
 Tämä kansio saattaa sisältää seuraavat ohjelmistot:
 
@@ -85,16 +75,6 @@ Ohjelmistonam
 * – Lataussivusto:
 
 Saat täydelliset oikeudelliset ilmoitukset, avustaja-ja kääntäjä luettelot osoitteesta https://bobsgame.fandom.com/wiki/Extras (linkki sivulla englanti)
-
-### German
-Diese Ordner kann die folgende Software enthalten:
-
-Nam von Software
-* – Lizenz:
-* – Copyright-Hinweise:
-* – Download-Site:
-
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
 
 ### Greek
 Αυτός ο φάκελος μπορεί να περιέχει το ακόλουθο λογισμικό:
@@ -116,6 +96,16 @@ Szoftver
 
 A teljes jogi közlemények, közreműködő és fordító listák, kérjük, látogasson el a https://bobsgame.fandom.com/wiki/Extras (angol nyelvem)
 
+### Norwegian
+Denne mappen kan inneholde følgende programvare:
+
+Programvarenavn
+* – Lisens:
+* – Merknad om opphavsrett:
+* – Nedlastingsside:
+
+For fullstendige juridiske merknader, bidragsyter- og oversetterlister, se https://bobsgame.fandom.com/wiki/Extras (lenke på engelsk)
+
 ### Polish
 Ten folder może zawierać następujące oprogramowanie:
 
@@ -125,26 +115,6 @@ Nazwa oprogramowania
 * – Strona pobierania:
 
 W celu uzyskania pełnych informacji prawnych, list autorów i tłumaczy prosimy odwiedzić https://bobsgame.fandom.com/wiki/Extras (w angielski)
-
-### Portuguese (Brazil)
-Esta pasta pode conter o seguinte software:
-
-Nome do software
-* – Licença:
-* – Aviso de copyright:
-* – Site de download:
-
-Para avisos legais completos, listas de colaboradores e tradutora, por favor visite https://bobsgame.fandom.com/wiki/Extras (link em inglês)
-
-### Portuguese (Portugal)
-Esta pasta pode conter o seguinte software:
-
-Nome do software
-* – Licença:
-* – Aviso de direitos autorais:
-* – Site de descarregamento:
-
-Para avisos legais completos, listas de contribuintes e tradutores, consulte https://bobsgame.fandom.com/wiki/Extras (link em inglês)
 
 ### Romanian
 Acest folder poate conține următorul software:
@@ -175,26 +145,6 @@ Meno softvér
 * – Server pro stáhovanie:
 
 Pre úplné právne upozornenia, prispievateľ a prekladateľ zoznamy, prosím, navštívte https://bobsgame.fandom.com/wiki/Extras (link v angličtina)
-
-### Spanish
-Esta carpeta puede contener el siguiente software:
-
-Nombre de software
-* – Licencia:
-* – Aviso de derechos de autor:
-* – Sitio de descarga:
-
-Para obtener avisos legales completos, listas de colaboradores y traductores, visite https://bobsgame.fandom.com/wiki/Extras (enlace en inglés)
-
-### Swedish
-Den här mappen kan innehålla följande programvara:
-
-Nam programvara
-* – Licens:
-* – Copyrightmeddelande:
-* – Nedladdningssida:
-
-För fullständig juridisk information, bidragsgivare och listor översättare, vänligen besök https://bobsgame.fandom.com/wiki/Extras (link på engelska)
 
 ### Turkish
 Bu klasör aşağıdaki yazılımı içerebilir:

@@ -399,7 +399,7 @@
 127. Wget
      - – Licencia: GPL 3.0
      - – Aviso de derechos de autor: Copyright (c) 1995-2019 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
-     - – Sitio de descarga: http://www.gnu.org/software/wget/
+     - – Sitio de descarga: http://www.gnu.org/software/wget/ (enlace en inglés)
 128. whois
      - – Licencia: Libre
      - – Aviso de derechos de autor: Copyright (c) 1998 Thomas Fotherby, 1995 Richard J. Sexton

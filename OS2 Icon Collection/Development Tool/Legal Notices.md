@@ -49,7 +49,7 @@
 16. Dialog
     - – License : LGPL 2.1
     - – Copyright Notice : Copyright (c) 1993-1994 Savio Lam, 1997-2019 Thomas E. Dickey
-    - – Download Site : https://invisible-island.net/dialog
+    - – Download Site : https://invisible-island.net/dialog/
 17. Dialog Editor
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993-1995 Giovanni Iachello
@@ -85,7 +85,7 @@
     - – Download Site : http://www.grosse-coosmann.de/~florian/
 27. Glade
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2001-2019 Ximian, Inc., Joaquín Cuenca Abela, Paolo Borelli, Tristan Van Berkom, Juan Pablo Ugarte et al.
+    - – Copyright Notice : Copyright (c) 2001-2020 Ximian, Inc., Joaquín Cuenca Abela, Paolo Borelli, Tristan Van Berkom, Juan Pablo Ugarte et al.
     - – Download Site : https://glade.gnome.org/
 28. GPF REXX
     - – License : Shareware
@@ -188,7 +188,7 @@
 58. PPWIZARD
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997-2018 Dennis Bareis
-    - – Download Site : http://www.dennisbareis.com/
+    - – Download Site : https://www.dennisbareis.com/
 59. PrjBld
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1998 IDK, Inc.

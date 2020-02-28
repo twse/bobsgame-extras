@@ -66,7 +66,7 @@
 20. FastIni
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997 Dennis Bareis
-    - – Download Site : http://www.dennisbareis.com/
+    - – Download Site : https://www.dennisbareis.com/
 21. GenINI
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2008-2014 Peter Moylan
@@ -80,7 +80,7 @@
 24. IMPINI
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994-2003 Christian Langanke
-    - – Download Site : http://www.clanganke.de/os2/sw/ (in German only / nur auf Deutsch)
+    - – Download Site : http://www.clanganke.de/os2/sw/
 25. INI2Rexx
     - – License : Free
     - – Copyright Notice : Copyright (c) 2003 Alfredo Fernández Díaz, 2017 André Doff
