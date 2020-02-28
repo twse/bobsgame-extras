@@ -86,7 +86,7 @@
     - – Copyright notice: Copyright (c) 1996-1998 Christian Bressler
 27. Perl-Compatible Regular Expressions
     - – Licentie: BSD 3-Clause
-    - – Copyright notice: Copyright (c) 1997-2019 University of Cambridge
+    - – Copyright notice: Copyright (c) 1997-2019 Universiteit van Cambridge
     - – Download site: http://www.pcre.org/ (link in Engels)
 28. PlotMTV
     - – Licentie: Free
