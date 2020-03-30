@@ -9,8 +9,8 @@
    - – License : Free
    - – Copyright Notice : Copyright (c) 1993 Ian William Robertson
 4. ASM Edit
-   - – License : Shareware
-   - – Copyright Notice : Copyright (c) 1996 Olaf Krusche, Tilo Elstner
+   - – License : Free
+   - – Copyright Notice : Copyright (c) 1996 Olaf Krusche, Tilo Elstner (credited as Tels)
    - – Download Site : http://www.o-love.net/asmedit/
 5. AUTOS2
    - – License : Free
@@ -48,7 +48,7 @@
     - – Copyright Notice : Copyright (c) 1990 Dynalink Technologies Inc.
 16. Dialog
     - – License : LGPL 2.1
-    - – Copyright Notice : Copyright (c) 1993-1994 Savio Lam, 1997-2019 Thomas E. Dickey
+    - – Copyright Notice : Copyright (c) 1993-1994 Savio Lam, 1997-2020 Thomas E. Dickey
     - – Download Site : https://invisible-island.net/dialog/
 17. Dialog Editor
     - – License : Free
@@ -77,7 +77,7 @@
     - – Download Site : https://libexpat.github.io/
 25. GCC
     - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 1985-2019 Richard Stallman
+    - – Copyright Notice : Copyright (c) 1985-2020 Richard Stallman
     - – Download Site : https://gcc.gnu.org/
 26. GCI
     - – License : Free
@@ -115,7 +115,7 @@
     - – Download Site : http://www.mklasson.com/hexit.php
 36. Hiew
     - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1997-2018 Eugene Suslikov
+    - – Copyright Notice : Copyright (c) 1997-2020 Eugene Suslikov
     - – Download Site : http://www.hiew.ru/
 37. ICONRESOURCE
     - – License : LGPL 2.0
