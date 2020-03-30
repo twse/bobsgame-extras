@@ -6,9 +6,9 @@
 See the credits in the game for lead developers and many other developers.
 
 ## For use of Excel
-Copyright © 1987-2019 Microsoft Corporation. All rights reserved.
+Copyright © 1987-2020 Microsoft Corporation. All rights reserved.
 
-See the about dialog in the program itself for proofing tool legal notices.
+See the about dialog in the program itself for legal notices of proofing tools based on region and language.
 
 ### Excel Development Credits
 * David Ahlers
@@ -360,9 +360,9 @@ Copyright © 1997 QVision, Inc.
 9. The above warranty does not apply if you make any unauthorized attempt to modify or duplicate the product, or if the product has been damaged by accident or abuse.
 
 ## For use of Word
-Copyright © 1983-2019 Microsoft Corporation. All rights reserved.
+Copyright © 1983-2020 Microsoft Corporation. All rights reserved.
 
-See the about dialog in the program itself for proofing tool legal notices.
+See the about dialog in the program itself for legal notices of proofing tools based on region and language.
 
 ### Word Development Credits
 * Charles Simonyi – Original author
