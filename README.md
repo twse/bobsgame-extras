@@ -88,8 +88,10 @@ For users running Windows Vista & above, the registry keys are located in HKLM o
 * **Manufacturer**: Robert Matthew Pelloni
 * **SupportURL**: Second line in the `Support Information` heading in `OEMinfo.ini`
 
-## Boot Skin (Windows 95, 98 and ME)
-Available in DE, EN, ES, FR, PL and PT-BR. Rename `bobsgame.bmp` to `logo.sys` (copied to root drive's parent directory), `shutdown.bmp` to `logow.sys` and `safetopoweroff.bmp` to `logos.sys` (copied to Windows directory).
+## Boot Skin (Windows 9x and ME)
+Available in CS, DA, DE, EN, ES, FI, FR, HU, IT, NL, PL, PT-BR, RU and TR. Rename `bobsgame.bmp` to `logo.sys` (copied to root drive's parent directory), `shutdown.bmp` to `logow.sys` and `safetopoweroff.bmp` to `logos.sys` (copied to Windows directory).
+
+**Note:** Windows 9x or ME must be in VGA to display the startup or shutdown screens.
 
 ## Boot Skin (Windows XP)
 For use with the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) only. Available in DE, EN, ES, FR, IT, JA, KO, NL, PL, RU, SV and TR. Attempting to install with the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
