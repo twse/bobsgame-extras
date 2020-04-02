@@ -1,8 +1,8 @@
 ﻿# Extra stuff for bob's game
-Contains extra stuff for bob's game except fonts.
+Contains extra stuff for bob's game excluding fonts.
 
 ## Google search form (requires internet connection)
-There's no Google search form in the [Bob Corporation website](http://www.bobcorporation.com/). Includes an option to search the wiki hosted by FANDOM.
+No Google search form is available in the [Bob Corporation website](http://www.bobcorporation.com/). It includes an option to search the Fandom wiki. There is no option to search the forum as the forum is running an old version of XenForo.
 
 ## Art Department
 Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
@@ -16,10 +16,13 @@ Use theme managers (Anemone, CHMM, Themely, ThemePack, etc. etc. etc.) to replac
 ### Windows User Account Picture
 Use this to replace the user account picture (this can be done in Windows XP via **Control Panel: User Accounts: Change your picture** (category view) or **Control Panel: User Accounts: Your username: Change my picture** (classic view) or in Windows Vista and 7 via **Control Panel: User Accounts and Family Safety: User Accounts: Change your picture** (category view) or **User Accounts: Change your picture** (normal view) or in Windows 8 via **Start: Your username: Change account picture** or **PC settings: Personalize: Account picture: Browse** or in Windows 10 via **Settings: Accounts: Your account: Your picture: Browse**). The default pictures are located in Windows XP at `Documents and Settings\All Users\Application Data\Microsoft\User Account Pictures\Default Pictures` (Images should be 48×48) or in Windows Vista and 7 at `ProgramData\Microsoft\User Account Pictures\Default Pictures` (Images should be 128×128).
 
+### Windows Desktop Theme
+Use this to replace the desktop theme in Windows. Includes Windows Aero effects if Windows Vista or 7 is running.
+
 ## Sound Scheme
 Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Desktop Themes: Settings: Sound events** or **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
 
-Windows 95 until 7 allows the user to change the sounds used when logging off or on or shutting down the operating system (with Windows 8 & above, the `ExcludeFromCPL` value was added to `WindowsLogoff` and `WindowsLogon` sound events; remove this value to show these events).
+Windows 95 until 7 allows the user to change the sounds used for logoff, login and shutdown (with Windows 8 & above, the `ExcludeFromCPL` value was added to `WindowsLogoff` and `WindowsLogon` sound events; remove this value to show these events).
 
 ### Index of sound events
 | Windows name                  | OS/2 name                 | Filename                    |
@@ -104,7 +107,7 @@ This skin can be used with the emulators listed below. Robert Pelloni is not the
 ### Palm Hardware Emulator
 Copyright © 2013-2014 Perpendox Software LLC
 
-Available as proprietary commercial software in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem). The company hosted the source code under the same license in Palm OS Emulator (see below) but the company's website is dead.
+Available as proprietary commercial software in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem). The company released the source code using the same license in Palm OS Emulator (see below) but the company's website is dead.
 
 ### Palm OS Emulator
 Copyright © 1998-2002 Palm, Inc.

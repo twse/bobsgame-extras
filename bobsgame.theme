@@ -1,0 +1,95 @@
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=Bob's Game
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=
+Empty=
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+Pattern=
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\Aero.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+ColorizationColor=0X80555555
+Transparency=1
+Composition=1
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=Bob's Game
+[AppEvents\Schemes\Apps\Explorer\BlockedPopup]
+DefaultValue=%SystemRoot%\media\BG Pop-up Blocked.wav
+[AppEvents\Schemes\Apps\.Default\Close]
+DefaultValue=%SystemRoot%\media\BG Close Program.wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=%SystemRoot%\media\BG Battery Critical.wav
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=%SystemRoot%\media\BG Ding.wav
+[AppEvents\Schemes\Apps\.Default\DeviceConnect]
+DefaultValue=%SystemRoot%\media\BG Hardware Insert.wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=%SystemRoot%\media\BG Hardware Remove.wav
+[AppEvents\Schemes\Apps\.Default\DeviceFail]
+DefaultValue=%SystemRoot%\media\BG Hardware Fail.wav
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin]
+DefaultValue=%SystemRoot%\media\BG Recycle.wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=%SystemRoot%\media\BG Battery Low.wav
+[AppEvents\Schemes\Apps\.Default\Maximize]
+DefaultValue=%SystemRoot%\media\BG Maximize.wav
+[AppEvents\Schemes\Apps\.Default\Minimize]
+DefaultValue=%SystemRoot%\media\BG Minimize.wav
+[AppEvents\Schemes\Apps\.Default\Open]
+DefaultValue=%SystemRoot%\media\BG Open Program.wav
+[AppEvents\Schemes\Apps\.Default\PrintComplete]
+DefaultValue=%SystemRoot%\media\BG Print complete.wav
+[AppEvents\Schemes\Apps\.Default\RestoreDown]
+DefaultValue=%SystemRoot%\media\BG Restore.wav
+[AppEvents\Schemes\Apps\.Default\RestoreUp]
+DefaultValue=%SystemRoot%\media\BG Restore.wav
+[AppEvents\Schemes\Apps\Explorer\SecurityBand]
+DefaultValue=%SystemRoot%\media\BG Information Bar.wav
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=%SystemRoot%\media\BG Error.wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=%SystemRoot%\media\BG Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\SystemExit]
+DefaultValue=%SystemRoot%\media\BG Shutdown.wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=%SystemRoot%\media\BG Critical Stop.wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=%SystemRoot%\media\BG Balloon.wav
+[AppEvents\Schemes\Apps\.Default\SystemStart]
+DefaultValue=%SystemRoot%\media\BG Startup.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogoff]
+DefaultValue=%SystemRoot%\media\BG Logoff Sound.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogon]
+DefaultValue=%SystemRoot%\media\BG Logon Sound.wav
+[AppEvents\Schemes\Apps\.Default\WindowsUAC]
+DefaultValue=%SystemRoot%\media\BG User Account Control.wav
