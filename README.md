@@ -92,12 +92,12 @@ For users running Windows Vista & above, the registry keys are located in HKLM o
 * **SupportURL**: Second line in the `Support Information` heading in `OEMinfo.ini`
 
 ## Boot Skin (Windows 9x and ME)
-Available in CS, DA, DE, EN, ES, FI, FR, HU, IT, NL, PL, PT-BR, RU and TR. Rename `bobsgame.bmp` to `logo.sys` (copied to root drive's parent directory), `shutdown.bmp` to `logow.sys` and `safetopoweroff.bmp` to `logos.sys` (copied to Windows directory).
+Available in CS, DA, DE, EN, ES, FI, FR, HU, IT, NL, PL, PT-BR, RU and TR. Rename `bobsgame.bmp` to `logo.sys` (copied to root drive's parent directory), `shutdown.bmp` to `logow.sys` and `safetopoweroff.bmp` to `logos.sys` (copied to the Windows directory).
 
-**Note:** Windows 9x or ME must be in VGA to display the startup or shutdown screens.
+**Note:** Windows 9x or ME must be in VGA to display the startup or shutdown screens (running in EGA only shows textual messages on startup or shutdown).
 
 ## Boot Skin (Windows XP)
-For use with the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) only. Available in DE, EN, ES, FR, IT, JA, KO, NL, PL, RU, SV and TR. Attempting to install with the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
+For use with the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) only. Available in DE, EN, ES, FR, IT, JA, KO, NL, PL, RO, RU, SV and TR. Attempting to install with the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
 
 ## Palm OS Emulator Skin
 Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with [PMView](https://www.pmview.com/).
