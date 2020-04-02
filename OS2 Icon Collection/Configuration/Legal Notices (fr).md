@@ -15,7 +15,7 @@
 5. CleanINI
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 2001 Carsten Arnold
-   - – Site de téléchargement : http://www.ca-arnold.de/ (lien en anglais où allemand)
+   - – Site de téléchargement : http://www.ca-arnold.de/e/index.html (lien en anglais)
 6. CNFGINFO
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1994-1995 Rick Meigs
@@ -123,7 +123,7 @@
 38. OS2CSM
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1999-2009 Veit Kannegieser
-    - – Site de téléchargement : http://www.kannegieser.net/veit/ (lien en anglais où allemand)
+    - – Site de téléchargement : http://www.kannegieser.net/veit/ (lien en anglais)
 39. PM Preference
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1990 Todd Fincannon
@@ -151,7 +151,7 @@
 47. UniMaint
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994-2011 Jim Read
-    - – Site de téléchargement : http://www.jaread.net/
+    - – Site de téléchargement : http://www.jaread.net/downloads/unimaint/
 48. Warp'n'Go
     - – Licence : IBM EWS
     - – Avis de copyright : Copyright (c) 1994-1995 Dietmar M. Klein

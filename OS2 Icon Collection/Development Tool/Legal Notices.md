@@ -269,7 +269,7 @@
     - – Copyright Notice : Copyright (c) 2004-2015 Tim Mecking
 84. SWI-Prolog
     - – License : BSD 2-Clause
-    - – Copyright Notice : Copyright (c) 1985-2019 University of Amsterdam
+    - – Copyright Notice : Copyright (c) 1985-2020 University of Amsterdam
     - – Download Site : https://www.swi-prolog.org/
 85. The Interactive Disassembler
     - – License : Freemium

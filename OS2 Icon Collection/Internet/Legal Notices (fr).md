@@ -194,7 +194,7 @@
     - – Avis de copyright : Copyright (c) 1995 Lynn W. Deffenbaugh
 63. Lynx
     - – Licence : GPL 2.0
-    - – Avis de copyright : Copyright (c) 1997-2019 Garrett Arch Blythe, Thomas E. Dickey, Michael Grobe, Craig Lavender, Foteos Macrides, Lou Montulli, Charles Rezac
+    - – Avis de copyright : Copyright (c) 1997-2020 Garrett Arch Blythe, Thomas E. Dickey, Michael Grobe, Craig Lavender, Foteos Macrides, Lou Montulli, Charles Rezac
     - – Site de téléchargement : https://invisible-island.net/lynx/ (information ; lien en anglais) où https://lynx.invisible-island.net/ (code source/binaires ; lien en anglais)
 64. L-LIST
     - – Licence : Shareware
@@ -288,8 +288,8 @@
     - – Avis de copyright : Copyright (c) 1992-1999 Peter Mandrella
 92. Opera
     - – Licence : Libre
-    - – Avis de copyright : Copyright (c) 1994-2019 Opera Software ASA
-    - – Site de téléchargement : https://www.opera.com/ (lien en anglais)
+    - – Avis de copyright : Copyright (c) 1994-2020 Opera Software ASA
+    - – Site de téléchargement : https://www.opera.com/
 93. OS2_NTPD
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1998 Bruce M. Penrod
@@ -398,8 +398,8 @@
      - – Avis de copyright : Copyright (c) 1997 Jürgen Dankoweit
 127. Wget
      - – Licence : GPL 3.0
-     - – Avis de copyright : Copyright (c) 1995-2019 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
-     - – Site de téléchargement : http://www.gnu.org/software/wget/
+     - – Avis de copyright : Copyright (c) 1995-2020 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
+     - – Site de téléchargement : http://www.gnu.org/software/wget/ (lien en anglais)
 128. whois
      - – Licence : Libre
      - – Avis de copyright : Copyright (c) 1998 Thomas Fotherby, 1995 Richard J. Sexton

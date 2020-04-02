@@ -3,7 +3,7 @@
 Note that you have to use these icons on a file system which supports long file names. FAT16 does not support long file names, while the existing FAT32 or even NTFS file system drivers for OS/2, eCS and Arca OS are experimental at best, so the safest bet is to use a native IBM file system like HPFS (the OS/2, eCS and Arca OS default FS) or JFS.
 
 ### ANNEX: How to add or update existing software entries.
-To add or update existing software entries, attach the following text, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax. The protocol for each download site should be **http** (insecure sites) or **https** (secure sites). If the site is an FTP server, links won't be automatically created except in OctoDroid. The servers will appear underlined when editing in the GitHub web UI.
+To add or update existing software entries, attach the following text, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax. The protocol for each download site should be **http** (not secure) or **https** (secure). FTP servers won't automatically create links except in OctoDroid. (The servers will appear underlined when editing using the GitHub web interface.)
 
 ```
 N. Software
@@ -45,26 +45,6 @@ Nom programari
 * – Lloc de descàrrega:
 
 Per a avisos legals complets, llistes de col·laboradors i traductors, visiteu https://bobsgame.fandom.com/wiki/Extras (enllaç en anglès)
-
-### Croatian
-Ova mapa može sadržavati sljedeći softver:
-
-Naziv softvera
-* – Licenca:
-* – Obavijest o autorskom pravu:
-* – Web-mjesto za preuzimanje:
-
-Potpune pravne obavijesti, popise suradnika i prevoditelja potražite na ovoj stranici (poveznica na engleskom jeziku)
-
-### Czech
-Tato složka může obsahovat následující software:
-
-Jméno software
-* – Licence:
-* – Upozornění na autorská práva:
-* – Server pro stahování:
-
-Úplné právní doložky, seznamy přispěvatelů a převaděče naleznete na https://bobsgame.fandom.com/wiki/Extras (odkaz v angličtina)
 
 ### Finnish
 Tämä kansio saattaa sisältää seuraavat ohjelmistot:
@@ -154,4 +134,4 @@ Ad yazılımı
 * – Telif Hakkı Bildirimi:
 * – İndirme Sitesi:
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin

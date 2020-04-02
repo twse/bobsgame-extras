@@ -15,7 +15,7 @@
 5. CleanINI
    - – Licens: Free
    - – Copyrightmeddelande: Copyright (c) 2001 Carsten Arnold
-   - – Nedladdningssida: http://www.ca-arnold.de/ (link på engelska av tyska)
+   - – Nedladdningssida: http://www.ca-arnold.de/e/index.html (link på engelska)
 6. CNFGINFO
    - – Licens: Free
    - – Copyrightmeddelande: Copyright (c) 1994-1995 Rick Meigs
@@ -80,7 +80,7 @@
 24. IMPINI
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1994-2003 Christian Langanke
-    - – Nedladdningssida: http://www.clanganke.de/os2/sw/
+    - – Nedladdningssida: http://www.clanganke.de/os2/sw/ (link på engelska)
 25. INI2Rexx
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 2003 Alfredo Fernández Díaz, 2017 André Doff
@@ -151,7 +151,7 @@
 47. UniMaint
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1994-2011 Jim Read
-    - – Nedladdningssida: http://www.jaread.net/ (link på engelska)
+    - – Nedladdningssida: http://www.jaread.net/downloads/unimaint/
 48. Warp'n'Go
     - – Licens: IBM EWS
     - – Copyrightmeddelande: Copyright (c) 1994-1995 Dietmar M. Klein

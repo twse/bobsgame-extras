@@ -288,7 +288,7 @@
     - – Copyright Notice : Copyright (c) 1992-1999 Peter Mandrella
 92. Opera
     - – License : Free
-    - – Copyright Notice : Copyright (c) 1994-2019 Opera Software ASA
+    - – Copyright Notice : Copyright (c) 1994-2020 Opera Software ASA
     - – Download Site : https://www.opera.com/
 93. OS2_NTPD
     - – License : Free
@@ -398,7 +398,7 @@
      - – Copyright Notice : Copyright (c) 1997 Jürgen Dankoweit
 127. Wget
      - – License : GPL 3.0
-     - – Copyright Notice : Copyright (c) 1995-2019 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
+     - – Copyright Notice : Copyright (c) 1995-2020 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
      - – Download Site : http://www.gnu.org/software/wget/
 128. whois
      - – License : Free

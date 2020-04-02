@@ -288,8 +288,8 @@
     - – Aviso de copyright: Copyright (c) 1992-1999 Peter Mandrella
 92. Opera
     - – Licença: Grátis
-    - – Aviso de copyright: Copyright (c) 1994-2019 Opera Software ASA
-    - – Site de download: https://www.opera.com/ (link em inglês)
+    - – Aviso de copyright: Copyright (c) 1994-2020 Opera Software ASA
+    - – Site de download: https://www.opera.com/
 93. OS2_NTPD
     - – Licença: Grátis
     - – Aviso de copyright: Copyright (c) 1998 Bruce M. Penrod
@@ -398,7 +398,7 @@
      - – Aviso de copyright: Copyright (c) 1997 Jürgen Dankoweit
 127. Wget
      - – Licença: GPL 3.0
-     - – Aviso de copyright: Copyright (c) 1995-2019 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
+     - – Aviso de copyright: Copyright (c) 1995-2020 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
      - – Site de download: http://www.gnu.org/software/wget/
 128. whois
      - – Licença: Grátis

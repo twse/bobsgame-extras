@@ -15,7 +15,7 @@
 5. CleanINI
    - – License : Free
    - – Copyright Notice : Copyright (c) 2001 Carsten Arnold
-   - – Download Site : http://www.ca-arnold.de/
+   - – Download Site : http://www.ca-arnold.de/e/index.html
 6. CNFGINFO
    - – License : Free
    - – Copyright Notice : Copyright (c) 1994-1995 Rick Meigs
@@ -151,7 +151,7 @@
 47. UniMaint
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994-2011 Jim Read
-    - – Download Site : http://www.jaread.net/
+    - – Download Site : http://www.jaread.net/downloads/unimaint/
 48. Warp'n'Go
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1994-1995 Dietmar M. Klein

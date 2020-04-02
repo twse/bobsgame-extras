@@ -194,7 +194,7 @@
     - – Avviso di copyright: Copyright (c) 1995 Lynn W. Deffenbaugh
 63. Lynx
     - – Licenze: GPL 2.0
-    - – Avviso di copyright: Copyright (c) 1997-2019 Garrett Arch Blythe, Thomas E. Dickey, Michael Grobe, Craig Lavender, Foteos Macrides, Lou Montulli, Charles Rezac
+    - – Avviso di copyright: Copyright (c) 1997-2020 Garrett Arch Blythe, Thomas E. Dickey, Michael Grobe, Craig Lavender, Foteos Macrides, Lou Montulli, Charles Rezac
     - – Sito di download: https://invisible-island.net/lynx/ (informazioni; link in inglese) o https://lynx.invisible-island.net/ (codice sorgente/file binari; link in inglese)
 64. L-LIST
     - – Licenze: Shareware

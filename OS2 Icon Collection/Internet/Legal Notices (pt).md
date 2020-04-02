@@ -194,7 +194,7 @@
     - – Aviso de direitos autorais: Copyright (c) 1995 Lynn W. Deffenbaugh
 63. Lynx
     - – Licença: GPL 2.0
-    - – Aviso de direitos autorais: Copyright (c) 1997-2019 Garrett Arch Blythe, Thomas E. Dickey, Michael Grobe, Craig Lavender, Foteos Macrides, Lou Montulli, Charles Rezac
+    - – Aviso de direitos autorais: Copyright (c) 1997-2020 Garrett Arch Blythe, Thomas E. Dickey, Michael Grobe, Craig Lavender, Foteos Macrides, Lou Montulli, Charles Rezac
     - – Site de descarregamento: https://invisible-island.net/lynx/ (informação; link em inglês) ou https://lynx.invisible-island.net/ (código fonte/binários; link em inglês)
 64. L-LIST
     - – Licença: Shareware
@@ -288,8 +288,8 @@
     - – Aviso de direitos autorais: Copyright (c) 1992-1999 Peter Mandrella
 92. Opera
     - – Licença: Grátis
-    - – Aviso de direitos autorais: Copyright (c) 1994-2019 Opera Software ASA
-    - – Site de descarregamento: https://www.opera.com/ (link em inglês)
+    - – Aviso de direitos autorais: Copyright (c) 1994-2020 Opera Software ASA
+    - – Site de descarregamento: https://www.opera.com/
 93. OS2_NTPD
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1998 Bruce M. Penrod
@@ -398,7 +398,7 @@
      - – Aviso de direitos autorais: Copyright (c) 1997 Jürgen Dankoweit
 127. Wget
      - – Licença: GPL 3.0
-     - – Aviso de direitos autorais: Copyright (c) 1995-2019 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
+     - – Aviso de direitos autorais: Copyright (c) 1995-2020 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
      - – Site de descarregamento: http://www.gnu.org/software/wget/ (link em inglês)
 128. whois
      - – Licença: Grátis
