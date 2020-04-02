@@ -51,7 +51,7 @@
     - – Licens: GPL 3.0
     - – Copyrightmeddelande: Copyright (c) 1995-2013 Jens Glathe
 16. Desktop Maintenance Tool
-    - – Licens: Licensed to Mensys B.V.
+    - – Licens: Licens av Mensys B.V.
     - – Copyrightmeddelande: Copyright (c) 2011-2012 Richard L. Walsh
     - – Nedladdningssida: eComStation Beta Zone
 17. DOCONFIG

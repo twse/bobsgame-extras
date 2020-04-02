@@ -104,7 +104,7 @@ Nomul de software
 * – Aviz de copyright:
 * – Site-ul de download:
 
-Pentru notificări legale complete, contribuitor și liste de Traducator, vă rugăm să vizitați https://bobsgame.fandom.com/wiki/Extras (legătură în limba engleza)
+Pentru notificări legale complete, contribuitor și liste de traducator, vă rugăm să vizitați https://bobsgame.fandom.com/wiki/Extras (legătură în limba engleza)
 
 ### Russian
 Эта папка может содержать следующее программное обеспечение:
