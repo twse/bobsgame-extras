@@ -92,7 +92,7 @@ For users running Windows Vista & above, the registry keys are located in HKLM o
 * **SupportURL**: Second line in the `Support Information` heading in `OEMinfo.ini`
 
 ## Boot Skin (Windows 9x and ME)
-Available in CS, DA, DE, EN, ES, FI, FR, HU, IT, NL, PL, PT-BR, RU and TR. Rename `bobsgame.bmp` to `logo.sys` (copied to root drive's parent directory), `shutdown.bmp` to `logow.sys` and `safetopoweroff.bmp` to `logos.sys` (copied to the Windows directory).
+Available in CS, DA, DE, EN, ES, FI, FR, HU, IT, KO, NL, PL, PT-BR, RU and TR. Rename `bobsgame.bmp` to `logo.sys` (copied to root drive's parent directory), `shutdown.bmp` to `logow.sys` and `safetopoweroff.bmp` to `logos.sys` (copied to the Windows directory).
 
 **Note:** Windows 9x or ME must be in VGA to display the startup or shutdown screens (running in EGA only shows textual messages on startup or shutdown).
 
