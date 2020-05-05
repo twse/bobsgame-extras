@@ -87,7 +87,7 @@
 26. INI Assistant
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 1999-2001 Herwig Bauernfeind
-27. INI editor and INI tools
+27. INI editor a INI tools
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1997-2001 Goran Ivanković
 28. INI_OUTI
@@ -118,7 +118,7 @@
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1998-1999 Kai Evers
 37. N-Viro PM
-    - – Licence: Comment-ware
+    - – Licence: Poznámka
     - – Upozornění na autorská práva: Copyright (c) 1996 Jan-Helge Bergesen
 38. OS2CSM
     - – Licence: Svobodné
