@@ -5,7 +5,7 @@
    - – Copyright Notice : Copyright (c) 1994 Bill Weschke
 2. Acrobat Reader
    - – License : Free
-   - – Copyright Notice : Copyright (c) 1984-2019 Adobe Systems Incorporated, see credits for the program or plugins in old versions.
+   - – Copyright Notice : Copyright (c) 1984-2020 Adobe Systems Incorporated, see credits for the program or plugins in old versions.
 3. Antiword
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 1998-2005 Adriaan van Os
@@ -54,7 +54,7 @@
     - – Copyright Notice : Copyright (c) 1995 Raphaël Vanney
 18. YACReader
     - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 2009-2018 Luis Ángel San Martín Rodríguez
+    - – Copyright Notice : Copyright (c) 2009-2019 Luis Ángel San Martín Rodríguez
     - – Download Site : https://www.yacreader.com/
 
 For full legal notices, contributor and translator lists, please visit https://bobsgame.fandom.com/wiki/Extras
