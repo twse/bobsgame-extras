@@ -221,7 +221,7 @@
 71. MICQ
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1998-1999 Matthew D. Smith, 2000-2007 Rüdiger Kuhlmann
-    - – Site de téléchargement : http://www.micq.org/ (lien en anglais)
+    - – Site de téléchargement : http://www.micq.org/ (la langue par défaut est russe)
 72. MPING
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1998 Maxim Annenkov
@@ -234,7 +234,6 @@
 75. MYIP
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 2006 Alexander Taylor, 2012-2019 Andreas Buchinger
-    - – Site de téléchargement : http://web.utanet.at/abuchin1/index_e.html (lien en anglais)
 76. NCB
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2000 Pavel Shtemenko
@@ -353,7 +352,7 @@
 112. TCP/IP Profile Manager
      - – Licence : BSD 3-Clause
      - – Avis de copyright : Copyright (c) 2010 Alexander Taylor
-     - – Site de téléchargement : http://www.altsan.org/
+     - – Site de téléchargement : http://www.altsan.org/ (lien en anglais)
 113. TESTLOCK
      - – Licence : Shareware
      - – Avis de copyright : Copyright (c) 1993-1994 Burton Systems Software

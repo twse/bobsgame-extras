@@ -5,7 +5,7 @@
    - – Aviso de direitos autorais: Copyright (c) 2001-2004 Christian Langanke
 2. Alpine
    - – Licença: Apache 2.0
-   - – Aviso de direitos autorais: Copyright (c) 2006-2008 Universidade do Washington, 2012-2019 Eduardo Chappa
+   - – Aviso de direitos autorais: Copyright (c) 2006-2008 Universidade de Washington, 2012-2019 Eduardo Chappa
    - – Site de descarregamento: http://alpine.x10host.com/alpine/ (link em inglês)
 3. AnDan Software Message Generator
    - – Licença: Grátis
@@ -221,7 +221,7 @@
 71. MICQ
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 1998-1999 Matthew D. Smith, 2000-2007 Rüdiger Kuhlmann
-    - – Site de descarregamento: http://www.micq.org/ (link em inglês)
+    - – Site de descarregamento: http://www.micq.org/ (o idioma por padrão é ruso)
 72. MPING
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1998 Maxim Annenkov
@@ -234,7 +234,6 @@
 75. MYIP
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 2006 Alexander Taylor, 2012-2019 Andreas Buchinger
-    - – Site de descarregamento: http://web.utanet.at/abuchin1/index_e.html (link em inglês)
 76. NCB
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2000 Pavel Shtemenko
@@ -279,7 +278,7 @@
     - – Aviso de direitos autorais: Copyright (c) 1996 John R Clark
 89. nslint
     - – Licença: Grátis
-    - – Aviso de direitos autorais: Copyright (c) 1992-2009 Os Regentes da Universidade do Califórnia
+    - – Aviso de direitos autorais: Copyright (c) 1992-2009 Os Regentes da Universidade da Califórnia
 90. OpenIRC/2
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1997 Max Mikhanosha

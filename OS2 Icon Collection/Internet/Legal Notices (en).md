@@ -221,7 +221,7 @@
 71. MICQ
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1998-1999 Matthew D. Smith, 2000-2007 Rüdiger Kuhlmann
-    - – Download Site : http://www.micq.org/
+    - – Download Site : http://www.micq.org/ (default language is Russian)
 72. MPING
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Maxim Annenkov
@@ -234,7 +234,6 @@
 75. MYIP
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2006 Alexander Taylor, 2012-2019 Andreas Buchinger
-    - – Download Site : http://web.utanet.at/abuchin1/index_e.html
 76. NCB
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Pavel Shtemenko

@@ -221,7 +221,7 @@
 71. MICQ
     - – Licencia: GPL 2.0
     - – Aviso de derechos de autor: Copyright (c) 1998-1999 Matthew D. Smith, 2000-2007 Rüdiger Kuhlmann
-    - – Sitio de descarga: http://www.micq.org/ (enlace en inglés)
+    - – Sitio de descarga: http://www.micq.org/ (el idioma por defecto es ruso)
 72. MPING
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1998 Maxim Annenkov
@@ -234,7 +234,6 @@
 75. MYIP
     - – Licencia: GPL 2.0
     - – Aviso de derechos de autor: Copyright (c) 2006 Alexander Taylor, 2012-2019 Andreas Buchinger
-    - – Sitio de descarga: http://web.utanet.at/abuchin1/index_e.html (enlace en inglés)
 76. NCB
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 2000 Pavel Shtemenko

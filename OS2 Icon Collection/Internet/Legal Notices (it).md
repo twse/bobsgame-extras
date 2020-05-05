@@ -5,7 +5,7 @@
    - – Avviso di copyright: Copyright (c) 2001-2004 Christian Langanke
 2. Alpine
    - – Licenze: Apache 2.0
-   - – Avviso di copyright: Copyright (c) 2006-2008 University of Washington, 2012-2019 Eduardo Chappa
+   - – Avviso di copyright: Copyright (c) 2006-2008 Università di Washington, 2012-2019 Eduardo Chappa
    - – Sito di download: http://alpine.x10host.com/alpine/ (link in inglese)
 3. AnDan Software Message Generator
    - – Licenze: Libre
@@ -44,7 +44,7 @@
 14. cURL
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1996-2020 Daniel Stenberg
-    - – Sito di download: https://curl.haxx.se/
+    - – Sito di download: https://curl.haxx.se/ (link in inglese)
 15. Deja News Reader
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1997 High Boskage House
@@ -66,7 +66,7 @@
 21. Falkon/QupZilla
     - – Licenze: GPL 3.0
     - – Avviso di copyright: Copyright (c) 2010-2019 David Rosca
-    - – Sito di download: https://www.falkon.org/
+    - – Sito di download: https://www.falkon.org/ (link in inglese)
 22. Firefox, SeaMonkey, Thunderbird
     - – Licenze: MPL 2.0
     - – Avviso di copyright: Copyright (c) 1998-2019 Collaboratori alla codebase Mozilla, vedere la pagina dei riconoscimenti in https://www.mozilla.org/credits/ (ordine) o il monumento nell'ufficio di San Francisco (non ordinato).
@@ -234,7 +234,6 @@
 75. MYIP
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2006 Alexander Taylor, 2012-2019 Andreas Buchinger
-    - – Sito di download: http://web.utanet.at/abuchin1/index_e.html (link in inglese)
 76. NCB
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2000 Pavel Shtemenko
@@ -288,8 +287,8 @@
     - – Avviso di copyright: Copyright (c) 1992-1999 Peter Mandrella
 92. Opera
     - – Licenze: Libre
-    - – Avviso di copyright: Copyright (c) 1994-2019 Opera Software ASA
-    - – Sito di download: https://www.opera.com/ (link in inglese)
+    - – Avviso di copyright: Copyright (c) 1994-2020 Opera Software ASA
+    - – Sito di download: https://www.opera.com/
 93. OS2_NTPD
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1998 Bruce M. Penrod
@@ -399,7 +398,7 @@
 127. Wget
      - – Licenze: GPL 3.0
      - – Avviso di copyright: Copyright (c) 1995-2019 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
-     - – Sito di download: http://www.gnu.org/software/wget/
+     - – Sito di download: http://www.gnu.org/software/wget/ (link in inglese)
 128. whois
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 1998 Thomas Fotherby, 1995 Richard J. Sexton
