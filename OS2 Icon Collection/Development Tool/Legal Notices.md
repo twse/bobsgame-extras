@@ -92,7 +92,7 @@
     - – Copyright Notice : Copyright (c) 1992-1998 Jean-Bernard Clerin
 29. GTK
     - – License : LGPL 2.0
-    - – Copyright Notice : Copyright (c) 1995-2019 Spencer Kimball, Josh MacDonald, Peter Mattis and the GTK Development Team
+    - – Copyright Notice : Copyright (c) 1995-2020 Spencer Kimball, Josh MacDonald, Peter Mattis and the GTK Development Team
     - – Download Site : https://www.gtk.org/
 30. gX XML Parser
     - – License : Free
@@ -139,7 +139,7 @@
     - – Copyright Notice : Copyright (c) 1999 Roman Stangl
 43. Lua
     - – License : MIT License
-    - – Copyright Notice : Copyright (c) 1994-2019 Lua.org, PUC-Rio
+    - – Copyright Notice : Copyright (c) 1994-2020 Lua.org, PUC-Rio
     - – Download Site : http://www.lua.org/
 44. LXOPT
     - – License : Unsupported freeware
