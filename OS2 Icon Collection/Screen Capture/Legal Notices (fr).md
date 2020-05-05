@@ -7,7 +7,7 @@
 2. Gotcha!
    - – Licence : GPL 2.0
    - – Avis de copyright : Copyright (c) 1998-2007 Thorsten Thielen
-   - – Site de téléchargement : http://www.c2226.de/programs/gotcha/index.phtml
+   - – Site de téléchargement : http://www.c2226.de/programs/gotcha/index.phtml (lien en anglais)
 3. Nikon
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1992 Stephen Best
