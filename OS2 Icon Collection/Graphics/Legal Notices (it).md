@@ -9,7 +9,7 @@
 3. Auto Adjust Photo
    - – Licenze: GPL 3.0
    - – Avviso di copyright: Copyright (c) 2006-2016 András Horváth
-   - – Sito di download: http://log69.com/aaphoto_en.html (link in inglese) o http://log69.com/aaphoto.html (link in ungherse)
+   - – Sito di download: http://log69.com/aaphoto_en.html (link in inglese)
 4. AutoTrace
    - – Licenze: GPL 2.0
    - – Avviso di copyright: Copyright (c) 2000-2003 Martin Weber
