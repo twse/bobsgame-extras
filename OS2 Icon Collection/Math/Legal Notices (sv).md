@@ -60,7 +60,7 @@
 19. Kind Constructor
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 2001-2002 Michal Žemlička
-    - – Nedladdningssida: http://www.ms.mff.cuni.cz/~zemlicka/KindCons (link på engelska)
+    - – Nedladdningssida: http://www.ms.mff.cuni.cz/~zemlicka/KindCons/index.html.en (link på engelska)
 20. Knotter
     - – Licens: GPL 3.0
     - – Copyrightmeddelande: Copyright (c) 2012-2014 Mattia Basaglia
@@ -79,14 +79,14 @@
     - – Copyrightmeddelande: Copyright (c) 1995 Jonny Rein Eriksen
 25. Octave
     - – Licens: GPL 3.0
-    - – Copyrightmeddelande: Copyright (c) 1992-2019 John W. Eaton
+    - – Copyrightmeddelande: Copyright (c) 1992-2020 John W. Eaton
     - – Nedladdningssida: http://www.gnu.org/software/octave/ (link på engelska)
 26. Ortelius
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1996-1998 Christian Bressler
 27. Perl-Compatible Regular Expressions
     - – Licens: BSD 3-sats
-    - – Copyrightmeddelande: Copyright (c) 1997-2019 University of Cambridge
+    - – Copyrightmeddelande: Copyright (c) 1997-2019 Universitetet i Cambridge
     - – Nedladdningssida: http://www.pcre.org/ (link på engelska)
 28. PlotMTV
     - – Licens: Free
@@ -151,7 +151,7 @@
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 1992 Gene Backlin
 48. WarpCalc
-    - – Licens: Free zonder support
+    - – Licens: Free inte support
     - – Copyrightmeddelande: Copyright (c) 1997-2012 Carl-Magnus Olsson
 49. WWUnits
     - – Licens: Shareware

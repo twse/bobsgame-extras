@@ -60,7 +60,7 @@
 19. Kind Constructor
     - – License : Free
     - – Copyright Notice : Copyright (c) 2001-2002 Michal Žemlička
-    - – Download Site : http://www.ms.mff.cuni.cz/~zemlicka/KindCons
+    - – Download Site : http://www.ms.mff.cuni.cz/~zemlicka/KindCons/index.html.en
 20. Knotter
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2012-2014 Mattia Basaglia
@@ -79,7 +79,7 @@
     - – Copyright Notice : Copyright (c) 1995 Jonny Rein Eriksen
 25. Octave
     - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 1992-2019 John W. Eaton
+    - – Copyright Notice : Copyright (c) 1992-2020 John W. Eaton
     - – Download Site : http://www.gnu.org/software/octave/
 26. Ortelius
     - – License : Free

@@ -35,7 +35,7 @@
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1997 Sean Ryan
 12. GammaSun
-    - – Licentie: Publische domain
+    - – Licentie: Publiek domein
     - – Copyright notice: Copyright (c) 1995 Reinhard Alt
 13. gnuplot
     - – Licentie: Free
@@ -60,7 +60,7 @@
 19. Kind Constructor
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 2001-2002 Michal Žemlička
-    - – Download site: http://www.ms.mff.cuni.cz/~zemlicka/KindCons (link in Engels)
+    - – Download site: http://www.ms.mff.cuni.cz/~zemlicka/KindCons/index.html.en (link in Engels)
 20. Knotter
     - – Licentie: GPL 3.0
     - – Copyright notice: Copyright (c) 2012-2014 Mattia Basaglia
