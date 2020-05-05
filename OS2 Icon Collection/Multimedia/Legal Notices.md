@@ -71,7 +71,7 @@
     - – Download Site : http://www.cstr.ed.ac.uk/projects/festival/ (British) or http://festvox.org/festival/ (American)
 22. FFmpeg
     - – License : LGPL 2.1
-    - – Copyright Notice : Copyright (c) 1998-2019 Fabrice Bellard and FFmpeg contributors
+    - – Copyright Notice : Copyright (c) 1998-2020 Fabrice Bellard and FFmpeg contributors
 23. Filter Designer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Antonino Iannella
@@ -223,7 +223,7 @@
 70. SetRegPM
     - – License : Free
     - – Copyright Notice : Copyright (c) 2002 Carsten Arnold
-    - – Download Site : http://www.ca-arnold.de/
+    - – Download Site : http://www.ca-arnold.de/e/index.html
 71. SGPMix
     - – License : Free
     - – Copyright Notice : Copyright (c) 2002 Doodle
