@@ -19,6 +19,9 @@ Use this to replace the user account picture (this can be done in Windows XP via
 ### Windows Desktop Theme
 Use this to replace the desktop theme in Windows. Includes Windows Aero effects if Windows Vista or 7 is running.
 
+### ReactOS Logon GINA Header
+Use this to replace the first bitmap resource in msgina.dll. Nimbus Sans Mono is used to display the modified image.
+
 ## Sound Scheme
 Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Desktop Themes: Settings: Sound events** or **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
 
