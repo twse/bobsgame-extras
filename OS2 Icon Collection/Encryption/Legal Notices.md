@@ -25,7 +25,7 @@
    - – Download Site : http://home.uni-one.nl/m1
 8. OpenSSL
    - – License : Apache 2.0
-   - – Copyright Notice : Copyright (c) 1998-2019 The OpenSSL Project
+   - – Copyright Notice : Copyright (c) 1998-2020 The OpenSSL Project
    - – Download Site : https://www.openssl.org/
 9. PM Checksum
    - — License : Shareware
