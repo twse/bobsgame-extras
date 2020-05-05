@@ -34,7 +34,7 @@
     - – Download Site : http://elvis.the-little-red-haired-girl.org/
 11. Emacs
     - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 1985-2018 Richard Stallman
+    - – Copyright Notice : Copyright (c) 1985-2020 Richard Stallman
     - – Download Site : http://www.gnu.org/software/emacs
 12. Enhanced Editor
     - – License : Shareware
@@ -77,7 +77,7 @@
 24. JED
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1992-1994, 2002, 2004, 2009 John E. Davis
-    - – Download Site : http://www.jedsoft.org/jed/ (Releases available via https variant)
+    - – Download Site : http://www.jedsoft.org/jed/ (Releases in https)
 25. Joe's Own Editor
     - – License : GPL 1.0
     - – Copyright Notice : Copyright (c) 1991-2018 Joseph H. Allen, 2001 Marek Grac
@@ -124,14 +124,14 @@
     - – Download Site : http://www.manglais.com/
 38. Quick Text Editor
     - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 2018-2019 Alexander Taylor
+    - – Copyright Notice : Copyright (c) 2018-2020 Alexander Taylor
     - – Download Site : http://www.altsan.org/
 39. Quicky
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2008 Elad Lahav
 40. Vim
     - – License : Charityware
-    - – Copyright Notice : Copyright (c) 2001-2019 Bram Moolenaar
+    - – Copyright Notice : Copyright (c) 2001-2020 Bram Moolenaar
     - – Download Site : https://www.vim.org/
 41. ZED
     - – License : BSD 3-Clause
