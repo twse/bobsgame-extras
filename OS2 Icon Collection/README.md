@@ -3,7 +3,7 @@
 Note that you have to use these icons on a file system which supports long file names. FAT16 does not support long file names, while the existing FAT32 or even NTFS file system drivers for OS/2, eCS and Arca OS are experimental at best, so the safest bet is to use a native IBM file system like HPFS (the OS/2, eCS and Arca OS default FS) or JFS.
 
 ### ANNEX: How to add or update existing software entries.
-To add or update existing software entries, attach the following text, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax. The protocol for each download site should be **http** (not secure) or **https** (secure). FTP servers won't automatically create links except in OctoDroid. (The servers will appear underlined when editing using the GitHub web interface.)
+To add or update existing software entries, attach the following text, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax. The protocol for each download site should be **http** (not secure) or **https** (secure). FTP servers won't automatically create links in the GitHub web user interface; however the servers will appear underlined when editing.
 
 ```
 N. Software
@@ -65,16 +65,6 @@ Saat täydelliset oikeudelliset ilmoitukset, avustaja-ja kääntäjä luettelot 
 * – Λήψη:
 
 Για πλήρεις νομικές ανακοινώσεις, λίστες συμβαλλόντων και μεταφραστή, παρακαλούμε επισκεφτείτε https://bobsgame.fandom.com/wiki/Extras (σύνδεσμος)
-
-### Hungarian
-Ez a mappa a következő szoftvereket tartalmazhatja:
-
-Szoftver
-* – Licenc:
-* – Szerzői jogi figyelmeztetés:
-* – Letöltési hely:
-
-A teljes jogi közlemények, közreműködő és fordító listák, kérjük, látogasson el a https://bobsgame.fandom.com/wiki/Extras (angol nyelvem)
 
 ### Norwegian
 Denne mappen kan inneholde følgende programvare:
