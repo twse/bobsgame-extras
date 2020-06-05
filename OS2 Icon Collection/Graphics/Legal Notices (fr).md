@@ -68,7 +68,7 @@
     - – Avis de copyright : Copyright (c) 1995 Jasper de Keijzer
 22. Drawpile
     - – Licence : GPL 3.0 (programme) ; MIT et CC-SA 4.0 (site Web)
-    - – Avis de copyright : Copyright (c) 2006-2019 Calle Laakkonen
+    - – Avis de copyright : Copyright (c) 2006-2020 Calle Laakkonen
     - – Site de téléchargement : https://drawpile.net/ (lien en anglais)
 23. EasyImageSizer
     - – Licence : GPL 3.0

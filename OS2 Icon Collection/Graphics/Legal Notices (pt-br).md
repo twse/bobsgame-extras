@@ -68,13 +68,13 @@
     - – Aviso de copyright: Copyright (c) 1995 Jasper de Keijzer
 22. Drawpile
     - – Licença: GPL 3.0 (programa); MIT e CC-SA 4.0 (site Web)
-    - – Aviso de copyright: Copyright (c) 2006-2019 Calle Laakkonen
+    - – Aviso de copyright: Copyright (c) 2006-2020 Calle Laakkonen
     - – Site de download: https://drawpile.net/ (link em inglês)
 23. EasyImageSizer
     - – Licença: GPL 3.0
     - – Aviso de copyright: Copyright (c) 2011-2012 FalseCAM
 24. EasyPaint
-    - – Licença: Licencia MIT
+    - – Licença: Licença MIT
     - – Aviso de copyright: Copyright (c) 2012-2013 Nikita Grishko
 25. Embellish
     - – Licença: Comercial
