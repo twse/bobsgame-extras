@@ -56,7 +56,7 @@
     - – Download Site : eComStation Beta Zone
 17. DOCONFIG
     - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1995 by Guddland digital S.A.
+    - – Copyright Notice : Copyright (c) 1995 Guddland digital S.A.
 18. EDITINI
     - – License : IBM EWS
     - – Copyright Notice : Copyright (c) 1992 Gunnar P. Seaburg
