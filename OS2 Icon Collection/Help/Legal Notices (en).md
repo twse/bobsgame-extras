@@ -45,7 +45,6 @@
 15. MakeIPF
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 Martin Vieregg
-    - – Download Site : http://www.hypermake.com/
 16. NewView
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1994-2005 Aaron Lawrence, 2006-2019 Ronald Brill
