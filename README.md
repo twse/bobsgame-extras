@@ -2,7 +2,7 @@
 Contains extra stuff for bob's game excluding fonts.
 
 ## Google search form (requires internet connection)
-No Google search form is available in the [Bob Corporation website](http://www.bobcorporation.com/). It includes an option to search the Fandom wiki. There is no option to search the forum as the forum is running an old version of XenForo.
+No Google search form is in in the [Bob Corporation website](http://www.bobcorporation.com/). It includes an option to search the Fandom wiki. There is no option to search the forum as it's running an old version of XenForo. The logo is available in PNG for old browsers or SVG for new browsers.
 
 ## Art Department
 Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
