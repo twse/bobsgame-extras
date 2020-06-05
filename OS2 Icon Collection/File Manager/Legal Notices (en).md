@@ -28,7 +28,7 @@
    - – Download Site : http://www.efsoftware.de/cw/e.htm
 9. File Browser
    - – License : Unsupported freeware
-   - — Copyright Notice : Copyright (c) 1997-2004 Christoph Bratschi
+   - – Copyright Notice : Copyright (c) 1997-2004 Christoph Bratschi
 10. File Commander/2
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994-2017 Brian Havard

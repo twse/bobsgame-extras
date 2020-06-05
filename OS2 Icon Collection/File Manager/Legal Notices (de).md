@@ -28,7 +28,7 @@
    - – Download-Site: http://www.efsoftware.de/cw/d.htm
 9. File Browser
    - – Lizenz: Frei ohne Unterstützung
-   - — Copyright-Hinweise: Copyright (c) 1997-2004 Christoph Bratschi
+   - – Copyright-Hinweise: Copyright (c) 1997-2004 Christoph Bratschi
 10. File Commander/2
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1994-2017 Brian Havard
