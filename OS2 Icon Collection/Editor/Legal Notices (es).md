@@ -90,7 +90,7 @@
     - – Licencia: LGPL 3.0
     - – Aviso de derechos de autor: Copyright (c) 1997-2015 Björn Andersson
 28. Kudzu Editor
-    - – Licencia: BSD 2-Clause
+    - – Licencia: BSD de 2 cláusulas
     - – Aviso de derechos de autor: Copyright (c) 1993-1994 Kudzu Software
 29. Levee
     - – Licencia: Shareware
