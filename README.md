@@ -20,10 +20,10 @@ Use this to replace the user account picture (this can be done in Windows XP via
 Use this to replace the desktop theme in Windows. Includes Windows Aero effects if Windows Vista or 7 is running.
 
 ### ReactOS Logon GINA Header
-Use this to replace the first bitmap resource in msgina.dll. Nimbus Sans Mono is used to display the modified image.
+Use this to replace the first bitmap resource in `msgina.dll`. Nimbus Sans Mono is used to display the modified image.
 
 ## Sound Scheme
-Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Desktop Themes: Settings: Sound events** or **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
+Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Desktop Themes: Settings: Sound events** or **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur. Under Windows, the sounds have to be copied to `%SystemRoot%\media`.
 
 Windows 95 until 7 allows the user to change the sounds used for logoff, login and shutdown (with Windows 8 & above, the `ExcludeFromCPL` value was added to `WindowsLogoff` and `WindowsLogon` sound events; remove this value to show these events).
 
@@ -33,7 +33,7 @@ Windows 95 until 7 allows the user to change the sounds used for logoff, login a
 | None                          | Alarm Clock               | TBD                         |
 | Asterisk                      | None                      | BG Balloon.wav              |
 | None                          | Begin drag                | TBD                         |
-| Blocked Pop-up Window         | None                      | TBD                         |
+| Blocked Pop-up Window         | None                      | BG Notify.wav               |
 | Calendar Reminder             | None                      | BG Notify.wav               |
 | Change Theme                  | None                      | TBD                         |
 | Close Program                 | Closing window (Animated) | BG Close Program.wav        |
@@ -49,7 +49,7 @@ Windows 95 until 7 allows the user to change the sounds used for logoff, login a
 | None                          | End drag                  | TBD                         |
 | Exclamation                   | Warning                   | BG Exclamation.wav          |
 | Exit Windows                  | System shutdown           | BG Shutdown.wav             |
-| Fax error                     | None                      | TBD                         |
+| Fax error                     | None                      | BG Error.wav                |
 | Fax line rings                | None                      | TBD                         |
 | Fax sent                      | None                      | TBD                         |
 | Feed Discovered               | None                      | TBD                         |
@@ -75,7 +75,7 @@ Windows 95 until 7 allows the user to change the sounds used for logoff, login a
 | Program Error                 | Error                     | BG Error.wav                |
 | Question                      | Information               | TBD                         |
 | Restore Down                  | None                      | BG Minimize.wav             |
-| Restore Up                    | None                      | TBD                         |
+| Restore Up                    | None                      | BG Maximize.wav             |
 | Search Provider Discovered    | None                      | TBD                         |
 | Select                        | None                      | BG Select.wav               |
 | Show Toolbar Band             | None                      | TBD                         |
