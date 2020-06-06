@@ -57,6 +57,6 @@
 18. WebSee
     - – License : ISC License
     - – Copyright Notice : Copyright (c) 2013-2016 Wim Brul
-    - – Download Site : http://home.hccnet.nl/w.m.brul/
+    - – Download Site : https://home.hccnet.nl/w.m.brul/
 
 For full legal notices, contributor and translator lists, please visit https://bobsgame.fandom.com/wiki/Extras

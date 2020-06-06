@@ -14,7 +14,7 @@
 4. PM2BMP, Screen Capture
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1992-2011 Wim Brul
-   - – Site de téléchargement : http://home.hccnet.nl/w.m.brul/snapshot/index.html (lien en anglais)
+   - – Site de téléchargement : https://home.hccnet.nl/w.m.brul/snapshot/index.html (lien en anglais)
 5. PM Camera/2
    - – Licence : IBM EWS
    - – Avis de copyright : Copyright (c) 1993 Jürg von Känel
