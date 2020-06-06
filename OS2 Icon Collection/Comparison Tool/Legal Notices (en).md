@@ -26,7 +26,7 @@
    - – Copyright Notice : Copyright (c) XBee
 9. dwdiff
    - – License : GPL 3.0
-   - – Copyright Notice : Copyright (c) 2007-2017 Gertjan Halkes
+   - – Copyright Notice : Copyright (c) 2007-2018 Gertjan Halkes
    - – Download Site : https://os.ghalkes.nl/dwdiff.html
 10. File Base Differencer
     - – License : Shareware
