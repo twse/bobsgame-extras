@@ -758,7 +758,7 @@ Thanks to all the users who sent us their bug reports and feature ideas, do not 
 
 ## For use of CFSPoker
 Copyright (c) 1995-1996 by C F S Nevada, Inc.<br />
-Written by Dick Goran
+Written by Richard Goran
 
 ### Acknowledgements
 Initial testing was overseen by **Chip Shapiro**, Las Vegas OS/2 BESTeam member, with additional effort by numerous beta testers including **Irv Spalten** and his OS/2 Advisor group.
