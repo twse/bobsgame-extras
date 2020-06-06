@@ -26,7 +26,7 @@
 8. Belvoir, JPEGDUMP
    - – Licencia: Gratis
    - – Aviso de derechos de autor: Copyright (c) 2014-2017 André Doff
-   - – Sitio de descarga: http://home.uni-one.nl/m1 (enlace en inglés)
+   - – Sitio de descarga: http://home.uni-one.nl/m1 (enlace en inglés y holandés)
 9. BlendGIF, GIF_INFO, GIF_TEXT
    - – Licencia: Gratis
    - – Aviso de derechos de autor: Copyright (c) 1999 Daniel Hellerstein

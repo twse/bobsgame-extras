@@ -20,7 +20,7 @@
    - – Licens: Free
    - – Copyrightmeddelande: Copyright (c) 1994-1996 René Grothmann
 7. DECalc
-   - – Licens: BSD 3-Clause
+   - – Licens: BSD 3-sats
    - – Copyrightmeddelande: Copyright (c) 2001-2004 Don K. Eitner
 8. EditCalc
    - – Licens: Free
