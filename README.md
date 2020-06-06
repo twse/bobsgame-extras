@@ -73,7 +73,7 @@ Windows 95 until 7 allows the user to change the sounds used for logoff, login a
 | Print Complete                | None                      | BG Notify.wav               |
 | None                          | Printer error             | BG Error.wav                |
 | Program Error                 | Error                     | BG Error.wav                |
-| Question                      | Information               | TBD                         |
+| Question                      | Information               | BG Notify.wav               |
 | Restore Down                  | None                      | BG Minimize.wav             |
 | Restore Up                    | None                      | BG Maximize.wav             |
 | Search Provider Discovered    | None                      | TBD                         |
