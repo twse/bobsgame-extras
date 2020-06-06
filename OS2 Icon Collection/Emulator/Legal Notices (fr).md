@@ -20,4 +20,4 @@
    - – Avis de copyright : Copyright (c) 2010-2020 Oracle Corporation
    - – Site de téléchargement : https://www.virtualbox.org/ (lien en anglais)
 
-For full legal notices, contributor and translator lists, please visit https://bobsgame.fandom.com/wiki/Extras
+Pour obtenir des avis légalés completes, des listes de contributeurs et de traducteurs, veuillez consulter https://bobsgame.fandom.com/wiki/Extras (lien en anglais)
