@@ -50,112 +50,112 @@
 16. DeRegisterer
     - – Licens: GPL 3.0
     - – Copyrightmeddelande: Copyright (c) 1995-2013 Jens Glathe
-16. Desktop Maintenance Tool
+17. Desktop Maintenance Tool
     - – Licens: Licens av Mensys B.V.
     - – Copyrightmeddelande: Copyright (c) 2011-2012 Richard L. Walsh
     - – Nedladdningssida: eComStation Beta Zone
-17. DOCONFIG
+18. DOCONFIG
     - – Licens: Shareware
-    - – Copyrightmeddelande: Copyright (c) 1995 by Guddland digital S.A.
-18. EDITINI
+    - – Copyrightmeddelande: Copyright (c) 1995 Guddland digital S.A.
+19. EDITINI
     - – Licens: IBM EWS
     - – Copyrightmeddelande: Copyright (c) 1992 Gunnar P. Seaburg
-19. ENVED
+20. ENVED
     - – Licens: IBM EWS
     - – Copyrightmeddelande: Copyright (c) 1993 Tim Baldwin
-20. FastIni
+21. FastIni
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1997 Dennis Bareis
     - – Nedladdningssida: https://www.dennisbareis.com/ (link på engelska)
-21. GenINI
+22. GenINI
     - – Licens: GPL 2.0
     - – Copyrightmeddelande: Copyright (c) 2008-2014 Peter Moylan
     - – Nedladdningssida: http://www.pmoylan.org/pages/os2/genini.html (link på engelska)
-22. I Browse
+23. I Browse
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1995 Jay Freeman
-23. Iconomize
+24. Iconomize
     - – Licens: MPL 1.1
     - – Copyrightmeddelande: Copyright (c) 2004-2007 Richard L. Walsh
-24. IMPINI
+25. IMPINI
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1994-2003 Christian Langanke
     - – Nedladdningssida: http://www.clanganke.de/os2/sw/ (link på engelska)
-25. INI2Rexx
+26. INI2Rexx
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 2003 Alfredo Fernández Díaz, 2017 André Doff
-26. INI Assistant
+27. INI Assistant
     - – Licens: GPL 2.0
     - – Copyrightmeddelande: Copyright (c) 1999-2001 Herwig Bauernfeind
-27. INI editor och INI tools
+28. INI editor och INI tools
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1997-2001 Goran Ivanković
-28. INI_OUTI
+29. INI_OUTI
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 1992-1993 Charles G. Hoppa
-29. IniCnv
+30. IniCnv
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 1992 Dave Lester
-30. INIEdit
+31. INIEdit
     - – Licens: IBM EWS
     - – Copyrightmeddelande: Copyright (c) 1996 Doug Murray
-31. INIMaint
+32. INIMaint
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 1992 Carry Associates
-32. INITOR
+33. INITOR
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1996-1997 Jobst Schmalenbach
-33. IPLPAUSE
+34. IPLPAUSE
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1993 Knight Research
-34. LIBPATH
+35. LIBPATH
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1995 Shane Petty
-35. Logical CONFIG.SYS Sort
+36. Logical CONFIG.SYS Sort
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 2014-2018 Doug Bissett
-36. mINI
+37. mINI
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1998-1999 Kai Evers
-37. N-Viro PM
+38. N-Viro PM
     - – Licens: Comment-ware
     - – Copyrightmeddelande: Copyright (c) 1996 Jan-Helge Bergesen
-38. OS2CSM
+39. OS2CSM
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1999-2009 Veit Kannegieser
     - – Nedladdningssida: http://www.kannegieser.net/veit/ (link på engelska)
-39. PM Preference
+40. PM Preference
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1990 Todd Fincannon
-40. Profiler
+41. Profiler
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 1995 Bernd Wetzel
-41. QCONFIG
+42. QCONFIG
     - – Licens: IBM EWS
     - – Copyrightmeddelande: Copyright (c) 1989-1992 Jeff D. Muir, Norris Couch
-42. SHOWINI
+43. SHOWINI
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1998 Rony G. Flatscher
-43. SYSEDOS2
+44. SYSEDOS2
     - – Licens: GPL 2.0
     - – Copyrightmeddelande: Copyright (c) 1999 Thomas Bohn
-44. System Notebook
+45. System Notebook
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 1994 VacNat Software Co.
-45. The INIT Editor
+46. The INIT Editor
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 1992 Black Pine Development
-46. Tyra/2
+47. Tyra/2
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 1998-2000 Oliver Poggensee, Andreas Röderer, Jörg Sievers
-47. UniMaint
+48. UniMaint
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1994-2011 Jim Read
     - – Nedladdningssida: http://www.jaread.net/downloads/unimaint/
-48. Warp'n'Go
+49. Warp'n'Go
     - – Licens: IBM EWS
     - – Copyrightmeddelande: Copyright (c) 1994-1995 Dietmar M. Klein
-49. WarpCfg
+50. WarpCfg
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1995 François Thunus
 

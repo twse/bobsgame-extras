@@ -75,7 +75,7 @@
     - – Lizenz: IBM EWS
     - – Copyright-Hinweise: Copyright (c) 1995-2000 Michael Kaczmarski, Richard J. Moore
 24. NewFileManager
-    - – Lizenz: BSD 3-Clause
+    - – Lizenz: BSD 3-Klausel
     - – Copyright-Hinweise: Copyright (c) 1999 Alessandro Rossi
 25. OnScreen/2
     - – Lizenz: GPL 2.0

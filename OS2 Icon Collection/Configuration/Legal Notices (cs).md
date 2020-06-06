@@ -50,112 +50,112 @@
 16. DeRegisterer
     - – Licence: GPL 3.0
     - – Upozornění na autorská práva: Copyright (c) 1995-2013 Jens Glathe
-16. Desktop Maintenance Tool
+17. Desktop Maintenance Tool
     - – Licence: Mensys B.V.
     - – Upozornění na autorská práva: Copyright (c) 2011-2012 Richard L. Walsh
     - – Server pro stahování: eComStation Beta Zone
-17. DOCONFIG
+18. DOCONFIG
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1995 Guddland digital S.A.
-18. EDITINI
+19. EDITINI
     - – Licence: IBM EWS
     - – Upozornění na autorská práva: Copyright (c) 1992 Gunnar P. Seaburg
-19. ENVED
+20. ENVED
     - – Licence: IBM EWS
     - – Upozornění na autorská práva: Copyright (c) 1993 Tim Baldwin
-20. FastIni
+21. FastIni
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1997 Dennis Bareis
     - – Server pro stahování: https://www.dennisbareis.com/ (odkaz v angličtina)
-21. GenINI
+22. GenINI
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 2008-2014 Peter Moylan
     - – Server pro stahování: http://www.pmoylan.org/pages/os2/genini.html (odkaz v angličtina)
-22. I Browse
+23. I Browse
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1995 Jay Freeman
-23. Iconomize
+24. Iconomize
     - – Licence: MPL 1.1
     - – Upozornění na autorská práva: Copyright (c) 2004-2007 Richard L. Walsh
-24. IMPINI
+25. IMPINI
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1994-2003 Christian Langanke
     - – Server pro stahování: http://www.clanganke.de/os2/sw/ (odkaz v angličtina)
-25. INI2Rexx
+26. INI2Rexx
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 2003 Alfredo Fernández Díaz, 2017 André Doff
-26. INI Assistant
+27. INI Assistant
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 1999-2001 Herwig Bauernfeind
-27. INI editor a INI tools
+28. INI editor a INI tools
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1997-2001 Goran Ivanković
-28. INI_OUTI
+29. INI_OUTI
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1992-1993 Charles G. Hoppa
-29. IniCnv
+30. IniCnv
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1992 Dave Lester
-30. INIEdit
+31. INIEdit
     - – Licence: IBM EWS
     - – Upozornění na autorská práva: Copyright (c) 1996 Doug Murray
-31. INIMaint
+32. INIMaint
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1992 Carry Associates
-32. INITOR
+33. INITOR
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1996-1997 Jobst Schmalenbach
-33. IPLPAUSE
+34. IPLPAUSE
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1993 Knight Research
-34. LIBPATH
+35. LIBPATH
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1995 Shane Petty
-35. Logical CONFIG.SYS Sort
+36. Logical CONFIG.SYS Sort
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 2014-2018 Doug Bissett
-36. mINI
+37. mINI
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1998-1999 Kai Evers
-37. N-Viro PM
+38. N-Viro PM
     - – Licence: Poznámka
     - – Upozornění na autorská práva: Copyright (c) 1996 Jan-Helge Bergesen
-38. OS2CSM
+39. OS2CSM
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1999-2009 Veit Kannegieser
     - – Server pro stahování: http://www.kannegieser.net/veit/ (odkaz v angličtina)
-39. PM Preference
+40. PM Preference
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1990 Todd Fincannon
-40. Profiler
+41. Profiler
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1995 Bernd Wetzel
-41. QCONFIG
+42. QCONFIG
     - – Licence: IBM EWS
     - – Upozornění na autorská práva: Copyright (c) 1989-1992 Jeff D. Muir, Norris Couch
-42. SHOWINI
+43. SHOWINI
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1998 Rony G. Flatscher
-43. SYSEDOS2
+44. SYSEDOS2
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 1999 Thomas Bohn
-44. System Notebook
+45. System Notebook
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1994 VacNat Software Co.
-45. The INIT Editor
+46. The INIT Editor
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1992 Black Pine Development
-46. Tyra/2
+47. Tyra/2
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1998-2000 Oliver Poggensee, Andreas Röderer, Jörg Sievers
-47. UniMaint
+48. UniMaint
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1994-2011 Jim Read
     - – Server pro stahování: http://www.jaread.net/downloads/unimaint/
-48. Warp'n'Go
+49. Warp'n'Go
     - – Licence: IBM EWS
     - – Upozornění na autorská práva: Copyright (c) 1994-1995 Dietmar M. Klein
-49. WarpCfg
+50. WarpCfg
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1995 François Thunus
 
