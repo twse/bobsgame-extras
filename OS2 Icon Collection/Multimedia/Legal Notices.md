@@ -140,7 +140,7 @@
     - – Copyright Notice : Copyright (c) 1998 Oliver Fromme
 44. MPG123
     - – License : LGPL 2.1
-    - – Copyright Notice : Copyright (c) 1995-2017 Michael Hipp, Thomas Orgis and others
+    - – Copyright Notice : Copyright (c) 1995-2017 Michael Hipp, Thomas Orgis et al.
     - – Download Site : http://www.mpg123.de/
 45. MPlayer
     - – License : GPL 2.0

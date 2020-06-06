@@ -69,7 +69,7 @@
     - – Download Site : https://www.falkon.org/
 22. Firefox, SeaMonkey, Thunderbird
     - – License : MPL 2.0
-    - – Copyright Notice : Copyright (c) 1998-2019 Contributors to the Mozilla codebase, see the credits page at https://www.mozilla.org/credits/ (sorted) or the monument in the San Francisco office (unsorted).
+    - – Copyright Notice : Copyright (c) 1998-2020 Contributors to the Mozilla codebase, see the credits page at https://www.mozilla.org/credits/ (sorted) or the monument in the San Francisco office (unsorted).
     - – Download Site : https://www.mozilla.org/ (Firefox), http://www.seamonkey-project.org/ (SeaMonkey) or https://www.thunderbird.net/ (Thunderbird)
 23. FormCheck/2
     - – License : Free
