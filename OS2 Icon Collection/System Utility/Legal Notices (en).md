@@ -204,7 +204,7 @@
 68. USB Resource Manager
     - – License : Free
     - – Copyright Notice : Copyright (c) 2017 Wim Brul
-    - – Download Site : http://home.hccnet.nl/w.m.brul/usbcalls/index.html
+    - – Download Site : https://home.hccnet.nl/w.m.brul/usbcalls/index.html
 69. WillUtil
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1992-1994 Will E. Rose
