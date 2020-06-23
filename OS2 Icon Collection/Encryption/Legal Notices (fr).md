@@ -25,7 +25,7 @@
    - – Site de téléchargement : http://home.uni-one.nl/m1 (lien en anglais et holandais)
 8. OpenSSL
    - – Licence : Apache 2.0
-   - – Avis de copyright : Copyright (c) 1998-2020 The OpenSSL Project
+   - – Avis de copyright : Copyright (c) 1998-2020 Le Projet OpenSSL
    - – Site de téléchargement : https://www.openssl.org/ (lien en anglais)
 9. PM Checksum
    - — Licence : Shareware
@@ -55,7 +55,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1993 Gerald W. (Jerry) am Ende
 18. RxHash
-    - – Licence : Mozilla 1.1
+    - – Licence : MPL 1.1
     - – Avis de copyright : Copyright (c) 2003 Patrick TJ McPhee
 19. ValidateItNow
     - – Licence : Libre

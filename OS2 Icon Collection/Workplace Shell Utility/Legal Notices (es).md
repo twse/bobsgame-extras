@@ -150,7 +150,6 @@
 51. Unstuck
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 2015 André Doff
-    - – Sitio de descarga: http://home.uni-one.nl/m1 (enlace en inglés)
 52. Win95Key
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 2003 Viktor Remennik, Alex Samorukov, Nikolay Kolosov

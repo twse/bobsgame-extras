@@ -55,7 +55,7 @@
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993 Gerald W. (Jerry) am Ende
 18. RxHash
-    - – License : Mozilla 1.1
+    - – License : MPL 1.1
     - – Copyright Notice : Copyright (c) 2003 Patrick TJ McPhee
 19. ValidateItNow
     - – License : Free
