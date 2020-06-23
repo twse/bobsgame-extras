@@ -6,7 +6,7 @@
 2. DOSBox
    - – Licence : GPL 2.0
    - – Avis de copyright : Copyright (c) 2002-2019 L'équipe DOSBox
-   - – Site de téléchargement : http://www.dosbox.com/ (lien en anglais)
+   - – Site de téléchargement : https://www.dosbox.com/ (lien en anglais)
 3. KEGS
    - – Licence : GPL 2.0
    - – Avis de copyright : Copyright (c) 1997-2004 Kent Dickey

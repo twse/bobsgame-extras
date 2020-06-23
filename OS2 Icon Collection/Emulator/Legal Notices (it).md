@@ -5,8 +5,8 @@
    - – Avviso di copyright: Copyright (c) 1997 Siegfried Hanisch
 2. DOSBox
    - – Licenze: GPL 2.0
-   - – Avviso di copyright: Copyright (c) 2002-2019 The DOSBox Team
-   - – Sito di download: http://www.dosbox.com/
+   - – Avviso di copyright: Copyright (c) 2002-2019 Il Team DOSBox
+   - – Sito di download: https://www.dosbox.com/ (link in inglese)
 3. KEGS
    - – Licenze: GPL 2.0
    - – Avviso di copyright: Copyright (c) 1997-2004 Kent Dickey
