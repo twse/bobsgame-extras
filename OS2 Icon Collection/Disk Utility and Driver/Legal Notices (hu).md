@@ -131,14 +131,14 @@
 43. RxLVM
     - – Licenc: BSD 3-Clause
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2006-2007 Alexander Taylor
-    - – Letöltési hely: http://www.altsan.org/
+    - – Letöltési hely: http://www.altsan.org/ (angol nyelvem)
 44. SLICE2, SPLICE2
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1992 Gary L. Robinson
 45. SMART Monitoring Tools
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2002-2009 Bruce Allen, 2004-2019 Christian Franke
-    - – Letöltési hely: https://www.smartmontools.org/
+    - – Letöltési hely: https://www.smartmontools.org/ (angol nyelvem)
 46. SMARTMON
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2005 Andrew A. Belov
@@ -148,16 +148,20 @@
 48. Spacehog
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2000 Wing F. Yuen
-49. TFile
+49. TestDisk, PhotoRec
+    - – Licenc: GPL 2.0
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2019 Christophe Grenier
+    - – Letöltési hely: https://www.cgsecurity.org/wiki/TestDisk (angol nyelvem)
+50. TFile
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Tom Brown
-50. Usage
+51. Usage
     - – Licenc: Közkincs
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1990-1992 John Ridges
-51. VFATMon
+52. VFATMon
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2004 Jason Stefanovich
-52. XDSKF
+53. XDSKF
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2004 Christian Langanke
 

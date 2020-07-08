@@ -112,7 +112,7 @@
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1998 Bernd Wetzel
 37. PMFloppy
-    - – Licenze: Dominio pubblico
+    - – Licenze: Pubblico dominio
     - – Avviso di copyright: Copyright (c) 1990 Greg Bryant, 1995 Brady Flowers
 38. PMFORMAT
     - – Licenze: BSD di 3 clausula
@@ -126,7 +126,7 @@
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1992 John K. Gotwals
 42. RSJ CD Writer
-    - – Licenze: Commercial
+    - – Licenze: Comerciali
     - – Avviso di copyright: Copyright (c) 2002 RSJ
 43. RxLVM
     - – Licenze: BSD 3-Clause
@@ -148,16 +148,20 @@
 48. Spacehog
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2000 Wing F. Yuen
-49. TFile
+49. TestDisk, PhotoRec
+    - – Licenze: GPL 2.0
+    - – Avviso di copyright: Copyright (c) 1998-2019 Christophe Grenier
+    - – Sito di download: https://www.cgsecurity.org/wiki/TestDisk
+50. TFile
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1997 Tom Brown
-50. Usage
-    - – Licenze: Public Domain
+51. Usage
+    - – Licenze: Pubblico dominio
     - – Avviso di copyright: Copyright (c) 1990-1992 John Ridges
-51. VFATMon
+52. VFATMon
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2004 Jason Stefanovich
-52. XDSKF
+53. XDSKF
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2001-2004 Christian Langanke
 

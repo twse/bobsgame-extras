@@ -148,16 +148,20 @@
 48. Spacehog
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 2000 Wing F. Yuen
-49. TFile
+49. TestDisk, PhotoRec
+    - – Licencia: GPL 2.0
+    - – Aviso de derechos de autor: Copyright (c) 1998-2019 Christophe Grenier
+    - – Sitio de descarga: https://www.cgsecurity.org/wiki/TestDisk
+50. TFile
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1997 Tom Brown
-50. Usage
+51. Usage
     - – Licencia: Dominio público
     - – Aviso de derechos de autor: Copyright (c) 1990-1992 John Ridges
-51. VFATMon
+52. VFATMon
     - – Licencia: GPL 2.0
     - – Aviso de derechos de autor: Copyright (c) 2004 Jason Stefanovich
-52. XDSKF
+53. XDSKF
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 2001-2004 Christian Langanke
 
