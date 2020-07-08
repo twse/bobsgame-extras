@@ -92,15 +92,15 @@
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1998 Cornel Huth
 29. JPLAY, PM Jukebox
-   - – License : Shareware
-   - – Copyright Notice : Copyright (c) 1993-1994 Jeff Elkins
+    - – License : Shareware
+    - – Copyright Notice : Copyright (c) 1993-1994 Jeff Elkins
 30. Kexis
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2000 Wayde Milas
 31. LAME
     - – License : LGPL 2.1
     - – Copyright Notice : Copyright (c) 1995-2017 Mark Taylor, Michael Cheng, Michael Hipp and LAME developers
-    - – Download Site : http://lame.sourceforge.net/
+    - – Download Site : https://lame.sourceforge.io/
 32. libvpx
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 2010-2019 The WebM Project Authors
@@ -229,7 +229,7 @@
     - – Copyright Notice : Copyright (c) 2002 Doodle
 72. SMPlayer
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2006-2019 Ricardo Villalba
+    - – Copyright Notice : Copyright (c) 2006-2020 Ricardo Villalba
     - – Download Site : https://www.smplayer.info/
 73. Sound Scheme Editor
     - – License : Free
@@ -245,7 +245,7 @@
     - – Copyright Notice : Copyright (c) 1998 Richard Röjfors
 77. TiMidity
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1997-2012 Masanao Izumo, Tuukka Toivanen and TiMidity contributors
+    - – Copyright Notice : Copyright (c) 1997-2012 Masanao Izumo, Tuukka Toivonen and TiMidity contributors
     - – Download Site : http://timidity.sourceforge.net/
 78. trk2iso
     - – License : Free
@@ -255,7 +255,7 @@
     - – Copyright Notice : Copyright (c) 1994 Sander van Leeuwen
 80. VLC
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1996-2019 VideoLAN
+    - – Copyright Notice : Copyright (c) 1996-2020 VideoLAN
     - – Download Site : http://www.videolan.org/vlc/
 81. VoiX
     - – License : LGPL 2.0
