@@ -57,9 +57,11 @@
 18. DCRaw
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1997-2018 David Coffin
-19. denef
+    - – Sito di download: http://www.dechifro.org/dcraw/ (link in inglese)
+19. DeNEF
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2000 Daniel Stephens
+    - – Sito di download: http://www.cheeseplant.org/~daniel/pages/denef.html (link in inglese)
 20. Display Font Editor
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1998 VicTor Smirnoff, Nikolay Kolosov

@@ -57,9 +57,11 @@
 18. DCRaw
     - – Licencia: GPL 2.0
     - – Aviso de derechos de autor: Copyright (c) 1997-2018 David Coffin
-19. denef
+    - – Sitio de descarga: http://www.dechifro.org/dcraw/ (enlace en inglés)
+19. DeNEF
     - – Licencia: GPL 2.0
     - – Aviso de derechos de autor: Copyright (c) 2000 Daniel Stephens
+    - – Sitio de descarga: http://www.cheeseplant.org/~daniel/pages/denef.html (enlace en inglés)
 20. Display Font Editor
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1998 VicTor Smirnoff, Nikolay Kolosov
@@ -172,7 +174,7 @@
     - – Sitio de descarga: http://www.ijg.org/ (enlace en inglés)
 53. libpng
     - – Licencia: Gratis
-    - – Aviso de derechos de autor: Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2019 Cosmin Truța
+    - – Aviso de derechos de autor: Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2020 Cosmin Truța
     - – Sitio de descarga: http://www.libpng.org/pub/png/libpng.html (liberación estable, enlace en inglés) o https://libpng.sourceforge.io/ (liberación desarrollo, enlace en inglés)
 54. LogoArt
     - – Licencia: Gratis
