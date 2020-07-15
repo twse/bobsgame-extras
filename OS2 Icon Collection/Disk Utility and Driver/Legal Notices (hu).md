@@ -33,8 +33,8 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993-2002 Enrico Zapanta
 11. Display File Systems
     - – Licenc: Shareware
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2019 Jan van Wijk
-    - – Letöltési hely: http://www.dfsee.com/ (angol nyelvem)
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2020 Jan van Wijk
+    - – Letöltési hely: https://www.dfsee.com/ (angol nyelvem)
 12. DMATEST
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 PowerQuest Corporation

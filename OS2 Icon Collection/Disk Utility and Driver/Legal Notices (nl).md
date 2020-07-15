@@ -6,7 +6,7 @@
 2. CDSpeed2
    - – Licentie: Free
    - – Copyright notice: Copyright (c) 2009 Marcel Müller
-   - – Download site: http://maazl.de/
+   - – Download site: http://maazl.de/ (link in Engels)
 3. CHKSTORE
    - – Licentie: IBM EWS
    - – Copyright notice: Copyright (c) 1994 David Kelsey
@@ -33,8 +33,8 @@
     - – Copyright notice: Copyright (c) 1993-2002 Enrico Zapanta
 11. Display File Systems
     - – Licentie: Shareware
-    - – Copyright notice: Copyright (c) 1997-2019 Jan van Wijk
-    - – Download site: http://www.dfsee.com/
+    - – Copyright notice: Copyright (c) 1997-2020 Jan van Wijk
+    - – Download site: https://www.dfsee.com/ (link in Engels)
 12. DMATEST
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1995 PowerQuest Corporation
@@ -131,14 +131,14 @@
 43. RxLVM
     - – Licentie: BSD 3-Clause
     - – Copyright notice: Copyright (c) 2006-2007 Alexander Taylor
-    - – Download site: http://www.altsan.org/
+    - – Download site: http://www.altsan.org/ (link in Engels)
 44. SLICE2, SPLICE2
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1992 Gary L. Robinson
 45. SMART Monitoring Tools
     - – Licentie: GPL 2.0
     - – Copyright notice: Copyright (c) 2002-2009 Bruce Allen, 2004-2019 Christian Franke
-    - – Download site: https://www.smartmontools.org/
+    - – Download site: https://www.smartmontools.org/ (link in Engels)
 46. SMARTMON
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 2005 Andrew A. Belov

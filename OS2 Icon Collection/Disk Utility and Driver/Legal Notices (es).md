@@ -33,8 +33,8 @@
     - – Aviso de derechos de autor: Copyright (c) 1993-2002 Enrico Zapanta
 11. Display File Systems
     - – Licencia: Shareware
-    - – Aviso de derechos de autor: Copyright (c) 1997-2019 Jan van Wijk
-    - – Sitio de descarga: http://www.dfsee.com/ (enlace en inglés)
+    - – Aviso de derechos de autor: Copyright (c) 1997-2020 Jan van Wijk
+    - – Sitio de descarga: https://www.dfsee.com/ (enlace en inglés)
 12. DMATEST
     - – Licencia: Shareware
     - – Aviso de derechos de autor: Copyright (c) 1995 PowerQuest Corporation

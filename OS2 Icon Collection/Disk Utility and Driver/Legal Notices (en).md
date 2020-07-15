@@ -33,8 +33,8 @@
     - – Copyright Notice : Copyright (c) 1993-2002 Enrico Zapanta
 11. Display File Systems
     - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1997-2019 Jan van Wijk
-    - – Download Site : http://www.dfsee.com/
+    - – Copyright Notice : Copyright (c) 1997-2020 Jan van Wijk
+    - – Download Site : https://www.dfsee.com/
 12. DMATEST
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 PowerQuest Corporation
