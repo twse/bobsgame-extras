@@ -116,7 +116,7 @@
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1998-2001 Jeroen A. Bezemer
 36. Graphics Mode Printing for REXX
-    - – Licence : Dominio público
+    - – Licence : Domaine publique
     - – Avis de copyright : Copyright (c) 1994-2002 ADD Consulting
 37. GRFXREXX
     - – Licence : Libre
