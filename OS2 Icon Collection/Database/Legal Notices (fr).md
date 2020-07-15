@@ -37,7 +37,7 @@
     - – Licence : LGPL 2.0
     - – Avis de copyright : Copyright (c) 1997-1998 John Blumel
 13. RexxBase
-    - – Licence : Unsupported freeware
+    - – Licence : Libre sans supporte
     - – Avis de copyright : Copyright (c) 1997 American Coders Ltd.
 14. REXXGDB2
     - – Licence : Libre
