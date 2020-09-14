@@ -167,11 +167,11 @@
     - – Sito di download: https://libgd.github.io/ (link in inglese)
 51. libjpeg
     - – Licenze: Libre
-    - – Avviso di copyright: Copyright (c) 1991-2018 Thomas G. Lane, Guido Vollbeding
+    - – Avviso di copyright: Copyright (c) 1991-2020 Thomas G. Lane, Guido Vollbeding
     - – Sito di download: http://www.ijg.org/ (link in inglese)
 52. libpng
     - – Licenze: Libre
-    - – Avviso di copyright: Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2019 Cosmin Truța
+    - – Avviso di copyright: Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2020 Cosmin Truța
     - – Sito di download: http://www.libpng.org/pub/png/libpng.html (rilascio stabile, link in inglese) o https://libpng.sourceforge.io/ (rilascio sviluppo, link in inglese)
 53. LogoArt
     - – Licenze: Libre

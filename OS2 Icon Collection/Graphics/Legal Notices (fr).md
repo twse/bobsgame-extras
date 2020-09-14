@@ -167,7 +167,7 @@
     - – Site de téléchargement : https://libgd.github.io/ (lien en anglais)
 51. libjpeg
     - – Licence : Libre
-    - – Avis de copyright : Copyright (c) 1991-2018 Thomas G. Lane, Guido Vollbeding
+    - – Avis de copyright : Copyright (c) 1991-2020 Thomas G. Lane, Guido Vollbeding
     - – Site de téléchargement : http://www.ijg.org/ (lien en anglais)
 52. libpng
     - – Licence : Libre
