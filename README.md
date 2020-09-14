@@ -7,8 +7,8 @@ No Google search form is in in the [Bob Corporation website](http://www.bobcorpo
 ## Art Department
 Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
 
-### Icons (All icons in OS/2 format)
-Icons based on the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits.
+### Icons
+Icons in OS/2 format based on the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits.
 
 ### Nintendo 3DS Skin
 Use theme managers (Anemone, CHMM, Themely, ThemePack, etc. etc. etc.) to replace the skin. The skin was created with 3DS Theme Editor.
@@ -20,7 +20,7 @@ Use this to replace the user account picture (this can be done in Windows XP via
 Use this to replace the desktop theme in Windows. Includes Windows Aero effects if Windows Vista or 7 is running.
 
 ### ReactOS Logon GINA Header
-Use this to replace the first bitmap resource in `msgina.dll`. Nimbus Sans Mono is used to display the modified image.
+Use this to replace the first bitmap resource in `msgina.dll`. **Nimbus Sans Mono** is used to display the modified image. (This font is paid and including it in this repository is not allowed.)
 
 ## Sound Scheme
 Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Desktop Themes: Settings: Sound events** or **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur. Under Windows, the sounds have to be copied to `%SystemRoot%\media`.
@@ -95,7 +95,7 @@ For users running Windows Vista & above, the registry keys are located in HKLM o
 * **SupportURL**: Second line in the `Support Information` heading in `OEMinfo.ini`
 
 ## Boot Skin (Windows 9x and ME)
-Available in CS, DA, DE, EN, ES, FI, FR, HU, IT, KO, NL, PL, PT-BR, RU and TR. Rename `bobsgame.bmp` to `logo.sys` (copied to root drive's parent directory), `shutdown.bmp` to `logow.sys` and `safetopoweroff.bmp` to `logos.sys` (copied to the Windows directory).
+Available in CS, DA, DE, EN, ES, FI, FR, HU, IT, KO, NL, PL, PT-BR, RU and TR. Rename `bobsgame.bmp` to `logo.sys` (copied to the root drive top level directory), `shutdown.bmp` to `logow.sys` and `safetopoweroff.bmp` to `logos.sys` (copied to the Windows directory).
 
 **Note:** Windows 9x or ME must be in VGA to display the startup or shutdown screens (running in EGA only shows textual messages on startup or shutdown).
 
@@ -110,7 +110,7 @@ This skin can be used with the emulators listed below. Robert Pelloni is not the
 ### Palm Hardware Emulator
 Copyright © 2013-2014 Perpendox Software LLC
 
-Available as proprietary commercial software in the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem). The company released the source code using the same license in Palm OS Emulator (see below) but the company's website is dead.
+This software is paid from the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem). The company released the source code using the same license in Palm OS Emulator (see below) but the Perpendox Software website was taken down.
 
 ### Palm OS Emulator
 Copyright © 1998-2002 Palm, Inc.
