@@ -112,215 +112,212 @@
     - – Licence : GPL 3.0 (programme), LGPL 3.0 (bibliothèque), CC-SA 4.0 (site Web)
     - – Avis de copyright : Copyright (c) 1995-2020 Spencer Kimball, Peter Mattis et l'équipe de développement GIMP
     - – Site de téléchargement : https://www.gimp.org/ (lien en anglais)
-35. GramoFile
-    - – Licence : GPL 2.0
-    - – Avis de copyright : Copyright (c) 1998-2001 Jeroen A. Bezemer
-36. Graphics Mode Printing for REXX
+35. Graphics Mode Printing for REXX
     - – Licence : Domaine publique
     - – Avis de copyright : Copyright (c) 1994-2002 ADD Consulting
-37. GRFXREXX
+36. GRFXREXX
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1995 Raphaël Vanney
-38. HPGS
+37. HPGS
     - – Licence : LGPL 2.1
     - – Avis de copyright : Copyright (c) 2004-2009 Wolfgang Glas
-39. IconEase
+38. IconEase
     - – Licence : Shareware
     - – Avis de copyright : Copyright (c) 1995 New Freedom Data Center
-40. Image Alchemy
+39. Image Alchemy
     - – Licence : Shareware
     - – Avis de copyright : Copyright (c) 1993 CHAOS Software
-41. Image Archiver, Image Notebook
+40. Image Archiver, Image Notebook
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994 Lou Miranda
-42. ImgMeta, PMExif
+41. ImgMeta, PMExif
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2002-2013 Lutz Wagner
-43. imShow
+42. imShow
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1989-1993 Martin Erzberger
-44. INFO2BMP
+43. INFO2BMP
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994 Duncan Wilcox
-45. IPAD
+44. IPAD
     - – Licence : Beta
     - – Avis de copyright : Copyright (c) 1997 Sergio Masci
-46. JasPer
+45. JasPer
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2001-2019 Michael David Adams
     - – Site de téléchargement : https://www.ece.uvic.ca/~frodo/jasper/ (lien en anglais)
-47. Jhead
+46. Jhead
     - – Licence : Domaine public
     - – Avis de copyright : Copyright (c) 2001-2018 Matthias Wandel
     - – Site de téléchargement : https://www.sentex.ca/~mwandel/jhead/ (lien en anglais)
-48. jp2a
+47. jp2a
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 2006 Christian Stigen Larsen
     - – Site de téléchargement : https://csl.name/jp2a/ (lien en anglais)
-49. jpeg2ps
+48. jpeg2ps
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994-2002 Thomas Merz
-50. KDC_DC2, OutJPEG
+49. KDC_DC2, OutJPEG
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1999-2001 Stéphane Charette
     - – Site de téléchargement : http://charette.no-ip.com:81/main_apps.html (lien en anglais)
-51. LibGD
+50. LibGD
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994-2004 Thomas Boutell, 2000-2016 Pierre-Alain Joye
     - – Site de téléchargement : https://libgd.github.io/ (lien en anglais)
-52. libjpeg
+51. libjpeg
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1991-2018 Thomas G. Lane, Guido Vollbeding
     - – Site de téléchargement : http://www.ijg.org/ (lien en anglais)
-53. libpng
+52. libpng
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2020 Cosmin Truța
     - – Site de téléchargement : http://www.libpng.org/pub/png/libpng.html (communiqué stable, lien en anglais) o https://libpng.sourceforge.io/ (communiqué développement, lien en anglais)
-54. LogoArt
+53. LogoArt
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1996-1997 WORKLab System Solutions GmbH
-55. NHView
+54. NHView
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1995 Jonny Rein Eriksen
-56. Nicki's USBCamera-To-HardDrive-Thingy
+55. Nicki's USBCamera-To-HardDrive-Thingy
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2003 Peter Brown
-57. nJPGd
+56. nJPGd
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2000 Marko Zarkovic
-58. Optimize OCR
+57. Optimize OCR
     - – Licence : Shareware
     - – Avis de copyright : Copyright (c) 1998 Carsten Müller
-59. OptiPNG
+58. OptiPNG
     - – Licence : zlib
     - – Avis de copyright : Copyright (c) 2001-2017 Cosmin Truța et les auteurs collaborateurs
     - – Site de téléchargement : http://optipng.sourceforge.net/ (lien en anglais)
-60. Painter, TPaint
+59. Painter, TPaint
     - – Licence : GPL 2.0
-61. Panorama Tools
+60. Panorama Tools
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1998-2006 Helmut Dersch
     - – Site de téléchargement : http://panotools.sourceforge.net/ (lien en anglais)
-62. PhotoQt
+61. PhotoQt
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 2011-2018 Lukas Spies
     - – Site de téléchargement : https://photoqt.org/ (lien en anglais)
-63. PhotoTiger
+62. PhotoTiger
     - – Licence : Shareware
     - – Avis de copyright : Copyright (c) 1996-2001 Michael Mögn
-64. PM I-Cat
+63. PM I-Cat
     - – Licence : Shareware
     - – Avis de copyright : Copyright (c) 1995 Barry R. Diller
-65. PM/GIF
+64. PM/GIF
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1989 Andy Levine
-66. PMDIB
+65. PMDIB
     - – Licence : Shareware
     - – Avis de copyright : Copyright (c) 1991 Midori S.A.
-67. PMDRAW
+66. PMDRAW
     - – Licence : Shareware
     - – Avis de copyright : Copyright (c) 1989-1990 Mark I. Walsh
-68. PMJPEG
+67. PMJPEG
     - – Licence : Shareware
     - – Avis de copyright : Copyright (c) 2008 PixVision Software
     - – Site de téléchargement : http://www.pixvision.com/
-69. PmPaint
+68. PmPaint
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1991 Mitchell Fisher
-70. PMSheet
+69. PMSheet
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2002-2010 Jasper de Keijzer
-71. PMView
+70. PMView
     - – Licence : Shareware
     - – Avis de copyright : Copyright (c) 1992-2017 Nielsen Software Enterprises
     - – Site de téléchargement : https://www.pmview.com/ (lien en anglais)
-72. pngcheck
+71. pngcheck
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1995-2007 Greg Roelofs
-73. pngmeta
+72. pngmeta
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1998-2001 David Beckett
     - – Site de téléchargement : https://pmt.sourceforge.io/pngmeta (lien en anglais)
-74. Potrace
+73. Potrace
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 2001-2019 Peter Selinger
     - – Site de téléchargement : http://potrace.sourceforge.net/ (lien en anglais)
-75. PPM2FLI
+74. PPM2FLI
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1993-1999 Klaus Ehrenfried
-76. PTPro
+75. PTPro
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 2006-2015 Richard L. Walsh
-77. QIViewer
+76. QIViewer
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 2010 Dario Ignacio Aguilera
-78. Qtnp
+77. Qtnp
     - – Licence : GPL 3.0
     - – Avis de copyright : Copyright (c) 2007-2012 Victor Hackeridze
-79. QVV
+78. QVV
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1999-2017 Vladi Belperchinov-Shabanski
     - – Site de téléchargement : http://cade.datamax.bg/qvv (lien en anglais)
-80. RTMMM
+79. RTMMM
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1996 Filippo Sartori
-81. RXEXIF
+80. RXEXIF
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2003-2005 Lone Peak Automation, LLC
-82. RXGDUTIL
+81. RXGDUTIL
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1995 Andrew J. Wysocki
-83. RxTTF
+82. RxTTF
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1999 Michal Nečásek, Daniel Hellerstein
-84. SANE
+83. SANE
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1998-2017 David Mosberger-Tang et les développeurs SANE
     - – Site de téléchargement : http://www.sane-project.org/ (lien en anglais)
-85. ShowBMP
+84. ShowBMP
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1992 Bill Leonard
-86. ShowFont
+85. ShowFont
     - – Licence : Shareware
     - – Avis de copyright : Copyright (c) 1996 Norbert Heller
-87. SPFig
+86. SPFig
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1999 Pierre Santoni
-88. Squash
+87. Squash
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 2007 Seb Ruiz
-89. STLView
+88. STLView
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1999 Andrea Venturoli
-90. Tame/2
+89. Tame/2
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1997-2004 Goran Ivanković, Klaus Städtler
-91. Tesseract
+90. Tesseract
     - – Licence : Apache 2.0
     - – Avis de copyright : Copyright (c) 1985-1998 Hewlett-Packard Company, 2006-2018 Google LLC
-92. The Wall
+91. The Wall
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1995-2011 Ken Kinoshita
-93. ThirdEye
+92. ThirdEye
     - – Licence : Shareware
     - – Avis de copyright : Copyright (c) 2001-2002 Igor Vanin, Andrei A. Porodko, Eugene Gorbunoff
-94. unpaper
+93. unpaper
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 2005-2009 Jens Gulden, 2011-2014 Diego Elio Pettenò
     - – Site de téléchargement : https://www.flameeyes.com/projects/unpaper (lien en anglais)
-95. VGASYNC
+94. VGASYNC
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1991 John B. Thiel
-96. VIEWGIF
+95. VIEWGIF
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1990 DATAD Telecom Products
-97. VImage Toolkit
+96. VImage Toolkit
     - – Licence : IBM EWS
     - – Avis de copyright : Copyright (c) 1991 Larry Salomon Jr.
-98. Wallpaper Finer
+97. Wallpaper Finer
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 2012 Péter Deák
-99. XIcon
+98. XIcon
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1993 Norman Walsh
 
