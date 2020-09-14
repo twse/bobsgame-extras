@@ -35,7 +35,7 @@
     - – Copyright Notice : Copyright (c) 1993-1994 Dan Kehn, Diana Soost
 12. Excel
     - – License : Commercial
-    - – Copyright Notice : Copyright (c) 1987-2019 Microsoft Corporation, see credits for the program via Easter eggs in Excel 95 up to Excel 2000.
+    - – Copyright Notice : Copyright (c) 1987-2020 Microsoft Corporation, see credits via Easter eggs in Excel 95 up to Excel 2000.
 13. Filer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Thomas Baier
@@ -58,7 +58,7 @@
     - – Copyright Notice : Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler
 19. OpenOffice
     - – License : Apache 2.0
-    - – Copyright Notice : Copyright (c) 2011-2019 Apache Software Foundation
+    - – Copyright Notice : Copyright (c) 2011-2020 Apache Software Foundation
     - – Download Site : http://www.openoffice.org/download/index.html
 20. PmNotes
     - – License : Shareware
@@ -78,7 +78,7 @@
     - – Copyright Notice : Copyright (c) 2004 Sundial Systems
 25. Remind
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1993-2018 Dianne F. Skoll
+    - – Copyright Notice : Copyright (c) 1993-2020 Dianne F. Skoll
     - – Download Site : https://dianne.skoll.ca/projects/remind/
 26. RemindMe
     - – License : Shareware
@@ -141,7 +141,7 @@
     - – Copyright Notice : Copyright (c) 1996 Patrick Schulte
 45. Word
     - – License : Commercial
-    - – Copyright Notice : Copyright (c) 1983-2019 Microsoft Corporation, see credits for the program via Easter eggs in Word 2.0 up to Word 97.
+    - – Copyright Notice : Copyright (c) 1983-2020 Microsoft Corporation, see credits via Easter eggs in Word 2.0 up to Word 97.
 46. Yrolo
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Muhammad A Muquit
