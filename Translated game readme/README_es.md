@@ -1,4 +1,4 @@
-**bob's game** es "fuente disponible" y "libre como en el cerveza" pero no "código abierto" y "libre como en el discurso" (todavía).
+﻿**bob's game** es "fuente disponible" y "libre como en el cerveza" pero no "código abierto" y "libre como en el discurso" (todavía).
 
 ¡Eso significa que **no hay forks**, excepto para crear solicitudes de extracción!
 
@@ -84,7 +84,7 @@ Se actualizará continuamente para Windows, Mac, Linux, el navegador Web, Androi
 * Soporte para Android, iOS y navegador
 
 # Licencia
-Robert Matthew Pelloni es el autor de este software con fines de copyright. Todos los derechos reservados.<br />
+Robert Matthew Pelloni es el autor de este programa con fines de derechos de autor. Todos los derechos reservados.<br />
 Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® es una marca registrada de Robert Pelloni.
 
 La redistribución y el uso en formato fuente y en formato binario, con o sin modificación, están permitidos sujetos a las siguientes condiciones:
