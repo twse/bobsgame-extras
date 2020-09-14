@@ -5,7 +5,7 @@
    - – Copyright Notice : Copyright (c) 2001-2004 Christian Langanke
 2. Alpine
    - – License : Apache 2.0
-   - – Copyright Notice : Copyright (c) 2006-2008 University of Washington, 2012-2019 Eduardo Chappa
+   - – Copyright Notice : Copyright (c) 2006-2008 University of Washington, 2012-2020 Eduardo Chappa
    - – Download Site : http://alpine.x10host.com/alpine/
 3. AnDan Software Message Generator
    - – License : Free
@@ -70,7 +70,7 @@
 22. Firefox, SeaMonkey, Thunderbird
     - – License : MPL 2.0
     - – Copyright Notice : Copyright (c) 1998-2020 Contributors to the Mozilla codebase, see the credits page at https://www.mozilla.org/credits/ (sorted) or the monument in the San Francisco office (unsorted).
-    - – Download Site : https://www.mozilla.org/ (Firefox), http://www.seamonkey-project.org/ (SeaMonkey) or https://www.thunderbird.net/ (Thunderbird)
+    - – Download Site : https://www.mozilla.org/ (Firefox), https://www.seamonkey-project.org/ (SeaMonkey) or https://www.thunderbird.net/ (Thunderbird)
 23. FormCheck/2
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Arne Blankerts
@@ -181,7 +181,7 @@
     - – Copyright Notice : Copyright (c) 1994 Peter Wansch
 59. Links
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1999-2019 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
+    - – Copyright Notice : Copyright (c) 1999-2020 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
     - – Download Site : http://links.twibright.com/
 60. LJV Toolkit
     - – License : Shareware
@@ -329,7 +329,7 @@
 105. ripMIME
      - – License : BSD 3-Clause
      - – Copyright Notice : Copyright (c) 2002-2011 Paul L. Daniels
-     - – Download Site : https://www.pldaniels.com/ripmime
+     - – Download Site : https://pldaniels.com/ripmime/
 106. rxCalcNet
      - – License : Free
      - – Copyright Notice : Copyright (c) 2010 VicTor Smirnoff

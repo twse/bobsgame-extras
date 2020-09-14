@@ -5,7 +5,7 @@
    - – Aviso de copyright: Copyright (c) 2001-2004 Christian Langanke
 2. Alpine
    - – Licença: Apache 2.0
-   - – Aviso de copyright: Copyright (c) 2006-2008 Universidade de Washington, 2012-2019 Eduardo Chappa
+   - – Aviso de copyright: Copyright (c) 2006-2008 Universidade de Washington, 2012-2020 Eduardo Chappa
    - – Site de download: http://alpine.x10host.com/alpine/ (link em inglês)
 3. AnDan Software Message Generator
    - – Licença: Grátis
@@ -70,7 +70,7 @@
 22. Firefox, SeaMonkey, Thunderbird
     - – Licença: MPL 2.0
     - – Aviso de copyright: Copyright (c) 1998-2020 Contribuintes para a base de código Mozilla, veja a página de créditos em https://www.mozilla.org/credits/ (classificado) ou no monumento no escritório de São Francisco (não classificado).
-    - – Site de download: https://www.mozilla.org/ (Firefox), http://www.seamonkey-project.org/ (SeaMonkey) ou https://www.thunderbird.net/ (Thunderbird)
+    - – Site de download: https://www.mozilla.org/ (Firefox), https://www.seamonkey-project.org/ (SeaMonkey) ou https://www.thunderbird.net/ (Thunderbird)
 23. FormCheck/2
     - – Licença: Grátis
     - – Aviso de copyright: Copyright (c) 1998 Arne Blankerts
@@ -181,7 +181,7 @@
     - – Aviso de copyright: Copyright (c) 1994 Peter Wansch
 59. Links
     - – Licença: GPL 2.0
-    - – Aviso de copyright: Copyright (c) 1999-2019 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
+    - – Aviso de copyright: Copyright (c) 1999-2020 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
     - – Site de download: http://links.twibright.com/ (link em inglês)
 60. LJV Toolkit
     - – Licença: Shareware
@@ -329,7 +329,7 @@
 105. ripMIME
      - – Licença: BSD de 3 cláusulas
      - – Aviso de copyright: Copyright (c) 2002-2011 Paul L. Daniels
-     - – Site de download: https://www.pldaniels.com/ripmime (link em inglês)
+     - – Site de download: https://pldaniels.com/ripmime/ (link em inglês)
 106. rxCalcNet
      - – Licença: Grátis
      - – Aviso de copyright: Copyright (c) 2010 VicTor Smirnoff
@@ -352,7 +352,7 @@
 112. TCP/IP Profile Manager
      - – Licença: BSD de 3 cláusulas
      - – Aviso de copyright: Copyright (c) 2010 Alexander Taylor
-     - – Site de download: http://www.altsan.org/
+     - – Site de download: http://www.altsan.org/ (link em inglês)
 113. TESTLOCK
      - – Licença: Shareware
      - – Aviso de copyright: Copyright (c) 1993-1994 Burton Systems Software

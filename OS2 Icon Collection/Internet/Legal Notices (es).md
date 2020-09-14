@@ -5,7 +5,7 @@
    - – Aviso de derechos de autor: Copyright (c) 2001-2004 Christian Langanke
 2. Alpine
    - – Licencia: Apache 2.0
-   - – Aviso de derechos de autor: Copyright (c) 2006-2008 Universidad de Washington, 2012-2019 Eduardo Chappa
+   - – Aviso de derechos de autor: Copyright (c) 2006-2008 Universidad de Washington, 2012-2020 Eduardo Chappa
    - – Sitio de descarga: http://alpine.x10host.com/alpine/ (enlace en inglés)
 3. AnDan Software Message Generator
    - – Licencia: Gratis
@@ -70,7 +70,7 @@
 22. Firefox, SeaMonkey, Thunderbird
     - – Licencia: MPL 2.0
     - – Aviso de derechos de autor: Copyright (c) 1998-2020 Colaboradores de la base de código de Mozilla, ver la página de créditos en https://www.mozilla.org/credits/ (ordenado) o el monumento en la oficina de San Francisco (no ordenado).
-    - – Sitio de descarga: https://www.mozilla.org/ (Firefox), http://www.seamonkey-project.org/ (SeaMonkey) o https://www.thunderbird.net/ (Thunderbird)
+    - – Sitio de descarga: https://www.mozilla.org/ (Firefox), https://www.seamonkey-project.org/ (SeaMonkey) o https://www.thunderbird.net/ (Thunderbird)
 23. FormCheck/2
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1998 Arne Blankerts
@@ -181,7 +181,7 @@
     - – Aviso de derechos de autor: Copyright (c) 1994 Peter Wansch
 59. Links
     - – Licencia: GPL 2.0
-    - – Aviso de derechos de autor: Copyright (c) 1999-2019 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
+    - – Aviso de derechos de autor: Copyright (c) 1999-2020 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
     - – Sitio de descarga: http://links.twibright.com/ (enlace en inglés)
 60. LJV Toolkit
     - – Licencia: Shareware
@@ -329,7 +329,7 @@
 105. ripMIME
      - – Licencia: BSD de 3 cláusulas
      - – Aviso de derechos de autor: Copyright (c) 2002-2011 Paul L. Daniels
-     - – Sitio de descarga: https://www.pldaniels.com/ripmime (enlace en inglés)
+     - – Sitio de descarga: https://pldaniels.com/ripmime/ (enlace en inglés)
 106. rxCalcNet
      - – Licencia: Gratis
      - – Aviso de derechos de autor: Copyright (c) 2010 VicTor Smirnoff

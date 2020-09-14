@@ -5,7 +5,7 @@
    - – Avviso di copyright: Copyright (c) 2001-2004 Christian Langanke
 2. Alpine
    - – Licenze: Apache 2.0
-   - – Avviso di copyright: Copyright (c) 2006-2008 Università di Washington, 2012-2019 Eduardo Chappa
+   - – Avviso di copyright: Copyright (c) 2006-2008 Università di Washington, 2012-2020 Eduardo Chappa
    - – Sito di download: http://alpine.x10host.com/alpine/ (link in inglese)
 3. AnDan Software Message Generator
    - – Licenze: Libre
@@ -70,7 +70,7 @@
 22. Firefox, SeaMonkey, Thunderbird
     - – Licenze: MPL 2.0
     - – Avviso di copyright: Copyright (c) 1998-2020 Collaboratori alla codebase Mozilla, vedere la pagina dei riconoscimenti in https://www.mozilla.org/credits/ (ordine) o il monumento nell'ufficio di San Francisco (non ordinato).
-    - – Sito di download: https://www.mozilla.org/ (Firefox), http://www.seamonkey-project.org/ (SeaMonkey) o https://www.thunderbird.net/ (Thunderbird)
+    - – Sito di download: https://www.mozilla.org/ (Firefox), https://www.seamonkey-project.org/ (SeaMonkey) o https://www.thunderbird.net/ (Thunderbird)
 23. FormCheck/2
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1998 Arne Blankerts
@@ -181,7 +181,7 @@
     - – Avviso di copyright: Copyright (c) 1994 Peter Wansch
 59. Links
     - – Licenze: GPL 2.0
-    - – Avviso di copyright: Copyright (c) 1999-2019 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
+    - – Avviso di copyright: Copyright (c) 1999-2020 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
     - – Sito di download: http://links.twibright.com/ (link in inglese)
 60. LJV Toolkit
     - – Licenze: Shareware
@@ -329,7 +329,7 @@
 105. ripMIME
      - – Licenze: BSD 3-Clause
      - – Avviso di copyright: Copyright (c) 2002-2011 Paul L. Daniels
-     - – Sito di download: https://www.pldaniels.com/ripmime (link in inglese)
+     - – Sito di download: https://pldaniels.com/ripmime/ (link in inglese)
 106. rxCalcNet
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 2010 VicTor Smirnoff
