@@ -47,7 +47,7 @@
     - – Copyright Notice : Copyright (c) 1994 Hammer of the Gods Software
 16. LyX
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1995-2019 LyX Team
+    - – Copyright Notice : Copyright (c) 1995-2020 LyX Team
     - – Download Site : https://www.lyx.org/
 17. Maul Publisher
     - – License : Shareware
@@ -94,7 +94,7 @@
     - – Copyright Notice : Copyright (c) 1995 Keith Luken
 30. Scribus
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2001-2018 Scribus Team
+    - – Copyright Notice : Copyright (c) 2001-2019 Scribus Team
     - – Download Site : https://www.scribus.net/
 31. Task Timer
     - – License : Free
@@ -129,7 +129,7 @@
     - – Copyright Notice : Copyright (c) 2001 Mark H. Tucker
 41. WarpNote
     - – License : Free
-    - – Copyright Notice : Copyright (c) 1997-2003 Uwe Schlenther
+    - – Copyright Notice : Copyright (c) 1997-2003 Uwe Mock
 42. WatsOnTV
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 John Pedersen
