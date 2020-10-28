@@ -5,7 +5,7 @@
    - – Copyright Notice : Copyright (c) 1998-2007 Carl-Magnus Olsson
 2. BioGraph
    - – License : Shareware
-   - – Copyright Notice : Copyright (c) 1997 Uwe Schlenther
+   - – Copyright Notice : Copyright (c) 1997 Uwe Mock
 3. Einstein Explorer
    - – License : Free
    - – Copyright Notice : Copyright (c) 2002 Mark Hale
@@ -21,7 +21,7 @@
    - – Copyright Notice : Copyright (c) 1998-2016 Jason Hutchens
 7. ngSpice
    - – License : BSD 3-Clause
-   - – Copyright Notice : Copyright (c) 1985-2019 The Regents of the University of California and others
+   - – Copyright Notice : Copyright (c) 1985-2020 The Regents of the University of California and others
    - – Download Site : http://ngspice.sourceforge.net/
 8. Night Vision
    - – License : GPL 3.0
@@ -59,7 +59,7 @@
     - – Copyright Notice : Copyright (c) 1995-1996 Peter Rachwal
 19. Tinker
     - – License : Free
-    - – Copyright Notice : Copyright (c) 1990-2019 Jay William Ponder et al.
+    - – Copyright Notice : Copyright (c) 1990-2020 Jay William Ponder et al.
     - – Download Site : https://tinkertools.org/
 20. WarpGLOBE
     - – License : GPL 2.0
