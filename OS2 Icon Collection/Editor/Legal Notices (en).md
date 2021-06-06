@@ -17,7 +17,7 @@
    - – Copyright Notice : Copyright (c) 1989 James K. Powers
 6. BOXER
    - – License : Shareware
-   - – Copyright Notice : Copyright (c) 1991-2006 Boxer Software
+   - – Copyright Notice : Copyright (c) 1991-2010 Boxer Software
    - – Download Site : http://www.boxersoftware.com/
 7. CEDIT
    - – License : Free
@@ -34,7 +34,7 @@
     - – Download Site : http://elvis.the-little-red-haired-girl.org/
 11. Emacs
     - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 1985-2020 Richard Stallman
+    - – Copyright Notice : Copyright (c) 1985-2021 Richard Stallman
     - – Download Site : http://www.gnu.org/software/emacs
 12. Enhanced Editor
     - – License : Shareware

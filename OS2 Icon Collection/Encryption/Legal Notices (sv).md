@@ -22,7 +22,6 @@
 7. MCrypt
    - – Licens: Free
    - – Copyrightmeddelande: Copyright (c) 2001-2012 André Doff
-   - – Nedladdningssida: http://home.uni-one.nl/m1
 8. OpenSSL
    - – Licens: Apache 2.0
    - – Copyrightmeddelande: Copyright (c) 1998-2020 Det OpenSSL Projekt

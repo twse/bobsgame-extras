@@ -36,8 +36,8 @@
     - – Copyright Notice : Copyright (c) 1995 Nicole Greiber
 12. Biniax
     - – License : zlib
-    - – Copyright Notice : Copyright (c) 2005-2008 Jordan Tuzsuzov
-    - – Download Site : http://www.biniax.com/
+    - – Copyright Notice : Copyright (c) 2005-2015 Jordan Tuzsuzov
+    - – Download Site : http://www.tuzsuzov.com/biniax/
 13. Blackjack
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1992 Jonathan Cepale
@@ -228,7 +228,7 @@
 74. Pingus
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 1998-2011 Ingo Ruhnke
-    - – Download Site : http://pingus.gitlab.io/
+    - – Download Site : https://pingus.gitlab.io/
 75. PM Bingo
     - – License : GPL 2.0 or IBM EWS
     - – Copyright Notice : Copyright (c) 1994 Enrico Zapanta
@@ -279,7 +279,7 @@
     - – Copyright Notice : Copyright (c) 1990 Mike Lisek
 91. Rocks'n'Diamonds
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1995-2018 Holger Schemel
+    - – Copyright Notice : Copyright (c) 1995-2021 Holger Schemel
     - – Download Site : https://www.artsoft.org/
 92. RollBall
     - – License : Free
@@ -307,7 +307,7 @@
     - – Copyright Notice : Copyright (c) 1996 Stan J. Towianski
 100. SuperTux
      - – License : GPL 3.0
-     - – Copyright Notice : Copyright (c) 2003-2017 Bill Kendrick, Eric Windisch, Wesley Poole, Tobias Gläßer, Tobias Markus and the SuperTux Development Team
+     - – Copyright Notice : Copyright (c) 2003-2021 Bill Kendrick, Eric Windisch, Wesley Poole, Tobias Gläßer, Tobias Markus and the SuperTux Development Team
      - – Download Site : https://www.supertux.org/
 101. Tangram PM
      - – License : Free
@@ -323,7 +323,7 @@
      - – Copyright Notice : Copyright (c) 1991-1992 Markus Noller, 1993 Jim Garrison, 1998 Robert A. van Wier
 105. The Battle for Wesnoth
      - – License : GPL 2.0
-     - – Copyright Notice : Copyright (c) 2003-2018 David White
+     - – Copyright Notice : Copyright (c) 2003-2021 David White
      - – Download Site : http://www.wesnoth.org/
 106. Toyland
      - – License : Shareware

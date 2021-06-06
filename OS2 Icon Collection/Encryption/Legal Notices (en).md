@@ -22,7 +22,6 @@
 7. MCrypt
    - – License : Free
    - – Copyright Notice : Copyright (c) 2001-2012 André Doff
-   - – Download Site : http://home.uni-one.nl/m1
 8. OpenSSL
    - – License : Apache 2.0
    - – Copyright Notice : Copyright (c) 1998-2020 The OpenSSL Project

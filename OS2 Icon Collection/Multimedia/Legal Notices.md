@@ -68,7 +68,7 @@
 21. Festival
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996-2017 University of Edinburgh
-    - – Download Site : http://www.cstr.ed.ac.uk/projects/festival/ (British) or http://festvox.org/festival/ (American)
+    - – Download Site : https://www.cstr.ed.ac.uk/projects/festival/ (British) or http://festvox.org/festival/ (American)
 22. FFmpeg
     - – License : LGPL 2.1
     - – Copyright Notice : Copyright (c) 1998-2020 Fabrice Bellard and FFmpeg contributors
@@ -80,7 +80,7 @@
     - – Copyright Notice : Copyright (c) 1995 Harald Schönfeld, Bernd Spellenberg
 25. Flacon
     - – License : LGPL 2.1
-    - – Copyright Notice : Copyright (c) 2012-2019 Alexander Sokolov
+    - – Copyright Notice : Copyright (c) 2012-2021 Alexander Sokolov
     - – Download Site : http://flacon.github.io/
 26. Flash Player
     - – License : Free
@@ -153,7 +153,6 @@
 47. Mup
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 1995-2017 Arkkra Enterprises
-    - – Download Site : http://www.arkkra.com/
 48. MyMP3
     - – License : Free
     - – Copyright Notice : Copyright (c) 2001 Charles Cohen
@@ -233,7 +232,7 @@
     - – Copyright Notice : Copyright (c) 2002 Doodle
 73. SMPlayer
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2006-2020 Ricardo Villalba
+    - – Copyright Notice : Copyright (c) 2006-2021 Ricardo Villalba
     - – Download Site : https://www.smplayer.info/
 74. Sound Scheme Editor
     - – License : Free
@@ -259,7 +258,7 @@
     - – Copyright Notice : Copyright (c) 1994 Sander van Leeuwen
 81. VLC
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1996-2020 VideoLAN
+    - – Copyright Notice : Copyright (c) 1996-2021 VideoLAN
     - – Download Site : http://www.videolan.org/vlc/
 82. VoiX
     - – License : LGPL 2.0
