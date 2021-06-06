@@ -27,7 +27,7 @@
 8. E_WISE, NELite, STIX, Typ
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 2001-2006 Veit Kannegieser
-   - – Download-Site: http://kannegieser.net/veit/ (link auf Englisch)
+   - – Download-Site: http://www.kannegieser.net/veit/index_d.htm
 9. IDE Installer
    - – Lizenz: Shareware
    - – Copyright-Hinweise: Copyright (c) 1995 David J. Heritage
