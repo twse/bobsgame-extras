@@ -2,7 +2,7 @@
 Contains extra stuff for bob's game excluding fonts.
 
 ## Google search form (requires internet connection)
-No Google search form is in in the [Bob Corporation website](http://www.bobcorporation.com/). It includes an option to search the Fandom wiki. There is no option to search the forum as it's running an old version of XenForo. The logo is available in PNG for old browsers or SVG for new browsers.
+The form is not present in the [Bob Corporation website](http://www.bobcorporation.com/). Includes an option to search the Fandom wiki created in 2009. The option to search the forum is not included (all forums are private; it runs a version of XenForo from 2016). The logo is available in PNG or SVG.
 
 ## Art Department
 Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
@@ -20,12 +20,12 @@ Use this to replace the user account picture (this can be done in Windows XP via
 Use this to replace the desktop theme in Windows. Includes Windows Aero effects if Windows Vista or 7 is running.
 
 ### ReactOS Logon GINA Header
-Use this to replace the first bitmap resource in `msgina.dll`. **Nimbus Sans Mono** is used to display the modified image. (This font is paid and including it in this repository is not allowed.)
+Use this to replace the first bitmap resource in `msgina.dll`. **Nimbus Sans Mono** is used to display the modified image. (This font is copyrighted by URW++.)
 
 ## Sound Scheme
 Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Desktop Themes: Settings: Sound events** or **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur. Under Windows, the sounds have to be copied to `%SystemRoot%\media`.
 
-Windows 95 until 7 allows the user to change the sounds used for logoff, login and shutdown (with Windows 8 & above, the `ExcludeFromCPL` value was added to `WindowsLogoff` and `WindowsLogon` sound events; remove this value to show these events).
+Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Windows 8 & above, the `ExcludeFromCPL` value was added to `WindowsLogoff` and `WindowsLogon` sound events; remove this value to show these events).
 
 ### Index of sound events
 | Windows name                  | OS/2 name                 | Filename                    |
@@ -97,15 +97,15 @@ For users running Windows Vista & above, the registry keys are located in HKLM o
 ## Boot Skin (Windows 9x and ME)
 Available in CS, DA, DE, EN, ES, FI, FR, HU, IT, KO, NL, PL, PT-BR, RU and TR. Rename `bobsgame.bmp` to `logo.sys` (copied to the root drive top level directory), `shutdown.bmp` to `logow.sys` and `safetopoweroff.bmp` to `logos.sys` (copied to the Windows directory).
 
-**Note:** Windows 9x or ME must be in VGA to display the startup or shutdown screens (running in EGA only shows textual messages on startup or shutdown).
+**Note:** Windows 9x or ME must be in VGA to display the startup or shutdown screens (EGA only shows the textual output).
 
 ## Boot Skin (Windows XP)
-For use with the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) only. Available in DE, EN, ES, FR, IT, JA, KO, NL, PL, RO, RU, SV and TR. Attempting to install with the Windows Vista version will most likely result in an error message, so please don't try it. I created this with Windows Paint.
+For use with the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) only. Available in DE, EN, ES, FR, IT, JA, KO, NL, PL, RO, RU, SV and TR. Attempting to install with the Windows Vista version will most likely fail, so please don't try it. I created this with Windows Paint.
 
 ## Palm OS Emulator Skin
 Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with [PMView](https://www.pmview.com/).
 
-This skin can be used with the emulators listed below. Robert Pelloni is not the original author of these emulators. The original copyright notice and the license and contributor list is set forth below. Robert Pelloni licenses these emulators to you under the terms set forth in the BobCorporation license agreement. Robert Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
+This skin can be used with the emulators listed below. Robert Pelloni is not the original author of these emulators. The original copyright notice and the license and contributor list is set forth below. Robert Pelloni licenses these emulators to you under the terms set forth in the BobCorporation license agreement (available in BSD-style). Robert Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
 
 ### Palm Hardware Emulator
 Copyright © 2013-2014 Perpendox Software LLC
