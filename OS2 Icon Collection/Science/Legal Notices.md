@@ -26,7 +26,7 @@
 8. Night Vision
    - – License : GPL 3.0
    - – Copyright Notice : Copyright (c) 1996-2015 Brian Simpson
-   - – Download Site : http://www.nvastro.com/nvj.html (Java) or http://www.nvastro.com/nvsn.html (OS/2 version)
+   - – Download Site : https://www.nvastro.com/nvj.html (Java) or https://www.nvastro.com/nvsn.html (OS/2 version)
 9. NOCTIS
    - – License : Free
    - – Copyright Notice : Copyright (c) 1997-2000 Andrea Di Paola
