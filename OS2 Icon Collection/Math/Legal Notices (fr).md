@@ -3,7 +3,7 @@
 1. 4allCalc
    - – Licence : Libre (OS/2) où shareware (Windows)
    - – Avis de copyright : Copyright (c) 1995-2009 Martin Vieregg
-   - – Site de téléchargement : http://www.hypermake.com/ (lien en anglais)
+   - – Site de téléchargement : http://www.hypermake.com/ (lien en anglais où allemand)
 2. Bicycle Ride Calorie Calculator
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1995 Greg Kondrasuk
@@ -79,14 +79,14 @@
     - – Avis de copyright : Copyright (c) 1995 Jonny Rein Eriksen
 25. Octave
     - – Licence : GPL 3.0
-    - – Avis de copyright : Copyright (c) 1992-2020 John W. Eaton
+    - – Avis de copyright : Copyright (c) 1992-2021 John W. Eaton
     - – Site de téléchargement : http://www.gnu.org/software/octave/
 26. Ortelius
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1996-1998 Christian Bressler
 27. Perl-Compatible Regular Expressions
     - – Licence : BSD 3-Clause
-    - – Avis de copyright : Copyright (c) 1997-2019 Université de Cambridge
+    - – Avis de copyright : Copyright (c) 1997-2021 Université de Cambridge
     - – Site de téléchargement : http://www.pcre.org/ (lien en anglais)
 28. PlotMTV
     - – Licence : Libre

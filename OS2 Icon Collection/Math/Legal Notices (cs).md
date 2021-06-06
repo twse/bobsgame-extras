@@ -3,7 +3,7 @@
 1. 4allCalc
    - – Licence: Svobodné (OS/2) o shareware (Windows)
    - – Upozornění na autorská práva: Copyright (c) 1995-2009 Martin Vieregg
-   - – Server pro stahování: http://www.hypermake.com/
+   - – Server pro stahování: http://www.hypermake.com/ (odkaz v angličtina o němečtina)
 2. Bicycle Ride Calorie Calculator
    - – Licence: Svobodné
    - – Upozornění na autorská práva: Copyright (c) 1995 Greg Kondrasuk
@@ -79,14 +79,14 @@
     - – Upozornění na autorská práva: Copyright (c) 1995 Jonny Rein Eriksen
 25. Octave
     - – Licence: GPL 3.0
-    - – Upozornění na autorská práva: Copyright (c) 1992-2020 John W. Eaton
+    - – Upozornění na autorská práva: Copyright (c) 1992-2021 John W. Eaton
     - – Server pro stahování: http://www.gnu.org/software/octave/ (odkaz v angličtina)
 26. Ortelius
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1996-1998 Christian Bressler
 27. Perl-Compatible Regular Expressions
     - – Licence: BSD 3-klauzule
-    - – Upozornění na autorská práva: Copyright (c) 1997-2019 Univerzita v Cambridgi
+    - – Upozornění na autorská práva: Copyright (c) 1997-2021 Univerzita v Cambridgi
     - – Server pro stahování: http://www.pcre.org/ (odkaz v angličtina)
 28. PlotMTV
     - – Licence: Svobodné

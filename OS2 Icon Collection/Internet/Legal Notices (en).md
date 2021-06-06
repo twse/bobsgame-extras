@@ -43,8 +43,8 @@
     - – Copyright Notice : Copyright (c) 1996 Scott Russell
 14. cURL
     - – License : Free
-    - – Copyright Notice : Copyright (c) 1996-2020 Daniel Stenberg
-    - – Download Site : https://curl.haxx.se/
+    - – Copyright Notice : Copyright (c) 1996-2021 Daniel Stenberg
+    - – Download Site : https://curl.se/
 15. Deja News Reader
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997 High Boskage House
@@ -69,7 +69,7 @@
     - – Download Site : https://www.falkon.org/
 22. Firefox, SeaMonkey, Thunderbird
     - – License : MPL 2.0
-    - – Copyright Notice : Copyright (c) 1998-2020 Contributors to the Mozilla codebase, see the credits page at https://www.mozilla.org/credits/ (sorted) or the monument in the San Francisco office (unsorted).
+    - – Copyright Notice : Copyright (c) 1998-2021 Contributors to the Mozilla codebase, see the credits page at https://www.mozilla.org/credits/ (sorted) or the monument in the San Francisco office (unsorted).
     - – Download Site : https://www.mozilla.org/ (Firefox), https://www.seamonkey-project.org/ (SeaMonkey) or https://www.thunderbird.net/ (Thunderbird)
 23. FormCheck/2
     - – License : Free
@@ -181,7 +181,7 @@
     - – Copyright Notice : Copyright (c) 1994 Peter Wansch
 59. Links
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1999-2020 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
+    - – Copyright Notice : Copyright (c) 1999-2021 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
     - – Download Site : http://links.twibright.com/
 60. LJV Toolkit
     - – License : Shareware
@@ -194,7 +194,7 @@
     - – Copyright Notice : Copyright (c) 1995 Lynn W. Deffenbaugh
 63. Lynx
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1997-2019 Garrett Arch Blythe, Thomas E. Dickey, Michael Grobe, Craig Lavender, Foteos Macrides, Lou Montulli, Charles Rezac
+    - – Copyright Notice : Copyright (c) 1997-2020 Garrett Arch Blythe, Thomas E. Dickey, Michael Grobe, Craig Lavender, Foteos Macrides, Lou Montulli, Charles Rezac
     - – Download Site : https://invisible-island.net/lynx/ (info) or https://lynx.invisible-island.net/ (source code/binaries)
 64. L-LIST
     - – License : Shareware
@@ -287,7 +287,7 @@
     - – Copyright Notice : Copyright (c) 1992-1999 Peter Mandrella
 92. Opera
     - – License : Free
-    - – Copyright Notice : Copyright (c) 1994-2020 Opera Software ASA
+    - – Copyright Notice : Copyright (c) 1994-2021 Opera Software ASA
     - – Download Site : https://www.opera.com/
 93. OS2_NTPD
     - – License : Free
@@ -397,7 +397,7 @@
      - – Copyright Notice : Copyright (c) 1997 Jürgen Dankoweit
 127. Wget
      - – License : GPL 3.0
-     - – Copyright Notice : Copyright (c) 1995-2020 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
+     - – Copyright Notice : Copyright (c) 1995-2021 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
      - – Download Site : http://www.gnu.org/software/wget/
 128. whois
      - – License : Free

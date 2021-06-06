@@ -79,14 +79,14 @@
     - – Aviso de direitos autorais: Copyright (c) 1995 Jonny Rein Eriksen
 25. Octave
     - – Licença: GPL 3.0
-    - – Aviso de direitos autorais: Copyright (c) 1992-2020 John W. Eaton
+    - – Aviso de direitos autorais: Copyright (c) 1992-2021 John W. Eaton
     - – Site de descarregamento: http://www.gnu.org/software/octave/ (link em inglês)
 26. Ortelius
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1996-1998 Christian Bressler
 27. Perl-Compatible Regular Expressions
     - – Licens: BSD 3-sats
-    - – Aviso de direitos autorais: Copyright (c) 1997-2019 Universidade do Cambridge
+    - – Aviso de direitos autorais: Copyright (c) 1997-2021 Universidade do Cambridge
     - – Site de descarregamento: http://www.pcre.org/ (link em inglês)
 28. PlotMTV
     - – Licença: Grátis

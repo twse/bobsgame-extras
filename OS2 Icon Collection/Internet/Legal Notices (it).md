@@ -43,8 +43,8 @@
     - – Avviso di copyright: Copyright (c) 1996 Scott Russell
 14. cURL
     - – Licenze: Libre
-    - – Avviso di copyright: Copyright (c) 1996-2020 Daniel Stenberg
-    - – Sito di download: https://curl.haxx.se/ (link in inglese)
+    - – Avviso di copyright: Copyright (c) 1996-2021 Daniel Stenberg
+    - – Sito di download: https://curl.se/ (link in inglese)
 15. Deja News Reader
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1997 High Boskage House
@@ -69,7 +69,7 @@
     - – Sito di download: https://www.falkon.org/ (link in inglese)
 22. Firefox, SeaMonkey, Thunderbird
     - – Licenze: MPL 2.0
-    - – Avviso di copyright: Copyright (c) 1998-2020 Collaboratori alla codebase Mozilla, vedere la pagina dei riconoscimenti in https://www.mozilla.org/credits/ (ordine) o il monumento nell'ufficio di San Francisco (non ordinato).
+    - – Avviso di copyright: Copyright (c) 1998-2021 Collaboratori alla codebase Mozilla, vedere la pagina dei riconoscimenti in https://www.mozilla.org/credits/ (ordine) o il monumento nell'ufficio di San Francisco (non ordinato).
     - – Sito di download: https://www.mozilla.org/ (Firefox), https://www.seamonkey-project.org/ (SeaMonkey) o https://www.thunderbird.net/ (Thunderbird)
 23. FormCheck/2
     - – Licenze: Libre
@@ -181,7 +181,7 @@
     - – Avviso di copyright: Copyright (c) 1994 Peter Wansch
 59. Links
     - – Licenze: GPL 2.0
-    - – Avviso di copyright: Copyright (c) 1999-2020 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
+    - – Avviso di copyright: Copyright (c) 1999-2021 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
     - – Sito di download: http://links.twibright.com/ (link in inglese)
 60. LJV Toolkit
     - – Licenze: Shareware
@@ -287,7 +287,7 @@
     - – Avviso di copyright: Copyright (c) 1992-1999 Peter Mandrella
 92. Opera
     - – Licenze: Libre
-    - – Avviso di copyright: Copyright (c) 1994-2020 Opera Software ASA
+    - – Avviso di copyright: Copyright (c) 1994-2021 Opera Software ASA
     - – Sito di download: https://www.opera.com/
 93. OS2_NTPD
     - – Licenze: Libre
@@ -397,7 +397,7 @@
      - – Avviso di copyright: Copyright (c) 1997 Jürgen Dankoweit
 127. Wget
      - – Licenze: GPL 3.0
-     - – Avviso di copyright: Copyright (c) 1995-2019 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
+     - – Avviso di copyright: Copyright (c) 1995-2021 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
      - – Sito di download: http://www.gnu.org/software/wget/ (link in inglese)
 128. whois
      - – Licenze: Libre
