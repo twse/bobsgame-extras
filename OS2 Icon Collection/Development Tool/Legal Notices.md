@@ -48,7 +48,7 @@
     - – Copyright Notice : Copyright (c) 1990 Dynalink Technologies Inc.
 16. Dialog
     - – License : LGPL 2.1
-    - – Copyright Notice : Copyright (c) 1993-1994 Savio Lam, 1997-2020 Thomas E. Dickey
+    - – Copyright Notice : Copyright (c) 1993-1994 Savio Lam, 1997-2021 Thomas E. Dickey
     - – Download Site : https://invisible-island.net/dialog/
 17. Dialog Editor
     - – License : Free
@@ -73,11 +73,11 @@
     - – Copyright Notice : Copyright (c) 1993 Brian Kenn
 24. Expat
     - – License : MIT License
-    - – Copyright Notice : Copyright (c) 2001-2019 Expat maintainers
+    - – Copyright Notice : Copyright (c) 2001-2021 Expat maintainers
     - – Download Site : https://libexpat.github.io/
 25. GCC
     - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 1985-2020 Richard Stallman
+    - – Copyright Notice : Copyright (c) 1985-2021 Richard Stallman
     - – Download Site : https://gcc.gnu.org/
 26. GCI
     - – License : Free
@@ -85,14 +85,14 @@
     - – Download Site : http://www.grosse-coosmann.de/~florian/
 27. Glade
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2001-2020 Ximian, Inc., Joaquín Cuenca Abela, Paolo Borelli, Tristan Van Berkom, Juan Pablo Ugarte et al.
+    - – Copyright Notice : Copyright (c) 2001-2021 Ximian, Inc., Joaquín Cuenca Abela, Paolo Borelli, Tristan Van Berkom, Juan Pablo Ugarte, Alberto Fanjul Alonso et al.
     - – Download Site : https://glade.gnome.org/
 28. GPF REXX
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1992-1998 Jean-Bernard Clerin
 29. GTK
     - – License : LGPL 2.0
-    - – Copyright Notice : Copyright (c) 1995-2020 Spencer Kimball, Josh MacDonald, Peter Mattis and the GTK Development Team
+    - – Copyright Notice : Copyright (c) 1995-2021 Spencer Kimball, Josh MacDonald, Peter Mattis and the GTK Development Team
     - – Download Site : https://www.gtk.org/
 30. gX XML Parser
     - – License : Free
@@ -115,7 +115,7 @@
     - – Download Site : http://www.mklasson.com/hexit.php
 36. Hiew
     - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1997-2020 Eugene Suslikov
+    - – Copyright Notice : Copyright (c) 1997-2021 Eugene Suslikov
     - – Download Site : http://www.hiew.ru/
 37. ICONRESOURCE
     - – License : LGPL 2.0
@@ -139,7 +139,7 @@
     - – Copyright Notice : Copyright (c) 1999 Roman Stangl
 43. Lua
     - – License : MIT License
-    - – Copyright Notice : Copyright (c) 1994-2020 Lua.org, PUC-Rio
+    - – Copyright Notice : Copyright (c) 1994-2021 Lua.org, PUC-Rio
     - – Download Site : http://www.lua.org/
 44. LXOPT
     - – License : Unsupported freeware
@@ -200,7 +200,7 @@
     - – Copyright Notice : Copyright (c) 2001-2003 Yury Pogrebnyak
 62. Python
     - – License : Free
-    - – Copyright Notice : Copyright (c) 2001-2020 Python Software Foundation
+    - – Copyright Notice : Copyright (c) 2001-2021 Python Software Foundation
     - – Download Site : https://www.python.org/
 63. QDevelop
     - – License : GPL 2.0

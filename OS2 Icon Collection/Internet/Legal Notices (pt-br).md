@@ -43,7 +43,7 @@
     - – Aviso de copyright: Copyright (c) 1996 Scott Russell
 14. cURL
     - – Licença: Grátis
-    - – Aviso de copyright: Copyright (c) 1996-2020 Daniel Stenberg
+    - – Aviso de copyright: Copyright (c) 1996-2021 Daniel Stenberg
     - – Site de download: https://curl.se/ (link em inglês)
 15. Deja News Reader
     - – Licença: Grátis

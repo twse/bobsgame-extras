@@ -17,7 +17,7 @@
    - – Download site: https://www.microsoft.com/en-us/download/details.aspx?id=4580 (link in Engels)
 5. VirtualBox
    - – Licentie: GPL 2.0
-   - – Copyright notice: Copyright (c) 2010-2020 Oracle Corporation
+   - – Copyright notice: Copyright (c) 2010-2021 Oracle Corporation
    - – Download site: https://www.virtualbox.org/ (link in Engels)
 
 Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken

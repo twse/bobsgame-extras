@@ -325,6 +325,7 @@
      - – License : GPL 2.0
      - – Copyright Notice : Copyright (c) 2003-2021 David White
      - – Download Site : http://www.wesnoth.org/
+     - – Steam Entry : https://store.steampowered.com/app/599390
 106. Toyland
      - – License : Shareware
      - – Copyright Notice : Copyright (c) 1995-1996 Rainald Menge

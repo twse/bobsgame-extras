@@ -35,7 +35,7 @@
     - – Copyright Notice : Copyright (c) 1993-1994 Dan Kehn, Diana Soost
 12. Excel
     - – License : Commercial
-    - – Copyright Notice : Copyright (c) 1987-2020 Microsoft Corporation, see credits via Easter eggs in Excel 95 up to Excel 2000.
+    - – Copyright Notice : Copyright (c) 1987-2021 Microsoft Corporation
 13. Filer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Thomas Baier
@@ -58,7 +58,7 @@
     - – Copyright Notice : Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler
 19. OpenOffice
     - – License : Apache 2.0
-    - – Copyright Notice : Copyright (c) 2011-2020 Apache Software Foundation
+    - – Copyright Notice : Copyright (c) 2011-2021 Apache Software Foundation
     - – Download Site : http://www.openoffice.org/download/index.html
 20. PmNotes
     - – License : Shareware
@@ -119,8 +119,8 @@
     - – Copyright Notice : Copyright (c) 1996 Chris Boyd
 38. Wanda
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2001-2007 Thorsten Thielen
-    - – Download Site : http://www.c2226.de/
+    - – Copyright Notice : Copyright (c) 1998-2007 Thorsten Thielen
+    - – Download Site : http://www.c2226.de/programs/wanda/index.phtml
 39. WarpCron
     - – License : Cardware
     - – Copyright Notice : Copyright (c) 1998 Julian Buss
@@ -141,7 +141,7 @@
     - – Copyright Notice : Copyright (c) 1996 Patrick Schulte
 45. Word
     - – License : Commercial
-    - – Copyright Notice : Copyright (c) 1983-2020 Microsoft Corporation, see credits via Easter eggs in Word 2.0 up to Word 97.
+    - – Copyright Notice : Copyright (c) 1983-2021 Microsoft Corporation
 46. Yrolo
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Muhammad A Muquit
