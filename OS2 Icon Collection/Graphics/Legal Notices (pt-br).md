@@ -26,7 +26,6 @@
 8. Belvoir, JPEGDUMP
    - – Licença: Grátis
    - – Aviso de copyright: Copyright (c) 2014-2017 André Doff
-   - – Site de download: http://home.uni-one.nl/m1 (link em inglês)
 9. BlendGIF, GIF_INFO, GIF_TEXT
    - – Licença: Grátis
    - – Aviso de copyright: Copyright (c) 1999 Daniel Hellerstein
@@ -110,7 +109,7 @@
     - – Aviso de copyright: Copyright (c) 1994 Andreas Ley
 34. GIMP
     - – Licença: GPL 3.0 (programa), LGPL 3.0 (biblioteca), CC-SA 4.0 (site Web)
-    - – Aviso de copyright: Copyright (c) 1995-2020 Spencer Kimball, Peter Mattis e o equipo de desenvolvimento de GIMP
+    - – Aviso de copyright: Copyright (c) 1995-2021 Spencer Kimball, Peter Mattis e o equipo de desenvolvimento de GIMP
     - – Site de download: https://www.gimp.org/ (link em inglês)
 35. Graphics Mode Printing for REXX
     - – Licença: Dominio público
@@ -164,14 +163,14 @@
 50. LibGD
     - – Licença: Grátis
     - – Aviso de copyright: Copyright (c) 1994-2004 Thomas Boutell, 2000-2016 Pierre-Alain Joye
-    - – Site de download: https://libgd.github.io/
+    - – Site de download: https://libgd.github.io/ (link em inglês)
 51. libjpeg
     - – Licença: Grátis
     - – Aviso de copyright: Copyright (c) 1991-2020 Thomas G. Lane, Guido Vollbeding
-    - – Site de download: http://www.ijg.org/
+    - – Site de download: http://www.ijg.org/ (link em inglês)
 52. libpng
     - – Licença: Grátis
-    - – Aviso de copyright: Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2020 Cosmin Truța
+    - – Aviso de copyright: Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2021 Cosmin Truța
     - – Site de download: http://www.libpng.org/pub/png/libpng.html (liberação estável, link em inglês) ou https://libpng.sourceforge.io/ (liberação desenvolvimento, link em inglês)
 53. LogoArt
     - – Licença: Grátis
@@ -220,7 +219,7 @@
 67. PMJPEG
     - – Licença: Shareware
     - – Aviso de copyright: Copyright (c) 2008 PixVision Software
-    - – Site de download: http://www.pixvision.com/ (link em inglês)
+    - – Site de download: https://www.pixvision.com/ (link em inglês)
 68. PmPaint
     - – Licença: Grátis
     - – Aviso de copyright: Copyright (c) 1991 Mitchell Fisher
@@ -257,7 +256,7 @@
 78. QVV
     - – Licença: Grátis
     - – Aviso de copyright: Copyright (c) 1999-2017 Vladi Belperchinov-Shabanski
-    - – Site de download: http://cade.datamax.bg/qvv (link em inglês)
+    - – Site de download: http://cade.datamax.bg/qvv/ (link em inglês)
 79. RTMMM
     - – Licença: Grátis
     - – Aviso de copyright: Copyright (c) 1996 Filippo Sartori
@@ -272,7 +271,7 @@
     - – Aviso de copyright: Copyright (c) 1999 Michal Nečásek, Daniel Hellerstein
 83. SANE
     - – Licença: GPL 2.0
-    - – Aviso de copyright: Copyright (c) 1998-2017 David Mosberger-Tang e os desenvolvedores SANE
+    - – Aviso de copyright: Copyright (c) 1998-2021 David Mosberger-Tang e os desenvolvedores SANE
     - – Site de download: http://www.sane-project.org/ (link em inglês)
 84. ShowBMP
     - – Licença: Grátis

@@ -26,7 +26,6 @@
 8. Belvoir, JPEGDUMP
    - – Licenze: Libre
    - – Avviso di copyright: Copyright (c) 2014-2017 André Doff
-   - – Sito di download: http://home.uni-one.nl/m1 (link in inglese)
 9. BlendGIF, GIF_INFO, GIF_TEXT
    - – Licenze: Libre
    - – Avviso di copyright: Copyright (c) 1999 Daniel Hellerstein
@@ -171,7 +170,7 @@
     - – Sito di download: http://www.ijg.org/ (link in inglese)
 52. libpng
     - – Licenze: Libre
-    - – Avviso di copyright: Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2020 Cosmin Truța
+    - – Avviso di copyright: Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2021 Cosmin Truța
     - – Sito di download: http://www.libpng.org/pub/png/libpng.html (rilascio stabile, link in inglese) o https://libpng.sourceforge.io/ (rilascio sviluppo, link in inglese)
 53. LogoArt
     - – Licenze: Libre
@@ -220,7 +219,7 @@
 67. PMJPEG
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 2008 PixVision Software
-    - – Sito di download: http://www.pixvision.com/
+    - – Sito di download: https://www.pixvision.com/ (link in inglese)
 68. PmPaint
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1991 Mitchell Fisher
@@ -257,7 +256,7 @@
 78. QVV
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1999-2017 Vladi Belperchinov-Shabanski
-    - – Sito di download: http://cade.datamax.bg/qvv (link in inglese)
+    - – Sito di download: http://cade.datamax.bg/qvv/ (link in inglese)
 79. RTMMM
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1996 Filippo Sartori
@@ -272,7 +271,7 @@
     - – Avviso di copyright: Copyright (c) 1999 Michal Nečásek, Daniel Hellerstein
 83. SANE
     - – Licenze: GPL 2.0
-    - – Avviso di copyright: Copyright (c) 1998-2017 David Mosberger-Tang e il sviluppattori SANE
+    - – Avviso di copyright: Copyright (c) 1998-2021 David Mosberger-Tang e il sviluppattori SANE
     - – Sito di download: http://www.sane-project.org/ (link in inglese)
 84. ShowBMP
     - – Licenze: Libre

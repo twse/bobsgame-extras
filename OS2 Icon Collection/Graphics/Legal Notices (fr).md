@@ -26,7 +26,6 @@
 8. Belvoir, JPEGDUMP
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 2014-2017 André Doff
-   - – Site de téléchargement : http://home.uni-one.nl/m1 (lien en anglais)
 9. BlendGIF, GIF_INFO, GIF_TEXT
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1999 Daniel Hellerstein
@@ -110,7 +109,7 @@
     - – Avis de copyright : Copyright (c) 1994 Andreas Ley
 34. GIMP
     - – Licence : GPL 3.0 (programme), LGPL 3.0 (bibliothèque), CC-SA 4.0 (site Web)
-    - – Avis de copyright : Copyright (c) 1995-2020 Spencer Kimball, Peter Mattis et l'équipe de développement GIMP
+    - – Avis de copyright : Copyright (c) 1995-2021 Spencer Kimball, Peter Mattis et l'équipe de développement GIMP
     - – Site de téléchargement : https://www.gimp.org/ (lien en anglais)
 35. Graphics Mode Printing for REXX
     - – Licence : Domaine publique
@@ -171,7 +170,7 @@
     - – Site de téléchargement : http://www.ijg.org/ (lien en anglais)
 52. libpng
     - – Licence : Libre
-    - – Avis de copyright : Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2020 Cosmin Truța
+    - – Avis de copyright : Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2021 Cosmin Truța
     - – Site de téléchargement : http://www.libpng.org/pub/png/libpng.html (communiqué stable, lien en anglais) o https://libpng.sourceforge.io/ (communiqué développement, lien en anglais)
 53. LogoArt
     - – Licence : Libre
@@ -220,7 +219,7 @@
 67. PMJPEG
     - – Licence : Shareware
     - – Avis de copyright : Copyright (c) 2008 PixVision Software
-    - – Site de téléchargement : http://www.pixvision.com/
+    - – Site de téléchargement : https://www.pixvision.com/ (lien en anglais)
 68. PmPaint
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1991 Mitchell Fisher
@@ -230,7 +229,7 @@
 70. PMView
     - – Licence : Shareware
     - – Avis de copyright : Copyright (c) 1992-2017 Nielsen Software Enterprises
-    - – Site de téléchargement : https://www.pmview.com/ (lien en anglais)
+    - – Site de téléchargement : https://www.pmview.com/french/index.html
 71. pngcheck
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1995-2007 Greg Roelofs
@@ -257,7 +256,7 @@
 78. QVV
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1999-2017 Vladi Belperchinov-Shabanski
-    - – Site de téléchargement : http://cade.datamax.bg/qvv (lien en anglais)
+    - – Site de téléchargement : http://cade.datamax.bg/qvv/ (lien en anglais)
 79. RTMMM
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1996 Filippo Sartori

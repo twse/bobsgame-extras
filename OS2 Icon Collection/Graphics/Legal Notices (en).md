@@ -26,7 +26,6 @@
 8. Belvoir, JPEGDUMP
    - – License : Free
    - – Copyright Notice : Copyright (c) 2014-2017 André Doff
-   - – Download Site : http://home.uni-one.nl/m1
 9. BlendGIF, GIF_INFO, GIF_TEXT
    - – License : Free
    - – Copyright Notice : Copyright (c) 1999 Daniel Hellerstein
@@ -110,7 +109,7 @@
     - – Copyright Notice : Copyright (c) 1994 Andreas Ley
 34. GIMP
     - – License : GPL 3.0 (program), LGPL 3.0 (library), CC-SA 4.0 (website)
-    - – Copyright Notice : Copyright (c) 1995-2020 Spencer Kimball, Peter Mattis and the GIMP Development Team
+    - – Copyright Notice : Copyright (c) 1995-2021 Spencer Kimball, Peter Mattis and the GIMP Development Team
     - – Download Site : https://www.gimp.org/
 35. Graphics Mode Printing for REXX
     - – License : Public Domain
@@ -171,7 +170,7 @@
     - – Download Site : http://www.ijg.org/
 52. libpng
     - – License : Free
-    - – Copyright Notice : Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2020 Cosmin Truța
+    - – Copyright Notice : Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2021 Cosmin Truța
     - – Download Site : http://www.libpng.org/pub/png/libpng.html (stable release) or https://libpng.sourceforge.io/ (development release)
 53. LogoArt
     - – License : Shareware
@@ -257,7 +256,7 @@
 78. QVV
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1999-2017 Vladi Belperchinov-Shabanski
-    - – Download Site : http://cade.datamax.bg/qvv
+    - – Download Site : http://cade.datamax.bg/qvv/
 79. RTMMM
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Filippo Sartori
@@ -272,7 +271,7 @@
     - – Copyright Notice : Copyright (c) 1999 Michal Nečásek, Daniel Hellerstein
 83. SANE
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1998-2017 David Mosberger-Tang and the SANE developers
+    - – Copyright Notice : Copyright (c) 1998-2021 David Mosberger-Tang and the SANE developers
     - – Download Site : http://www.sane-project.org/
 84. ShowBMP
     - – License : Free

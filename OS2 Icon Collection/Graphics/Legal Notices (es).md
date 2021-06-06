@@ -26,7 +26,6 @@
 8. Belvoir, JPEGDUMP
    - – Licencia: Gratis
    - – Aviso de derechos de autor: Copyright (c) 2014-2017 André Doff
-   - – Sitio de descarga: http://home.uni-one.nl/m1 (enlace en inglés y holandés)
 9. BlendGIF, GIF_INFO, GIF_TEXT
    - – Licencia: Gratis
    - – Aviso de derechos de autor: Copyright (c) 1999 Daniel Hellerstein
@@ -110,7 +109,7 @@
     - – Aviso de derechos de autor: Copyright (c) 1994 Andreas Ley
 34. GIMP
     - – Licencia: GPL 3.0 (programa), LGPL 3.0 (biblioteca), CC-SA 4.0 (sitio Web)
-    - – Aviso de derechos de autor: Copyright (c) 1995-2020 Spencer Kimball, Peter Mattis y el equipo de desarrolladores de GIMP
+    - – Aviso de derechos de autor: Copyright (c) 1995-2021 Spencer Kimball, Peter Mattis y el equipo de desarrolladores de GIMP
     - – Sitio de descarga: https://www.gimp.org/ (enlace en inglés)
 35. Graphics Mode Printing for REXX
     - – Licencia: Dominio público
@@ -171,7 +170,7 @@
     - – Sitio de descarga: http://www.ijg.org/ (enlace en inglés)
 52. libpng
     - – Licencia: Gratis
-    - – Aviso de derechos de autor: Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2020 Cosmin Truța
+    - – Aviso de derechos de autor: Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2021 Cosmin Truța
     - – Sitio de descarga: http://www.libpng.org/pub/png/libpng.html (liberación estable, enlace en inglés) o https://libpng.sourceforge.io/ (liberación desarrollo, enlace en inglés)
 53. LogoArt
     - – Licencia: Gratis
@@ -220,7 +219,7 @@
 67. PMJPEG
     - – Licencia: Shareware
     - – Aviso de derechos de autor: Copyright (c) 2008 PixVision Software
-    - – Sitio de descarga: http://www.pixvision.com/ (enlace en inglés)
+    - – Sitio de descarga: https://www.pixvision.com/ (enlace en inglés)
 68. PmPaint
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1991 Mitchell Fisher
@@ -257,7 +256,7 @@
 78. QVV
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1999-2017 Vladi Belperchinov-Shabanski
-    - – Sitio de descarga: http://cade.datamax.bg/qvv (enlace en inglés)
+    - – Sitio de descarga: http://cade.datamax.bg/qvv/ (enlace en inglés)
 79. RTMMM
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1996 Filippo Sartori
@@ -272,7 +271,7 @@
     - – Aviso de derechos de autor: Copyright (c) 1999 Michal Nečásek, Daniel Hellerstein
 83. SANE
     - – Licencia: GPL 2.0
-    - – Aviso de derechos de autor: Copyright (c) 1998-2017 David Mosberger-Tang y los desarrolladores SANE
+    - – Aviso de derechos de autor: Copyright (c) 1998-2021 David Mosberger-Tang y los desarrolladores SANE
     - – Sitio de descarga: http://www.sane-project.org/ (enlace en inglés)
 84. ShowBMP
     - – Licencia: Gratis
