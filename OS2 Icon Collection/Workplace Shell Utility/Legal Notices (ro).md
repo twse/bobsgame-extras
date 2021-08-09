@@ -70,7 +70,7 @@ Acest folder poate conține următorul software:
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1996 Ralph Yozzo
 25. Module Replacer
-    - – Licență: Gratis sin soporte
+    - – Licență: Gratis fără suportate
     - – Aviz de copyright: Copyright (c) 1997 Alessandro Cantatore
 26. Password/2
     - – Licență: Gratis

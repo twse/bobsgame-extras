@@ -1,7 +1,7 @@
 Acest folder poate conține următorul software:
 
 1. Butcher
-   - – Licență: Gratuit
+   - – Licență: Gratis
    - – Aviz de copyright: Copyright (c) 1997 Ali Onur Cinar
 2. CDSpeed2
    - – Licență: Gratis
