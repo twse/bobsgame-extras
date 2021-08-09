@@ -40,7 +40,7 @@
     - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997-2000 Mark Eckstein
 14. eClock
-    - – Licence : Licensed to Serenity Systems International
+    - – Licence : Licencée pour Serenity Systems International
     - – Avis de copyright : Copyright (c) 2002 Mark Eckstein
     - – Site de téléchargement : eComStation Beta Zone
 15. Egg Timer/2
