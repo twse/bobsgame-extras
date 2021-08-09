@@ -15,7 +15,7 @@ N. Software
 Thanks goes to Apache and Infraware for these texts.
 
 This icon collection is subject to the following OS/2 software archives and websites which are located at:
-* eCSoft/2: https://www.ecsoft2.org/ (available in English or/o in Italiano)
+* eCSoft/2: https://www.ecsoft2.org/ (site in English and Italian)
 * EDM/2: http://www.edm2.com/
 * Hobbes: https://hobbes.nmsu.edu/
 * LEO: ftp://crydee.sai.msu.ru/pub/comp/os/os2/leo/
@@ -85,16 +85,6 @@ Nazwa oprogramowania
 * – Strona pobierania:
 
 W celu uzyskania pełnych informacji prawnych, list autorów i tłumaczy prosimy odwiedzić https://bobsgame.fandom.com/wiki/Extras (w angielski)
-
-### Romanian
-Acest folder poate conține următorul software:
-
-Nomul de software
-* – Licenta:
-* – Aviz de copyright:
-* – Site-ul de download:
-
-Pentru notificări legale complete, contribuitor și liste de traducator, vă rugăm să vizitați https://bobsgame.fandom.com/wiki/Extras (legătură în limba engleza)
 
 ### Russian
 Эта папка может содержать следующее программное обеспечение:

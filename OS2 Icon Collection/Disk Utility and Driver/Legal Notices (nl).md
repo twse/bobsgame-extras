@@ -33,7 +33,7 @@
     - – Copyright notice: Copyright (c) 1993-2002 Enrico Zapanta
 11. Display File Systems
     - – Licentie: Shareware
-    - – Copyright notice: Copyright (c) 1997-2020 Jan van Wijk
+    - – Copyright notice: Copyright (c) 1997-2021 Jan van Wijk
     - – Download site: https://www.dfsee.com/ (link in Engels)
 12. DMATEST
     - – Licentie: Shareware
@@ -137,7 +137,7 @@
     - – Copyright notice: Copyright (c) 1992 Gary L. Robinson
 45. SMART Monitoring Tools
     - – Licentie: GPL 2.0
-    - – Copyright notice: Copyright (c) 2002-2009 Bruce Allen, 2004-2019 Christian Franke
+    - – Copyright notice: Copyright (c) 2002-2009 Bruce Allen, 2004-2021 Christian Franke
     - – Download site: https://www.smartmontools.org/ (link in Engels)
 46. SMARTMON
     - – Licentie: Free
@@ -151,7 +151,7 @@
 49. TestDisk, PhotoRec
     - – Licentie: GPL 2.0
     - – Copyright notice: Copyright (c) 1998-2019 Christophe Grenier
-    - – Download site: https://www.cgsecurity.org/wiki/TestDisk
+    - – Download site: https://www.cgsecurity.org/wiki/TestDisk of https://www.cgsecurity.org/wiki/PhotoRec
 50. TFile
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1997 Tom Brown

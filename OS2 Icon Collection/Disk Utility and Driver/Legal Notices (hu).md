@@ -33,7 +33,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993-2002 Enrico Zapanta
 11. Display File Systems
     - – Licenc: Shareware
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2020 Jan van Wijk
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2021 Jan van Wijk
     - – Letöltési hely: https://www.dfsee.com/ (angol nyelvem)
 12. DMATEST
     - – Licenc: Shareware
@@ -137,7 +137,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1992 Gary L. Robinson
 45. SMART Monitoring Tools
     - – Licenc: GPL 2.0
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 2002-2009 Bruce Allen, 2004-2019 Christian Franke
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 2002-2009 Bruce Allen, 2004-2021 Christian Franke
     - – Letöltési hely: https://www.smartmontools.org/ (angol nyelvem)
 46. SMARTMON
     - – Licenc: Szabad
@@ -151,7 +151,7 @@
 49. TestDisk, PhotoRec
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2019 Christophe Grenier
-    - – Letöltési hely: https://www.cgsecurity.org/wiki/TestDisk (angol nyelvem)
+    - – Letöltési hely: https://www.cgsecurity.org/wiki/TestDisk vagy https://www.cgsecurity.org/wiki/PhotoRec
 50. TFile
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Tom Brown
