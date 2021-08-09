@@ -4,13 +4,13 @@
    - – Licence : IBM EWS
    - – Avis de copyright : Copyright (c) 1992-1999 Kenneth A. Kahn
 2. BootSet
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1996 John Martin Alfredsson
 3. CD Boot/2
    - – Licence : GPL 2.0
    - – Avis de copyright : Copyright (c) 2002 Roman Stangl
 4. DocsBoot+
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1994-1996 Zac Schroff
 5. HaltOS
    - – Licence : Libre

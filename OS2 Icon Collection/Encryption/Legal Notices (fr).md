@@ -27,7 +27,7 @@
    - – Avis de copyright : Copyright (c) 1998-2021 Le Projet OpenSSL
    - – Site de téléchargement : https://www.openssl.org/ (lien en anglais)
 9. PM Checksum
-   - — Licence : Shareware
+   - — Licence : Partagiciel
    - — Avis de copyright : Copyright (c) 1996 Uwe Schlenther
 10. PMBASE64
     - – Licence : Libre
@@ -39,7 +39,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2007 Gunner Prießnitz
 13. QUIPU
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Michael Mieves
 14. REXX_MD5
     - – Licence : Libre

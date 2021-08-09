@@ -5,13 +5,13 @@
    - – Avis de copyright : Copyright (c) 1989-1996 Udi Manber, Sun Wu et autres
    - – Site de téléchargement : https://www.tgries.de/agrep/index.html (rien en anglais)
 2. Corpus Wizard
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1994 Takashi Hamaguchi
 3. DataSeeker
    - – Licence : BSD 3-Clause et OpenWatcom
    - – Avis de copyright : Copyright (c) 2003-2007 Alessandro Cantatore, 2008-2017 Andreas Buchinger
 4. DH-Grep-PM
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1999 Don Hawkinson
 5. DoublesFinder
    - – Licence : Libre
@@ -23,7 +23,7 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1991-1995 HankoSoft
 8. File Scraper
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) Andrey Iliynikh
 9. File Search and Browse
    - – Licence : Libre
@@ -37,7 +37,7 @@
 12. Find Dup
     - – Licence : Libre
 13. FINDIT
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997 Pete Graszer
 14. FindNew
     - – Licence : Libre
@@ -55,7 +55,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1999 Takashi Hamaguchi
 19. Lost 'N' Found
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Melissa N. Mortellaro, Steven P. Krispli
 20. Multiple Recursive Search & Replace
     - – Licence : Libre
@@ -82,10 +82,10 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994-1996 Rony G. Flatscher
 28. Search Editor PM
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Norbert Heller
 29. SearchPlus
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 2007-2014 Keith Merrington
 30. Searchraw
     - – Licence : Libre
@@ -97,13 +97,13 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1996 Reto Pauli
 33. WaitSem
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Günther Huber
 34. Whereis
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1989-1992 Code Blazers, Inc.
 35. Wild Find
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1988-1996 NPL Corporation
 
 Pour obtenir des avis légalés completes, des listes de contributeurs et de traducteurs, veuillez consulter https://bobsgame.fandom.com/wiki/Extras (lien en anglais)

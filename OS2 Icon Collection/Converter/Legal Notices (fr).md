@@ -14,14 +14,14 @@
    - – Avis de copyright : Copyright (c) 2007 Alexander Taylor
    - – Site de téléchargement : http://www.altsan.org/ (lien en anglais)
 5. Conversion Pro for OS/2
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1995-1997 Jon F. Kaminsky
 6. Crovert
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1996 Domagoj Klepac
    - – Site de téléchargement : https://www.blagi.net/hrslova/hrslovpl.html (lien en croate)
 7. DC
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1997-1999 Evgeny Kotsuba
 8. DeText
    - – Licence : Libre
@@ -45,7 +45,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1997 Markus Hannig
 15. Programmer's Notepad
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Michael Mieves
 16. RexxUni
     - – Licence : Libre

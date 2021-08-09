@@ -20,7 +20,7 @@
    - – Licence : Cardware
    - – Avis de copyright : Copyright (c) 1997 FA Partner
 7. Binary Newsreader
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1996-1997 Ralf Christen
 8. Bing Downloader
    - – Licence : GPL 2.0
@@ -49,7 +49,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1997 High Boskage House
 16. Dragen FTP, get
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997-2000 Keith Cotroneo
 17. DragURL'Base
     - – Licence : Cardware
@@ -58,10 +58,10 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1995 Gunner Prießnitz
 19. Element.ary!, PM Weather
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997 David DuPré
 20. EmTec FTP
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997-1999 EmTec Innovative Software
 21. Falkon/QupZilla
     - – Licence : GPL 3.0
@@ -78,10 +78,10 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994 Larkin Lowrey
 25. FTP Browser
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Jason Rushton
 26. FTP Manager
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 John W. Rugo
 27. FTPBox/2
     - – Licence : Libre
@@ -93,13 +93,13 @@
     - – Licence : Commerciele
     - – Avis de copyright : Copyright (c) IBM
 30. FTP-It!
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995-1997 Ben Brown
 31. getstats
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994 Kevin Hughes
 32. GetURL
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1994 Decker Automation
 33. Gismo, Goose
     - – Licence : GPL 2.0
@@ -111,19 +111,19 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1999-2011 Brian Smith
 36. Hazel
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1993 Golden G. Richard III
 37. HL_News
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1999 Tom Fredrickson
 38. HomePage Publisher
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995-2000 Jean-Bernard Clerin
 39. HTML ColourPlucker
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997 Antonino Iannella
 40. HTML Studio
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Panacea Software
 41. HTML Viewer
     - – Licence : Libre
@@ -132,25 +132,25 @@
     - – Licence : Libre, non supporté
     - – Avis de copyright : Copyright (c) 1993-1999 American Coders Ltd.
 43. HTML-Ed
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Ian Prest
 44. Hypertable
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1998 Tino Knips
 45. IceCQ
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1998 Konstantin Bondarchuk
 46. Integra
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1993-1997 Soft Earls
 47. InterFTP
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1998 Jonathan Tew
 48. Internet Adventurer
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997-1998 Adventure Software
 49. Internet Gate
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997-1999 Marco Maccaferri
 50. Internet Junkbuster Proxy
     - – Licence : GPL 2.0
@@ -177,27 +177,27 @@
     - – Licence : BSD 3-Clause
     - – Avis de copyright : Copyright (c) 2012-2017 Myung-Hun Ko
 58. Kuvert/2
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1994 Peter Wansch
 59. Links
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1999-2021 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
     - – Site de téléchargement : http://links.twibright.com/ (lien en anglais)
 60. LJV Toolkit
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1989-1991 Les J. Ventimiglia
 61. Login
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1998 Aaron B. Brown
 62. LWPFTP
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Lynn W. Deffenbaugh
 63. Lynx
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1997-2020 Garrett Arch Blythe, Thomas E. Dickey, Michael Grobe, Craig Lavender, Foteos Macrides, Lou Montulli, Charles Rezac
     - – Site de téléchargement : https://invisible-island.net/lynx/ (information ; lien en anglais) où https://lynx.invisible-island.net/ (code source/binaires ; lien en anglais)
 64. L-LIST
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Alessandro Trebbi
 65. MailRun
     - – Licence : GPL 2.0
@@ -226,7 +226,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1998 Maxim Annenkov
 73. MR/2 ICE
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996-2005 Knightware Software Company
 74. MUEd/PM
     - – Licence : Libre
@@ -245,7 +245,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2000 Eirik Øverby
 79. NetChat
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997 Gary L. Robinson
 80. Netextra, Netwatch, Web Willy Watch
     - – Licence : Libre, non supporté
@@ -280,7 +280,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1992-2009 Les régents de l’Université de Californie
 90. OpenIRC/2
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997 Max Mikhanosha
 91. OpenXP
     - – Licence : GPL 2.0
@@ -293,19 +293,19 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1998 Bruce M. Penrod
 94. Page
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Derek Clarkson
 95. Picardy 3
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 David Devaney, Jr.
 96. Pigeon
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 2001-2002 Christopher Angelico
 97. PM Downloader
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 2002-2006 Eugene Romanenko
 98. PM Weather
-    - – Licence : Libre où Shareware
+    - – Licence : Libre où Partagiciel
     - – Avis de copyright : Copyright (c) 1994 Mike Kopack, Ed Boykin, Stephen Loomis, David DuPré
 99. PMINews
     - – Licence : Commerciele
@@ -314,7 +314,7 @@
      - – Licence : Libre
      - – Avis de copyright : Copyright (c) 1993 Cliff DeCarlo
 101. QadHTML
-     - – Licence : Shareware
+     - – Licence : Partagiciel
      - – Avis de copyright : Copyright (c) 1995 QAD Software
 102. QBrows
      - – Licence : GPL 3.0
@@ -324,7 +324,7 @@
      - – Avis de copyright : Copyright (c) 2008-2013 Collaborateurs QtWeb
      - – Site de téléchargement : http://www.qtweb.net/ (lien en anglais)
 104. RacerNet
-     - – Licence : Shareware
+     - – Licence : Partagiciel
      - – Avis de copyright : Copyright (c) 1999 Frugal Software
 105. ripMIME
      - – Licence : BSD 3-Clause
@@ -347,17 +347,17 @@
      - – Licence : Libre
      - – Avis de copyright : Copyright (c) 1996 Justin S. Cooksey
 111. Tag Thief, Cookie Thief
-     - – Licence : Shareware
+     - – Licence : Partagiciel
      - – Avis de copyright : Copyright (c) 1997 Iftach Silberman
 112. TCP/IP Profile Manager
      - – Licence : BSD 3-Clause
      - – Avis de copyright : Copyright (c) 2010 Alexander Taylor
      - – Site de téléchargement : http://www.altsan.org/ (lien en anglais)
 113. TESTLOCK
-     - – Licence : Shareware
+     - – Licence : Partagiciel
      - – Avis de copyright : Copyright (c) 1993-1994 Burton Systems Software
 114. timEd
-     - – Licence : Shareware
+     - – Licence : Partagiciel
      - – Avis de copyright : Copyright (c) 1994 Gerard van Essen
 115. TNEF
      - – Licence : GPL 2.0
@@ -390,7 +390,7 @@
      - – Licence : Libre
      - – Avis de copyright : Copyright (c) 1995-1998 IBM
 125. WebWriter/2
-     - – Licence : Shareware
+     - – Licence : Partagiciel
      - – Avis de copyright : Copyright (c) 1995-1996 John Blumel
 126. WFAX
      - – Licence : Libre
@@ -406,7 +406,7 @@
      - – Licence : Libre
      - – Avis de copyright : Copyright (c) 2003 A.Y. Dayo
 130. WWWGrab/2
-     - – Licence : Shareware
+     - – Licence : Partagiciel
      - – Avis de copyright : Copyright (c) 1998 Jiří Rubeš
 131. zeupd
      - – Licence : Libre

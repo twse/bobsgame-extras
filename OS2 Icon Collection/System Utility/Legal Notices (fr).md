@@ -4,7 +4,7 @@
    - – Licence : IBM EWS
    - – Avis de copyright : Copyright (c) 1994 Naotaka Kato
 2. Administrator
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1996 Mathieu Lubrano
 3. ANA
    - – Licence : Libre
@@ -13,13 +13,13 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1993 Eberhard Mattes
 5. AppWait
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1996 Darren V. Croft
 6. Attribute Manager
    - – Licence : Libre sans support
    - – Avis de copyright : Copyright (c) 1998 Alessandro Cantatore
 7. Bluff City Software Utilities
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1990 James R. Tate
 8. CAD/Off
    - – Licence : Libre
@@ -46,7 +46,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994-1996 tauZero Systems
 16. EasySync
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 2009-2015 Keith Merrington
 17. EA-Browser
     - – Licence : Libre
@@ -64,7 +64,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1995 Rolf Breuning
 22. File Attributes
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1988-1993 Turgut Kalfaoğlu
 23. File Cutter
     - – Licence : Libre
@@ -90,7 +90,7 @@
 30. GONE, NewScan
     - – Licence : Libre
 31. ItsNow!
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1992 Theo Foster
 32. JShifter
     - – Licence : IBM EWS
@@ -99,7 +99,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994 Thomas S. Opheys
 34. KL-Virus
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1993 Keith Luken
 35. L40BATT
     - – Licence : IBM EWS
@@ -117,7 +117,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1993 Bernd Kunrath
 40. noList
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1993 Jack Tan
 41. Odin
     - – Licence : Libre
@@ -127,10 +127,10 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1991-2004 Jonathan de Boyne Pollard
 43. PM Patrol
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 WallyWare
 44. PMAttrib
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997 Antonino Iannella
 45. PMSplit
     - – Licence : Libre
@@ -184,7 +184,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1995 David Muir
 62. ThStat
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1989 Franz Krainer
 63. TLHIDE
     - – Licence : Libre
@@ -206,7 +206,7 @@
     - – Avis de copyright : Copyright (c) 2017 Wim Brul
     - – Site de téléchargement : https://home.hccnet.nl/w.m.brul/usbcalls/index.html (lien en anglais)
 69. WillUtil
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1992-1994 Will E. Rose
 
 Pour obtenir des avis légalés completes, des listes de contributeurs et de traducteurs, veuillez consulter https://bobsgame.fandom.com/wiki/Extras (lien en anglais)

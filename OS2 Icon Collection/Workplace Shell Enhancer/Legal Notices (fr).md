@@ -11,10 +11,10 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1996-2000 Peter Garner, Eric Norman, Jack Troughton, Matthew Wagner
 4. Dialog Enhancer '98
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1997-1999 Richard Castle
 5. MDesk
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1993-1994 John McCalla
 6. MShell, TShell
    - – Licence : IBM EWS
@@ -46,13 +46,13 @@
     - – Licence : GPL 3.0
     - – Avis de copyright : Copyright (c) 1997-2004 Alessandro Cantatore, 2008-2017 Alexander Taylor
 15. SysBar/2
-    - – Licence : Free
+    - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1995-1999 Dmitry I. Platonoff, 2002-2004 Max Alekseyev
 16. Systray
-    - – Licence : Free
+    - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1997 Dmitry V. Zakharov
 17. Taskbar for OS/2
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Rick Yoder
 18. TaskBox
     - – Licence : Libre

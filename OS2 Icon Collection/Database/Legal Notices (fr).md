@@ -1,7 +1,7 @@
 ﻿Ce dossier peut contenir le logiciel suivant :
 
 1. APT Mailing Assistant
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1997 APT Computer Solutions, Inc.
 2. BTRVREXX
    - – Licence : Domaine publique
@@ -28,16 +28,16 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1990 Davy Jones Software Locker
 10. FamilyTree
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Nils Meier
 11. Meal Planner
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997 Christopher D. Hodges
 12. ORexx SQL Object Framework
     - – Licence : LGPL 2.0
     - – Avis de copyright : Copyright (c) 1997-1998 John Blumel
 13. RexxBase
-    - – Licence : Libre sans supporte
+    - – Licence : Libre sans support
     - – Avis de copyright : Copyright (c) 1997 American Coders Ltd.
 14. REXXGDB2
     - – Licence : Libre
@@ -50,7 +50,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1995 Douglas A. Bebber
 17. WDDBaseViewer
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 2010 Wolfgang Draxler
 
 Pour obtenir des avis légalés completes, des listes de contributeurs et de traducteurs, veuillez consulter https://bobsgame.fandom.com/wiki/Extras (lien en anglais)

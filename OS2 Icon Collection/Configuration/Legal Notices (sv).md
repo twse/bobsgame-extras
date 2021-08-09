@@ -80,7 +80,6 @@
 25. IMPINI
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1994-2003 Christian Langanke
-    - – Nedladdningssida: http://www.clanganke.de/os2/sw/ (link på engelska)
 26. INI2Rexx
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 2003 Alfredo Fernández Díaz, 2017 André Doff

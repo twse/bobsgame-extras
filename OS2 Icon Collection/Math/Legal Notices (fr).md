@@ -1,7 +1,7 @@
 ﻿Ce dossier peut contenir le logiciel suivant :
 
 1. 4allCalc
-   - – Licence : Libre (OS/2) où shareware (Windows)
+   - – Licence : Libre (OS/2) où partagiciel (Windows)
    - – Avis de copyright : Copyright (c) 1995-2009 Martin Vieregg
    - – Site de téléchargement : http://www.hypermake.com/ (lien en anglais où allemand)
 2. Bicycle Ride Calorie Calculator
@@ -51,7 +51,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1996 Ian Prest
 17. KATCalc
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1990 The KAT Works
 18. KeyCalc
     - – Licence : Libre
@@ -66,13 +66,13 @@
     - – Avis de copyright : Copyright (c) 2012-2014 Mattia Basaglia
     - – Site de téléchargement : https://knotter.mattbas.org/ (lien en anglais)
 21. LinePlot
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1998 Neighborhood Business Services
 22. Mathe/2
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Robin Quast
 23. Mathmate
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1994-1995 Alexander Russakovskii, Sergey Golovko
 24. NH48S
     - – Licence : Libre
@@ -98,13 +98,13 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1995 Andrea Di Paola
 31. PmMath
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1991-1992 Sector Consulting
 32. PMTravel
     - – Licence : Emailware
     - – Avis de copyright : Copyright (c) 1997 Gyan Scott Penrose-Kafka
 33. PolyCalc
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Graduate Software
 34. POV-Ray
     - – Licence : AGPL 3.0
@@ -130,13 +130,13 @@
     - – Avis de copyright : Copyright (c) 2000 Nathan Liskov
     - – Download Site : http://nateliskov.com/os2apps/myapps.htm
 41. RXNUM
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Michael Mieves
 42. RXXMATH
     - – Licence : Libre sans support
     - – Avis de copyright : Copyright (c) 1997 John Brock
 43. Sfit, Splot
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1992-1994 Thomas W. Steiner
 44. Simple Plotter
     - – Licence : Libre
@@ -148,13 +148,13 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1998 Tino Knips
 47. Wages
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1992 Gene Backlin
 48. WarpCalc
     - – Licence : Libre sans support
     - – Avis de copyright : Copyright (c) 1997-2012 Carl-Magnus Olsson
 49. WWUnits
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 2000 Stefan Wesarg
 
 Pour obtenir des avis légalés completes, des listes de contributeurs et de traducteurs, veuillez consulter https://bobsgame.fandom.com/wiki/Extras (lien en anglais)

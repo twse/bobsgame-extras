@@ -55,7 +55,7 @@
     - – Avis de copyright : Copyright (c) 2011-2012 Richard L. Walsh
     - – Site de téléchargement : eComStation Beta Zone
 18. DOCONFIG
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 by Guddland digital S.A.
 19. EDITINI
     - – Licence : IBM EWS
@@ -80,7 +80,6 @@
 25. IMPINI
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994-2003 Christian Langanke
-    - – Site de téléchargement : http://www.clanganke.de/os2/sw/ (lien en anglais)
 26. INI2Rexx
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2003 Alfredo Fernández Díaz, 2017 André Doff
@@ -91,16 +90,16 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1997-2001 Goran Ivanković
 29. INI_OUTI
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1992-1993 Charles G. Hoppa
 30. IniCnv
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1992 Dave Lester
 31. INIEdit
     - – Licence : IBM EWS
     - – Avis de copyright : Copyright (c) 1996 Doug Murray
 32. INIMaint
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1992 Carry Associates
 33. INITOR
     - – Licence : Libre
@@ -128,7 +127,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1990 Todd Fincannon
 41. Profiler
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Bernd Wetzel
 42. QCONFIG
     - – Licence : IBM EWS
@@ -140,13 +139,13 @@
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1999 Thomas Bohn
 45. System Notebook
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1994 VacNat Software Co.
 46. The INIT Editor
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1992 Black Pine Development
 47. Tyra/2
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1998-2000 Oliver Poggensee, Andreas Röderer, Jörg Sievers
 48. UniMaint
     - – Licence : Libre

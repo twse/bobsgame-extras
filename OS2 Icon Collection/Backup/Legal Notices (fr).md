@@ -1,7 +1,7 @@
 ﻿Ce dossier peut contenir le logiciel suivant :
 
 1. BACKINI
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1992 Turgut Kalfaoğlu
 2. BackMaster
    - – Licence : Beta
@@ -37,23 +37,23 @@
     - – Licence : GPL 3.0
     - – Avis de copyright : Copyright (c) 2007-2018 Loukas Avgeriou
 13. Obackup
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1991-1993 Trumphurst Ltd.
 14. PM Backup Suite
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 2017-2019 Dmitry A. Steklenev
     - – Site de téléchargement : http://www.5nets.ru/backup.html (lien en anglais)
 15. RCONTROL
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1997 Cornel Huth
 16. rlgBISF
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1998 Robert Grover
 17. RoboSave
     - – Licence : IBM EWS
     - – Avis de copyright : Copyright (c) 1994 Richard Kurtz, Jeffrey Knauth
 18. SCOPY
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1990-1993 Craig Gaumer, Ed Bachman
 19. syncBackup
     - – Licence : GPL 2.0

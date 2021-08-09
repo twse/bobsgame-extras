@@ -8,7 +8,7 @@
    - – Avis de copyright : Copyright (c) 2005 Martin Vieregg
    - – Site de téléchargement : http://www.hypermake.com/ (lien en anglais où allemand)
 3. CD Audio Dump/2
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1996 Richard Reuters
 4. CD Explorer
    - – Licence : IBM EWS
@@ -24,7 +24,7 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1998 Ingo Böttcher
 8. CDMagic
-   - – Licence : Shareware
+   - – Licence : Partagiciel
 9. cdrdao
    - – Licence : GPL 2.0
    - – Avis de copyright : Copyright (c) 2002-2005 Andreas Müller
@@ -39,7 +39,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2004-2010 Nikolay Kolosov
 13. HyperCD
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1999 Jeroen van den Horn
 14. Leech
     - – Licence : Cardware

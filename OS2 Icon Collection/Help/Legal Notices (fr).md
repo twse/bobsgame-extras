@@ -10,10 +10,10 @@
    - – Licence : BSD 3-Clause
    - – Avis de copyright : Copyright (c) 2002 Chris Wohlgemuth
 4. FLINF
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1996 Matthias Göbel
 5. HTML to IPF converter
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1997 Antonino Iannella
 6. HyperText/2
    - – Licence : Libre
@@ -28,13 +28,13 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1997 Andrew Andreev
 10. Infconvert PM
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1993 Colin Thomson
 11. Intelligent Viewer
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2003 Salvador Parra Camacho
 12. IPF Editor
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1993 Perez Computing Systems
 13. IPFC Preprocessor
     - – Licence : Libre
@@ -43,14 +43,14 @@
     - – Licence : LGPL 2.1
     - – Avis de copyright : Copyright (c) 2013 Myung-Hun Ko
 15. MakeIPF
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Martin Vieregg
 16. NewView
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1994-2005 Aaron Lawrence, 2006-2019 Ronald Brill
     - – Site de téléchargement : http://www.rbri.org/projects/newview (lien en anglais)
 17. Thelp
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1993 Colin Thomson
 18. UniView
     - – Licence : Apache 2.0
@@ -71,4 +71,4 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1998-1999 Cristiano Guadagnino
 
-For full legal notices, contributor and translator lists, please visit https://bobsgame.fandom.com/wiki/Extras
+Pour obtenir des avis légalés completes, des listes de contributeurs et de traducteurs, veuillez consulter https://bobsgame.fandom.com/wiki/Extras (lien en anglais)

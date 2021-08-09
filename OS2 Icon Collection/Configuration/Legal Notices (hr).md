@@ -80,7 +80,6 @@
 25. IMPINI
     - – Licenca: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1994-2003 Christian Langanke
-    - – Web-mjesto za preuzimanje: http://www.clanganke.de/os2/sw/ (poveznica na engleski)
 26. INI2Rexx
     - – Licenca: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 2003 Alfredo Fernández Díaz, 2017 André Doff

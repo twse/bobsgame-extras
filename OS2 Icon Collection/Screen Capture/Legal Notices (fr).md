@@ -19,7 +19,7 @@
    - – Licence : IBM EWS
    - – Avis de copyright : Copyright (c) 1993 Jürg von Känel
 6. Pounce
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1995 SoftPaw Development
 7. QGrab
    - – Licence : GPL 2.0

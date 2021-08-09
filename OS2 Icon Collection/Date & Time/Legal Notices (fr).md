@@ -7,10 +7,10 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1989 Lee S. Fields
 3. Alarm Clock, AlarmPro
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1992-1995 WalkerWerks
 4. BarClock/2
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1995-1997 Marco Weber
 5. chdate
    - – Licence : Libre
@@ -31,13 +31,13 @@
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 2000 Goran Ivanković
 11. Digital Clock
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Antonino Iannella
 12. dsDate
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1995 Dan Statkus
 13. DSTswitch
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997-2000 Mark Eckstein
 14. eClock
     - – Licence : Licensed to Serenity Systems International
@@ -62,7 +62,7 @@
     - – Licence : IBM EWS
     - – Avis de copyright : Copyright (c) 1989-1993 Gunnar P. Seaburg
 21. HamClock
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997 Richard Hasty
 22. HPFSdate
     - – Licence : Libre
@@ -71,7 +71,7 @@
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 2015 KO Myung-Hun
 24. Little Digital Talking Clock
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996-1997 Gary L. Robinson
 25. LTClock
     - – Licence : Libre
@@ -83,7 +83,7 @@
     - – Licence : Beta
     - – Avis de copyright : Copyright (c) 1995 Oleg Titov
 28. PCCLOCK
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1991-1997 Michael J. Sadaway
 29. PMWORLD
     - – Licence : Libre

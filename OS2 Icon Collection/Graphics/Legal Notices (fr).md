@@ -4,7 +4,7 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1994 Craig Morrison
 2. Animation Control
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1997 Voyager Technologies, Inc.
 3. Auto Adjust Photo
    - – Licence : GPL 3.0
@@ -18,7 +18,7 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1995 Tony Beerman
 6. Background Magic
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1996 Matt Schellhaas
 7. Baires
    - – Licence : GPL 2.0
@@ -36,7 +36,7 @@
     - – Licence : BSD 3-Clause
     - – Avis de copyright : Copyright (c) 1994 Maurizio Giunti
 12. BMPVIEW
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Pete Graszer
 13. Cameraderie
     - – Licence : MPL 1.1
@@ -65,7 +65,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1998 VicTor Smirnoff, Nikolay Kolosov
 21. DrawIt
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Jasper de Keijzer
 22. Drawpile
     - – Licence : GPL 3.0 (programme) ; MIT et CC-SA 4.0 (site Web)
@@ -91,14 +91,14 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1992 Raja Thiagarajan
 29. FontFolder
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997 Cliff Cullum
 30. FreeType
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994-2021 Le projet FreeType
     - – Site de téléchargement : https://www.freetype.org/ (lien en anglais)
 31. Galleria
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Bitware Australia Pty. Ltd.
 32. GIFLIB
     - – Licence : Licence MIT
@@ -121,10 +121,10 @@
     - – Licence : LGPL 2.1
     - – Avis de copyright : Copyright (c) 2004-2009 Wolfgang Glas
 38. IconEase
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 New Freedom Data Center
 39. Image Alchemy
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1993 CHAOS Software
 40. Image Archiver, Image Notebook
     - – Licence : Libre
@@ -185,7 +185,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2000 Marko Zarkovic
 57. Optimize OCR
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1998 Carsten Müller
 58. OptiPNG
     - – Licence : zlib
@@ -202,22 +202,22 @@
     - – Avis de copyright : Copyright (c) 2011-2018 Lukas Spies
     - – Site de téléchargement : https://photoqt.org/ (lien en anglais)
 62. PhotoTiger
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996-2001 Michael Mögn
 63. PM I-Cat
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Barry R. Diller
 64. PM/GIF
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1989 Andy Levine
 65. PMDIB
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1991 Midori S.A.
 66. PMDRAW
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1989-1990 Mark I. Walsh
 67. PMJPEG
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 2008 PixVision Software
     - – Site de téléchargement : https://www.pixvision.com/ (lien en anglais)
 68. PmPaint
@@ -227,7 +227,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2002-2010 Jasper de Keijzer
 70. PMView
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1992-2017 Nielsen Software Enterprises
     - – Site de téléchargement : https://www.pmview.com/french/index.html
 71. pngcheck
@@ -277,7 +277,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1992 Bill Leonard
 85. ShowFont
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Norbert Heller
 86. SPFig
     - – Licence : Libre
@@ -298,7 +298,7 @@
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1995-2011 Ken Kinoshita
 92. ThirdEye
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 2001-2002 Igor Vanin, Andrei A. Porodko, Eugene Gorbunoff
 93. unpaper
     - – Licence : GPL 2.0

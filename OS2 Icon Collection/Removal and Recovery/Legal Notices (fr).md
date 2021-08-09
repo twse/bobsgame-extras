@@ -1,7 +1,7 @@
 ﻿Ce dossier peut contenir le logiciel suivant :
 
 1. Clone Cleaner
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1996 Edward J. March Jr.
 2. Clone Killer
    - – Licence : GPL 2.0
@@ -25,7 +25,7 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1991 Code Blazers, Inc.
 9. PM eXPunge Directory
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1992 ZebbWare Products
 10. PM UNDELETE, PM WIPE
     - – Licence : Libre
