@@ -21,7 +21,7 @@
    - – Copyright Notice : Copyright (c) 1998-2016 Jason Hutchens
 7. ngSpice
    - – License : BSD 3-Clause
-   - – Copyright Notice : Copyright (c) 1985-2020 The Regents of the University of California and others
+   - – Copyright Notice : Copyright (c) 1985-2021 The Regents of the University of California and others
    - – Download Site : http://ngspice.sourceforge.net/
 8. Night Vision
    - – License : GPL 3.0

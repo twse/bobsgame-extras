@@ -69,7 +69,7 @@
     - – Avviso di copyright: Copyright (c) 1995 Jasper de Keijzer
 22. Drawpile
     - – Licenze: GPL 3.0 (programmi); MIT e CC-SA 4.0 (sito Web)
-    - – Avviso di copyright: Copyright (c) 2006-2020 Calle Laakkonen
+    - – Avviso di copyright: Copyright (c) 2006-2021 Calle Laakkonen
     - – Sito di download: https://drawpile.net/ (link in inglese)
 23. EasyImageSizer
     - – Licenze: GPL 3.0
@@ -95,7 +95,7 @@
     - – Avviso di copyright: Copyright (c) 1997 Cliff Cullum
 30. FreeType
     - – Licenze: Libre
-    - – Avviso di copyright: Copyright (c) 1994-2019 Il progetto FreeType
+    - – Avviso di copyright: Copyright (c) 1994-2021 Il progetto FreeType
     - – Sito di download: https://www.freetype.org/ (link in inglese)
 31. Galleria
     - – Licenze: Shareware
@@ -109,7 +109,7 @@
     - – Avviso di copyright: Copyright (c) 1994 Andreas Ley
 34. GIMP
     - – Licenze: GPL 3.0 (programmi), LGPL 3.0 (biblioteca), CC-SA 4.0 (sito Web)
-    - – Avviso di copyright: Copyright (c) 1995-2020 Spencer Kimball, Peter Mattis e il team di sviluppo GIMP
+    - – Avviso di copyright: Copyright (c) 1995-2021 Spencer Kimball, Peter Mattis e il team di sviluppo GIMP
     - – Sito di download: https://www.gimp.org/ (link in inglese)
 35. Graphics Mode Printing for REXX
     - – Licenze: Dominio pubblico
@@ -143,7 +143,7 @@
     - – Avviso di copyright: Copyright (c) 1997 Sergio Masci
 45. JasPer
     - – Licenze: Libre
-    - – Avviso di copyright: Copyright (c) 2001-2019 Michael David Adams
+    - – Avviso di copyright: Copyright (c) 2001-2021 Michael David Adams
     - – Sito di download: https://www.ece.uvic.ca/~frodo/jasper/ (link in inglese)
 46. Jhead
     - – Licenze: Dominio pubblico
@@ -151,7 +151,7 @@
     - – Sito di download: https://www.sentex.ca/~mwandel/jhead/ (link in inglese)
 47. jp2a
     - – Licenze: GPL 2.0
-    - – Avviso di copyright: Copyright (c) 2006 Christian Stigen Larsen
+    - – Avviso di copyright: Copyright (c) 2006-2016 Christian Stigen Larsen, 2020 Christoph Raitzig
     - – Sito di download: https://csl.name/jp2a/ (link in inglese)
 48. jpeg2ps
     - – Licenze: Libre

@@ -24,7 +24,7 @@
    - – Avis de copyright : Copyright (c) 2001-2012 André Doff
 8. OpenSSL
    - – Licence : Apache 2.0
-   - – Avis de copyright : Copyright (c) 1998-2020 Le Projet OpenSSL
+   - – Avis de copyright : Copyright (c) 1998-2021 Le Projet OpenSSL
    - – Site de téléchargement : https://www.openssl.org/ (lien en anglais)
 9. PM Checksum
    - — Licence : Shareware

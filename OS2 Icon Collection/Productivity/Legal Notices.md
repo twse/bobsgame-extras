@@ -47,7 +47,7 @@
     - – Copyright Notice : Copyright (c) 1994 Hammer of the Gods Software
 16. LyX
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1995-2020 LyX Team
+    - – Copyright Notice : Copyright (c) 1995-2021 LyX Team
     - – Download Site : https://www.lyx.org/
 17. Maul Publisher
     - – License : Shareware
@@ -78,7 +78,7 @@
     - – Copyright Notice : Copyright (c) 2004 Sundial Systems
 25. Remind
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1993-2020 Dianne F. Skoll
+    - – Copyright Notice : Copyright (c) 1993-2021 Dianne F. Skoll
     - – Download Site : https://dianne.skoll.ca/projects/remind/
 26. RemindMe
     - – License : Shareware
@@ -94,7 +94,7 @@
     - – Copyright Notice : Copyright (c) 1995 Keith Luken
 30. Scribus
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2001-2019 Scribus Team
+    - – Copyright Notice : Copyright (c) 2001-2021 Scribus Team
     - – Download Site : https://www.scribus.net/
 31. Task Timer
     - – License : Free

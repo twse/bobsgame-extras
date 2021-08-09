@@ -38,7 +38,7 @@
     - – Copyright Notice : Copyright (c) 1992 N. Malte Christensen
 13. dmidecode
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2001-2020 Alan Cox, Jean Delvare
+    - – Copyright Notice : Copyright (c) 2001-2021 Alan Cox, Jean Delvare
     - – Download Site : http://www.nongnu.org/dmidecode/
 14. File-System Benchmarks
     - – License : Free
@@ -207,7 +207,7 @@
 68. TOP, PLIST, PKILL
     - – License : Mailware
     - – Copyright Notice : Copyright (c) 1999-2018 Ian Hargreaves, Paul Ratcliffe
-    - – Download Site : http://home.clara.net/
+    - – Download Site : http://home.clara.net/orac/
 69. TrayMonitor
     - – License : Free
     - – Copyright Notice : Copyright (c) 2004-2005 Alex A. Porollo

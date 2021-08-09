@@ -69,7 +69,7 @@
     - – Copyright Notice : Copyright (c) 1995 Jasper de Keijzer
 22. Drawpile
     - – License : GPL 3.0 (program); MIT and CC-SA 4.0 (website)
-    - – Copyright Notice : Copyright (c) 2006-2020 Calle Laakkonen
+    - – Copyright Notice : Copyright (c) 2006-2021 Calle Laakkonen
     - – Download Site : https://drawpile.net/
 23. EasyImageSizer
     - – License : GPL 3.0
@@ -95,7 +95,7 @@
     - – Copyright Notice : Copyright (c) 1997 Cliff Cullum
 30. FreeType
     - – License : Free
-    - – Copyright Notice : Copyright (c) 1994-2019 The FreeType Project
+    - – Copyright Notice : Copyright (c) 1994-2021 The FreeType Project
     - – Download Site : https://www.freetype.org/
 31. Galleria
     - – License : Shareware
@@ -143,7 +143,7 @@
     - – Copyright Notice : Copyright (c) 1997 Sergio Masci
 45. JasPer
     - – License : Free
-    - – Copyright Notice : Copyright (c) 2001-2019 Michael David Adams
+    - – Copyright Notice : Copyright (c) 2001-2021 Michael David Adams
     - – Download Site : https://www.ece.uvic.ca/~frodo/jasper/
 46. Jhead
     - – License : Public Domain
@@ -151,7 +151,7 @@
     - – Download Site : https://www.sentex.ca/~mwandel/jhead/
 47. jp2a
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 2006 Christian Stigen Larsen
+    - – Copyright Notice : Copyright (c) 2006-2016 Christian Stigen Larsen, 2020 Christoph Raitzig
     - – Download Site : https://csl.name/jp2a/
 48. jpeg2ps
     - – License : Free

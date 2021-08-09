@@ -71,7 +71,7 @@
     - – Download Site : https://www.cstr.ed.ac.uk/projects/festival/ (British) or http://festvox.org/festival/ (American)
 22. FFmpeg
     - – License : LGPL 2.1
-    - – Copyright Notice : Copyright (c) 1998-2020 Fabrice Bellard and FFmpeg contributors
+    - – Copyright Notice : Copyright (c) 1998-2021 Fabrice Bellard and FFmpeg contributors
 23. Filter Designer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Antonino Iannella
@@ -84,7 +84,7 @@
     - – Download Site : http://flacon.github.io/
 26. Flash Player
     - – License : Free
-    - – Copyright Notice : Copyright (c) 1995-2019 Adobe Macromedia Software LLC
+    - – Copyright Notice : Copyright (c) 1995-2021 Adobe Macromedia Software LLC
 27. GramoFile
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1998-2001 Jeroen A. Bezemer
@@ -107,7 +107,7 @@
     - – Download Site : https://lame.sourceforge.io/
 33. libvpx
     - – License : BSD 3-Clause
-    - – Copyright Notice : Copyright (c) 2010-2019 The WebM Project Authors
+    - – Copyright Notice : Copyright (c) 2010-2021 The WebM Project Authors
     - – Download Site : https://www.webmproject.org/
 34. Lyrics, MotivatorMaker, QScaleGen
     - – License : GPL 2.0

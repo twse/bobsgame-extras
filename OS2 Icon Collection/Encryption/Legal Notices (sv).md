@@ -24,7 +24,7 @@
    - – Copyrightmeddelande: Copyright (c) 2001-2012 André Doff
 8. OpenSSL
    - – Licens: Apache 2.0
-   - – Copyrightmeddelande: Copyright (c) 1998-2020 Det OpenSSL Projekt
+   - – Copyrightmeddelande: Copyright (c) 1998-2021 Det OpenSSL Projekt
    - – Nedladdningssida: https://www.openssl.org/ (link på engelska)
 9. PM Checksum
    - — Licens: Shareware
