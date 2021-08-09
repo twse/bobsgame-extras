@@ -81,14 +81,15 @@
 28. PM Float
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Paul Floyd
-29. PMLock
-    - – License : Free
-30. PMPause
-    - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1997-1998 Ewen McNeill
-31. PMTPOSD
+29. PM ThinkPad On Screen Display
     - – License : Free
     - – Copyright Notice : Copyright (c) 2003 Serge Sterck, 2005 Jan van Wijk
+    - – Download Site : https://www.dfsee.com/download/index.php
+30. PMLock
+    - – License : Free
+31. PMPause
+    - – License : GPL 2.0
+    - – Copyright Notice : Copyright (c) 1997-1998 Ewen McNeill
 32. Popup
     - – License : Free
     - – Copyright Notice : Copyright (c) 1999 Eugen Kuleshov

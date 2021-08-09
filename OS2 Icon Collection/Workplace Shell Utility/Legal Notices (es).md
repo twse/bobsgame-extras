@@ -86,9 +86,10 @@
 30. PMPause
     - – Licencia: GPL 2.0
     - – Aviso de derechos de autor: Copyright (c) 1997-1998 Ewen McNeill
-31. PMTPOSD
+31. PM ThinkPad On Screen Display
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 2003 Serge Sterck, 2005 Jan van Wijk
+    - – Sitio de descarga: https://www.dfsee.com/download/index.php (enlace en inglés)
 32. Popup
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1999 Eugen Kuleshov
