@@ -11,7 +11,7 @@
    - – License : IBM EWS
    - – Avis de copyright : Copyright (c) 1994 David Kelsey
 4. Disk eXPress, Super Virtual Disk
-   - – License : Shareware
+   - – License : Partagiciel
    - – Avis de copyright : Copyright (c) 1991-1998 Albert J. Shan
 5. Disk Label Utility
    - – Licence : Libre
@@ -20,23 +20,23 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1998 IBM
 7. DisketteArchive
-   - – License : Shareware
+   - – License : Partagiciel
    - – Avis de copyright : Copyright (c) 1992 Ngb Technologies
 8. DISKIO
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1994-1998 Kai-Uwe Rommel, 2004 Stepan Kazakov
 9. DiskStat PLUS!
-   - – License : Shareware
+   - – License : Partagiciel
    - – Avis de copyright : Copyright (c) 1996 Oberon Software, Inc.
 10. DISKUSE
     - – License : GPL 2.0
     - – Avis de copyright : Copyright (c) 1993-2002 Enrico Zapanta
 11. Display File Systems
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1997-2021 Jan van Wijk
     - – Site de téléchargement : https://www.dfsee.com/ (lien en anglais)
 12. DMATEST
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 PowerQuest Corporation
 13. EMT Suite
     - – Licence : Libre
@@ -52,19 +52,19 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1993 Gregory Czaja, Ghassan Salem
 17. FILL
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Fabrizio Fioravanti
 18. Floppy-Copy
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1993-1995 Oliver J. Albrecht, Sönke Mumm
 19. fpart
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1998 Stan J. Towianski
 20. fst
     - – License : GPL 2.0
     - – Avis de copyright : Copyright (c) 1995-1996 Eberhard Mattes
 21. GibbChg
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1994 Gibbon Computer Products
 22. Harddisk Manager
     - – Licence : Libre
@@ -73,10 +73,10 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994 Jason Henriksen
 24. HPFSPm
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Stefano Zamprogno
 25. HPFSTool
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1994-1995 Peter Kraufmann
 26. HPFSUtil
     - – Licence : Libre
@@ -85,7 +85,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2000-2004 Pavel Shtemenko
 28. KNOWDISK
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Pete Graszer
 29. KORT_IMG
     - – Licence : Libre
@@ -94,22 +94,22 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1996 Roger Sennert
 31. Parallel Hard Disk Xfer
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1994 Alan A. Guggenheim
 32. PM Disk Catalog
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Rainer Falkner
 33. PM Disk Map
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994 Joël Armengaud
 34. PM Disk Usage
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1997 Antonino Iannella
 35. PM File & Disk Utility
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1991 ASH Software, Inc.
 36. PM Diskcopy
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1998 Bernd Wetzel
 37. PMFloppy
     - – License : Domaine public
@@ -133,7 +133,7 @@
     - – Avis de copyright : Copyright (c) 2006-2007 Alexander Taylor
     - – Site de téléchargement : http://www.altsan.org/ (lien en anglais)
 44. SLICE2, SPLICE2
-    - – License : Shareware
+    - – License : Partagiciel
     - – Avis de copyright : Copyright (c) 1992 Gary L. Robinson
 45. SMART Monitoring Tools
     - – License : GPL 2.0

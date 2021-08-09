@@ -1,7 +1,7 @@
 ﻿Ce dossier peut contenir le logiciel suivant :
 
 1. 3DBar
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1997 Stefano Zamprogno
 2. ATSHELL
    - – Licence : GPL 2.0
@@ -27,7 +27,7 @@
    - – Avis de copyright : Copyright (c) 1995-1996 Shinji Takasugi
    - – Site de téléchargement : http://www.sf.airnet.ne.jp/ts/npswps/index.html (lien en anglais)
 9. Object Desktop
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1993-2017 Stardock Corporation
    - – Site de téléchargement : https://www.stardock.com/products/odnt/ (lien en anglais)
 10. PDE Shell

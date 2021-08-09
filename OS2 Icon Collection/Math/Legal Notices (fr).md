@@ -26,7 +26,7 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1995-1997 Frank Carlsson
 9. EqEd/2
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1995-1997 Jesper Nielsen
 10. EVX
     - – Licence : Libre

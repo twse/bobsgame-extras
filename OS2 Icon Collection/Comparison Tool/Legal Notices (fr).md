@@ -10,7 +10,7 @@
    - – Licence : BSD 4-Clause (logiciel original), GPL 2.0 (port OS/2)
    - – Avis de copyright : Copyright (c) 1987 Les régents de l’Université de Californie
 4. Compare
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1995 Leland C. Sheppard
 5. Compare Binary
    - – Licence : Libre
@@ -29,7 +29,7 @@
    - – Avis de copyright : Copyright (c) 2007-2018 Gertjan Halkes
    - – Site de téléchargement : https://os.ghalkes.nl/dwdiff.html (lien en anglais)
 10. File Base Differencer
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Coridon Henshaw
 11. GDIFF
     - – Licence : Libre
@@ -54,7 +54,7 @@
     - – Licence : Libre sans support
     - – Avis de copyright : Copyright (c) 1994 American Coders Ltd.
 18. Visual File Compare
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 2000 HPC Ltd.
 
 Pour obtenir des avis légalés completes, des listes de contributeurs et de traducteurs, veuillez consulter https://bobsgame.fandom.com/wiki/Extras (lien en anglais)

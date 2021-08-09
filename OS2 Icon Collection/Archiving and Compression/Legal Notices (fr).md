@@ -1,20 +1,20 @@
 ﻿Ce dossier peut contenir le logiciel suivant :
 
 1. AI's Installer
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1996 Antonino Iannella
 2. Archive Folder
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1996 Thomas Olsen
 3. Archive Viewer
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1992-1993 Mark Kimes
 4. ArcView
    - – Licence : GPL 2.0
    - – Avis de copyright : Copyright (c) 2009-2013 Alexander Taylor
    - – Site de téléchargement : http://www.altsan.org/ (lien en anglais)
 5. ARJ
-   - – Licence : Libre où shareware
+   - – Licence : Libre où partagiciel
    - – Avis de copyright : Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
    - – Site de téléchargement : http://www.arjsoftware.com/ (lien en anglais) où http://arj.sourceforge.net/ (lien en anglais)
 6. CABextract
@@ -22,20 +22,20 @@
    - – Avis de copyright : Copyright (c) 2000-2018 Stuart Caie
    - – Site de téléchargement : https://www.cabextract.org.uk/ (lien en anglais)
 7. Drop and Zip
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1994 Dirk Terrell
 8. E_WISE, NELite, STIX, Typ
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 2001-2006 Veit Kannegieser
    - – Site de téléchargement : http://www.kannegieser.net/veit/ (lien en anglais)
 9. IDE Installer
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1995 David J. Heritage
 10. KAZip
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1998 Kevin Ash
 11. KL-ZIP
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 Keith Luken
 12. LHA
     - – Licence : Libre
@@ -48,7 +48,7 @@
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1996-1997 Andrew Zabolotny, 2001-2015 Max Alekseyev, 2017 bitwise works GmbH
 15. PM Zipper
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997 Frank Ambacher, 1994-2005 Gunner Prießnitz
 16. PMUnZip
     - – Licence : Libre
@@ -57,14 +57,14 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1995-1997 Yao Li
 18. RPF Zip Control
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1993-2007 RPF Software
     - – Site de téléchargement : https://www.rpfsoftware.com/ (lien en anglais)
 19. rxGZlib
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2000 Daniel Hellerstein
 20. SAFEPACK
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1995 D J Harvey Software
 21. Simple ZipShell, ZipShell
     - – Licence : Libre
@@ -76,7 +76,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994-1996 John Wagner
 24. UNRAR
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1993-2017 Alexander Roshal
     - – Site de téléchargement : https://www.rarlab.com/ (lien en anglais)
 25. WarpExpander
@@ -87,29 +87,29 @@
     - – Avis de copyright : Copyright (c) 1997-2012 Netlabs
     - – Site de téléchargement : http://warpin.netlabs.org/ (lien en anglais)
 27. WarpZip
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996-2000 PillarSoft
 28. Workplace Shell UnZip
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1994 Scott Maxwell
 29. WPIView
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2006-2010 Herwig Bauernfeind
 30. Zip Chunker Pro
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1991-1995 Scott Jibben
 31. Zip Viewer
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1993 Custom Design Software
 32. ZiPMe
     - – Licence : Cardware
     - – Avis de copyright : Copyright (c) 1995-1996 Peter Eggert
 33. Zippy
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 2017 Dmitry A. Steklenev
     - – Site de téléchargement : http://www.5nets.ru/ (lien en anglais)
 34. ZipStream
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1994-1995 Carbon Based Software
 35. ZipZap
     - – Licence : GPL 2.0

@@ -4,17 +4,17 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1998 David J. van Enckevort
 2. Character Mapper
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1993 Software Kitchen
 3. Characters Map/2
    - – Licence : GPL 2.0
    - – Avis de copyright : Copyright (c) 1998-2013 Dmitry A. Steklenev
    - – Site de téléchargement : http://www.5nets.ru/charmap.html (lien en anglais)
 4. CodeTable/2
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1992 The Software Mill
 5. CopyPad
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1996 Antonino Iannella
 6. Extended Character Map
    - – Licence : GPL 2.0

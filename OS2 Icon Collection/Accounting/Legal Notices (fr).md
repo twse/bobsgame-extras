@@ -1,7 +1,7 @@
 ﻿Ce dossier peut contenir le logiciel suivant :
 
 1. BaNK
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1996 Mathieu Lubrano
 2. Checkbook Program
    - – Licence : Libre
@@ -9,10 +9,10 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1996-1997 Soft Earls
 4. Dinar
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 2003 MLK Enterprises
 5. Electronic Teller
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1994-2006 Paul H. Caron
 6. Family Economics
    - – Licence : Libre
@@ -21,10 +21,10 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 2002 Daniel Hellerstein
 8. In Charge!
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1992 Spitfire Software
 9. Money Tree
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1997 Mount Baker Software
 10. PM$tock
     - – Licence : Libre
@@ -33,7 +33,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1998-2002 Carsten Müller
 12. RSA/2
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1994-1995 DLM Consulting
 13. VolDep
     - – Licence : Libre
