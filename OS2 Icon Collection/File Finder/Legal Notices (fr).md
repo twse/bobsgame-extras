@@ -24,7 +24,7 @@
    - – Avis de copyright : Copyright (c) 1991-1995 HankoSoft
 8. File Scraper
    - – Licence : Shareware
-   - – Avis de copyright : Andrey Iliynikh
+   - – Avis de copyright : Copyright (c) Andrey Iliynikh
 9. File Search and Browse
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1988 Ziff Communications Co.

@@ -3,7 +3,7 @@
 1. AGREP
    - – Licenze: Licenze ISC
    - – Avviso di copyright: Copyright (c) 1989-1996 Udi Manber, Sun Wu e altri
-   - – Sito di download: https://www.tgries.de/agrep/index.html
+   - – Sito di download: https://www.tgries.de/agrep/index.html (link in inglese)
 2. Corpus Wizard
    - – Licenze: Shareware
    - – Avviso di copyright: Copyright (c) 1994 Takashi Hamaguchi
@@ -24,7 +24,7 @@
    - – Avviso di copyright: Copyright (c) 1991-1995 HankoSoft
 8. File Scraper
    - – Licenze: Shareware
-   - – Avviso di copyright: Andrey Iliynikh
+   - – Avviso di copyright: Copyright (c) Andrey Iliynikh
 9. File Search and Browse
    - – Licenze: Libre
    - – Avviso di copyright: Copyright (c) 1988 Ziff Communications Co.

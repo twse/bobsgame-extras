@@ -24,7 +24,7 @@
    - – Copyright Notice : Copyright (c) 1991-1995 HankoSoft
 8. File Scraper
    - – License : Shareware
-   - – Copyright Notice : Andrey Iliynikh
+   - – Copyright Notice : Copyright (c) Andrey Iliynikh
 9. File Search and Browse
    - – License : Free
    - – Copyright Notice : Copyright (c) 1988 Ziff Communications Co.

@@ -24,7 +24,7 @@
    - – Meddelelse om ophavsret: Copyright (c) 1991-1995 HankoSoft
 8. File Scraper
    - – Licens: Shareware
-   - – Meddelelse om ophavsret: Andrey Iliynikh
+   - – Meddelelse om ophavsret: Copyright (c) Andrey Iliynikh
 9. File Search and Browse
    - – Licens: Free
    - – Meddelelse om ophavsret: Copyright (c) 1988 Ziff Communications Co.
