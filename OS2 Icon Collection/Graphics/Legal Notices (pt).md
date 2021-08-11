@@ -112,7 +112,7 @@
     - – Aviso de direitos autorais: Copyright (c) 1995-2021 Spencer Kimball, Peter Mattis e o equipo de desenvolvimento de GIMP
     - – Site de descarregamento: https://www.gimp.org/ (link em inglês)
 35. Graphics Mode Printing for REXX
-    - – Licença: Dominio público
+    - – Licença: Domínio público
     - – Aviso de direitos autorais: Copyright (c) 1994-2002 ADD Consulting
 36. GRFXREXX
     - – Licença: Grátis
@@ -146,7 +146,7 @@
     - – Aviso de direitos autorais: Copyright (c) 2001-2021 Michael David Adams
     - – Site de descarregamento: https://www.ece.uvic.ca/~frodo/jasper/ (link em inglês)
 46. Jhead
-    - – Licença: Dominio público
+    - – Licença: Domínio público
     - – Aviso de direitos autorais: Copyright (c) 2001-2018 Matthias Wandel
     - – Site de descarregamento: https://www.sentex.ca/~mwandel/jhead/ (link em inglês)
 47. jp2a

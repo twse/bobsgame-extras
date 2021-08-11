@@ -2,7 +2,7 @@
 
 1. AGREP
    - – Licentie: ISC-licentie
-   - – Copyright notice: Copyright (c) 1989-1996 Udi Manber, Sun Wu e altri
+   - – Copyright notice: Copyright (c) 1989-1996 Udi Manber, Sun Wu en anderes
    - – Download site: https://www.tgries.de/agrep/index.html (link in Engels)
 2. Corpus Wizard
    - – Licentie: Shareware

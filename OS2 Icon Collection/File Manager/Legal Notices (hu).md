@@ -11,7 +11,7 @@
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1993-1996 Adam Mirowski
 4. CONNECT2, HandShaker
    - – Licenc: Szabad
-   - – Szerzői jogi figyelmeztetés: Copyright (c) 2000 Dima Orlov és
+   - – Szerzői jogi figyelmeztetés: Copyright (c) 2000 Dima Orlov és másik
 5. Dired
    - – Licenc: Szabad
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1974-1992 Stuart Cracraft, Stanley G. Kugell, Mike Lijewski, Michael Sperber
