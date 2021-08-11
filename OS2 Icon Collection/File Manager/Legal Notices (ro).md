@@ -15,7 +15,7 @@ Acest folder poate conține următorul software:
 5. Dired
    - – Licență: Gratis
    - – Aviz de copyright: Copyright (c) 1974-1992 Stuart Cracraft, Stanley G. Kugell, Mike Lijewski, Michael Sperber
-   - – Site-ul de download: http://www.deinprogramm.de/sperber/software/dired/ (legătură în limba engleza)
+   - – Site-ul de download: https://www.deinprogramm.de/sperber/software/dired/ (legătură în limba engleza)
 6. Directory Manager/PM
    - – Licență: Shareware
    - – Aviz de copyright: Copyright (c) 1993 QB SoftWare

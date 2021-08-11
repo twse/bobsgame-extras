@@ -15,7 +15,7 @@
 5. Dired
    - – Licenc: Szabad
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1974-1992 Stuart Cracraft, Stanley G. Kugell, Mike Lijewski, Michael Sperber
-   - – Letöltési hely: http://www.deinprogramm.de/sperber/software/dired/ (angol nyelvem)
+   - – Letöltési hely: https://www.deinprogramm.de/sperber/software/dired/ (angol nyelvem)
 6. Directory Manager/PM
    - – Licenc: Shareware
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1993 QB SoftWare

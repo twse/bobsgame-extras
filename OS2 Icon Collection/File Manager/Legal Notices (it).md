@@ -15,7 +15,7 @@
 5. Dired
    - – Licenze: Libre
    - – Avviso di copyright: Copyright (c) 1974-1992 Stuart Cracraft, Stanley G. Kugell, Mike Lijewski, Michael Sperber
-   - – Sito di download: http://www.deinprogramm.de/sperber/software/dired/ (link in inglese)
+   - – Sito di download: https://www.deinprogramm.de/sperber/software/dired/ (link in inglese)
 6. Directory Manager/PM
    - – Licenze: Shareware
    - – Avviso di copyright: Copyright (c) 1993 QB SoftWare
