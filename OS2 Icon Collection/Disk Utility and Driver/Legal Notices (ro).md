@@ -151,7 +151,7 @@ Acest folder poate conține următorul software:
 49. TestDisk, PhotoRec
     - – Licență: GPL 2.0
     - – Aviz de copyright: Copyright (c) 1998-2019 Christophe Grenier
-    - – Site-ul de download: https://www.cgsecurity.org/wiki/TestDisk o https://www.cgsecurity.org/wiki/PhotoRec
+    - – Site-ul de download: https://www.cgsecurity.org/wiki/TestDisk sau https://www.cgsecurity.org/wiki/PhotoRec
 50. TFile
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1997 Tom Brown
