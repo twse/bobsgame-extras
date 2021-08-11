@@ -3,7 +3,7 @@
 1. 4allCalc
    - – Licence: Svobodné (OS/2) o shareware (Windows)
    - – Upozornění na autorská práva: Copyright (c) 1995-2009 Martin Vieregg
-   - – Server pro stahování: http://www.hypermake.com/ (odkaz v angličtina o němečtina)
+   - – Server pro stahování: http://www.hypermake.com/ (odkaz v angličtina nebo němečtina)
 2. Bicycle Ride Calorie Calculator
    - – Licence: Svobodné
    - – Upozornění na autorská práva: Copyright (c) 1995 Greg Kondrasuk
