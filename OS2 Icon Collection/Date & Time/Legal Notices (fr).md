@@ -69,7 +69,7 @@
     - – Avis de copyright : Copyright (c) 2003 Rob Hamerling
 23. K Alarm
     - – Licence : GPL 2.0
-    - – Avis de copyright : Copyright (c) 2015 KO Myung-Hun
+    - – Avis de copyright : Copyright (c) 2015 Myung-Hun Ko
 24. Little Digital Talking Clock
     - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996-1997 Gary L. Robinson
