@@ -42,7 +42,7 @@ Acest folder poate conține următorul software:
 13. Chordii
     - – Licență: GPL 3.0
     - – Aviz de copyright: Copyright (c) 1995-2013 Mario Dorion, Martin Leclerc, Adam Monsen, Johan Vromans
-    - – Site-ul de download: https://johan.vromans.org/projects/Chordii/
+    - – Site-ul de download: https://johan.vromans.org/projects/Chordii/ (legătură în limba engleza)
 14. CUE/WAV Extract
     - – Licență: Domeniu public
     - – Aviz de copyright: Copyright (c) 2005-2009 George Yohng
@@ -68,7 +68,7 @@ Acest folder poate conține următorul software:
 21. Festival
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1996-2017 Universitatea Edinburgh
-    - – Site-ul de download: https://www.cstr.ed.ac.uk/projects/festival/ (britanic) or http://festvox.org/festival/ (american)
+    - – Site-ul de download: https://www.cstr.ed.ac.uk/projects/festival/ (britanic - legătură în limba engleza) sau http://festvox.org/festival/ (american - legătură în limba engleza)
 22. FFmpeg
     - – Licență: LGPL 2.1
     - – Aviz de copyright: Copyright (c) 1998-2021 Fabrice Bellard și contributori FFmpeg

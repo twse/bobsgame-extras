@@ -68,7 +68,7 @@
 21. Festival
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1996-2017 Universidade de Edinburgh
-    - – Site de descarregamento: https://www.cstr.ed.ac.uk/projects/festival/ (britâno) or http://festvox.org/festival/ (americano)
+    - – Site de descarregamento: https://www.cstr.ed.ac.uk/projects/festival/ (britâno - link em inglês) ou http://festvox.org/festival/ (americano - link em inglês)
 22. FFmpeg
     - – Licença: LGPL 2.1
     - – Aviso de direitos autorais: Copyright (c) 1998-2021 Fabrice Bellard e colaboradores FFmpeg
@@ -173,12 +173,12 @@
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1996 Randall W. Jenkins
 54. PM Radio
-    - – Licença: Grátis or GPL 2.0
+    - – Licença: Grátis ou GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 1992-2004 Stephen Loomis, 1997-1999 Paul Ratcliffe
 55. PM123
     - – Licença: BSD do 3 cláusulas
     - – Aviso de direitos autorais: Copyright (c) 1997-2003 Samuel Audet, Taneli Leppä, 2004-2017 Dmitry A. Steklenev, Marcel Müller
-    - – Site de descarregamento: http://www.5nets.ru/pm123.html (link em inglês) or http://maazl.de/project/pm123/index.html (link em inglês)
+    - – Site de descarregamento: http://www.5nets.ru/pm123.html (link em inglês) ou http://maazl.de/project/pm123/index.html (link em inglês)
 56. PMaud
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1996 Ryan C. Gordon 

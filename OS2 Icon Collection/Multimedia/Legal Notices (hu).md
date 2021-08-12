@@ -42,7 +42,7 @@
 13. Chordii
     - – Licenc: GPL 3.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2013 Mario Dorion, Martin Leclerc, Adam Monsen, Johan Vromans
-    - – Letöltési hely: https://johan.vromans.org/projects/Chordii/
+    - – Letöltési hely: https://johan.vromans.org/projects/Chordii/ (angol nyelvem)
 14. CUE/WAV Extract
     - – Licenc: Szabad felhasználás
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2005-2009 George Yohng
@@ -68,7 +68,7 @@
 21. Festival
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-2017 Edinburgh-i Egyetem
-    - – Letöltési hely: https://www.cstr.ed.ac.uk/projects/festival/ (brit) or http://festvox.org/festival/ (amerikai)
+    - – Letöltési hely: https://www.cstr.ed.ac.uk/projects/festival/ (brit - angol nyelvem) vagy http://festvox.org/festival/ (amerikai - angol nyelvem)
 22. FFmpeg
     - – Licenc: LGPL 2.1
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2021 Fabrice Bellard és FFmpeg közreműködők
@@ -178,7 +178,7 @@
 55. PM123
     - – Licenc: BSD 3-klauzula
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2003 Samuel Audet, Taneli Leppä, 2004-2017 Dmitry A. Steklenev, Marcel Müller
-    - – Letöltési hely: http://www.5nets.ru/pm123.html (angol nyelvem) or http://maazl.de/project/pm123/index.html (angol nyelvem)
+    - – Letöltési hely: http://www.5nets.ru/pm123.html (angol nyelvem) vagy http://maazl.de/project/pm123/index.html (angol nyelvem)
 56. PMaud
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996 Ryan C. Gordon 
