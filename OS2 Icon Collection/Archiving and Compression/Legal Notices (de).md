@@ -43,7 +43,7 @@
     - – Download-Site: http://lha.osdn.jp/ (link auf Japanisch)
 13. LSZipWizard
     - – Lizenz: Frei
-    - – Copyright-Hinweise: Copyright (c) 2017-2019 Lothar Söns
+    - – Copyright-Hinweise: Copyright (c) 2017-2021 Lothar Söns
 14. lxLite
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 1996-1997 Andrew Zabolotny, 2001-2015 Max Alekseyev, 2017 bitwise works GmbH

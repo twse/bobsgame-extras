@@ -26,7 +26,7 @@
    - – Copyright Notice : Copyright (c) 1992-1993 Chris Ahl
 9. dSync/2
    - – License : Free
-   - – Copyright Notice : Copyright (c) 2001-2002 Stepan Kazakov
+   - – Copyright Notice : Copyright (c) 2001-2003 Stepan Kazakov
 10. EQTREE
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Stephan Gerle

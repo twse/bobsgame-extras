@@ -76,16 +76,6 @@ Programvarenavn
 
 For fullstendige juridiske merknader, bidragsyter- og oversetterlister, se https://bobsgame.fandom.com/wiki/Extras (lenke på engelsk)
 
-### Polish
-Ten folder może zawierać następujące oprogramowanie:
-
-Nazwa oprogramowania
-* – Licencja:
-* – Informacja o prawach autorskich:
-* – Strona pobierania:
-
-W celu uzyskania pełnych informacji prawnych, list autorów i tłumaczy prosimy odwiedzić https://bobsgame.fandom.com/wiki/Extras (w angielski)
-
 ### Russian
 Эта папка может содержать следующее программное обеспечение:
 
