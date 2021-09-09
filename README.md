@@ -5,16 +5,18 @@ Contains extra stuff for bob's game excluding fonts.
 The form is not present in the [Bob Corporation website](http://www.bobcorporation.com/). Includes an option to search the Fandom wiki created in 2009. The option to search the forum is not included (all forums are private; it runs a version of XenForo from 2016). The logo is available in PNG or SVG.
 
 ## Art Department
-Want to be a show-off? Impress your friends? This is the place. Robert Pelloni offers a few wallpapers for you. In any case, please feel free to download these and use them on your desktop.
+Want to be a show-off? Impress your friends? This is the place. Robert Matthew Pelloni will be offering a wallpaper for you. In any case, please feel free to download these and use them on your desktop.
 
 ### Icons
-Icons in OS/2 format based on the lowercase letters of [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits.
+Icons in OS/2 format based on the lowercase letters included in the [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits.
 
 ### Nintendo 3DS Skin
 Use theme managers (Anemone, CHMM, Themely, ThemePack, etc. etc. etc.) to replace the skin. The skin was created with 3DS Theme Editor.
 
 ### Windows User Account Picture
-Use this to replace the user account picture (this can be done in Windows XP via **Control Panel: User Accounts: Change your picture** (category view) or **Control Panel: User Accounts: Your username: Change my picture** (classic view) or in Windows Vista and 7 via **Control Panel: User Accounts and Family Safety: User Accounts: Change your picture** (category view) or **User Accounts: Change your picture** (normal view) or in Windows 8 via **Start: Your username: Change account picture** or **PC settings: Personalize: Account picture: Browse** or in Windows 10 via **Settings: Accounts: Your account: Your picture: Browse**). The default pictures are located in Windows XP at `Documents and Settings\All Users\Application Data\Microsoft\User Account Pictures\Default Pictures` (Images should be 48×48) or in Windows Vista and 7 at `ProgramData\Microsoft\User Account Pictures\Default Pictures` (Images should be 128×128).
+Use this to replace the user account picture (this can be done in Windows XP via **Control Panel: User Accounts: Change your picture** (category view) or **Control Panel: User Accounts: Your username: Change my picture** (classic view) or in Windows Vista and 7 via **Control Panel: User Accounts and Family Safety: User Accounts: Change your picture** (category view) or **User Accounts: Change your picture** (normal view) or in Windows 8 via **Start: Your username: Change account picture** or **PC settings: Personalize: Account picture: Browse** or in Windows 10 and 11 via **Settings: Accounts: Your account: Your picture: Browse**).
+
+**Note:** The default pictures are located in Windows XP at `Documents and Settings\All Users\Application Data\Microsoft\User Account Pictures\Default Pictures` (Images should be 48×48) or in Windows Vista and 7 at `ProgramData\Microsoft\User Account Pictures\Default Pictures` (Images should be 128×128).
 
 ### Windows Desktop Theme
 Use this to replace the desktop theme in Windows. Includes Windows Aero effects if Windows Vista or 7 is running.
@@ -23,7 +25,7 @@ Use this to replace the desktop theme in Windows. Includes Windows Aero effects 
 Use this to replace the first bitmap resource in `msgina.dll`. **Nimbus Sans Mono** is used to display the modified image. (This font is copyrighted by URW++.)
 
 ## Sound Scheme
-Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Desktop Themes: Settings: Sound events** or **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur. Under Windows, the sounds have to be copied to `%SystemRoot%\media`.
+Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Desktop Themes: Settings: Sound events** or **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10 and 11). The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur. Under Windows, the sounds have to be copied to `%SystemRoot%\media` or `%windir%\media`.
 
 Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Windows 8 & above, the `ExcludeFromCPL` value was added to `WindowsLogoff` and `WindowsLogon` sound events; remove this value to show these events).
 
@@ -105,14 +107,14 @@ For use with the Windows XP version of [BootSkin](https://www.stardock.com/produ
 ## Palm OS Emulator Skin
 Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with [PMView](https://www.pmview.com/).
 
-This skin can be used with the emulators listed below. Robert Pelloni is not the original author of these emulators. The original copyright notice and the license and contributor list is set forth below. Robert Pelloni licenses these emulators to you under the terms set forth in the BobCorporation license agreement (available in BSD-style). Robert Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
+This skin can be used with the emulators listed below. Robert Matthew Pelloni is not the original author of these emulators. The original copyright notice and the license and contributor list is set forth below. Robert Pelloni licenses these emulators to you under the terms set forth in the BSD-style BobCorporation license agreement. Robert Matthew Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
 
 ### Palm Hardware Emulator
 Copyright © 2013-2014 Perpendox Software LLC
 
 This software is paid from the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem). The company released the source code using the same license in Palm OS Emulator (see below) but the Perpendox Software website was taken down.
 
-### Palm OS Emulator
+### Palm OS Emulator aka Copilot
 Copyright © 1998-2002 Palm, Inc.
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
