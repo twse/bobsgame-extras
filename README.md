@@ -56,7 +56,7 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 | Fax error                     | None                      | BG Error.wav                |
 | Fax line rings                | None                      | TBD                         |
 | Fax sent                      | None                      | TBD                         |
-| Feed Discovered               | None                      | TBD                         |
+| Feed Discovered               | None                      | BG Notify.wav               |
 | Information                   | Information               | BG Information Bar.wav      |
 | Instant Message Notification  | None                      | BG Notify.wav               |
 | Low Battery Alarm             | None                      | BG Battery Low.wav          |
@@ -80,7 +80,7 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 | Question                      | Information               | BG Notify.wav               |
 | Restore Down                  | None                      | BG Minimize.wav             |
 | Restore Up                    | None                      | BG Maximize.wav             |
-| Search Provider Discovered    | None                      | TBD                         |
+| Search Provider Discovered    | None                      | BG Notify.wav               |
 | Select                        | None                      | BG Select.wav               |
 | Show Toolbar Band             | None                      | TBD                         |
 | Start Navigation              | None                      | TBD                         |
