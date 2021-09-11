@@ -78,7 +78,7 @@
     - – Licencia: Licencia MIT
     - – Aviso de derechos de autor: Copyright (c) 2012-2013 Nikita Grishko
 25. Embellish
-    - – Licencia: Comercial
+    - – Licencia: Gratis
 26. exiftags
     - – Licencia: BSD de 4 cláusulas
     - – Aviso de derechos de autor: Copyright (c) 2002-2007 Eric M. Johnston

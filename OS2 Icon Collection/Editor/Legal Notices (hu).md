@@ -111,7 +111,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996 Andrey V. Astrelin, Oleg Machulski
 34. Nirvana Edit
     - – Licenc: GPL 2.0
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2017 Nirvana Edit közreműködők
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2017 Nirvana Edit fejlesztők
 35. Ntuitive Editor
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Simon Schlauri

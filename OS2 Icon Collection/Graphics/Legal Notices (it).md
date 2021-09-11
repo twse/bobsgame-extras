@@ -78,7 +78,7 @@
     - – Licenze: Licenze MIT
     - – Avviso di copyright: Copyright (c) 2012-2013 Nikita Grishko
 25. Embellish
-    - – Licenze: Commerciali
+    - – Licenze: Libre
 26. exiftags
     - – Licenze: BSD di 4 clausula
     - – Avviso di copyright: Copyright (c) 2002-2007 Eric M. Johnston
