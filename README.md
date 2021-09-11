@@ -93,7 +93,7 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
 
-For users running Windows Vista & above, the registry keys are located in HKLM on `OEMInformation` by adding the following keys:
+Under Windows Vista & above, the registry keys are located in `HKLM\Software\Microsoft\Windows NT\CurrentVersion\OEMInformation` by adding the following keys:
 * **Logo**: `OEMlogo.bmp`
 * **Manufacturer**: Robert Matthew Pelloni
 * **SupportURL**: Second line in the `Support Information` heading in `OEMinfo.ini`
