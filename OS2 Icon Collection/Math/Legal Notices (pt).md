@@ -20,7 +20,7 @@
    - – Licença: Grátis
    - – Aviso de direitos autorais: Copyright (c) 1994-1996 René Grothmann
 7. DECalc
-   - – Licens: BSD 3-Clause
+   - – Licença: BSD do 3 cláusulas
    - – Aviso de direitos autorais: Copyright (c) 2001-2004 Don K. Eitner
 8. EditCalc
    - – Licença: Grátis
@@ -35,7 +35,7 @@
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1997 Sean Ryan
 12. GammaSun
-    - – Licença: Dominio público
+    - – Licença: Domínio público
     - – Aviso de direitos autorais: Copyright (c) 1995 Reinhard Alt
 13. gnuplot
     - – Licença: Grátis
@@ -62,7 +62,7 @@
     - – Aviso de direitos autorais: Copyright (c) 2001-2002 Michal Žemlička
     - – Site de descarregamento: http://www.ms.mff.cuni.cz/~zemlicka/KindCons/index.html.en (link em inglês)
 20. Knotter
-    - – Licens: GPL 3.0
+    - – Licença: GPL 3.0
     - – Aviso de direitos autorais: Copyright (c) 2012-2014 Mattia Basaglia
     - – Site de descarregamento: https://knotter.mattbas.org/ (link em inglês)
 21. LinePlot
@@ -85,29 +85,29 @@
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1996-1998 Christian Bressler
 27. Perl-Compatible Regular Expressions
-    - – Licens: BSD 3-sats
+    - – Licença: BSD do 3 cláusulas
     - – Aviso de direitos autorais: Copyright (c) 1997-2021 Universidade do Cambridge
     - – Site de descarregamento: http://www.pcre.org/ (link em inglês)
 28. PlotMTV
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1997 Kenny K.H. Toh
 29. PMCalc
-    - – Licens: IBM EWS
+    - – Licença: IBM EWS
     - – Aviso de direitos autorais: Copyright (c) 1989-1995 Tim Baldwin
 30. PMLnCalc
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1995 Andrea Di Paola
 31. PmMath
-    - – Licens: Shareware
+    - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1991-1992 Sector Consulting
 32. PMTravel
-    - – Licens: Emailware
+    - – Licença: Emailware
     - – Aviso de direitos autorais: Copyright (c) 1997 Gyan Scott Penrose-Kafka
 33. PolyCalc
-    - – Licens: Shareware
+    - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1995 Graduate Software
 34. POV-Ray
-    - – Licens: AGPL 3.0
+    - – Licença: AGPL 3.0
     - – Aviso de direitos autorais: Copyright (c) 1991-2019 Persistence of Visual Raytracer Pty Ltd.
     - – Site de descarregamento: http://www.povray.org/ (link em inglês)
 35. Prime Number Generator
@@ -133,7 +133,7 @@
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1996 Michael Mieves
 42. RXXMATH
-    - – Licença: Grátis sem suporte
+    - – Licença: Grátis, não suportado
     - – Aviso de direitos autorais: Copyright (c) 1997 John Brock
 43. Sfit, Splot
     - – Licença: Shareware
@@ -151,7 +151,7 @@
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1992 Gene Backlin
 48. WarpCalc
-    - – Licença: Grátis sem suporte
+    - – Licença: Grátis, não suportado
     - – Aviso de direitos autorais: Copyright (c) 1997-2012 Carl-Magnus Olsson
 49. WWUnits
     - – Licença: Shareware

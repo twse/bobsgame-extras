@@ -75,7 +75,7 @@
     - – Licenc: IBM EWS
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2000 Michael Kaczmarski, Richard J. Moore
 24. NewFileManager
-    - – Licenc: BSD 3-clause
+    - – Licenc: BSD 3-klauzula
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1999 Alessandro Rossi
 25. OnScreen/2
     - – Licenc: GPL 2.0

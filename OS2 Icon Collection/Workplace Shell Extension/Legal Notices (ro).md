@@ -57,10 +57,10 @@ Acest folder poate conține următorul software:
     - – Licență: GPL 2.0
     - – Aviz de copyright: Copyright (c) 1998-2004 Herwig Bauernfeind
 19. Run
-    - – Licență: GPL 2.0 o gratis
+    - – Licență: GPL 2.0 sau gratis
     - – Aviz de copyright: Copyright (c) 2000 John Pedone, 2003-2009 Richard L. Walsh
 20. SendYes!
-    - – Licență: Gratis o shareware
+    - – Licență: Gratis sau shareware
     - – Aviz de copyright: Copyright (c) 1995 Wes Santee, 1996 Christian Langanke
 21. StartDOS
     - – Licență: IBM EWS

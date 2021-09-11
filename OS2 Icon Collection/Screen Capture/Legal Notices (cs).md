@@ -25,7 +25,7 @@
    - – Licence: GPL 2.0
    - – Upozornění na autorská práva: Copyright (c) 2010-2012 Peter Jespersen
 8. RxImgSize
-   - – Licence: BSD 3-klauzula
+   - – Licence: BSD 3-klauzule
    - – Upozornění na autorská práva: Copyright (c) 2013-2014 Jan-Erik Lärka
 9. ScreenGrab
    - – Licence: GPL 2.0

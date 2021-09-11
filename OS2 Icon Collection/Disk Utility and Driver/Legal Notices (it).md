@@ -105,12 +105,12 @@
 34. PM Disk Usage
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1997 Antonino Iannella
-35. PM File & Disk Utility
-    - – Licenze: Libre
-    - – Avviso di copyright: Copyright (c) 1991 ASH Software, Inc.
-36. PM Diskcopy
+35. PM Diskcopy
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1998 Bernd Wetzel
+36. PM File & Disk Utility
+    - – Licenze: Libre
+    - – Avviso di copyright: Copyright (c) 1991 ASH Software, Inc.
 37. PMFloppy
     - – Licenze: Pubblico dominio
     - – Avviso di copyright: Copyright (c) 1990 Greg Bryant, 1995 Brady Flowers

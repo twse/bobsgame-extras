@@ -1,7 +1,7 @@
 ﻿Tato složka může obsahovat následující software:
 
 1. 4allCalc
-   - – Licence: Svobodné (OS/2) o shareware (Windows)
+   - – Licence: Svobodné (OS/2) lub shareware (Windows)
    - – Upozornění na autorská práva: Copyright (c) 1995-2009 Martin Vieregg
    - – Server pro stahování: http://www.hypermake.com/ (odkaz v angličtina nebo němečtina)
 2. Bicycle Ride Calorie Calculator
@@ -20,7 +20,7 @@
    - – Licence: Svobodné
    - – Upozornění na autorská práva: Copyright (c) 1994-1996 René Grothmann
 7. DECalc
-   - – Licence: BSD 3-Clause
+   - – Licence: BSD 3-klauzule
    - – Upozornění na autorská práva: Copyright (c) 2001-2004 Don K. Eitner
 8. EditCalc
    - – Licence: Svobodné

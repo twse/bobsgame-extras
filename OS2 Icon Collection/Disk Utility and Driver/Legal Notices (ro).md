@@ -105,17 +105,17 @@ Acest folder poate conține următorul software:
 34. PM Disk Usage
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1997 Antonino Iannella
-35. PM File & Disk Utility
-    - – Licență: Gratis
-    - – Aviz de copyright: Copyright (c) 1991 ASH Software, Inc.
-36. PM Diskcopy
+35. PM Diskcopy
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1998 Bernd Wetzel
+36. PM File & Disk Utility
+    - – Licență: Gratis
+    - – Aviz de copyright: Copyright (c) 1991 ASH Software, Inc.
 37. PMFloppy
     - – Licență: Domeniul public
     - – Aviz de copyright: Copyright (c) 1990 Greg Bryant, 1995 Brady Flowers
 38. PMFORMAT
-    - – Licență: BSD 3-clause
+    - – Licență: BSD de 3-clausula
     - – Aviz de copyright: Copyright (c) 1995-2015 Noller & Breining Software
 39. PXTOOL, SCSIMON
     - – Licență: Gratis
@@ -129,7 +129,7 @@ Acest folder poate conține următorul software:
     - – Licență: Comerciali
     - – Aviz de copyright: Copyright (c) 2002 RSJ
 43. RxLVM
-    - – Licență: BSD 3-clause
+    - – Licență: BSD de 3-clausula
     - – Aviz de copyright: Copyright (c) 2006-2007 Alexander Taylor
     - – Site-ul de download: http://www.altsan.org/ (legătură în limba engleza)
 44. SLICE2, SPLICE2

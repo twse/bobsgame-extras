@@ -105,17 +105,17 @@
 34. PM Disk Usage
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Antonino Iannella
-35. PM File & Disk Utility
-    - – Licenc: Szabad
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1991 ASH Software, Inc.
-36. PM Diskcopy
+35. PM Diskcopy
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 Bernd Wetzel
+36. PM File & Disk Utility
+    - – Licenc: Szabad
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1991 ASH Software, Inc.
 37. PMFloppy
     - – Licenc: Közkincs
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1990 Greg Bryant, 1995 Brady Flowers
 38. PMFORMAT
-    - – Licenc: BSD 3-Clause
+    - – Licenc: BSD 3-klauzula
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2015 Noller & Breining Software
 39. PXTOOL, SCSIMON
     - – Licenc: Szabad
@@ -129,7 +129,7 @@
     - – Licenc: Jogvédett
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2002 RSJ
 43. RxLVM
-    - – Licenc: BSD 3-Clause
+    - – Licenc: BSD 3-klauzula
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2006-2007 Alexander Taylor
     - – Letöltési hely: http://www.altsan.org/ (angol nyelvem)
 44. SLICE2, SPLICE2

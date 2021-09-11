@@ -1,4 +1,4 @@
-﻿Esta carpeta puede contener el siguiente software:
+﻿Esta pasta pode conter o seguinte software:
 
 1. BIN2SRC
    - – Licença: IBM EWS
