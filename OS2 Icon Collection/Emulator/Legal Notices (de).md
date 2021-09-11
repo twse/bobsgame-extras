@@ -1,8 +1,8 @@
 ﻿Diese Ordner kann die folgende Software enthalten:
 
-1. CoPilot/2
+1. Copilot
    - – Lizenz: Frei
-   - – Copyright-Hinweise: Copyright (c) 1997 Siegfried Hanisch
+   - – Copyright-Hinweise: Copyright (c) 1998-2002 Palm, Inc.
 2. DOSBox
    - – Lizenz: GPL 2.0
    - – Copyright-Hinweise: Copyright (c) 2002-2019 Der DOSBox-Team

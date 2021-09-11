@@ -1,8 +1,8 @@
 ﻿Deze map kan de volgende software bevatten:
 
-1. CoPilot/2
+1. Copilot
    - – Licentie: Free
-   - – Copyright notice: Copyright (c) 1997 Siegfried Hanisch
+   - – Copyright notice: Copyright (c) 1998-2002 Palm, Inc.
 2. DOSBox
    - – Licentie: GPL 2.0
    - – Copyright notice: Copyright (c) 2002-2019 Het DOSBox Team

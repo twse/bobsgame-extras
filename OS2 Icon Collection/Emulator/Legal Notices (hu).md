@@ -1,8 +1,8 @@
 ﻿Ez a mappa a következő szoftvereket tartalmazhatja:
 
-1. CoPilot/2
+1. Copilot
    - – Licenc: Szabad
-   - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Siegfried Hanisch
+   - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2002 Palm, Inc.
 2. DOSBox
    - – Licenc: GPL 2.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2002-2019 DOSBox csapat

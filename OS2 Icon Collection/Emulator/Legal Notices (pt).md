@@ -1,8 +1,8 @@
 ﻿Esta pasta pode conter o seguinte software:
 
-1. CoPilot/2
+1. Copilot
    - – Licença: Grátis
-   - – Aviso de direitos autorais: Copyright (c) 1997 Siegfried Hanisch
+   - – Aviso de direitos autorais: Copyright (c) 1998-2002 Palm, Inc.
 2. DOSBox
    - – Licença: GPL 2.0
    - – Aviso de direitos autorais: Copyright (c) 2002-2019 O Equipo DOSBox

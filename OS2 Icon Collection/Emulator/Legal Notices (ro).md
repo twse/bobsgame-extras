@@ -1,8 +1,8 @@
 Acest folder poate conține următorul software:
 
-1. CoPilot/2
+1. Copilot
    - – Licență: Gratis
-   - – Aviz de copyright: Copyright (c) 1997 Siegfried Hanisch
+   - – Aviz de copyright: Copyright (c) 1998-2002 Palm, Inc.
 2. DOSBox
    - – Licență: GPL 2.0
    - – Aviz de copyright: Copyright (c) 2002-2019 Echipa DOSBox

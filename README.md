@@ -187,6 +187,7 @@ You should have received a copy of the GNU General Public License along with thi
 * Adam Hampson
 * Ken Hancock
 * Steve Haneman
+* Siegfried Hanisch – OS/2 port
 * Guilherme C. Hazan
 * Greg Hewgill – Original author
 * Stephen P. Hill
