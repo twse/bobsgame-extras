@@ -60,7 +60,7 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Licencja: GPL 2.0 lub wolny
     - – Informacja o prawach autorskich: Copyright (c) 2000 John Pedone, 2003-2009 Richard L. Walsh
 21. SendYes!
-    - – Licencja: Wolny or shareware
+    - – Licencja: Wolny lub shareware
     - – Informacja o prawach autorskich: Copyright (c) 1995 Wes Santee, 1996 Christian Langanke
 22. StartDOS
     - – Licencja: IBM EWS
