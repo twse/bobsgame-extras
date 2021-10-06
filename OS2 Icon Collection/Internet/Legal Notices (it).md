@@ -305,10 +305,10 @@
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 2002-2006 Eugene Romanenko
 98. PM Weather
-    - – Licenze: Libre or Shareware
+    - – Licenze: Libre o Shareware
     - – Avviso di copyright: Copyright (c) 1994 Mike Kopack, Ed Boykin, Stephen Loomis, David DuPré
 99. PMINews
-    - – Licenze: Commercial
+    - – Licenze: Comerciale
     - – Avviso di copyright: Copyright (c) 1998 SouthSoft Inc., Stardock Systems Inc.
 100. PMSPX
      - – Licenze: Libre

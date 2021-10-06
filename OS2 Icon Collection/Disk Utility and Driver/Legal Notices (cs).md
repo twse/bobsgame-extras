@@ -126,7 +126,7 @@
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1992 John K. Gotwals
 42. RSJ CD Writer
-    - – Licence: Commercial
+    - – Licence: Komerční
     - – Upozornění na autorská práva: Copyright (c) 2002 RSJ
 43. RxLVM
     - – Licence: BSD 3-klauzule
