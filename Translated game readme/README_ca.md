@@ -51,7 +51,7 @@ http://www.bobcorporation.com (Web principal) (enllaç en anglès)
 
 [L’article de Wikipedia pendent (enllaç en anglès)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ajuda a revisar l’entrada actual com no tinc permís.
 
-**bob's game** (del famós proper RPG *"bob's game"*) és un joc de trencaclosques multijugador, però no només qualsevol joc de trencaclosques, **TOTS els jocs de trencaclosques.**  És un joc de trencaclosques propi amb un creador de jocs de trencaclosques on definiu totes les regles del vostre propi joc personalitzat.
+**bob's game** (del famós proper RPG *"bob's game"*) és un joc de trencaclosques multijugador, però no només qualsevol joc de trencaclosques, **TOTS els jocs de trencaclosques.**  És un joc de trencaclosques propi amb un creador de jocs de trencaclosques que on definiu totes les regles del vostre propi joc personalitzat.
 
 A més, s'ha cuidat molt perquè **"bob's game"** sigui la *millor* versió de cada joc de trencaclosques.  Vaig anar a través de tots els fòrums de jocs de trencaclosques i wiki que vaig poder trobar i em vaig assegurar d'implementar tots els detalls i les característiques requerides pels jugadors de nivell de torneig.  Té puntades de paret, puntades de terra, puntades de gir, tirades en T, temporització ajustable, posades en marxa, el nom.  Totes aquestes funcions s'apliquen a tots els jocs que vulgueu, per la qual cosa és la millor versió de tots els jocs.
 
