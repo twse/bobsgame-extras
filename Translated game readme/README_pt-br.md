@@ -29,7 +29,7 @@ https://github.com/bobsgame/BobNetLibs
 
 ## UM SISTEMA DE CRIAÇÃO DE QUEBRA-CABEÇAS PERSONALIZADO
 
-## UMA PLATAFORMA DR TORNEIO MUNDIAL E RANKING GLOBAL E TABELAS DE CLASSIFICAÇÃO PARA TODOS OS JOGOS DE QUEBRA-CABEÇA
+## UMA PLATAFORMA DE TORNEIO MUNDIAL E RANKING GLOBAL E TABELAS DE CLASSIFICAÇÃO PARA TODOS OS JOGOS DE QUEBRA-CABEÇA
 
 ## MULTIJOGADOR LOCAL COM JOGADORES ILIMITADOS
 
@@ -83,7 +83,7 @@ Ele também terá o código-fonte disponível no GitHub para que ele possa se tr
 
 # Licença
 Robert Matthew Pelloni é o autor deste software para fins de direitos autorais. Todos os direitos reservados.<br />
-Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® é una marca registrada do Robert Pelloni.
+Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® é uma marca registrada do Robert Pelloni.
 
 A redistribuição e uso na forma de código-fonte e formato binário, com ou sem modificação, são permitidos desde que as seguintes condições sejam atendidas:
 
@@ -93,7 +93,7 @@ A redistribuição e uso na forma de código-fonte e formato binário, com ou se
 
 3. Você não pode distribuir o código-fonte ou binário do bob's game ou produzir qualquer trabalho derivado de seu código-fonte sob outro nome. As redistribuições do código-fonte ou formato binário devem ser chamados "bob's game".
 
-4. Você não pode distribuir ou usar o código-fonte ou binário para obter lucro ou receita, incluindo receita de publicidade, torneios, etc. Todas as redistribuições e usos devem ser fornecidos gratuitamente. Os vídeos “Let’s Play” (vamos jogar) ou outros vídeos de streaming estão isentos e podem incluir receita de publicidade.
+4. Você não pode distribuir ou usar o código-fonte ou binário para obter lucro ou receita, incluindo receita de publicidade, torneios, etc. Todas as redistribuições e usos devem ser fornecidos gratuitamente. Os vídeos “Let’s Play” (vamos a jogar) ou outros vídeos de streaming estão isentos e podem incluir receita de publicidade.
 
 5. Você não pode criar e manter um fork ou redistribuição exclusiva do código-fonte do bob's game, com exceção de um fork do GitHub com a finalidade en enviar solicitações pull, para não sera distribuído independemente. A intenção do lançamento do código-fonte do bob's game é para que sua comunidade possa enviar correções de erros e adições ao projeto principal.
 
