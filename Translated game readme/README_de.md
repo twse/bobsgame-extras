@@ -53,7 +53,7 @@ http://www.bobcorporation.com (Hauptwebsite) (link auf Englisch)
  
 [Ausstehende Wikipedia-Artikel (link auf Englisch)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), helfen, den aktuellen Eintrag zu überarbeiten, da ich es nicht darf.
 
-**bob's game** (aus dem berüchtigten kommenden RPG *"bob's game"*) ist ein Multiplayer-Puzzlespiel - aber nicht irgendein Puzzlespiel, **JEDES Puzzlespiel!** Es ist ein Puzzle-Spiel mit einem Puzzle-Ersteller, bei dem DU alle Regeln für dein eigenes Spiel definierst!
+**bob's game** (aus dem berüchtigten kommenden Rollenspiel *"bob's game"*) ist ein Multiplayer-Puzzlespiel - aber nicht irgendein Puzzlespiel, **JEDES Puzzlespiel!** Es ist ein Puzzle-Spiel mit einem Puzzle-Ersteller, bei dem DU alle Regeln für dein eigenes Spiel definierst!
 
 Darüber hinaus wurde große Sorgfalt darauf verwendet, dass **bob's game** die *beste* Version jedes Puzzlespiels ist. Ich ging jedes Puzzle-Forum und jedes Wiki durch, das ich finden konnte, und stellte sicher, dass jedes Detail und jede Funktion implementiert wurde, die von Hardcore-Spielern auf Turnierebene benötigt werden. Es hat Wandtritte, Bodentritte, Spintritte, T-Spins, einstellbares Timing, Powerups, wie Sie es nennen. Alle diese Funktionen gelten für alle Spiele, so wie Sie es möchten, und sind somit die beste Version jedes Spiels!
 
@@ -95,7 +95,7 @@ Umverteilungen und Verwendung in Quellform und in binärer Form mit oder ohne Mo
 
 3. Sie dürfen den bob’s game-Quellcode oder die Binärdatei nicht verteilen oder aus seinem Quellcode abgeleitete Werke unter einem anderen Namen erstellen. Umverteilungen von Quellcode oder binärer Form müssen bob’s game genannt werden.
 
-4. Sie dürfen den Quellcode oder das binäre Programm nicht für Gewinne oder Einnahmen, einschließlich Einnahmen aus Werbung, Turnieren usw., verteilen oder verwenden. Alle Umverteilungen und Verwendungen müssen völlig kostenlos bereitgestellt werden. „Lassen wir Spielen“-Videos oder andere Streaming-Videos sind ausgenommen und können Werbeeinnahmen enthalten.
+4. Sie dürfen den Quellcode oder das binäre Programm nicht für Gewinne oder Einnahmen, einschließlich Einnahmen aus Werbung, Turnieren usw., verteilen oder verwenden. Alle Umverteilungen und Verwendungen müssen völlig kostenlos bereitgestellt werden. „Let’s Play“ (Spielen wir)-Videos oder andere Streaming-Videos sind ausgenommen und können Werbeeinnahmen enthalten.
 
 5. Sie dürfen keine Verzweigung oder eindeutige Umverteilung des bob’s game-Quellcodes erstellen und verwalten, mit Ausnahme eines GitHub-Zweigs, um Pull-Anforderungen zu senden, die nicht unabhängig voneinander verteilt werden. Das bob’s game-Quellcode-Release hat zum Ziel, dass die Community Bugfixes und Ergänzungen zum Hauptprojekt einreichen kann.
 
