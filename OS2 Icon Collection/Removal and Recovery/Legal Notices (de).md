@@ -35,19 +35,19 @@
     - – Copyright-Hinweise: Copyright (c) 1999 Veit Kannegieser
     - – Download-Site: http://www.kannegieser.net/veit/
 12. VSZAP
-    - – Lizenz: Libre
+    - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1991 VS2
 13. VUnDel
-    - – Lizenz: Libre
+    - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1993 Multitask Consulting
 14. Waste/2
-    - – Lizenz: Libre
+    - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1993-1994 Paul S. Gazo
 15. XDEL
-    - – Lizenz: Libre
+    - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995-2004 Klaus Joosz
 16. ZIPDEL
-    - – Lizenz: Libre
+    - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995-1997 Wonkoo Kim
 
 Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)

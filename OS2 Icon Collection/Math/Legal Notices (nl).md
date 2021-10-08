@@ -133,7 +133,7 @@
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1996 Michael Mieves
 42. RXXMATH
-    - – Licentie: Free zonder support
+    - – Licentie: Free zonder ondersteuning
     - – Copyright notice: Copyright (c) 1997 John Brock
 43. Sfit, Splot
     - – Licentie: Shareware
@@ -151,7 +151,7 @@
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1992 Gene Backlin
 48. WarpCalc
-    - – Licentie: Free zonder support
+    - – Licentie: Free zonder ondersteuning
     - – Copyright notice: Copyright (c) 1997-2012 Carl-Magnus Olsson
 49. WWUnits
     - – Licentie: Shareware
