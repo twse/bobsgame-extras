@@ -3,7 +3,7 @@ Ten folder może zawierać następujące oprogramowanie:
 1. 4allCalc
    - – Licencja: Wolny (OS/2) lub shareware (Windows)
    - – Informacja o prawach autorskich: Copyright (c) 1995-2009 Martin Vieregg
-   - – Strona pobierania: http://www.hypermake.com/ (w angielski)
+   - – Strona pobierania: http://www.hypermake.com/
 2. Bicycle Ride Calorie Calculator
    - – Licencja: Wolny
    - – Informacja o prawach autorskich: Copyright (c) 1995 Greg Kondrasuk
@@ -35,7 +35,7 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1997 Sean Ryan
 12. GammaSun
-    - – Licencja: Domena publiczna
+    - – Licencja: Domena publiczny
     - – Informacja o prawach autorskich: Copyright (c) 1995 Reinhard Alt
 13. gnuplot
     - – Licencja: Wolny

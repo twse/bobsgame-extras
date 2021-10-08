@@ -134,7 +134,7 @@
     - – Aviso de derechos de autor: Copyright (c) 2001-2020 Bram Moolenaar
     - – Sitio de descarga: https://www.vim.org/ (enlace en inglés)
 41. ZED
-    - – Licencia: BSD 3-Clause
+    - – Licencia: BSD de 3 cláusulas
     - – Aviso de derechos de autor: Copyright (c) 1995-2013 E. Bruce Shankle III
 42. ZEDIT
     - – Licencia: Gratis
