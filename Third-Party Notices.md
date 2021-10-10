@@ -3,12 +3,10 @@
 ## For use of DOOM
 © 2016 id Software, LLC, a ZeniMax Media company. Bethesda, Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. DOOM, id, id Software, id Tech and related logos are registered trademarks or trademarks of id Software LLC in the U.S. and/or other countries.
 
-See the credits in the game for lead developers and many other developers.
-
 ## For use of Excel
-Copyright © 1987-2020 Microsoft Corporation. All rights reserved.
+Copyright © 1987-2021 Microsoft Corporation. All rights reserved.
 
-See the about dialog in the program itself for legal notices of proofing tools based on region and language.
+See the about dialog in the program itself for international proofing tools legal notices.
 
 ### Excel Development Credits
 * David Ahlers
@@ -344,8 +342,6 @@ Copyright © 1990-2004 Sundial Systems Corporation. All rights reserved.
 ## For use of SimCity
 Copyright © 1994-2013 Electronic Arts Inc.
 
-See the credits in the game for lead developers and many other developers.
-
 ## For use of Tensor
 Copyright © 1997 QVision, Inc.
 
@@ -360,9 +356,9 @@ Copyright © 1997 QVision, Inc.
 9. The above warranty does not apply if you make any unauthorized attempt to modify or duplicate the product, or if the product has been damaged by accident or abuse.
 
 ## For use of Word
-Copyright © 1983-2020 Microsoft Corporation. All rights reserved.
+Copyright © 1983-2021 Microsoft Corporation. All rights reserved.
 
-See the about dialog in the program itself for legal notices of proofing tools based on region and language.
+See the about dialog in the program itself for international proofing tools legal notices.
 
 ### Word Development Credits
 * Charles Simonyi – Original author
@@ -370,11 +366,14 @@ See the about dialog in the program itself for legal notices of proofing tools b
 * Aasheema Advani
 * Ravindra Agrawal
 * Imran Akhtar
+* Nona Allison
+* Carmen Almodovar
 * Ebbe Altberg
 * Leanne Altberg
 * Vince Alvarez
 * Sean Anderson
 * Keoki Andrus
+* Margaret Angevine
 * Darren Apfel
 * David Atcheson
 * Brian Bakke
@@ -388,24 +387,33 @@ See the about dialog in the program itself for legal notices of proofing tools b
 * Monika Becker-Tracy
 * David Beder
 * Jennifer Beers
-* Bob Bell
+* Robert Bell
+* John Bennett
 * David Benson
 * Shelley Benson
 * Ethan Bernstein
+* Julie Bick
 * Maria Blazevich
-* Rich Bloch
+* Richard Bloch
+* Laurie Boehme
+* Alma Lorraine Bone
 * Holly Boone
 * Randall Boseman
 * Paul Bowman
 * Jay Boyer
 * Lenox Brassell
 * Don Brenner
+* Steve Bridgeland
 * Christine Bromfeld
 * Jac Brondurn
 * Eric Brown
 * Kevin Brown
 * Leslie Brown
+* Tracy Brown
+* David Buchthal
 * Tian Bui
+* Corinna Bullard
+* Mike Bunney
 * Hal Burch
 * Franck Bure
 * Ellen Burns
@@ -414,43 +422,58 @@ See the about dialog in the program itself for legal notices of proofing tools b
 * Evan Cacka
 * Duane Campbell
 * Pierette Caron
+* Clyde Carpenter
 * Raquel Cataneo
 * Erich Champion
 * Chi-Chuen Chan
+* Judy Chase
 * Willis Wei-tzu Chen
+* Chris Chisholm
+* Jim Chismar
 * Gordon Church
 * Kevin Clark
 * Quentin Clark
 * Vania Clemons
 * Mary Jane Close
 * Michael Cockrill
+* Elizabeth Collet
+* Taylor Collyer
 * Greg Cox
+* Linn Crompton
 * Bruce Cronquist
 * Connie Crow
 * Jeff Crowley
 * Jeffrey Cruzan
 * Carol Daviduke
+* Joanne Davis
 * Luan Dawson
 * Tawfig Dayyah
 * Gary Degard
 * Richard Deken
 * Robert Den Ouden
 * John Devere
-* M. Nancy Domini
+* Eric Doerr
+* Marie-Nancy Domini
 * Julia Donk
 * Robert Donner
-* Pam Douthit
+* Pamela Douthit
+* Kristin Dukay
 * Stephen Dunagan
 * Tonia Dunn
 * Bill Duren
 * Melissa Duren
 * Alex Dziejma
 * Cindy Eder-Porter
+* Kate Edson
 * Benedicte Egbert
 * Cherrie Ekholm
+* Marie-Dominique Ellis
+* Annette Elsbree
+* Nicole Elster
 * Harry Emil
 * Kevin Endres
 * Peter Engrav
+* Mikel Espaland
 * Ron Fein
 * Teresa Fernandez
 * Jorge Ferreira
@@ -463,21 +486,29 @@ See the about dialog in the program itself for legal notices of proofing tools b
 * Andrew Fry
 * George Gabor
 * Philip Garding
+* Lou Gerard
+* Charlie Gifford
 * Dale Gipson
+* Crispin Goswell
 * Camille Goudeseune
 * Russ Graham
 * Jodi Green
+* Richard Greene
 * Joan Gregory
 * Nick Grief
 * John Griffin
+* Cathy Habib
 * Dean Hachamovitch
 * Tammi Hampel
 * Lucia Hansen
+* Renee Harbert
 * Ron Harbert
 * Ralf Harteneck
+* Steve Hastings
 * Sylvia Hayashi
 * Anne Hayes
 * Henri Heen
+* RUdell Hegnes
 * James Helfrich
 * Bartley Hendrix
 * Peter Henriksen
@@ -487,11 +518,16 @@ See the about dialog in the program itself for legal notices of proofing tools b
 * Kazuko Higashiyama
 * Nobuya Higashiyama
 * Jason Hills
+* Steve Hirsch
 * Jonathan Hoffman
 * Ken Hoffman
+* Kathy Holling
 * Steve Holt
+* Nadja Honeywell
+* Neil Hoopman
 * Dean Hoshizaki
 * Timo Huhtinen
+* Marie-Pierre Hurel
 * Dustan Jackson
 * Bill Jacob
 * John Jacob
@@ -499,12 +535,17 @@ See the about dialog in the program itself for legal notices of proofing tools b
 * Jharna Jain
 * Mark Jaremko
 * Jeri Jarvie
+* Debbie Johnson
+* Donna Johnston
 * C.J. Jones
 * David Jones
+* Raquel Joseph
 * Ahsan Kabir
 * Nadine Kano
 * Jorge Kara
 * Will Kennedy
+* Vivian Kent-Russell
+* Conrad Keville
 * Jung Ho Kim
 * Kim Yiun Kim
 * Myung Sub Kim
@@ -515,55 +556,84 @@ See the about dialog in the program itself for legal notices of proofing tools b
 * Reed Koch
 * Zeke Koch
 * Pernilla Krakau
+* Glenn Kreisel
 * Bryan Krische
 * Tony Krueger
 * Laurence Krzemien
+* Bob Kulikowsky
 * Ashok Kuppusamy
 * Davi Kutz
 * Nam Yul Kwon
+* Lesley Labrador
+* Annie Lamour-Peckman
+* Mark Langley
+* Sharon Lawson
+* Sarah Leary
 * Antoine Leblond
+* Laurent Leclercq
 * Eric Lee
-* Eric Levine
+* Mike Leu
+* Eric LeVine
 * William Lewis
+* John Lin
 * Robert Little
 * Michael Loidl
 * Bryan Loofbourrow
 * David Luebbert
 * Ivan Lumala
+* Stephen Malcolm
 * Eugene Mallonee
 * Alexis Manning
 * Carla Marrow
+* Matt Marshall
+* Ed Martinez
 * Kornel Marton
 * Michael Mathieu
+* Marlene Matt
 * Michael Maxey
+* Bryan Mazlish
+* Garrison McCully
 * Allan McDaniel
+* Anne McDuffie
 * David McKinney
 * Bruce Meacham
 * Margarita Medina
 * Alberto Medrano
 * Paula Meengs
 * Pedro Mello
+* Robert Merriman
 * Darek Mihocka
+* Nelson Miles
 * Margie Miller
 * Janine Mital
 * Penny Mitsunaga
+* Alex Mogilevsky
 * Ash Mokhtari
 * Nicholas Molfetas
 * Charles Moore
 * Lisa Moore
+* Peter Morcos
 * David Morgan
 * Dayle Moss
 * Deniece Moxy
 * Brian Mueller
 * Stephan Mueller
 * Krishna Mukherjee
+* Leonardo Muratorio
 * Jeff Murray
 * Eric Myers
+* Vikram Nagaraj
 * Katsuhiro Namba
+* Christopher Nelder
+* Anna Neumann
+* Elliot Ng
 * Duong Nguyen
 * David Norris
+* Bob Norton
 * Bruce Oberg
 * Mark O'Hara
+* Denis O'Keefe
+* Sean Oldridge
 * David Oliver
 * Tom Oliver
 * Dan Olsen
@@ -572,25 +642,32 @@ See the about dialog in the program itself for legal notices of proofing tools b
 * Jeff Pack
 * Bob Pan
 * Michael Panitz
-* Pam Parker
+* Pamela Parker
+* Hadi Partovi
 * Peter Pathe
 * Jay Paulson
+* Erin Pearson
 * Mark Pearson
 * David Pelton
 * Erik Perrohe
+* Chris Peters
 * Diana Peterson
 * Jeremy Phelps
 * Brian Phillips
 * Julie Pickhardt
 * John Pilafidis
+* Ingeborg Pilthan
+* Chris Pirih
 * Darrell Plank
 * Darryl Plotnik
 * Steve Polsky
 * Graziella Pompei
+* Alessandra Pompei-Erickson
 * Glen Poor
 * Johann Posch
 * Chris Pratley
 * Alex Price
+* Elizabeth Prichard
 * Susan Putnam
 * May Quan
 * Rod Ragsac
@@ -613,15 +690,22 @@ See the about dialog in the program itself for legal notices of proofing tools b
 * Cathy Saxton
 * Tom Saxton
 * Anette Schachtner
+* Christina Schaefer
 * Rick Schaut
 * Robert Scheffler
 * Steven Schroder
+* Doug Scot
 * Mark Seaman
+* Teresa Martineau Serrador
+* Sunil Shah
+* Kevin Shaughnessy
 * Chung-Chieh Shaw
 * Jeanne Sheldon
 * Tammy Shepperd
 * Yong Shin
+* Robbie Shinbo
 * Todd Short
+* Matthew Siegel
 * Lila Silverstein
 * Geoff Silverton
 * Alan Skow
@@ -629,16 +713,23 @@ See the about dialog in the program itself for legal notices of proofing tools b
 * Estelle Smith
 * Marta Smith
 * Daniel Snyder
+* Stephen Spady
 * Allen Spruill
+* Peter Stamos
 * Debiruth Stanford
 * Christian Stark
+* Marie Stout
 * Kurt Steinkraus
 * Christopher Strader
+* Heinz Strobl
 * Scott Strom
+* Lesley Stuart
 * Matt Sturtevant
+* Richard Sun
 * Mark Sunderland
 * Ginni Swanton
 * David Switzer
+* Masayoshi Tadano
 * Mike Tanner
 * Guylene Tarrazi
 * Wolfgang Thaller
@@ -650,19 +741,22 @@ See the about dialog in the program itself for legal notices of proofing tools b
 * Everett Tsang
 * Larry Tseng
 * Jackie Tusa
-* Jo Tyo
+* Joanne Tyo
 * Kentaro Urata
 * Susan Urban
+* Delphine Van der Gucht
 * Brad Verheiden
 * Angela Viesse
 * Manish Vij
 * Mandira Virmani
 * Mark Walker
+* Lori Walls
 * Jim Walsh
 * Karin Walsh
 * John Wana
 * Ziyi Wang
 * Nick Ward
+* Lynn Warschauer
 * Jack Li Wen
 * Monique Wendling Ruiz
 * Christopher Whitmore
@@ -672,9 +766,12 @@ See the about dialog in the program itself for legal notices of proofing tools b
 * Kevin Willems
 * Bruce Williams
 * Lydja Williams
+* Janice Wing
+* Tonya Wishart
 * Craig Wittenberg
 * Sun Yao Wong
 * Dan Wright
+* Paul Wu
 * Taylor Wu
 * Xian-Ling Wu
 * Tony Wyatt
@@ -708,7 +805,7 @@ Under no circumstances the author is liable for any loss or damage.
 * You are free to use this version of the program on as many machines as you like.
 * You are free to distribute the program provided that you include all the files in the archive without any modification.
 * You are not allowed to sell the program, but can charge a reasonable amount to cover the cost of the distribution media.
-* **The use of the program implies acceptance of the conditions stated above!**
+* **The use of these programs implies acceptance of the conditions stated above!**
 
 ## For use of CapiTel
 Copyright © 1996-1998 Werner Fehn and Carsten Wimmer
@@ -725,7 +822,7 @@ The end user is not allowed to decompile or disassemble the program or create de
 
 The end user is allowed to use the program for free within a 60-day trial period. A further use outside this period requires registration. A single user license for a natural person grants the right to use one copy of CapiTel on a single computer. A licensed user may use the software on different computers, but must not use it on more than one computer at the same time. Persons at law have to acquire one license for every natural persons who uses CapiTel.
 
-Registration follows after remittance of 55,00 DM (German Marks) to the account mentioned in ORDER.TXT. Within a following 4-week period the end user will receive a registration code from the authors. If not, the end user has to contact the authors (at his own expense) to let them know.
+Registration follows after remittance of 55 DM (German Marks) to the account mentioned in ORDER.TXT. Within a following 4-week period the end user will receive a registration code from the authors. If not, the end user has to contact the authors (at his own expense) to let them know.
 
 Registration guarantees the right to use the program as well as updates (for which the same conditions are valid). The authors are not obliged to develop the program or to adapt it to changed operating characteristics of computer hardware or systems.
 
@@ -760,12 +857,11 @@ Thanks to all the users who sent us their bug reports and feature ideas, do not 
 Copyright (c) 1995-1996 by C F S Nevada, Inc.<br />
 Written by Richard Goran
 
-### Acknowledgements
-Initial testing was overseen by **Chip Shapiro**, Las Vegas OS/2 BESTeam member, with additional effort by numerous beta testers including **Irv Spalten** and his OS/2 Advisor group.
-
-Editorial assistance in preparing the documentation was provided by **David Moskowitz** of Productivity Solutions, Inc. Graphic assistance was provided by **George Norby** of Las Vegas, Nevada.
-
-**Factoid:** Of the thousands of hands played during testing, three resulted in Royal Flushes. The first was by the program's author, Dick Goran, on December 20, 1995 (a one card draw). The second Royal was made by Sharon Moskowitz (and certified by her father, David). Goran made another Royal on April 26, 1996 while preparing the final beta version of the program (a three card draw).
+### Contributors
+* David Moskowitz (Productivity Solutions, Inc.) - Editorial assistance
+* George Norby - Graphic assistance
+* Chip Shapiro - Tester
+* Irv Spalten - Tester
 
 ## For use of Editor+, File Browser, Mixomat
 Copyright © 1996-2004 Christoph Bratschi
