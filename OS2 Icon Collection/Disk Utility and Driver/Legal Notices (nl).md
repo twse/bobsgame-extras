@@ -6,7 +6,7 @@
 2. CDSpeed2
    - – Licentie: Free
    - – Copyright notice: Copyright (c) 2009 Marcel Müller
-   - – Download site: http://maazl.de/ (link in Engels)
+   - – Download site: http://maazl.de/ (koppeling in Engels)
 3. CHKSTORE
    - – Licentie: IBM EWS
    - – Copyright notice: Copyright (c) 1994 David Kelsey
@@ -34,7 +34,7 @@
 11. Display File Systems
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1997-2021 Jan van Wijk
-    - – Download site: https://www.dfsee.com/ (link in Engels)
+    - – Download site: https://www.dfsee.com/ (koppeling in Engels)
 12. DMATEST
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1995 PowerQuest Corporation
@@ -112,7 +112,7 @@
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1991 ASH Software, Inc.
 37. PMFloppy
-    - – Licentie: Public Domain
+    - – Licentie: Publiek domein
     - – Copyright notice: Copyright (c) 1990 Greg Bryant, 1995 Brady Flowers
 38. PMFORMAT
     - – Licentie: BSD 3-Clause
@@ -131,14 +131,14 @@
 43. RxLVM
     - – Licentie: BSD 3-Clause
     - – Copyright notice: Copyright (c) 2006-2007 Alexander Taylor
-    - – Download site: http://www.altsan.org/ (link in Engels)
+    - – Download site: http://www.altsan.org/ (koppeling in Engels)
 44. SLICE2, SPLICE2
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1992 Gary L. Robinson
 45. SMART Monitoring Tools
     - – Licentie: GPL 2.0
     - – Copyright notice: Copyright (c) 2002-2009 Bruce Allen, 2004-2021 Christian Franke
-    - – Download site: https://www.smartmontools.org/ (link in Engels)
+    - – Download site: https://www.smartmontools.org/ (koppeling in Engels)
 46. SMARTMON
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 2005 Andrew A. Belov
@@ -165,4 +165,4 @@
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 2001-2004 Christian Langanke
 
-Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken
+Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (koppeling in Engels) bezoeken

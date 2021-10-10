@@ -16,18 +16,18 @@
 5. ARJ
    - – Licentie: Free of shareware
    - – Copyright notice: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
-   - – Download site: http://www.arjsoftware.com/ (link in Engels) o http://arj.sourceforge.net/ (link in Engels)
+   - – Download site: http://www.arjsoftware.com/ (koppeling in Engels) of http://arj.sourceforge.net/ (koppeling in Engels)
 6. CABextract
    - – Licentie: GPL 2.0
    - – Copyright notice: Copyright (c) 2000-2018 Stuart Caie
-   - – Download site: https://www.cabextract.org.uk/ (link in Engels)
+   - – Download site: https://www.cabextract.org.uk/ (koppeling in Engels)
 7. Drop and Zip
    - – Licentie: Shareware
    - – Copyright notice: Copyright (c) 1994 Dirk Terrell
 8. E_WISE, NELite, STIX, Typ
    - – Licentie: Free
    - – Copyright notice: Copyright (c) 2001-2006 Veit Kannegieser
-   - – Download site: http://www.kannegieser.net/veit/ (link in Engels)
+   - – Download site: http://www.kannegieser.net/veit/ (koppeling in Engels)
 9. IDE Installer
    - – Licentie: Shareware
    - – Copyright notice: Copyright (c) 1995 David J. Heritage
@@ -40,7 +40,7 @@
 12. LHA
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1989 Yooichi Tagawa, 1990 Haruyasu Yoshizaki, 1991 Masaru Oki, 1993-1995 Nobutaka Wakazaki, 1998-2008 Koji Arai, 2000 Tsugio Okamoto
-    - – Download site: http://lha.osdn.jp/ (link in Japaans)
+    - – Download site: http://lha.osdn.jp/ (koppeling in Japaans)
 13. LSZipWizard
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 2017-2019 Lothar Söns
@@ -59,7 +59,7 @@
 18. RPF Zip Control
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1993-2007 RPF Software
-    - – Download site: https://www.rpfsoftware.com/ (link in Engels)
+    - – Download site: https://www.rpfsoftware.com/ (koppeling in Engels)
 19. rxGZlib
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 2000 Daniel Hellerstein
@@ -78,14 +78,14 @@
 24. UNRAR
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1993-2017 Alexander Roshal
-    - – Download site: https://www.rarlab.com/ (link in Engels)
+    - – Download site: https://www.rarlab.com/ (koppeling in Engels)
 25. WarpExpander
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 2003 Salvador Parra Camacho
 26. WarpIN
     - – Licentie: LGPL 2.1
     - – Copyright notice: Copyright (c) 1997-2012 Netlabs
-    - – Download site: http://warpin.netlabs.org/ (link in Engels)
+    - – Download site: http://warpin.netlabs.org/ (koppeling in Engels)
 27. WarpZip
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1996-2000 PillarSoft
@@ -107,7 +107,7 @@
 33. Zippy
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 2017 Dmitry A. Steklenev
-    - – Download site: http://www.5nets.ru/ (link in Engels)
+    - – Download site: http://www.5nets.ru/ (koppeling in Engels)
 34. ZipStream
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1994-1995 Carbon Based Software
@@ -117,6 +117,6 @@
 36. zlib
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1995-2017 Jean-loup Gailly en Mark Adler
-    - – Download site: http://www.zlib.net/ (link in Engels)
+    - – Download site: http://www.zlib.net/ (koppeling in Engels)
 
-Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken
+Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (koppeling in Engels) bezoeken

@@ -3,7 +3,7 @@
 1. AGREP
    - – Licentie: ISC-licentie
    - – Copyright notice: Copyright (c) 1989-1996 Udi Manber, Sun Wu en anderes
-   - – Download site: https://www.tgries.de/agrep/index.html (link in Engels)
+   - – Download site: https://www.tgries.de/agrep/index.html (koppeling in Engels)
 2. Corpus Wizard
    - – Licentie: Shareware
    - – Copyright notice: Copyright (c) 1994 Takashi Hamaguchi
@@ -106,4 +106,4 @@
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1988-1996 NPL Corporation
 
-Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken
+Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (koppeling in Engels) bezoeken

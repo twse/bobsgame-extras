@@ -6,7 +6,7 @@ Acest folder poate conține următorul software:
 2. BatchBurn
    - – Licență: Gratis
    - – Aviz de copyright: Copyright (c) 2005 Martin Vieregg
-   - – Site-ul de download: http://www.hypermake.com/ (legătură în limba engleza)
+   - – Site-ul de download: http://www.hypermake.com/
 3. CD Audio Dump/2
    - – Licență: Shareware
    - – Aviz de copyright: Copyright (c) 1996 Richard Reuters

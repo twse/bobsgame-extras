@@ -19,7 +19,7 @@
    - – Licentie: Free
    - – Copyright notice: Copyright (c) 1994 Paul H. Caron
 7. Checkout
-   - – Licentie: Public Domain
+   - – Licentie: Publiek domein
    - – Copyright notice: Copyright (c) 1990-2015 John Ridges
 8. DTSaver
    - – Licentie: Free
@@ -36,14 +36,14 @@
 12. luckyBackup
     - – Licentie: GPL 3.0
     - – Copyright notice: Copyright (c) 2007-2018 Loukas Avgeriou
-    - – Download site: http://luckybackup.sourceforge.net/ (link in Engels)
+    - – Download site: http://luckybackup.sourceforge.net/ (koppeling in Engels)
 13. Obackup
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1991-1993 Trumphurst Ltd.
 14. PM Backup Suite
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 2017-2019 Dmitry A. Steklenev
-    - – Download site: http://www.5nets.ru/backup.html (link in Engels)
+    - – Download site: http://www.5nets.ru/backup.html (koppeling in Engels)
 15. RCONTROL
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1997 Cornel Huth
@@ -66,4 +66,4 @@
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1995 New Freedom Data Center
 
-Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken
+Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (koppeling in Engels) bezoeken

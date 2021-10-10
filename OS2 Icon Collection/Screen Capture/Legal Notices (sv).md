@@ -25,7 +25,7 @@
    - – Licens: GPL 2.0
    - – Copyrightmeddelande: Copyright (c) 2010-2012 Peter Jespersen
 8. RxImgSize
-   - – Licens: BSD 3-sat
+   - – Licens: BSD 3-sats
    - – Copyrightmeddelande: Copyright (c) 2013-2014 Jan-Erik Lärka
 9. ScreenGrab
    - – Licens: GPL 2.0

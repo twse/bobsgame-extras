@@ -9,7 +9,7 @@
 3. Characters Map/2
    - – Licentie: GPL 2.0
    - – Copyright notice: Copyright (c) 1998-2013 Dmitry A. Steklenev
-   - – Download site: http://www.5nets.ru/charmap.html (link in Engels)
+   - – Download site: http://www.5nets.ru/charmap.html (koppeling in Engels)
 4. CodeTable/2
    - – Licentie: Shareware
    - – Copyright notice: Copyright (c) 1992 The Software Mill
@@ -19,9 +19,9 @@
 6. Extended Character Map
    - – Licentie: GPL 2.0
    - – Copyright notice: Copyright (c) 2005-2018 Alexander Taylor
-   - – Download site: http://www.altsan.org/ (link in Engels)
+   - – Download site: http://www.altsan.org/ (koppeling in Engels)
 7. Table
    - – Licentie: GPL 2.0
    - – Copyright notice: Copyright (c) 2002 Goran Ivanković
 
-Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken
+Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (koppeling in Engels) bezoeken

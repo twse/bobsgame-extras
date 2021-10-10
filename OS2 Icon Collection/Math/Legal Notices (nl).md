@@ -3,7 +3,7 @@
 1. 4allCalc
    - – Licentie: Free (OS/2) of shareware (Windows)
    - – Copyright notice: Copyright (c) 1995-2009 Martin Vieregg
-   - – Download site: http://www.hypermake.com/ (link in Engels of Duits)
+   - – Download site: http://www.hypermake.com/
 2. Bicycle Ride Calorie Calculator
    - – Licentie: Free
    - – Copyright notice: Copyright (c) 1995 Greg Kondrasuk
@@ -40,7 +40,7 @@
 13. gnuplot
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1986-1993, 1998, 2004, 2007 Thomas Williams, Colin Kelley
-    - – Download site: http://www.gnuplot.info/ (link in Engels)
+    - – Download site: http://www.gnuplot.info/ (koppeling in Engels)
 14. GraphX
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1994 Dominique Beauchamp
@@ -56,15 +56,15 @@
 18. KeyCalc
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 2008-2009 Peter Moylan
-    - – Download site: http://www.pmoylan.org/pages/os2/keycalc.html (link in Engels)
+    - – Download site: http://www.pmoylan.org/pages/os2/keycalc.html (koppeling in Engels)
 19. Kind Constructor
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 2001-2002 Michal Žemlička
-    - – Download site: http://www.ms.mff.cuni.cz/~zemlicka/KindCons/index.html.en (link in Engels)
+    - – Download site: http://www.ms.mff.cuni.cz/~zemlicka/KindCons/index.html.en (koppeling in Engels)
 20. Knotter
     - – Licentie: GPL 3.0
     - – Copyright notice: Copyright (c) 2012-2014 Mattia Basaglia
-    - – Download site: https://knotter.mattbas.org/ (link in Engels)
+    - – Download site: https://knotter.mattbas.org/ (koppeling in Engels)
 21. LinePlot
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1998 Neighborhood Business Services
@@ -80,14 +80,14 @@
 25. Octave
     - – Licentie: GPL 3.0
     - – Copyright notice: Copyright (c) 1992-2021 John W. Eaton
-    - – Download site: http://www.gnu.org/software/octave/ (link in Engels)
+    - – Download site: http://www.gnu.org/software/octave/ (koppeling in Engels)
 26. Ortelius
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1996-1998 Christian Bressler
 27. Perl-Compatible Regular Expressions
     - – Licentie: BSD 3-Clause
     - – Copyright notice: Copyright (c) 1997-2021 Universiteit van Cambridge
-    - – Download site: http://www.pcre.org/ (link in Engels)
+    - – Download site: http://www.pcre.org/ (koppeling in Engels)
 28. PlotMTV
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1997 Kenny K.H. Toh
@@ -109,7 +109,7 @@
 34. POV-Ray
     - – Licentie: AGPL 3.0
     - – Copyright notice: Copyright (c) 1991-2019 Persistence of Visual Raytracer Pty Ltd.
-    - – Download site: http://www.povray.org/ (link in Engels)
+    - – Download site: http://www.povray.org/ (koppeling in Engels)
 35. Prime Number Generator
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1995 Paul Damer, Jawed Karim
@@ -128,7 +128,7 @@
 40. RPCALC
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 2000 Nathan Liskov
-    - – Download site: http://nateliskov.com/os2apps/myapps.htm (link in Engels)
+    - – Download site: http://nateliskov.com/os2apps/myapps.htm (koppeling in Engels)
 41. RXNUM
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1996 Michael Mieves
@@ -157,4 +157,4 @@
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 2000 Stefan Wesarg
 
-Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken
+Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (koppeling in Engels) bezoeken

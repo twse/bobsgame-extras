@@ -48,7 +48,7 @@
 16. NewView
     - – Licentie: GPL 2.0
     - – Copyright notice: Copyright (c) 1994-2005 Aaron Lawrence, 2006-2019 Ronald Brill
-    - – Download site: http://www.rbri.org/projects/newview (link in Engels)
+    - – Download site: http://www.rbri.org/projects/newview (koppeling in Engels)
 17. Thelp
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1993 Colin Thomson
@@ -71,4 +71,4 @@
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1998-1999 Cristiano Guadagnino
 
-Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken
+Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (koppeling in Engels) bezoeken

@@ -14,7 +14,7 @@
    - – Copyrightmeddelande: Copyright (c) 2009-2013 Alexander Taylor
    - – Nedladdningssida: http://www.altsan.org/ (link på engelska)
 5. ARJ
-   - – Licens: Free or shareware
+   - – Licens: Free av shareware
    - – Copyrightmeddelande: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
    - – Nedladdningssida: http://www.arjsoftware.com/ (link på engelska) av http://arj.sourceforge.net/ (link på engelska)
 6. CABextract

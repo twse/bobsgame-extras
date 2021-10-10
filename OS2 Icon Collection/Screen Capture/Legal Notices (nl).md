@@ -3,11 +3,11 @@
 1. CScreenie
    - – Licentie: GPL 3.0
    - – Copyright notice: Copyright (c) 2011-2012 Ivan Poštić
-   - – Download site: http://cscreenie.sourceforge.net/ (link in Engels)
+   - – Download site: http://cscreenie.sourceforge.net/ (koppeling in Engels)
 2. Gotcha!
    - – Licentie: GPL 2.0
    - – Copyright notice: Copyright (c) 1998-2007 Thorsten Thielen
-   - – Download site: http://www.c2226.de/programs/gotcha/index.phtml (link in Engels)
+   - – Download site: http://www.c2226.de/programs/gotcha/index.phtml (koppeling in Engels)
 3. Nikon
    - – Licentie: Free
    - – Copyright notice: Copyright (c) 1992 Stephen Best
@@ -31,4 +31,4 @@
    - – Licentie: GPL 2.0
    - – Copyright notice: Copyright (c) 2009-2013 Artem Galichkin
 
-Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken
+Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (koppeling in Engels) bezoeken

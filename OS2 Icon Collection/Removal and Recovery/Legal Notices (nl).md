@@ -7,16 +7,16 @@
    - – Licentie: GPL 2.0
    - – Copyright notice: Copyright (c) 1997-1998 Norbert Heller
 3. del_ea
-   - – Licentie: Frei
+   - – Licentie: Free
    - – Copyright notice: Copyright (c) 2002 Heiko Nitzsche
 4. DelDat
-   - – Licentie: Frei
+   - – Licentie: Free
    - – Copyright notice: Copyright (c) 1998 Carsten Nimz
 5. File Phoenix
    - – Licentie: IBM EWS
    - – Copyright notice: Copyright (c) 1994 Joe DiAdamo
 6. Kill a Tree
-   - – Licentie: Frei
+   - – Licentie: Free
    - – Copyright notice: Copyright (c) 1995 Mark Blackledge
 7. Kill the Clone
    - – Licentie: Free
@@ -50,4 +50,4 @@
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1995-1997 Wonkoo Kim
 
-Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken
+Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (koppeling in Engels) bezoeken

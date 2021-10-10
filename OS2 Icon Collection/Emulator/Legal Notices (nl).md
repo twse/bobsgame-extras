@@ -6,18 +6,18 @@
 2. DOSBox
    - – Licentie: GPL 2.0
    - – Copyright notice: Copyright (c) 2002-2019 Het DOSBox Team
-   - – Download site: https://www.dosbox.com/ (link in Engels)
+   - – Download site: https://www.dosbox.com/ (koppeling in Engels)
 3. KEGS
    - – Licentie: GPL 2.0
    - – Copyright notice: Copyright (c) 1997-2004 Kent Dickey
-   - – Download site: http://kegs.sourceforge.net/ (link in Engels)
+   - – Download site: http://kegs.sourceforge.net/ (koppeling in Engels)
 4. Virtual PC
    - – Licentie: Free
    - – Copyright notice: Copyright (c) 2008 Microsoft Corporation
-   - – Download site: https://www.microsoft.com/en-us/download/details.aspx?id=4580 (link in Engels)
+   - – Download site: https://www.microsoft.com/en-us/download/details.aspx?id=4580 (koppeling in Engels)
 5. VirtualBox
    - – Licentie: GPL 2.0
    - – Copyright notice: Copyright (c) 2010-2021 Oracle Corporation
-   - – Download site: https://www.virtualbox.org/ (link in Engels)
+   - – Download site: https://www.virtualbox.org/ (koppeling in Engels)
 
-Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken
+Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (koppeling in Engels) bezoeken

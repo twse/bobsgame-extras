@@ -156,7 +156,7 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1997 Tom Brown
 51. Usage
-    - – Licencja: Közkincs
+    - – Licencja: Domenium publiczny
     - – Informacja o prawach autorskich: Copyright (c) 1990-1992 John Ridges
 52. VFATMon
     - – Licencja: GPL 2.0

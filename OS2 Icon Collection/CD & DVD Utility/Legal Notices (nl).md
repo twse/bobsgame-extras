@@ -6,7 +6,7 @@
 2. BatchBurn
    - – Licentie: Free
    - – Copyright notice: Copyright (c) 2005 Martin Vieregg
-   - – Download site: http://www.hypermake.com/ (link in Engels of Duits)
+   - – Download site: http://www.hypermake.com/
 3. CD Audio Dump/2
    - – Licentie: Shareware
    - – Copyright notice: Copyright (c) 1996 Richard Reuters
@@ -19,7 +19,7 @@
 6. CD2MP3, CD2MP3PM, CD-ROM Speed Tester
    - – Licentie: Free
    - – Copyright notice: Copyright (c) 1998-2001 Samuel Audet
-   - – Download site: https://nova.polymtl.ca/~guardia/cd2mp3pm.php o https://nova.polymtl.ca/~guardia/smallutils.php (link in Engels)
+   - – Download site: https://nova.polymtl.ca/~guardia/cd2mp3pm.php of https://nova.polymtl.ca/~guardia/smallutils.php (koppeling in Engels)
 7. CDIndex
    - – Licentie: Free
    - – Copyright notice: Copyright (c) 1998 Ingo Böttcher
@@ -34,7 +34,7 @@
 11. dvdauthor
     - – Licentie: GPL 2.0
     - – Copyright notice: Copyright (c) 2003-2010 Scott Smith, 2010-2017 Lawrence D'Oliveiro
-    - – Download site: http://dvdauthor.sourceforge.net/ (link in Engels)
+    - – Download site: http://dvdauthor.sourceforge.net/ (koppeling in Engels)
 12. DVDDAO
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 2004-2010 Nikolay Kolosov
@@ -60,4 +60,4 @@
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1997-2001 Przemysław Dobrowolski
 
-Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (link in Engels) bezoeken
+Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (koppeling in Engels) bezoeken
