@@ -11,7 +11,7 @@ Want to be a show-off? Impress your friends? This is the place. Robert Matthew P
 Icons in OS/2 format based on the lowercase letters included in the [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits.
 
 ### Nintendo 3DS Skin
-Use theme managers (Anemone, CHMM, Themely, ThemePack, etc. etc. etc.) to replace the skin. The skin was created with 3DS Theme Editor.
+Use theme managers ([Anemone](https://github.com/astronautlevel2/Anemone3DS), [CHMM2](https://github.com/Rinnegatamante), [Themely](https://github.com/Ann0ying/Themely), etc. etc. etc.) to replace the skin. The skin was created with [3DS Theme Editor](https://github.com/usagirei/3DS-Theme-Editor).
 
 ### Windows User Account Picture
 Use this to replace the user account picture (this can be done in Windows XP via **Control Panel: User Accounts: Change your picture** (category view) or **Control Panel: User Accounts: Your username: Change my picture** (classic view) or in Windows Vista and 7 via **Control Panel: User Accounts and Family Safety: User Accounts: Change your picture** (category view) or **User Accounts: Change your picture** (normal view) or in Windows 8 via **Start: Your username: Change account picture** or **PC settings: Personalize: Account picture: Browse** or in Windows 10 and 11 via **Settings: Accounts: Your account: Your picture: Browse**).
@@ -110,11 +110,6 @@ For use with the Windows XP version of [BootSkin](https://www.stardock.com/produ
 Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with [PMView](https://www.pmview.com/).
 
 This skin can be used with the emulators listed below. Robert Matthew Pelloni is not the original author of these emulators. The original copyright notice and the license and contributor list is set forth below. Robert Pelloni licenses these emulators to you under the terms set forth in the BSD-style BobCorporation license agreement. Robert Matthew Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
-
-### Palm Hardware Emulator
-Copyright © 2013-2014 Perpendox Software LLC
-
-This software is paid from the [Google Play Store](https://play.google.com/store/apps/details?id=com.perpendox.phem). The company released the source code using the same license in Palm OS Emulator (see below) but the Perpendox Software website was taken down.
 
 ### Palm OS Emulator aka Copilot
 Copyright © 1998-2002 Palm, Inc.
