@@ -7,7 +7,7 @@ Ten folder może zawierać następujące oprogramowanie:
    - – Licencja: Wolny
    - – Informacja o prawach autorskich: Copyright (c) 1992-1993 Gregory Czaja, Ghassan Salem
 4. Bubblepad
-   - – Licencja: BSD 3-klauzule
+   - – Licencja: BSD 3-klauzula
    - – Informacja o prawach autorskich: Copyright (c) 1997-2011 Chris Wohlgemuth
 5. CmdHere
    - – Licencja: Shareware

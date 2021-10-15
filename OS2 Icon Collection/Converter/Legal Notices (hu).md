@@ -10,7 +10,7 @@
    - – Licenc: Szabad
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Stefan Rauchecker
 4. ConText/2
-   - – Licenc: BSD 3-Clause
+   - – Licenc: BSD 3-klauzula
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2007 Alexander Taylor
    - – Letöltési hely: http://www.altsan.org/ (angol nyelvem)
 5. Conversion Pro for OS/2

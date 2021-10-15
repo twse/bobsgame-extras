@@ -115,7 +115,7 @@
     - – Licença: Domínio público
     - – Aviso de direitos autorais: Copyright (c) 1990 Greg Bryant, 1995 Brady Flowers
 38. PMFORMAT
-    - – Licença: BSD de 3-cláusulas
+    - – Licença: BSD de 3 cláusulas
     - – Aviso de direitos autorais: Copyright (c) 1995-2015 Noller & Breining Software
 39. PXTOOL, SCSIMON
     - – Licença: Grátis
@@ -129,7 +129,7 @@
     - – Licença: Comercial
     - – Aviso de direitos autorais: Copyright (c) 2002 RSJ
 43. RxLVM
-    - – Licença: BSD de 3-cláusulas
+    - – Licença: BSD de 3 cláusulas
     - – Aviso de direitos autorais: Copyright (c) 2006-2007 Alexander Taylor
     - – Site de descarregamento: http://www.altsan.org/ (link em inglês)
 44. SLICE2, SPLICE2

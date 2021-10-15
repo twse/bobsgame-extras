@@ -128,7 +128,7 @@ Acest folder poate conține următorul software:
 40. RPCALC
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 2000 Nathan Liskov
-    - – Download Site : http://nateliskov.com/os2apps/myapps.htm
+    - – Site-ul de download: http://nateliskov.com/os2apps/myapps.htm
 41. RXNUM
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1996 Michael Mieves
@@ -151,7 +151,7 @@ Acest folder poate conține următorul software:
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1992 Gene Backlin
 48. WarpCalc
-    - – Licență: Gratis sans support
+    - – Licență: Gratis fără suportate
     - – Aviz de copyright: Copyright (c) 1997-2012 Carl-Magnus Olsson
 49. WWUnits
     - – Licență: Shareware

@@ -20,7 +20,7 @@ Ten folder może zawierać następujące oprogramowanie:
    - – Licencja: IBM EWS
    - – Informacja o prawach autorskich: Copyright (c) 1992-1994 Monte Copeland
 7. Nice OS/2 Enhancer
-   - – Licencja: BSD 3-klauzule
+   - – Licencja: BSD 3-klauzula
    - – Informacja o prawach autorskich: Copyright (c) 1994-2015 Sergey Posokhov
 8. NPS WPS Enhancer
    - – Licencja: Wolny
@@ -55,10 +55,10 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 1995 Rick Yoder
 18. TaskBox
-    - – Licencja: Free
+    - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1998 Kevin Ash
 19. Warp Enhancer
-    - – Licencja: Free
+    - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1997-1998 Innotek Systemberatung GmbH
 20. XWorkplace
     - – Licencja: GPL 2.0

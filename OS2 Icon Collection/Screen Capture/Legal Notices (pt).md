@@ -25,7 +25,7 @@
    - – Licença: GPL 2.0
    - – Aviso de direitos autorais: Copyright (c) 2010-2012 Peter Jespersen
 8. RxImgSize
-   - – Licença: BSD do 3-cláusulas
+   - – Licença: BSD do 3 cláusulas
    - – Aviso de direitos autorais: Copyright (c) 2013-2014 Jan-Erik Lärka
 9. ScreenGrab
    - – Licença: GPL 2.0

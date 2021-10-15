@@ -43,7 +43,7 @@
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-1999 Marco Pesenti Gritti
 14. Fast Editor Lite
-    - – Licenc: BSD 2-Clause
+    - – Licenc: BSD 2-klauzula
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2004 Sergey I. Yevtushenko
 15. FlexEdit
     - – Licenc: Szabad

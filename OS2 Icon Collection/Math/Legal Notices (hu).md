@@ -128,7 +128,7 @@
 40. RPCALC
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2000 Nathan Liskov
-    - – Download Site : http://nateliskov.com/os2apps/myapps.htm
+    - – Letöltési hely: http://nateliskov.com/os2apps/myapps.htm
 41. RXNUM
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996 Michael Mieves
