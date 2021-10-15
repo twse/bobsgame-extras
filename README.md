@@ -1,6 +1,9 @@
 ﻿# Extra stuff for bob's game
 Contains extra stuff for bob's game excluding fonts.
 
+## Translated game readme
+The translation is available in eight languages.
+
 ## Art Department
 Want to be a show-off? Impress your friends? This is the place. Robert Matthew Pelloni will be offering a wallpaper for you. In any case, please feel free to download these and use them on your desktop.
 
