@@ -30,8 +30,6 @@ Ciò significa che **non ci sono forcelle** se non per creare richieste pull!
 
 ## Questo gioco è stato sviluppato attivamente. Nuove funzionalità vengono aggiunte costantemente e si verificheranno bug.
 
-[Il forum di sviluppo (link in inglese)](http://bobsgame.com/forum) è aperto per segnalazioni di bug. Si prega di segnalare eventuali problemi che si notano. Mi affido ai tuoi test.
-
 http://www.bobcorporation.com (Sito web principale) (link in inglese)
 
 [In attesa dell'articolo di Wikipedia (link in inglese)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), aiuta a rivedere la voce corrente come non mi è permesso.

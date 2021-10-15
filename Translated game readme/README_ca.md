@@ -28,8 +28,6 @@ Això significa que **no hi ha forquilles**, excepte per crear sol·licituds de 
 
 ## Aquest joc està desenvolupat activament.  Les funcions noves s’afegeixen constantment i es produiran errors.
 
-[El Fòrum de desenvolupament (enllaç en anglès)](http://bobsgame.com/forum) està obert a informes d'errors.  Si us plau, informeu de qualsevol problema que observeu.  Confio en les teves proves.
-
 http://www.bobcorporation.com (Web principal) (enllaç en anglès)
 
 [L’article de Wikipedia pendent (enllaç en anglès)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ajuda a revisar l’entrada actual com no tinc permís.

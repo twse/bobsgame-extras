@@ -28,8 +28,6 @@ Isso significa que **não há forks**, exceto para criar solicitações pull!
 
 ## Este jogo é desenvolvido ativamente. Novos recursos estão sendo adicionados constantemente e erros acontecerão.
 
-[Fórum de desenvolvimento (linque em inglês)](http://bobsgame.com/forum) está aberto para relatórios de bugs. Por favor, relate quaisquer problemas que você notar. Eu confio no seu teste.
-
 http://www.bobcorporation.com (Site principal) (linque em inglês)
 
 [O artigo da Wikipedia en aguardando (linque em inglês)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ajude a revisar a entrada atual, pois não tenho permissão.

@@ -29,8 +29,6 @@ Dat betekent **geen vorken** behalve om pull-aanvragen te maken!
 ## DOWNLOAD HET NU METEEN!
 
 ## Deze game is actief ontwikkeld. Nieuwe functies worden constant toegevoegd en er zullen bugs optreden.
-
-[Ontwikkelingsforum (koppeling en Engels)](http://bobsgame.com/forum) staat open voor bugrapporten. Rapporteer eventuele problemen die u opmerkt. Ik vertrouw op je testen.
  
 http://www.bobcorporation.com (Hoofdwebsite) (koppeling en Engels)
  

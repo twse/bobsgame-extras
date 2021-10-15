@@ -30,8 +30,6 @@ Das heißt, **keine Gabeln** außer Pull-Requests erstellen!
 
 ## Dieses Spiel wird aktiv entwickelt. Neue Funktionen werden ständig hinzugefügt und Fehler werden auftreten.
 
-Das [Entwicklungsforum (link auf Englisch)](http://bobsgame.com/forum) ist offen für Fehlerberichte. Bitte melden Sie alle aufgetretenen Probleme. Ich verlasse mich auf deine Tests.
- 
 http://www.bobcorporation.com (Hauptwebsite) (link auf Englisch)
  
 [Ausstehende Wikipedia-Artikel (link auf Englisch)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), helfen, den aktuellen Eintrag zu überarbeiten, da ich es nicht darf.

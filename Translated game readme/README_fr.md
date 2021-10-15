@@ -1,4 +1,4 @@
-**bob's game** est une "source disponible" et "libre comme dans la bière" mais ne pas "source ouvrir" et "libre comme dans la discours" (pour le moment).
+**bob's game** est une « source disponible » et « libre comme dans la bière » mais ne pas "source ouvrir" et "libre comme dans la discours" (pour le moment).
 
 Cela signifie **pas de forks** sauf pour créer requêtes pull !
 
@@ -27,8 +27,6 @@ Cela signifie **pas de forks** sauf pour créer requêtes pull !
 ## TÉLÉCHARGER MAINTENANT !
 
 ## Ce jeu est activement développé. De nouvelles fonctionnalités sont ajoutées constamment et des bugs vont se produire.
-
-[Le forum de développement (en anglais)](http://bobsgame.com/forum) est ouvert aux rapportes de bogues. Veuillez signaler tout problème que vous remarquez. Je compte sur vos tests.
 
 http://www.bobcorporation.com (Site principal) (en anglais)
 
