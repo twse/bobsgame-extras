@@ -2,23 +2,6 @@ O **bob's game** é "fonte disponível" e "livre como na cerveja" mas não "cód
 
 Isso significa que **não há forks**, exceto para criar solicitações pull!
 
-Veja também:
-
-https://github.com/bobsgame/bobsgame
-
-https://github.com/bobsgame/bgEditor
-
-https://github.com/bobsgame/BobsGameServer
-
-https://github.com/bobsgame/BobSharedLibs
-
-https://github.com/bobsgame/BobsServerIndex
-
-https://github.com/bobsgame/BobsSTUNServer
-
-https://github.com/bobsgame/BobNetLibs
-
-
 --
 
 # O *bob's game* é:

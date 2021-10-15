@@ -2,22 +2,6 @@
 
 Ciò significa che **non ci sono forcelle** se non per creare richieste pull!
 
-Vedi anche:
-
-https://github.com/bobsgame/bobsgame
-
-https://github.com/bobsgame/bgEditor
-
-https://github.com/bobsgame/BobsGameServer
-
-https://github.com/bobsgame/BobSharedLibs
-
-https://github.com/bobsgame/BobsServerIndex
-
-https://github.com/bobsgame/BobsSTUNServer
-
-https://github.com/bobsgame/BobNetLibs
-
 --
 
 # *bob's game* è:

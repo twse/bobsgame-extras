@@ -2,23 +2,6 @@
 
 Això significa que **no hi ha forquilles**, excepte per crear sol·licituds de tracció!
 
-Vegeu també:
-
-https://github.com/bobsgame/bobsgame
-
-https://github.com/bobsgame/bgEditor
-
-https://github.com/bobsgame/BobsGameServer
-
-https://github.com/bobsgame/BobSharedLibs
-
-https://github.com/bobsgame/BobsServerIndex
-
-https://github.com/bobsgame/BobsSTUNServer
-
-https://github.com/bobsgame/BobNetLibs
-
-
 --
 
 # *bob's game* és:
