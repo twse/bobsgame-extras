@@ -8,7 +8,7 @@ The translation is available in eight languages.
 Want to be a show-off? Impress your friends? This is the place. Robert Matthew Pelloni will be offering a wallpaper for you. In any case, please feel free to download these and use them on your desktop.
 
 ### Icons
-Icons in OS/2 format based on the lowercase letters included in the [bob's game font](http://www.bobcorporation.com/fonts/bobsgame.ttf) for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits.
+Icons in OS/2 format based on the lowercase letters included in the bob's game font for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits. See **Legal Notices.md** (multi-language) in each software category folder for brief legal notices.
 
 ### Nintendo 3DS Skin
 Use theme managers ([Anemone](https://github.com/astronautlevel2/Anemone3DS), [CHMM2](https://github.com/Rinnegatamante), [Themely](https://github.com/Ann0ying/Themely), etc. etc. etc.) to replace the skin. The skin was created with [3DS Theme Editor](https://github.com/usagirei/3DS-Theme-Editor).
@@ -25,7 +25,7 @@ Use this to replace the desktop theme in Windows. Includes Windows Aero effects 
 Use this to replace the first bitmap resource in `msgina.dll`. **Nimbus Sans Mono** is used to display the modified image. (This font is copyrighted by URW++.)
 
 ## Sound Scheme
-Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Desktop Themes: Settings: Sound events** or **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10 and 11). Under Windows, the sounds have to be copied to `%SystemRoot%\media` or `%windir%\media`.
+Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Desktop Themes: Settings: Sound events** or **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10 and 11). Under Windows, the sounds have to be copied to `%SystemRoot%\media` or `%windir%\media` (make sure you're logged on to the system as an administrator).
 
 Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Windows 8 & above, the `ExcludeFromCPL` value was added to `WindowsLogoff` and `WindowsLogon` sound events; remove this value to show these events).
 
