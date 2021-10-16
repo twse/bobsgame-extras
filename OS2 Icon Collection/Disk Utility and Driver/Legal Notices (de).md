@@ -115,7 +115,7 @@
     - – Lizenz: Publik-Domain
     - – Copyright-Hinweise: Copyright (c) 1990 Greg Bryant, 1995 Brady Flowers
 38. PMFORMAT
-    - – Lizenz: BSD 3-Klause
+    - – Lizenz: BSD 3-Klausel
     - – Copyright-Hinweise: Copyright (c) 1995-2015 Noller & Breining Software
 39. PXTOOL, SCSIMON
     - – Lizenz: Frei

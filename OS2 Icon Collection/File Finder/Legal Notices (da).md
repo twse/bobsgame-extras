@@ -2,7 +2,7 @@
 
 1. AGREP
    - – Licens: ISC-licens
-   - – Meddelelse om ophavsret: Copyright (c) 1989-1996 Udi Manber, Sun Wu et al.
+   - – Meddelelse om ophavsret: Copyright (c) 1989-1996 Udi Manber, Sun Wu og andres
    - – Download site: https://www.tgries.de/agrep/index.html (link på engelsk)
 2. Corpus Wizard
    - – Licens: Shareware
@@ -106,4 +106,4 @@
     - – Licens: Shareware
     - – Meddelelse om ophavsret: Copyright (c) 1988-1996 NPL Corporation
 
-For fuld juridiske meddelelser, bidragyder og oversætter lister, kan du besøge https://bobsgame.fandom.com/wiki/Extras (link på engels)
+For fuld juridiske meddelelser, bidragyder og oversætter lister, kan du besøge https://bobsgame.fandom.com/wiki/Extras (link på engelsk)

@@ -7,7 +7,7 @@
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1995 Stefan Rauchecker
 3. CWHelp
-   - – Lizenz: BSD 3-Clause
+   - – Lizenz: BSD 3-Klausel
    - – Copyright-Hinweise: Copyright (c) 2002 Chris Wohlgemuth
 4. FLINF
    - – Lizenz: Shareware
