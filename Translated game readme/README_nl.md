@@ -20,18 +20,6 @@ Dat betekent **geen vorken** behalve om pull-aanvragen te maken!
 
 ## MIXED-MODUS ONLINE/LOKALE MULTIPLAYER
 
-## HELEMAAL GRATIS
-
-## HELEMAAL OPNIEUW GESCHREVEN IN C++
-
-## BRONCODE BESCHIKBAAR
-
-## DOWNLOAD HET NU METEEN!
-
-## Deze game is actief ontwikkeld. Nieuwe functies worden constant toegevoegd en er zullen bugs optreden.
- 
-http://www.bobcorporation.com (Hoofdwebsite) (koppeling en Engels)
- 
 [Wikipedia-artikel in afwachting (koppeling en Engels)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), help de huidige invoer te herzien zoals ik dat niet mag.
 
 **bob's game** (van de beruchte aankomende RPG *"bob's game"*) is een multiplayer-puzzelspel - maar niet zomaar een puzzelspel, **ELK puzzelspel!** Het is een bouw je eigen puzzelspel met een maker van een puzzelspel waarin JE alle regels definieert voor je eigen aangepaste spel!
@@ -47,22 +35,6 @@ Maak je eigen puzzelmodi! Bedenk aangepaste regels of daag je vrienden uit voor 
 **bob's game** evolueert voortdurend met nieuwe themapakketten, nieuwe regels en door de gebruiker ontworpen puzzelpakketten.
 
 **bob's game** ondersteunt momenteel zoveel lokale of netwerkspelers als u wilt, gemengde multiplayer voor lokale/netwerken, Facebook-integratie, ondersteuning voor gamecontrollers en meer.
-
-Het wordt voortdurend bijgewerkt voor Windows, Mac, Linux, webbrowser, Android, iPhone en mogelijk Nintendo Switch en Playstation 4.
-
-Het zal ook de broncode beschikbaar hebben op GitHub zodat het kan uitgroeien tot een standaard toernooi platform voor alle puzzelspellen!
-
-**bob's game is nog niet klaar - het is behoorlijk speelbaar, maar ik voeg actief nog veel meer functies toe.**
-
-## Aankomende lijst met functies:
-* Veel meer functies, modi en doelen van de gamemodus
-* Betere multiplayer-lobby met chat
-* Toernooifuncties en ladders, regionaal en wereldwijd
-* Matchmaking per regio of rang
-* Server verificatie
-* Toeschouwersmodus, herhalingen, uitdagingherhaling
-* Aangepaste thema's, geluiden en muziek
-* Ondersteuning voor Android, iOS en browser
 
 # License
 Robert Matthew Pelloni is de auteur van deze software met betrekking tot het recht van de auteur. Alle rechten voorbehouden.<br />

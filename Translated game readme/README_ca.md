@@ -18,18 +18,6 @@ Això significa que **no hi ha forquilles**, excepte per crear sol·licituds de 
 
 ## MULTIJUGADOR EN LÍNIA AMB REPRODUCTORS IL·LIMITATS
 
-## COMPLETAMENT LLIURE
-
-## ESCRIT DES DE ZERO A C++
-
-## CODI FONT DISPONIBLE
-
-## DESCARREGA'L ARA MATEIX!
-
-## Aquest joc està desenvolupat activament.  Les funcions noves s’afegeixen constantment i es produiran errors.
-
-http://www.bobcorporation.com (Web principal) (enllaç en anglès)
-
 [L’article de Wikipedia pendent (enllaç en anglès)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ajuda a revisar l’entrada actual com no tinc permís.
 
 **bob's game** (del famós proper RPG *"bob's game"*) és un joc de trencaclosques multijugador, però no només qualsevol joc de trencaclosques, **TOTS els jocs de trencaclosques.**  És un joc de trencaclosques propi amb un creador de jocs de trencaclosques que on definiu totes les regles del vostre propi joc personalitzat.
@@ -45,22 +33,6 @@ Creeu els vostres propis modes de trencaclosques!  Inventa règims personalitzat
 **bob's game** està en constant evolució amb nous paquets de temes, noves regles i paquets de trencaclosques dissenyats per l'usuari.
 
 Actualment, **bob's game** és compatible amb tants jugadors locals o de xarxa com vulgueu, multijugador local/xarxa mixt, integració de Facebook, suport per a controladors de jocs i molt més.
-
-Es continuarà actualitzant per Windows, Mac, Linux, navegador web, Android, iPhone i, possiblement, per Nintendo Switch i PlayStation 4.
-
-També tindrà el codi font disponible a GitHub perquè pugui convertir-se en una plataforma de tornejos estàndard per a tots els jocs de trencaclosques!
-
-**bob's game no es fa, és bastant jugable, però estic activament afegint moltes més funcions.**
-
-## Llista de funcions pròximes:
-* Moltes funcions, maneres i objectius del mode de joc
-* Millor lobby multijugador amb xat
-* Funcions i escales del torneig, regionals i globals
-* Matchmaking per regió o rang
-* Verificació del servidor
-* Mode espectador, repeticions, repetició de repeticions
-* Temes, sons i música personalitzats
-* Suport Android, iOS i navegador
 
 # Licencia
 Robert Matthew Pelloni és l’autor d’aquest programari pel que fa al dret de l’autor. Tots els drets reservats.<br />

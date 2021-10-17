@@ -18,18 +18,6 @@ Asta înseamnă că **nu există furci** decât să creezi cereri de tragere!
 
 ## MOD MIXT ONLINE/LOCAL MULTIPLAYER
 
-## COMPLET GRATUIT
-
-## SCRIS DE LA ZERO DE C++
-
-## CODULUI SURSĂ DISPONIBILĂ
-
-## DESCĂRCAȚI-L CHIAR ACUM!
-
-## Acest joc este activ dezvoltat. Noile caracteristici sunt adăugate în mod constant și se vor întâmpla erori.
-
-http://www.bobcorporation.com (Site principal) (legătură în limba engleză)
-
 [Articolului Wikipedia în așteptarea (legătură în limba engleză)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ajută la revizuirea înregistrării curente, așa cum nu îmi este permisă.
 
 **bob's game** (de la RPG-ul infamat *„bob's game“*) este un joc de puzzle multiplayer - dar nu orice joc puzzle, **TOATE joc de puzzle!** Este un joc de puzzle construit-propriu cu un creator de jocuri de puzzle în care definiți toate regulile jocului dvs. personalizat!
@@ -45,22 +33,6 @@ Creați-vă propriile moduri de puzzle! Inventați seturi de reguli personalizat
 **bob's game** evoluează în mod constant cu pachete tematice noi, reguli noi și pachete puzzle create de utilizator.
 
 **bob's game** susține în prezent cât mai mulți jucători locali sau de rețea, după cum doriți, mix multiplayer local/rețea, integrare prin Facebook, suport pentru controler de jocuri și multe altele.
-
-Acesta va fi actualizat în permanență pentru Windows, Mac, Linux, browserul web, Android, iPhone, și, eventual, Nintendo Switch și Playstation 4.
-
-Acesta va avea, de asemenea, codul sursă disponibil pe GitHub, astfel încât acesta să devină o platformă standard de turneu pentru toate jocurile puzzle!
-
-**bob's game nu este făcut - este destul de jucabil, dar adaug activ multe alte caracteristici.**
-
-## Lista de caracteristici viitoare:
-* Mai multe funcții, moduri și obiective în modul de joc
-* Mai mult lobby multiplayer cu chat
-* Caracteristicile turneelor ​​și scările, regionale și globale
-* Matchmaking după regiune sau rang
-* Verificarea serverului
-* Modul spectator, replici, reluarea provocărilor
-* Teme personalizate, sunete și muzică
-* Suport pentru Android, iOS și browserul web
 
 # Licențiere
 Robert Matthew Pelloni este autorul acestui software în scopul protejării drepturilor de autor. Toate drepturile rezervate.<br />

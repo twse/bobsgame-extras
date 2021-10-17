@@ -20,18 +20,6 @@
 
 ## MODO MIXTO LOCAL Y EN LÍNEA MULTIJUGADOR
 
-## COMPLETAMENTE GRATIS
-
-## CÓDIGO FUENTE DISPONIBLE
-
-## ESCRITO EN C++
-
-## ¡DESCARGAR AHORA!
-
-## Este juego está desarrollado activamente. Nuevas características se están agregando constantemente y los errores sucederán.
-
-http://www.bobcorporation.com (Sitio web principal) (enlace en inglés)
-
 [El artículo de Wikipedia en espera (enlace en inglés)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ayude a revisar la entrada actual, ya que no tengo permiso para hacerlo.
 
 **bob's game** (del famoso videojuego de rol próximo *"bob's game"*) es un juego de rompecabezas multijugador, ¡pero no cualquier juego de rompecabezas, **CADA juego de rompecabezas!** ¡Es un juego de creación de rompecabezas con un creador de juegos de rompecabezas en el que USTED define todas las reglas para su propio juego personalizado!
@@ -47,22 +35,6 @@ Más que eso, se ha hecho un gran cuidado para asegurar que **bob's game** sea l
 **bob's game** está en constante evolución con nuevos paquetes de temas, nuevas reglas y paquetes de rompecabezas diseñados por el usuario.
 
 Actualmente, **bob's game** admite tantos jugadores locales o de red como quieras, multijugador local/de red mixto, integración Facebook, compatibilidad con dispositivos de juego y más.
-
-Se actualizará continuamente para Windows, Mac, Linux, el navegador Web, Android, iPhone, y, posiblemente, Nintendo Switch y PlayStation 4.
-
-¡También tendrá el código fuente disponible en GitHub para que pueda convertirse en una plataforma de torneo estándar para todos los juegos de rompecabezas!
-
-**bob's game no está listo, es bastante jugable, pero estoy agregando muchas más funciones.**
-
-## Liste de características futuras:
-* Muchas más funciones de modo de juego, modos y objectivos
-* Mejor lobby multijugador con chat
-* Características del torneo y escaleras, regionales y globales
-* Matchmaking por región o rango
-* Verificación del servidor
-* Modo espectador, repeticiones, repetición de desafío
-* Temas personalizados, sonidos y música
-* Soporte para Android, iOS y navegador
 
 # Licencia
 Robert Matthew Pelloni es el autor de este programa con fines de derechos de autor. Todos los derechos reservados.<br />

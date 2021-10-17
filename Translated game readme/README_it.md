@@ -20,18 +20,6 @@ Ciò significa che **non ci sono forcelle** se non per creare richieste pull!
 
 ## MULTIGIOCATORE ONLINE / LOCALE IN MODALITÀ MISTA
 
-## COMPLETAMENTE GRATIS
-
-## SCRITTO DA ZERO IN C++
-
-## CODICE SORGENTE DISPONIBILE
-
-## SCARICALO SUBITO!
-
-## Questo gioco è stato sviluppato attivamente. Nuove funzionalità vengono aggiunte costantemente e si verificheranno bug.
-
-http://www.bobcorporation.com (Sito web principale) (link in inglese)
-
 [In attesa dell'articolo di Wikipedia (link in inglese)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), aiuta a rivedere la voce corrente come non mi è permesso.
 
 **bob's game** (dal famigerato gioco di ruolo in arrivo *"bob's game"*) è un gioco puzzle multiplayer - ma non solo un gioco puzzle, **OGNI gioco puzzle!**  È un puzzle game personalizzato con un creatore di puzzle game in cui TU definisci tutte le regole per il tuo gioco personalizzato!
@@ -47,22 +35,6 @@ Crea le tue modalità puzzle!  Inventa regole personalizzate o sfida i tuoi amic
 **bob's game** è in continua evoluzione con nuovi pacchetti di temi, nuove regole e pacchetti di puzzle progettati dall'utente.
 
 **bob's game** attualmente supporta tutti i giocatori locali o di rete che desideri, multiplayer misto locale/di rete, integrazione di Facebook, supporto per controller di gioco e altro ancora.
-
-Sarà continuamente aggiornato per Windows, Mac, Linux, browser web, Android, iPhone e possibilmente Nintendo Switch e PlayStation 4.
-
-Avrà anche il codice sorgente disponibile su GitHub in modo che possa diventare una piattaforma standard per tutti i giochi puzzle!
-
-**bob's game non è fatto - è abbastanza giocabile, ma sto aggiungendo attivamente molte più funzionalità.**
-
-## Elenco delle funzionalità in arrivo:
-* Molte più funzioni, modalità e obiettivi della modalità di gioco
-* Migliore lobby multiplayer con chat
-* Funzionalità e scale del torneo, regionali e globali
-* Matchmaking per regione o grado
-* Verifica del server
-* Modalità spettatore, replay, replay sfida
-* Temi, suoni e musica personalizzati
-* Soporte Android, iOS i browser
 
 ## Licenze
 Robert Matthew Pelloni è l'autore di questo software per quanto riguarda il diritto dell'autore. Tutti i diritti riservati.<br />

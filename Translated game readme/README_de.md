@@ -20,18 +20,6 @@ Das heißt, **keine Gabeln** außer Pull-Requests erstellen!
 
 ## ONLINE/LOKALER MULTIPLAYER IM GEMISCHTEN MODUS
 
-## VÖLLIG KOSTENLOS
-
-## IN C++ VON GRUND AUF NEU GESCHRIEBEN
-
-## QUELLCODE VERFÜGBAR
-
-## LADEN SIE ES JETZT HERUNTER!
-
-## Dieses Spiel wird aktiv entwickelt. Neue Funktionen werden ständig hinzugefügt und Fehler werden auftreten.
-
-http://www.bobcorporation.com (Hauptwebsite) (link auf Englisch)
- 
 [Ausstehende Wikipedia-Artikel (link auf Englisch)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), helfen, den aktuellen Eintrag zu überarbeiten, da ich es nicht darf.
 
 **bob's game** (aus dem berüchtigten kommenden Rollenspiel *"bob's game"*) ist ein Multiplayer-Puzzlespiel - aber nicht irgendein Puzzlespiel, **JEDES Puzzlespiel!** Es ist ein Puzzle-Spiel mit einem Puzzle-Ersteller, bei dem DU alle Regeln für dein eigenes Spiel definierst!
@@ -47,22 +35,6 @@ Erstelle deine eigenen Puzzle-Modi! Erfinde eigene Regelsätze oder fordere dein
 **bob's game** wird ständig mit neuen Theme-Packs, neuen Regeln und vom Benutzer entwickelten Puzzle-Packs weiterentwickelt.
 
 **bob's game** unterstützt derzeit beliebig viele lokale oder Netzwerkspieler, gemischten lokalen/Netzwerk-Multiplayer-Modus, Facebook-Integration, Unterstützung für Game-Controller und mehr.
-
-Es wird kontinuierlich für Windows, Mac, Linux, Webbrowser, Android, iPhone und möglicherweise Nintendo Switch und Playstation 4 aktualisiert.
-
-Es wird auch den Quellcode auf GitHub verfügbar haben, sodass es zu einer Standard-Turnierplattform für alle Puzzlespiele werden kann!
-
-**bob's game ist noch nicht fertig - es ist durchaus spielbar, aber ich füge viele weitere Funktionen hinzu.**
-
-## Kommende Feature-Liste:
-* Viele weitere Funktionen, Modi und Ziele für den Spielmodus
-* Bessere Multiplayer-Lobby mit Chat
-* Turnierfunktionen und Leitern, regional und global
-* Matchmaking nach Region oder Rang
-* Serverüberprüfung
-* Zuschauermodus und Wiederholungen
-* Benutzerdefinierte Themen, Sounds und Musik
-* Unterstützung für Android, iOS und Browser
 
 ## Lizenz
 Robert Matthew Pelloni ist der Urheber dieses Software zum Zwecke des Urheberrechts. Alle Rechte vorbehalten.<br />

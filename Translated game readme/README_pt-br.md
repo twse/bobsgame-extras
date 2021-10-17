@@ -20,16 +20,6 @@ Isso significa que **não há forks**, exceto para criar solicitações pull!
 
 ## MODO MULTIJOGADOR LOCAL/ONLINE DE MODO MISTO
 
-## CÓDIGO FONTE DISPONÍVEL
-
-## ESCRITO EM C++
-
-## BAIXAR AGORA!
-
-## Este jogo é desenvolvido ativamente. Novos recursos estão sendo adicionados constantemente e erros acontecerão.
-
-http://www.bobcorporation.com (Site principal) (linque em inglês)
-
 [O artigo da Wikipedia en aguardando (linque em inglês)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), ajude a revisar a entrada atual, pois não tenho permissão.
 
 O **bob's game** (do infame RPG próximo *"bob's game"*) é um jogo da quebra-cabeça multijogador - mas não apenas qualquer jogo de quebra-cabeça, **CADA jogo de quebra-cabeça!** É um jogo de quebra-cabeça construído com um criador de jogos de quebra-cabeça onde VOCÊ define todas as regras para o seu próprio jogo personalizado!
@@ -46,24 +36,8 @@ O **bob's game** está em constante evolução com novos pacotes de temas, novas
 
 O **bob's game** atualmente suporta quantos jogadores locais ou de rede você quiser, multijogador local/de rede, integração com o Facebook, suporte a controlador de jogos e muito mais.
 
-Ele será continuamente atualizado para Windows, Mac, Linux, o navegador da Web, Android, iPhone e possivelmente Nintendo Switch e PlayStation 4.
-
-Ele também terá o código-fonte disponível no GitHub para que ele possa se transformar em uma plataforma de torneio padrão para todos os jogos de quebra-cabeça!
-
-**O bob's game não está pronto - é bastante jogável, mas estou adicionando ativamente muitos outros recursos.**
-
-## Próxima lista de recursos:
-* Muitos mais recursos, modos e metas do modo de jogo
-* Melhor lobby multijogador com chat
-* Recursos e escadas de torneios, regionais e globãis
-* Matchmaking por região ou rank
-* Verificação do servidor
-* Modo espectador, replays, replay do desafio
-* Temas, sons e músicas personalizadas
-* Soporte para Android, iOS e navegador Web
-
 # Licença
-Robert Matthew Pelloni é o autor deste software para fins de direitos autorais. Todos os direitos reservados.<br />
+Robert Matthew Pelloni é o autor deste programa para fins de direitos autorais. Todos os direitos reservados.<br />
 Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® é uma marca registrada do Robert Pelloni.
 
 A redistribuição e uso na forma de código-fonte e formato binário, com ou sem modificação, são permitidos desde que as seguintes condições sejam atendidas:
