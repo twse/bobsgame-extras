@@ -1,4 +1,4 @@
-﻿This folder may contain the following software:
+﻿Diese Ordner kann die folgende Software enthalten:
 
 1. APMT
    - – Lizenz: IBM EWS
@@ -293,4 +293,4 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1996 CodeSmith Software
 
-For full legal notices, contributor and translator lists, please visit https://bobsgame.fandom.com/wiki/Extras
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
