@@ -14,13 +14,13 @@
    - – Licence : GPL 2.0
    - – Avis de copyright : Copyright (c) 1995-2017 Nikolay Kolosov
 5. BKVIEW
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1993 Gary L. Robinson
 6. Fast List
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1996 Russ Weathersby
 7. HyperView
-   - – Licence : Shareware
+   - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1994-1996 Michael H. Shacter
 8. Jargon
    - – Licence : Libre
@@ -29,16 +29,16 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1994 Martin Thierer
 10. L2
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1992-1993 A. Donnie Hale, Jr.
 11. LIST
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1983-2005 Vernon D. Buerg
 12. ListPM
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1996 Paul Elliott
 13. LOOK2
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996-1997 Gary Bourque
 14. LST
     - – Licence : Libre
@@ -47,7 +47,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1996 Mike Lastucka
 16. Structure Look
-    - – Licence : Shareware
+    - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997-1999 Eugene Suslikov
 17. TextView
     - – Licence : Libre
