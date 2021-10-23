@@ -1,9 +1,3 @@
-**bob's game** est une « source disponible » et « libre comme dans la bière » mais ne pas "source ouvrir" et "libre comme dans la discours" (pour le moment).
-
-Cela signifie **pas de forks** sauf pour créer requêtes pull !
-
---
-
 # *bob's game* est :
 
 ## *LE PLUS GRAND JEU DE PUZZLE JAMAIS RÉALISÉ*

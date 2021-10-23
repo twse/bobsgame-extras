@@ -1,9 +1,3 @@
-**bob's game** is "bron beschikbaar" en "gratis als in bier", maar niet "Open Source" en "gratis als in spraak" (nog).
-
-Dat betekent **geen vorken** behalve om pull-aanvragen te maken!
- 
---
- 
 # *bob's game* is:
  
 ## *DE BESTE PUZZELSPEL OOIT GEMAAKT*

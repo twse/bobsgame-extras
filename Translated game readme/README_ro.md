@@ -1,9 +1,3 @@
-**bob's game** este „sursă disponibilă“ și „liberă ca în bere“, dar nu „open source“ și „liberă ca în discurs“ (încă).
-
-Asta înseamnă că **nu există furci** decât să creezi cereri de tragere!
-
---
-
 # *bob's game* este:
 
 ## CEL MAI MARE JOC DE PUZZLE FĂCUT VREODATĂ

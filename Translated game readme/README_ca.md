@@ -1,9 +1,3 @@
-**bob's game** és "font disponible" i "lliure com a cervesa", però no "codi obert" i "lliure com a parla" (encara).
-
-Això significa que **no hi ha forquilles**, excepte per crear sol·licituds de tracció!
-
---
-
 # *bob's game* és:
 
 ## *EL MAJOR JOC DE TRENCACLOSQUES MAI FET*

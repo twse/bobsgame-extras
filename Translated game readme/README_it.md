@@ -1,9 +1,3 @@
-**bob's game** è "sorgente disponibile" e "gratuito come nella birra" ma non "Open Source" e "libero come nel discorso" (ancora).
-
-Ciò significa che **non ci sono forcelle** se non per creare richieste pull!
-
---
-
 # *bob's game* è:
 
 ## *IL PIÙ GRANDE PUZZLE GAME MAI REALIZZATO*

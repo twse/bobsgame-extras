@@ -1,9 +1,3 @@
-**bob's game** ist "Quelle verfügbar" und "frei wie im Bier", aber nicht "Open Source" und "frei wie in Sprache" (noch).
-
-Das heißt, **keine Gabeln** außer Pull-Requests erstellen!
- 
---
- 
 # *bob's game* ist:
  
 ## *DAS GRÖẞTE PUZZLE-SPIEL ALLER ZEITEN*
@@ -36,7 +30,7 @@ Erstelle deine eigenen Puzzle-Modi! Erfinde eigene Regelsätze oder fordere dein
 
 **bob's game** unterstützt derzeit beliebig viele lokale oder Netzwerkspieler, gemischten lokalen/Netzwerk-Multiplayer-Modus, Facebook-Integration, Unterstützung für Game-Controller und mehr.
 
-## Lizenz
+# Lizenz
 Robert Matthew Pelloni ist der Urheber dieses Software zum Zwecke des Urheberrechts. Alle Rechte vorbehalten.<br />
 Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® ist eine eingetragene Marke von Robert Pelloni.
 

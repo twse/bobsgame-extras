@@ -1,9 +1,3 @@
-O **bob's game** é "fonte disponível" e "livre como na cerveja" mas não "código aberto" e "livre como na discurso" (ainda).
-
-Isso significa que **não há forks**, exceto para criar solicitações pull!
-
---
-
 # O *bob's game* é:
 
 ## *O MAIOR JOGO DE QUEBRA-CABEÇA JÁ FEITO*
