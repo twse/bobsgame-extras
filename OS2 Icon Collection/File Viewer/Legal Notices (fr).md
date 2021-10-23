@@ -5,7 +5,7 @@
    - – Avis de copyright : Copyright (c) 1994 Bill Weschke
 2. Acrobat Reader
    - – Licence : Libre
-   - – Avis de copyright : Copyright (c) 1984-2021 Adobe Systems Incorporated, see credits for the program up to Adobe Reader XI or plugins in old versions.
+   - – Avis de copyright : Copyright (c) 1984-2021 Adobe Systems Incorporated
 3. Antiword
    - – Licence : GPL 2.0
    - – Avis de copyright : Copyright (c) 1998-2005 Adriaan van Os

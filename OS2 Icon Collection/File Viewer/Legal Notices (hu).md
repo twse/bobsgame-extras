@@ -5,7 +5,7 @@
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1994 Bill Weschke
 2. Acrobat Reader
    - – Licenc: Szabad
-   - – Szerzői jogi figyelmeztetés: Copyright (c) 1984-2021 Adobe Systems Incorporated, see credits for the program up to Adobe Reader XI or plugins in old versions.
+   - – Szerzői jogi figyelmeztetés: Copyright (c) 1984-2021 Adobe Systems Incorporated
 3. Antiword
    - – Licenc: GPL 2.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2005 Adriaan van Os
