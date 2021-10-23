@@ -51,7 +51,7 @@
     - – Download Site : http://www.jaread.net/
 16. FocusWriter
     - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 2008-2019 Graeme Gott
+    - – Copyright Notice : Copyright (c) 2008-2021 Graeme Gott
     - – Download Site : https://gottcode.org/
 17. Future Wave Editor
     - – License : Shareware

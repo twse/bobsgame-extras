@@ -51,7 +51,7 @@ Acest folder poate conține următorul software:
     - – Site-ul de download: http://www.jaread.net/
 16. FocusWriter
     - – Licență: GPL 3.0
-    - – Aviz de copyright: Copyright (c) 2008-2019 Graeme Gott
+    - – Aviz de copyright: Copyright (c) 2008-2021 Graeme Gott
     - – Site-ul de download: https://gottcode.org/ (legătură în limba engleza)
 17. Future Wave Editor
     - – Licență: Shareware

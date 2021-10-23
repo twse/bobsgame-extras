@@ -51,7 +51,7 @@
     - – Letöltési hely: http://www.jaread.net/ (angol nyelvem)
 16. FocusWriter
     - – Licenc: GPL 3.0
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 2008-2019 Graeme Gott
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 2008-2021 Graeme Gott
     - – Letöltési hely: https://gottcode.org/ (angol nyelvem)
 17. Future Wave Editor
     - – Licenc: Shareware

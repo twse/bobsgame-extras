@@ -51,7 +51,7 @@
     - – Nedladdningssida: http://www.jaread.net/ (link på engelska)
 16. FocusWriter
     - – Licens: GPL 3.0
-    - – Copyrightmeddelande: Copyright (c) 2008-2019 Graeme Gott
+    - – Copyrightmeddelande: Copyright (c) 2008-2021 Graeme Gott
     - – Nedladdningssida: https://gottcode.org/ (link på engelska)
 17. Future Wave Editor
     - – Licens: Shareware

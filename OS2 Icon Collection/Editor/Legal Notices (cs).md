@@ -51,7 +51,7 @@
     - – Server pro stahování: http://www.jaread.net/
 16. FocusWriter
     - – Licence: GPL 3.0
-    - – Upozornění na autorská práva: Copyright (c) 2008-2019 Graeme Gott
+    - – Upozornění na autorská práva: Copyright (c) 2008-2021 Graeme Gott
     - – Server pro stahování: https://gottcode.org/ (odkaz v angličtina)
 17. Future Wave Editor
     - – Licence: Shareware
