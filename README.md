@@ -228,7 +228,7 @@ You should have received a copy of the GNU General Public License along with thi
 * Brian Mathis
 * Scott Maxwell
 * Daniel McCarthy
-* Mike McCollister
+* Michael J. McCollister
 * Maurizio Moretti
 * Doug Morrison
 * Hal Mueller
