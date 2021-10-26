@@ -109,7 +109,7 @@ For use with the Windows XP version of [BootSkin](https://www.stardock.com/produ
 ## Palm OS Emulator Skin
 Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with [PMView](https://www.pmview.com/).
 
-This skin can be used with the emulators listed below. Robert Matthew Pelloni is not the original author of these emulators. The original copyright notice and the license and contributor list is set forth below. Robert Pelloni licenses these emulators to you under the terms set forth in the BSD-style BobCorporation license agreement. Robert Matthew Pelloni reserves all rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
+This skin can be used with the emulators listed below. Robert Matthew Pelloni is not the original author of these emulators. The original copyright notice, license and contributor list is set forth below.
 
 ### Palm OS Emulator aka Copilot
 Copyright © 1998-2002 Palm, Inc.
