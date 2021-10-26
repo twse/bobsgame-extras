@@ -255,7 +255,7 @@
     - – Aviso de derechos de autor: Copyright (c) 1997-2012 Kai-Uwe Rommel
 82. Netscape
     - – Licencia: MPL 2.0
-    - – Aviso de derechos de autor: Copyright (c) 1997-2008 Colaboradores de la base de código de Mozilla y todos los demás en IBM que trabajaron en el puerto OS/2, ver la carrera de desarrolladores en about:authors.
+    - – Aviso de derechos de autor: Copyright (c) 1997-2008 Colaboradores de la base de código de Mozilla
     - – Sitio de descarga: http://sillydog.org/narchive/full123.php (enlace en inglés)
 83. NetUse
     - – Licencia: GPL 2.0

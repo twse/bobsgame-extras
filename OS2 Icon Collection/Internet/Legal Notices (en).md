@@ -255,7 +255,7 @@
     - – Copyright Notice : Copyright (c) 1997-2012 Kai-Uwe Rommel
 82. Netscape
     - – License : MPL 2.0
-    - – Copyright Notice : Copyright (c) 1997-2008 Contributors to the Mozilla codebase and everyone else at IBM who worked on the OS/2 port, see the developer race at about:authors.
+    - – Copyright Notice : Copyright (c) 1997-2008 Contributors to the Mozilla codebase
     - – Download Site : http://sillydog.org/narchive/full123.php
 83. NetUse
     - – License : GPL 2.0
