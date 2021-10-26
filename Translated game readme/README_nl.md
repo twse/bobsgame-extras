@@ -33,17 +33,3 @@ Maak je eigen puzzelmodi! Bedenk aangepaste regels of daag je vrienden uit voor 
 # License
 Robert Matthew Pelloni is de auteur van deze software met betrekking tot het recht van de auteur. Alle rechten voorbehouden.<br />
 Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® is een geregistreerd handelsmerk van Robert Pelloni.
-
-Herdistributie en gebruik in bronvorm en in binaire vorm, met of zonder wijziging, zijn toegestaan op voorwaarde dat aan de volgende voorwaarden wordt voldaan:
-
-1. Herdistributies van de broncode moet de bovenstaande copyrightkennisgeving, deze lijst met voorwaarden en de volgende disclaimer bevatten.
-
-2. Herdistributies in binaire vorm moeten de bovenstaande copyrightkennisgeving, deze lijst met voorwaarden en de volgende disclaimer reproduceren in de documentatie en/of andere materialen die bij de distributie worden geleverd.
-
-3. U mag de broncode van bob's game niet distribueren of binair uitvoeren of afgeleide werken van de broncode onder een andere naam produceren. Herdistributies van broncode of binaire vorm moeten bob's game worden genoemd.
-
-4. U mag de broncode of het binaire bestand niet distribueren of gebruiken voor winst of inkomsten, inclusief inkomsten uit advertenties, toernooien, enz. Alle herdelingen en gebruik moeten volledig kosteloos worden verstrekt. Let's Play-video's of andere streamingvideo's zijn vrijgesteld en kunnen advertentie-inkomsten bevatten.
-
-5. U mag geen vork of unieke herdistributie van de bob's game-broncode maken en behouden, behalve voor een GitHub-vork met het doel trekkingsverzoeken in te dienen en niet om onafhankelijk te worden gedistribueerd. De bedoeling van de bob's game-broncode-release is dat de community bugfixes en -aanvullingen kan indienen bij het hoofdproject.
-
-DEZE SOFTWARE WORDT GELEVERD “ZOALS ZE IS” DOOR HOUDERS VAN AUTEURSRECHTEN EN BIJDRAGERS EN ALLE EXPLICIETE OF IMPLICIETE GARANTIES VAN VERKOOPBAARHEID EN GESCHIKTHEID VOOR EEN BEPAALD DOEL ZIJN UITGESLOTEN. IN GEEN GEVAL KAN DE AUTEURSRECHTHEBBENDE OF CONTRIBUANTEN AANSPRAKELIJK WORDEN GESTELD VOOR ENIGE DIRECTE, INDIRECTE, INCIDENTELE, SPECIALE, VOORBEELDIGE OF VERVOLGSCHADE (INCLUSIEF MAAR NIET BEPERKT TOT HET LEVEREN VAN GOEDEREN OF DIENSTEN VAN VERVANGING, VERLIES VAN GEBRUIK, GEGEVENS OF WINST, OF DE ONDERBREKING VAN UITBUITING) ONGEACHT DE OORZAAK EN VOLGENS ELKE AANSPRAKELIJKHEIDSTHEORIE, CONTRACTUEEL, ABSOLUUT OF CRIMINEEL (INCLUSIEF NALATIGHEID OF ANDERE) DIE NIET VOORTVLOEIEN UIT HET GEBRUIK VAN DEZE SOFTWARE, ZELFS ALS DEZE OP DE HOOGTE IS GESTELD VAN DE MOGELIJKHEID VAN DERGELIJKE SCHADE.

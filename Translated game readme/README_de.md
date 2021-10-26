@@ -33,17 +33,3 @@ Erstelle deine eigenen Puzzle-Modi! Erfinde eigene Regelsätze oder fordere dein
 # Lizenz
 Robert Matthew Pelloni ist der Urheber dieses Software zum Zwecke des Urheberrechts. Alle Rechte vorbehalten.<br />
 Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob’s game® ist eine eingetragene Marke von Robert Pelloni.
-
-Umverteilungen und Verwendung in Quellform und in binärer Form mit oder ohne Modifikation ist zulässig, sofern die folgenden Bedingungen erfüllt sind:
-
-1. Umverteilungen von Quellcode müssen der obige Copyright-Hinweis, diese Liste der Bedingungen und der folgende Haftungsausschluss enthalten.
-
-2. Umverteilungen in binärer Form müssen der obige Copyright-Hinweis, diese Liste der Bedingungen und der folgende Haftungsausschluss in der Dokumentation und/oder anderen mit der Verteilung bereitgestellten Materialien wiedergegeben werden.
-
-3. Sie dürfen den bob’s game-Quellcode oder die Binärdatei nicht verteilen oder aus seinem Quellcode abgeleitete Werke unter einem anderen Namen erstellen. Umverteilungen von Quellcode oder binärer Form müssen bob’s game genannt werden.
-
-4. Sie dürfen den Quellcode oder das binäre Programm nicht für Gewinne oder Einnahmen, einschließlich Einnahmen aus Werbung, Turnieren usw., verteilen oder verwenden. Alle Umverteilungen und Verwendungen müssen völlig kostenlos bereitgestellt werden. „Let’s Play“ (Spielen wir)-Videos oder andere Streaming-Videos sind ausgenommen und können Werbeeinnahmen enthalten.
-
-5. Sie dürfen keine Verzweigung oder eindeutige Umverteilung des bob’s game-Quellcodes erstellen und verwalten, mit Ausnahme eines GitHub-Zweigs, um Pull-Anforderungen zu senden, die nicht unabhängig voneinander verteilt werden. Das bob’s game-Quellcode-Release hat zum Ziel, dass die Community Bugfixes und Ergänzungen zum Hauptprojekt einreichen kann.
-
-DIESE SOFTWARE WIRD VON DEN INHABERN DES URHEBERRECHTS UND DEN MITWIRKENDEN „WIE BESEHEN“ ZUR VERFÜGUNG GESTELLT. JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG, EINSCHLIEẞLICH, ABER NICHT BESCHRÄNKT AUF, IMPLIZITE GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT UND DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK SIND AUSGESCHLOSSEN. DER URHEBERRECHTSINHABER ODER DIE URHEBERRECHTSEMPFÄNGER HAFTEN UNTER KEINEN UMSTÄNDEN FÜR DIREKTE, INDIREKTE, ZUFÄLLIGE, BESONDERE, BEISPIELHAFTE ODER FOLGESCHÄDEN (EINSCHLIEẞLICH, ABER NICHT BESCHRÄNKT AUF DIE LIEFERUNG VON WAREN ODER DIENSTLEISTUNGEN VON SUBSTITUTION, VERLUST DER NUTZUNG, DATEN ODER GEWINNE ODER UNTERBRECHUNG DER NUTZUNG), UNABHÄNGIG VON DER URSACHE UND NACH EINER ETWAIGEN VERTRAGLICHEN, ABSOLUTEN ODER KRIMINELLEN VERANTWORTLICHKEITSTHEORIE (EINSCHLIEẞLICH FAHRLÄSSIGKEIT ODER SONSTIGER GRÜNDE), DIE NICHT AUS DER VERWENDUNG DIESER SOFTWARE RESULTIEREN, AUCH WENN IHR DIE MÖGLICHKEIT SOLCHER SCHÄDEN BEKANNT GEGEBEN WURDE.

@@ -33,17 +33,3 @@ O **bob's game** atualmente suporta quantos jogadores locais ou de rede você qu
 # Licença
 Robert Matthew Pelloni é o autor deste programa para fins de direitos autorais. Todos os direitos reservados.<br />
 Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® é uma marca registrada do Robert Pelloni.
-
-A redistribuição e uso na forma de código-fonte e formato binário, com ou sem modificação, são permitidos desde que as seguintes condições sejam atendidas:
-
-1. A redistribuição do código-fonte deve conter o aviso de copyright acima, esta lista de condições e o seguinte aviso.
-
-2. As redistribuições em formato binário devem reproduzir o aviso de copyright acima, esta lista de condições e o seguinte aviso na documentação e/ou em outros materiais fornecidos com a distribuição.
-
-3. Você não pode distribuir o código-fonte ou binário do bob's game ou produzir qualquer trabalho derivado de seu código-fonte sob outro nome. As redistribuições do código-fonte ou formato binário devem ser chamados "bob's game".
-
-4. Você não pode distribuir ou usar o código-fonte ou binário para obter lucro ou receita, incluindo receita de publicidade, torneios, etc. Todas as redistribuições e usos devem ser fornecidos gratuitamente. Os vídeos “Let’s Play” (vamos a jogar) ou outros vídeos de streaming estão isentos e podem incluir receita de publicidade.
-
-5. Você não pode criar e manter um fork ou redistribuição exclusiva do código-fonte do bob's game, com exceção de um fork do GitHub com a finalidade en enviar solicitações pull, para não sera distribuído independemente. A intenção do lançamento do código-fonte do bob's game é para que sua comunidade possa enviar correções de erros e adições ao projeto principal.
-
-ESTE SOFTWARE É FORNECIDO "COMO ESTÁ" POR DETENTORES DE DIREITOS AUTORAIS E COLABORADORES E QUAISQUER GARANTIAS EXPRESSAS OU IMPLÍCITAS, INCLUINDO, MAS NÃO SE LIMITANDO A, GARANTIAS IMPLÍCITAS DE COMERCIALIZAÇÃO E ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA SÃO EXCLUÍDAS. SOB NENHUMA CIRCUNSTÂNCIA O DETENTOR DOS DIREITOS AUTORAIS OU COLABORADORES SERÁ RESPONSABILIZADO POR QUAISQUER DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS, EXEMPLARES OU CONSEQUENTES (INCLUINDO, MAS NÃO SE LIMITANDO A, PRESTAÇÃO DO FORNECIMENTO DE BENS OU SERVIÇOS DE SUSTITUIÇÃO, PERDA DE USO, DADOS OU LUCROS, OU INTERRUPÇÃO DA EXPLORAÇÃO) QUALQUER QUE SEJA A CAUSA E DE ACORDO COM QUALQUER TEORIA DE RESPONSABILIDADE, SEJA CONTRATUAL, ABSOLUTA OU DELITIVA (INCLUINDO NEGLIGÊNCIA OU OUTRA) NÃO DECORRENTE DO USO DESTE SOFTWARE, MESMO QUE TENHA SIDO INFORMADA SOBRE A POSSIBILIDADE DE TAIS DANOS.

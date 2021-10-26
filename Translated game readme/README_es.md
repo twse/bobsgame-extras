@@ -33,17 +33,3 @@ Actualmente, **bob's game** admite tantos jugadores locales o de red como quiera
 # Licencia
 Robert Matthew Pelloni es el autor de este programa con fines de derechos de autor. Todos los derechos reservados.<br />
 Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® es una marca registrada de Robert Pelloni.
-
-La redistribución y el uso en formato fuente y en formato binario, con o sin modificación, están permitidos sujetos a las siguientes condiciones:
-
-1. La redistribución del código fuente debe contener el aviso de copyright anterior, esta lista de condiciones y la siguiente exención de responsabilidad.
-
-2. Las redistribuciones en formato binario deben reproducir el aviso de copyright anterior, esta lista de condiciones y la siguiente exención de responsabilidad en la documentación y/u otros materiales proporcionados con la distribución.
-
-3. No puede distribuir el código fuente o el binario del bob's game ni producir ningún trabajo derivado de su código fuente con otro nombre. Las redistribuciones de código fuente o formato binario deben llamarse “bob’s game”.
-
-4. No puede distribuir o usar el código fuente o el binario para obtener ganancias o ingresos, incluidos los ingresos de publicidad, torneos, etc. Todas las redistribuciones y usos deben proporcionarse de manera totalmente gratuita. Los videos “Let’s Play” (Vamos a jugar) u otros videos de transmisión están exentos y pueden incluir ingresos publicitarios.
-
-5. No puede crear y mantener un fork o una redistribución única del código fuente del bob’s game, excepto un tenedor GitHub con el propósito de enviar solicitudes de extracción, que no se distribuyan de manera independiente. La intención del lanzamiento del código fuente del bob’s game es que su comunidad pueda enviar correcciones de errores y adiciones al proyecto principal.
-
-LOS TITULARES DE DERECHOS DE AUTOR Y LOS CONTRIBUYENTES PROPORCIONA ESTE SOFTWARE "TAL CUAL" Y SE EXCLUYEN TODAS LAS GARANTÍAS EXPLÍCITAS O IMPLÍCITAS, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD E IDONEIDAD PARA UN FIN DETERMINADO. BAJO NINGUNA CIRCUNSTANCIA EL TITULAR DE LOS DERECHOS DE AUTOR O LOS CONTRIBUYENTES SERÁN RESPONSABLES DE NINGÚN DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR O CONSECUENTE (INCLUYENDO, ENTRE OTROS, LA PROVISIÓN DEL SUMINISTRO DE BIENES O SERVICIOS DE SUSTITUCIÓN, LA PÉRDIDA DE USO, DATOS O BENEFICIOS, O LA INTERRUPCIÓN DE LA EXPLOTACIÓN) CUALQUIERA QUE SEA LA CAUSA Y SEGÚN CUALQUIER TEORÍA DE LA RESPONSABILIDAD, YA SEA CONTRACTUAL, ABSOLUTA O CRIMINAL (INCLUYENDO NEGLIGENCIA U OTRA) QUE NO SURJA DEL USO DE ESTE SOFTWARE, INCLUSO SI SE HA INFORMADO DE LA POSIBILIDAD DE DICHOS DAÑOS.
