@@ -126,7 +126,7 @@
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1992 John K. Gotwals
 42. RSJ CD Writer
-    - – Licenc: Jogvédett
+    - – Licenc: Kereskeledmi
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2002 RSJ
 43. RxLVM
     - – Licenc: BSD 3-klauzula

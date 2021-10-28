@@ -34,7 +34,7 @@
     - – Licenc: IBM EWS
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993-1994 Dan Kehn, Diana Soost
 12. Excel
-    - – Licenc: Jogvédett
+    - – Licenc: Kereskeledmi
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1987-2021 Microsoft Corporation
 13. Filer
     - – Licenc: Shareware
@@ -74,7 +74,7 @@
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2008 Elad Lahav
 24. Relish
-    - – Licenc: Jogvédett
+    - – Licenc: Kereskeledmi
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2004 Sundial Systems
 25. Remind
     - – Licenc: GPL 2.0
@@ -140,7 +140,7 @@
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996 Patrick Schulte
 45. Word
-    - – Licenc: Jogvédett
+    - – Licenc: Kereskeledmi
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1983-2021 Microsoft Corporation
 46. Yrolo
     - – Licenc: Szabad

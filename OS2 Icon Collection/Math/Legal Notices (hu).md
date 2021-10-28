@@ -35,7 +35,7 @@
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Sean Ryan
 12. GammaSun
-    - – Licenc: Jogvédett
+    - – Licenc: Kereskeledmi
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Reinhard Alt
 13. gnuplot
     - – Licenc: Szabad
