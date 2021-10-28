@@ -95,13 +95,3 @@ Meno softvér
 * – Server pro stáhovanie:
 
 Pre úplné právne upozornenia, prispievateľ a prekladateľ zoznamy, prosím, navštívte https://bobsgame.fandom.com/wiki/Extras (link v angličtina)
-
-### Turkish
-Bu klasör aşağıdaki yazılımı içerebilir:
-
-Ad yazılımı
-* – Lisans:
-* – Telif Hakkı Bildirimi:
-* – İndirme Sitesi:
-
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
