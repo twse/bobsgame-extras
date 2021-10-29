@@ -19,7 +19,7 @@
 6. CD2MP3, CD2MP3PM, CD-ROM Speed Tester
    - – Licenze: Libre
    - – Avviso di copyright: Copyright (c) 1998-2001 Samuel Audet
-   - – Sito di download: https://nova.polymtl.ca/~guardia/cd2mp3pm.php o https://nova.polymtl.ca/~guardia/smallutils.php (link in inglese)
+   - – Sito di download: https://nova.polymtl.ca/~guardia/cd2mp3pm.php (link in inglese) o https://nova.polymtl.ca/~guardia/smallutils.php (link in inglese)
 7. CDIndex
    - – Licenze: Libre
    - – Avviso di copyright: Copyright (c) 1998 Ingo Böttcher
@@ -42,7 +42,7 @@
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1999 Jeroen van den Horn
 14. Leech
-    - – Licenze: Cardware
+    - – Licenze: Postale
     - – Avviso di copyright: Copyright (c) 1998 Mads Orbesen Troest (SIRIUS Cybernetics)
 15. lsdvd
     - – Licenze: GPL 2.0

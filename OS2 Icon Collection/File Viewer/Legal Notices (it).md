@@ -1,7 +1,7 @@
 ﻿Questa cartella può contenere il seguente software:
 
 1. A_TYPE/2
-   - – Licenze: Cardware
+   - – Licenze: Postale
    - – Avviso di copyright: Copyright (c) 1994 Bill Weschke
 2. Acrobat Reader
    - – Licenze: Libre

@@ -17,7 +17,7 @@
    - – Licenze: Libre
    - – Avviso di copyright: Copyright (c) 1998-2001 Daniel Jorge Caetano
 6. Bandit Convert, Bandit Tagger
-   - – Licenze: Cardware
+   - – Licenze: Postale
    - – Avviso di copyright: Copyright (c) 1997 FA Partner
 7. Binary Newsreader
    - – Licenze: Shareware
@@ -52,7 +52,7 @@
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1997-2000 Keith Cotroneo
 17. DragURL'Base
-    - – Licenze: Cardware
+    - – Licenze: Postale
     - – Avviso di copyright: Copyright (c) 1998 UltiHouse Software B.V.
 18. EHTML
     - – Licenze: Libre
