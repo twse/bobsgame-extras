@@ -102,7 +102,7 @@
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1993 Custom Design Software
 32. ZiPMe
-    - – Lizenz: Cardware
+    - – Lizenz: Postalisch
     - – Copyright-Hinweise: Copyright (c) 1995-1996 Peter Eggert
 33. Zippy
     - – Lizenz: Shareware

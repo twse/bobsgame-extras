@@ -72,7 +72,7 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2003 Alex Samorukov
 23. iEdit
-    - – Lizenz: Cardware
+    - – Lizenz: Postalisch
     - – Copyright-Hinweise: Copyright (c) 1995 Alexander Wilkens
 24. JED
     - – Lizenz: GPL 2.0

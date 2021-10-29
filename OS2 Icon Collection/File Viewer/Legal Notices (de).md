@@ -1,7 +1,7 @@
 ﻿Diese Ordner kann die folgende Software enthalten:
 
 1. A_TYPE/2
-   - – Lizenz: Cardware
+   - – Lizenz: Postalisch
    - – Copyright-Hinweise: Copyright (c) 1994 Bill Weschke
 2. Acrobat Reader
    - – Lizenz: Frei

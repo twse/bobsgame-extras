@@ -42,7 +42,7 @@
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1999 Jeroen van den Horn
 14. Leech
-    - – Lizenz: Cardware
+    - – Lizenz: Postalisch
     - – Copyright-Hinweise: Copyright (c) 1998 Mads Orbesen Troest (SIRIUS Cybernetics)
 15. lsdvd
     - – Lizenz: GPL 2.0
