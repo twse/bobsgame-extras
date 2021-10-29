@@ -85,13 +85,3 @@ For fullstendige juridiske merknader, bidragsyter- og oversetterlister, se https
 * – Скачать сайт:
 
 Для получения полных юридических уведомлений, списков участников и переводчиков, пожалуйста, посетите https://bobsgame.fandom.com/wiki/Extras (линк в англиский)
-
-### Slovak
-Tento priečinok môže obsahovať nasledujúci softvér:
-
-Meno softvér
-* – Licencia:
-* – Copyright upozornenie:
-* – Server pro stáhovanie:
-
-Pre úplné právne upozornenia, prispievateľ a prekladateľ zoznamy, prosím, navštívte https://bobsgame.fandom.com/wiki/Extras (link v angličtina)

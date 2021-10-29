@@ -33,7 +33,7 @@
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1996 Jeppe Cramon, Paul Czarny
 11. BMP2TEX
-    - – Licence: BSD 3-Clause
+    - – Licence: BSD 3-klauzule
     - – Upozornění na autorská práva: Copyright (c) 1994 Maurizio Giunti
 12. BMPVIEW
     - – Licence: Shareware
