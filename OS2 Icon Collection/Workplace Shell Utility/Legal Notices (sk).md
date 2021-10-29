@@ -84,7 +84,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 29. PM ThinkPad On Screen Display
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 2003 Serge Sterck, 2005 Jan van Wijk
-    - – Server pro stáhovanie: https://www.dfsee.com/download/index.php
+    - – Server pro stáhovanie: https://www.dfsee.com/download/index.php (link v angličtina)
 30. PMLock
     - – Licencia: Svobodné
 31. PMPause
@@ -117,7 +117,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 40. ScreenSaver
     - – Licencia: Shareware
     - – Upozornenie na autorských práva: Copyright (c) 1993-1996 Siegfried Hanisch
-    - – Server pro stáhovanie: https://www.hanisch.com/cms/index.php/home_en/screensaver_en/index.html
+    - – Server pro stáhovanie: https://www.hanisch.com/cms/index.php/home_en/screensaver_en/index.html (link v angličtina)
 41. Security/2
     - – Licencia: Svobodné dla nekomerčný použitie
     - – Upozornenie na autorských práva: Copyright (c) 2002-2007 Nikolay Kolosov
