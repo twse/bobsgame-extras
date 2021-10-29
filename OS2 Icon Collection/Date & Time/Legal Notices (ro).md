@@ -19,7 +19,7 @@ Acest folder poate conține următorul software:
    - – Licență: Gratis
    - – Aviz de copyright: Copyright (c) 1990 Mike Pitts
 7. Crazy Clock
-   - – Licență: Cardware
+   - – Licență: Poștal
    - – Aviz de copyright: Copyright (c) 1994-1995 Nicole Greiber
 8. Dayoyear
    - – Licență: Gratis
@@ -95,7 +95,7 @@ Acest folder poate conține următorul software:
     - – Licență: GPL 2.0
     - – Aviz de copyright: Copyright (c) 1996 Jeff Freedman
 32. Time Tracker
-    - – Licență: Cardware
+    - – Licență: Poștal
     - – Aviz de copyright: Copyright (c) 1998 Trevor Hemsley
 33. TIMETRAC
     - – Licență: GPL 2.0

@@ -122,7 +122,7 @@ Acest folder poate conține următorul software:
     - – Aviz de copyright: Copyright (c) 1998-2007 Thorsten Thielen
     - – Site-ul de download: http://www.c2226.de/programs/wanda/index.phtml (legătură în limba engleza)
 39. WarpCron
-    - – Licență: Cardware
+    - – Licență: Poștal
     - – Aviz de copyright: Copyright (c) 1998 Julian Buss
 40. WarpLog
     - – Licență: GPL 2.0

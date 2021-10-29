@@ -37,7 +37,7 @@ Acest folder poate conține următorul software:
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1997-2000 Roman Stangl
 12. SmartBar
-    - – Licență: Cardware
+    - – Licență: Poștal
     - – Aviz de copyright: Copyright (c) 2001 Alessandro Rossi
 13. Statbar
     - – Licență: Gratis

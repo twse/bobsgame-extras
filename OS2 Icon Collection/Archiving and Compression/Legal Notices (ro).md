@@ -102,7 +102,7 @@ Acest folder poate conține următorul software:
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1993 Custom Design Software
 32. ZiPMe
-    - – Licență: Cardware
+    - – Licență: Poștal
     - – Aviz de copyright: Copyright (c) 1995-1996 Peter Eggert
 33. Zippy
     - – Licență: Shareware

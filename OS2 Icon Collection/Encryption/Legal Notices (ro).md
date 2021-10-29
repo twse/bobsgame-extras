@@ -48,7 +48,7 @@ Acest folder poate conține următorul software:
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 2000 Daniel Hellerstein, Michal Nečásek
 16. RxCRC32
-    - – Licență: Cardware
+    - – Licență: Poștal
     - – Aviz de copyright: Copyright (c) 1998 Mads Orbesen Troest (SIRIUS Cybernetics)
 17. RXGWA
     - – Licență: Gratis

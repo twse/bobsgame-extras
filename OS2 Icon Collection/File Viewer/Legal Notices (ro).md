@@ -1,7 +1,7 @@
 Acest folder poate conține următorul software:
 
 1. A_TYPE/2
-   - – Licență: Cardware
+   - – Licență: Poștal
    - – Aviz de copyright: Copyright (c) 1994 Bill Weschke
 2. Acrobat Reader
    - – Licență: Gratis

@@ -42,7 +42,7 @@ Acest folder poate conține următorul software:
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1999 Jeroen van den Horn
 14. Leech
-    - – Licență: Cardware
+    - – Licență: Poștal
     - – Aviz de copyright: Copyright (c) 1998 Mads Orbesen Troest (SIRIUS Cybernetics)
 15. lsdvd
     - – Licență: GPL 2.0

@@ -168,7 +168,7 @@ Acest folder poate conține următorul software:
     - – Licență: BSD 3-Clause
     - – Aviz de copyright: Copyright (c) 1995 Leshek Fiedorowicz
 56. RxSwitchQuery
-    - – Licență: Cardware
+    - – Licență: Poștal
     - – Aviz de copyright: Copyright (c) 1997 Mads Orbesen Troest (SIRIUS Cybernetics)
 57. Stats
     - – Licență: Shareware
