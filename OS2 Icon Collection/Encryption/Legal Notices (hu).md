@@ -48,7 +48,7 @@
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2000 Daniel Hellerstein, Michal Nečásek
 16. RxCRC32
-    - – Licenc: Cardware
+    - – Licenc: Képeslap
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 Mads Orbesen Troest (SIRIUS Cybernetics)
 17. RXGWA
     - – Licenc: Szabad

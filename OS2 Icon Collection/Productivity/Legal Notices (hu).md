@@ -122,7 +122,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2007 Thorsten Thielen
     - – Letöltési hely: http://www.c2226.de/programs/wanda/index.phtml (angol nyelvem)
 39. WarpCron
-    - – Licenc: Cardware
+    - – Licenc: Képeslap
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 Julian Buss
 40. WarpLog
     - – Licenc: GPL 2.0

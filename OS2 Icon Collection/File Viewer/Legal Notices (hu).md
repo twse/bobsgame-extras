@@ -1,7 +1,7 @@
 ﻿Ez a mappa a következő szoftvereket tartalmazhatja:
 
 1. A_TYPE/2
-   - – Licenc: Cardware
+   - – Licenc: Képeslap
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1994 Bill Weschke
 2. Acrobat Reader
    - – Licenc: Szabad

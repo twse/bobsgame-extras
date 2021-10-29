@@ -37,7 +37,7 @@
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2000 Roman Stangl
 12. SmartBar
-    - – Licenc: Cardware
+    - – Licenc: Képeslap
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2001 Alessandro Rossi
 13. Statbar
     - – Licenc: Szabad

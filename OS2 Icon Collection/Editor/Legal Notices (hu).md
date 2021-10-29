@@ -72,7 +72,7 @@
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2003 Alex Samorukov
 23. iEdit
-    - – Licenc: Cardware
+    - – Licenc: Képeslap
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Alexander Wilkens
 24. JED
     - – Licenc: GPL 2.0

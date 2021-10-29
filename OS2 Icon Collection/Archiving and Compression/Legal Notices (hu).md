@@ -102,7 +102,7 @@
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993 Custom Design Software
 32. ZiPMe
-    - – Licenc: Cardware
+    - – Licenc: Képeslap
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-1996 Peter Eggert
 33. Zippy
     - – Licenc: Shareware

@@ -168,7 +168,7 @@
     - – Licenc: BSD 3-klauzula
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Leshek Fiedorowicz
 56. RxSwitchQuery
-    - – Licenc: Cardware
+    - – Licenc: Képeslap
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Mads Orbesen Troest (SIRIUS Cybernetics)
 57. Stats
     - – Licenc: Shareware
