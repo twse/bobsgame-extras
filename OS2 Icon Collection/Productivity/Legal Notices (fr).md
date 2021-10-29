@@ -122,7 +122,7 @@
     - – Avis de copyright : Copyright (c) 1998-2007 Thorsten Thielen
     - – Site de téléchargement : http://www.c2226.de/programs/wanda/index.phtml (lien en anglais)
 39. WarpCron
-    - – Licence : Cardware
+    - – Licence : Postale
     - – Avis de copyright : Copyright (c) 1998 Julian Buss
 40. WarpLog
     - – Licence : GPL 2.0

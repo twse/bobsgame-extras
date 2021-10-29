@@ -37,7 +37,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1997-2000 Roman Stangl
 12. SmartBar
-    - – Licence : Cardware
+    - – Licence : Postale
     - – Avis de copyright : Copyright (c) 2001 Alessandro Rossi
 13. Statbar
     - – Licence : Libre

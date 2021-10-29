@@ -19,7 +19,7 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1990 Mike Pitts
 7. Crazy Clock
-   - – Licence : Cardware
+   - – Licence : Postale
    - – Avis de copyright : Copyright (c) 1994-1995 Nicole Greiber
 8. Dayoyear
    - – Licence : Libre
@@ -95,7 +95,7 @@
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1996 Jeff Freedman
 32. Time Tracker
-    - – Licence : Cardware
+    - – Licence : Postale
     - – Avis de copyright : Copyright (c) 1998 Trevor Hemsley
 33. TIMETRAC
     - – Licence : GPL 2.0

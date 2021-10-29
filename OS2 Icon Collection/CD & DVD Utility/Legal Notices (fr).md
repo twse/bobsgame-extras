@@ -42,7 +42,7 @@
     - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1999 Jeroen van den Horn
 14. Leech
-    - – Licence : Cardware
+    - – Licence : Postale
     - – Avis de copyright : Copyright (c) 1998 Mads Orbesen Troest (SIRIUS Cybernetics)
 15. lsdvd
     - – Licence : GPL 2.0

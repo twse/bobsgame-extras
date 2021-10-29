@@ -48,7 +48,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2000 Daniel Hellerstein, Michal Nečásek
 16. RxCRC32
-    - – Licence : Cardware
+    - – Licence : Postale
     - – Avis de copyright : Copyright (c) 1998 Mads Orbesen Troest (SIRIUS Cybernetics)
 17. RXGWA
     - – Licence : Libre

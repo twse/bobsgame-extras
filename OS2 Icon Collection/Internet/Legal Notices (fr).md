@@ -17,7 +17,7 @@
    - – Licence : Libre
    - – Avis de copyright : Copyright (c) 1998-2001 Daniel Jorge Caetano
 6. Bandit Convert, Bandit Tagger
-   - – Licence : Cardware
+   - – Licence : Postale
    - – Avis de copyright : Copyright (c) 1997 FA Partner
 7. Binary Newsreader
    - – Licence : Partagiciel
@@ -52,7 +52,7 @@
     - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1997-2000 Keith Cotroneo
 17. DragURL'Base
-    - – Licence : Cardware
+    - – Licence : Postale
     - – Avis de copyright : Copyright (c) 1998 UltiHouse Software B.V.
 18. EHTML
     - – Licence : Libre

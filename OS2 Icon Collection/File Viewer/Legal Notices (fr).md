@@ -1,7 +1,7 @@
 ﻿Ce dossier peut contenir le logiciel suivant :
 
 1. A_TYPE/2
-   - – Licence : Cardware
+   - – Licence : Postale
    - – Avis de copyright : Copyright (c) 1994 Bill Weschke
 2. Acrobat Reader
    - – Licence : Libre
