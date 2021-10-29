@@ -168,7 +168,7 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Licencja: BSD 3-klauzula
     - – Informacja o prawach autorskich: Copyright (c) 1995 Leshek Fiedorowicz
 56. RxSwitchQuery
-    - – Licencja: Cardware
+    - – Licencja: Pocztowy
     - – Informacja o prawach autorskich: Copyright (c) 1997 Mads Orbesen Troest (SIRIUS Cybernetics)
 57. Stats
     - – Licencja: Shareware

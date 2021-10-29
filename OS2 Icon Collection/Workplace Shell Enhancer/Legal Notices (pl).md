@@ -37,7 +37,7 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1997-2000 Roman Stangl
 12. SmartBar
-    - – Licencja: Cardware
+    - – Licencja: Pocztowy
     - – Informacja o prawach autorskich: Copyright (c) 2001 Alessandro Rossi
 13. Statbar
     - – Licencja: Wolny

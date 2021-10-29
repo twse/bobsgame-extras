@@ -102,7 +102,7 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 1993 Custom Design Software
 32. ZiPMe
-    - – Licencja: Cardware
+    - – Licencja: Pocztowy
     - – Informacja o prawach autorskich: Copyright (c) 1995-1996 Peter Eggert
 33. Zippy
     - – Licencja: Shareware

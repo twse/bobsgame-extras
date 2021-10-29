@@ -42,7 +42,7 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 1999 Jeroen van den Horn
 14. Leech
-    - – Licencja: Cardware
+    - – Licencja: Pocztowy
     - – Informacja o prawach autorskich: Copyright (c) 1998 Mads Orbesen Troest (SIRIUS Cybernetics)
 15. lsdvd
     - – Licencja: GPL 2.0

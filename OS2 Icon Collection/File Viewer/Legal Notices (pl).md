@@ -1,7 +1,7 @@
 Ten folder może zawierać następujące oprogramowanie:
 
 1. A_TYPE/2
-   - – Licencja: Cardware
+   - – Licencja: Pocztowy
    - – Informacja o prawach autorskich: Copyright (c) 1994 Bill Weschke
 2. Acrobat Reader
    - – Licencja: Wolny
