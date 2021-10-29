@@ -129,7 +129,7 @@
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1996 John Martin Alfredsson, Nianqing Liu
 42. HTMLGen
-    - – Licencia: Gratis, no suportado
+    - – Licencia: Gratis sin soporte
     - – Aviso de derechos de autor: Copyright (c) 1993-1999 American Coders Ltd.
 43. HTML-Ed
     - – Licencia: Shareware
@@ -248,7 +248,7 @@
     - – Licencia: Shareware
     - – Aviso de derechos de autor: Copyright (c) 1997 Gary L. Robinson
 80. Netextra, Netwatch, Web Willy Watch
-    - – Licencia: Gratis, no suportado
+    - – Licencia: Gratis sin soporte
     - – Aviso de derechos de autor: Copyright (c) 1999 Momotek Computer Specialties
 81. NETIO
     - – Licencia: Gratis

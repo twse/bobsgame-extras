@@ -42,7 +42,7 @@
     - – Licencia: IBM EWS
     - – Aviso de derechos de autor: Copyright (c) 1994 Barney Scott
 14. IsoComp/2, XComp/2
-    - – Licencia: Gratis, no suportado
+    - – Licencia: Gratis sin soporte
     - – Aviso de derechos de autor: Copyright (c) 1998 Roman Stangl
 15. Linedif
     - – Licencia: Gratis
@@ -51,7 +51,7 @@
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1996 Coolware
 17. PM File Compare
-    - – Licencia: Gratis, no suportado
+    - – Licencia: Gratis sin soporte
     - – Aviso de derechos de autor: Copyright (c) 1994 American Coders Ltd.
 18. Visual File Compare
     - – Licencia: Shareware
