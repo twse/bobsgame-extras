@@ -14,7 +14,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
    - – Telif Hakkı Bildirimi: Copyright (c) 1990 Chris Laforet
 5. ClipView
    - – Lisans: Özgür
-   - – Telif Hakkı Bildirimi: Copyright (c) 1996-2012 Dave Saville
+   - – Telif Hakkı Bildirimi: Copyright (c) 1996-2012 David C. Saville
 6. CutIt
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1993 Andre Nancoz

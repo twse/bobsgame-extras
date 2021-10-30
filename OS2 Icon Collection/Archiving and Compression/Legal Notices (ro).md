@@ -16,7 +16,7 @@ Acest folder poate conține următorul software:
 5. ARJ
    - – Licență: Gratis sau shareware
    - – Aviz de copyright: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
-   - – Site-ul de download: http://www.arjsoftware.com/ sau http://arj.sourceforge.net/
+   - – Site-ul de download: http://www.arjsoftware.com/ (legătură în limba engleza) sau http://arj.sourceforge.net/ (legătură în limba engleza)
 6. CABextract
    - – Licență: GPL 2.0
    - – Aviz de copyright: Copyright (c) 2000-2018 Stuart Caie

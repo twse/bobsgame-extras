@@ -14,7 +14,7 @@
    - – Copyright notice: Copyright (c) 1990 Chris Laforet
 5. ClipView
    - – Licentie: Free
-   - – Copyright notice: Copyright (c) 1996-2012 Dave Saville
+   - – Copyright notice: Copyright (c) 1996-2012 David C. Saville
 6. CutIt
    - – Licentie: Shareware
    - – Copyright notice: Copyright (c) 1993 Andre Nancoz

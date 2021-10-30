@@ -14,7 +14,7 @@
    - – Avviso di copyright: Copyright (c) 1990 Chris Laforet
 5. ClipView
    - – Licenze: Libre
-   - – Avviso di copyright: Copyright (c) 1996-2012 Dave Saville
+   - – Avviso di copyright: Copyright (c) 1996-2012 David C. Saville
 6. CutIt
    - – Licenze: Shareware
    - – Avviso di copyright: Copyright (c) 1993 Andre Nancoz

@@ -14,7 +14,7 @@ Acest folder poate conține următorul software:
    - – Aviz de copyright: Copyright (c) 1990 Chris Laforet
 5. ClipView
    - – Licență: Gratis
-   - – Aviz de copyright: Copyright (c) 1996-2012 Dave Saville
+   - – Aviz de copyright: Copyright (c) 1996-2012 David C. Saville
 6. CutIt
    - – Licență: Shareware
    - – Aviz de copyright: Copyright (c) 1993 Andre Nancoz

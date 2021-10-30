@@ -14,7 +14,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
    - – Upozornenie na autorských práva: Copyright (c) 1990 Chris Laforet
 5. ClipView
    - – Licencia: Svobodné
-   - – Upozornenie na autorských práva: Copyright (c) 1996-2012 Dave Saville
+   - – Upozornenie na autorských práva: Copyright (c) 1996-2012 David C. Saville
 6. CutIt
    - – Licencia: Shareware
    - – Upozornenie na autorských práva: Copyright (c) 1993 Andre Nancoz

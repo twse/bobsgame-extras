@@ -14,7 +14,7 @@ Ten folder może zawierać następujące oprogramowanie:
    - – Informacja o prawach autorskich: Copyright (c) 1990 Chris Laforet
 5. ClipView
    - – Licencja: Wolny
-   - – Informacja o prawach autorskich: Copyright (c) 1996-2012 Dave Saville
+   - – Informacja o prawach autorskich: Copyright (c) 1996-2012 David C. Saville
 6. CutIt
    - – Licencja: Shareware
    - – Informacja o prawach autorskich: Copyright (c) 1993 Andre Nancoz

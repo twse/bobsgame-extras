@@ -14,7 +14,7 @@
    - – Upozornění na autorská práva: Copyright (c) 1990 Chris Laforet
 5. ClipView
    - – Licence: Svobodné
-   - – Upozornění na autorská práva: Copyright (c) 1996-2012 Dave Saville
+   - – Upozornění na autorská práva: Copyright (c) 1996-2012 David C. Saville
 6. CutIt
    - – Licence: Shareware
    - – Upozornění na autorská práva: Copyright (c) 1993 Andre Nancoz

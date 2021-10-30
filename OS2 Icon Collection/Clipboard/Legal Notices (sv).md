@@ -14,7 +14,7 @@
    - – Copyrightmeddelande: Copyright (c) 1990 Chris Laforet
 5. ClipView
    - – Licens: Free
-   - – Copyrightmeddelande: Copyright (c) 1996-2012 Dave Saville
+   - – Copyrightmeddelande: Copyright (c) 1996-2012 David C. Saville
 6. CutIt
    - – Licens: Shareware
    - – Copyrightmeddelande: Copyright (c) 1993 Andre Nancoz

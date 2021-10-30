@@ -14,7 +14,7 @@
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1990 Chris Laforet
 5. ClipView
    - – Licenc: Szabad
-   - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-2012 Dave Saville
+   - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-2012 David C. Saville
 6. CutIt
    - – Licenc: Shareware
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1993 Andre Nancoz
