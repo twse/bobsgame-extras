@@ -131,7 +131,7 @@
 43. RxLVM
     - – Licenca: BSD 3-klauzule
     - – Obavijest o autorskom pravu: Copyright (c) 2006-2007 Alexander Taylor
-    - – Web-mjesto za preuzimanje: http://www.altsan.org/ (koppeling in Engels)
+    - – Web-mjesto za preuzimanje: http://www.altsan.org/ (poveznica na engleski)
 44. SLICE2, SPLICE2
     - – Licenca: Shareware
     - – Obavijest o autorskom pravu: Copyright (c) 1992 Gary L. Robinson
