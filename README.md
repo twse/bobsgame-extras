@@ -54,8 +54,8 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 | Exclamation                   | Warning                   | BG Exclamation.wav          |
 | Exit Windows                  | System shutdown           | BG Shutdown.wav             |
 | Fax error                     | None                      | BG Error.wav                |
-| Fax line rings                | None                      | TBD                         |
-| Fax sent                      | None                      | TBD                         |
+| Fax line rings                | None                      | BG Notify.wav               |
+| Fax sent                      | None                      | BG Notify.wav               |
 | Feed Discovered               | None                      | BG Notify.wav               |
 | Information                   | Information               | BG Information Bar.wav      |
 | Instant Message Notification  | None                      | BG Notify.wav               |
