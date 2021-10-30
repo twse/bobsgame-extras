@@ -48,7 +48,7 @@
     - – Licenca: Slobodne
     - – Obavijest o autorskom pravu: Copyright (c) 2000 Daniel Hellerstein, Michal Nečásek
 16. RxCRC32
-    - – Licenca: Képeslap
+    - – Licenca: Poštanski
     - – Obavijest o autorskom pravu: Copyright (c) 1998 Mads Orbesen Troest (SIRIUS Cybernetics)
 17. RXGWA
     - – Licenca: Slobodne

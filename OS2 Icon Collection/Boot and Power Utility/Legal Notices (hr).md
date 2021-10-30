@@ -28,7 +28,7 @@
    - – Licenca: Slobodno
    - – Obavijest o autorskom pravu: Copyright (c) 1999 Christian Langanke
 10. Shutup
-    - – Licenca: Szabad
+    - – Licenca: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1995 Panagiotis Takis Skagos
 11. System Shutdown Plus
     - – Licenca: Slobodno
