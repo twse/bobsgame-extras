@@ -1,4 +1,4 @@
-﻿This folder may contain the following software:
+﻿This folder may contain the following games:
 
 1. $Sheriff
     - – License : Donationware
@@ -134,7 +134,7 @@
     - – Copyright Notice : Copyright (c) 1996-2004 Jasper de Keijzer
 44. Gottet, Hexalate
     - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 2007-2019 Graeme Gott
+    - – Copyright Notice : Copyright (c) 2007-2021 Graeme Gott
     - – Download Site : https://www.gottcode.org/
 45. Hangman
     - – License : Free
