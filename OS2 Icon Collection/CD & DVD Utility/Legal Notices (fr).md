@@ -50,13 +50,13 @@
 16. mkhybrid 
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1997-1999 James Pearson
-16. PopCD!
+17. PopCD!
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1999-2011 Ken Kinoshita
-17. SCSI Audio Dump
+18. SCSI Audio Dump
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1997-1998 Daniel Dorau
-18. Warp CD-Copy
+19. Warp CD-Copy
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1997-2001 Przemysław Dobrowolski
 

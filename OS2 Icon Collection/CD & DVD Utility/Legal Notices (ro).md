@@ -50,13 +50,13 @@ Acest folder poate conține următorul software:
 16. mkhybrid 
     - – Licență: GPL 2.0
     - – Aviz de copyright: Copyright (c) 1997-1999 James Pearson
-16. PopCD!
+17. PopCD!
     - – Licență: GPL 2.0
     - – Aviz de copyright: Copyright (c) 1999-2011 Ken Kinoshita
-17. SCSI Audio Dump
+18. SCSI Audio Dump
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1997-1998 Daniel Dorau
-18. Warp CD-Copy
+19. Warp CD-Copy
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1997-2001 Przemysław Dobrowolski
 

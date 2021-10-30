@@ -50,13 +50,13 @@ Ten folder może zawierać następujące oprogramowanie:
 16. mkhybrid 
     - – Licencja: GPL 2.0
     - – Informacja o prawach autorskich: Copyright (c) 1997-1999 James Pearson
-16. PopCD!
+17. PopCD!
     - – Licencja: GPL 2.0
     - – Informacja o prawach autorskich: Copyright (c) 1999-2011 Ken Kinoshita
-17. SCSI Audio Dump
+18. SCSI Audio Dump
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1997-1998 Daniel Dorau
-18. Warp CD-Copy
+19. Warp CD-Copy
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1997-2001 Przemysław Dobrowolski
 
