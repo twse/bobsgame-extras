@@ -151,7 +151,7 @@
 49. TestDisk, PhotoRec
     - – Licens: GPL 2.0
     - – Copyrightmeddelande: Copyright (c) 1998-2019 Christophe Grenier
-    - – Nedladdningssida: https://www.cgsecurity.org/wiki/TestDisk av https://www.cgsecurity.org/wiki/PhotoRec
+    - – Nedladdningssida: https://www.cgsecurity.org/wiki/TestDisk eller https://www.cgsecurity.org/wiki/PhotoRec
 50. TFile
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1997 Tom Brown

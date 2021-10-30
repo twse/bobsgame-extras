@@ -1,7 +1,7 @@
 ﻿Den här mappen kan innehålla följande programvara:
 
 1. 4allCalc
-   - – Licens: Free (OS/2) av shareware (Windows)
+   - – Licens: Free (OS/2) eller shareware (Windows)
    - – Copyrightmeddelande: Copyright (c) 1995-2009 Martin Vieregg
    - – Nedladdningssida: http://www.hypermake.com/
 2. Bicycle Ride Calorie Calculator

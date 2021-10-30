@@ -101,7 +101,7 @@
 31. Martin's Editor, Write&Set
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 2000-2016 Martin Vieregg
-    - – Nedladdningssida: http://www.hypermake.com/english/n015.html (link på engelska) av http://www.hypermake.com/english/writeset.html (link på engelska)
+    - – Nedladdningssida: http://www.hypermake.com/english/n015.html (link på engelska) eller http://www.hypermake.com/english/writeset.html (link på engelska)
 32. Maul Publisher
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 1998-2018 Peter Koller

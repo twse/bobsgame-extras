@@ -4,7 +4,7 @@
    - – Licens: Free
    - – Copyrightmeddelande: Copyright (c) 1992 AR Schleicher
 2. Clip
-   - – Licens: Free av shareware
+   - – Licens: Free eller shareware
    - – Copyrightmeddelande: Copyright (c) 1990 Dynalink Technologies Inc., 2000 Sergey I. Yevtushenko, 2014 André Doff
 3. Clip Edit
    - – Licens: Shareware

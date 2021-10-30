@@ -19,7 +19,7 @@
 6. CD2MP3, CD2MP3PM, CD-ROM Speed Tester
    - – Licens: Free
    - – Copyrightmeddelande: Copyright (c) 1998-2001 Samuel Audet
-   - – Nedladdningssida: https://nova.polymtl.ca/~guardia/cd2mp3pm.php (link på engelska) av https://nova.polymtl.ca/~guardia/smallutils.php (link på engelska)
+   - – Nedladdningssida: https://nova.polymtl.ca/~guardia/cd2mp3pm.php (link på engelska) eller https://nova.polymtl.ca/~guardia/smallutils.php (link på engelska)
 7. CDIndex
    - – Licens: Free
    - – Copyrightmeddelande: Copyright (c) 1998 Ingo Böttcher

@@ -41,7 +41,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 13. EMT Suite
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1991-2011 Daniel Valot
-    - – İndirme Sitesi: http://dvalot.Özgür.fr/
+    - – İndirme Sitesi: http://dvalot.free.fr/
 14. FAT32 Blanker
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 2004 Alfredo Fernández Díaz, 2017 André Doff

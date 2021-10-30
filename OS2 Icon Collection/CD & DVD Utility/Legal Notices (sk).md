@@ -19,7 +19,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 6. CD2MP3, CD2MP3PM, CD-ROM Speed Tester
    - – Licencia: Svobodné
    - – Upozornenie na autorských práva: Copyright (c) 1998-2001 Samuel Audet
-   - – Server pro stáhovanie: https://nova.polymtl.ca/~guardia/cd2mp3pm.php nebo https://nova.polymtl.ca/~guardia/smallutils.php
+   - – Server pro stáhovanie: https://nova.polymtl.ca/~guardia/cd2mp3pm.php alebo https://nova.polymtl.ca/~guardia/smallutils.php
 7. CDIndex
    - – Licencia: Svobodné
    - – Upozornenie na autorských práva: Copyright (c) 1998 Ingo Böttcher
