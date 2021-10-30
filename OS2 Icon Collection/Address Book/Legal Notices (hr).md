@@ -1,7 +1,7 @@
 ﻿Ova mapa može sadržavati sljedeći softver:
 
 1. Account Manager
-   - – Licenca: Slobodne
+   - – Licenca: Slobodno
    - – Obavijest o autorskom pravu: Copyright (c) 2000 Mario Sebastiani
 2. ADRp
    - – Licenca: Shareware
@@ -19,20 +19,20 @@
    - – Licenca: Shareware
    - – Obavijest o autorskom pravu: Copyright (c) 1993 BioMedical Design Centre
 7. PM Adressen
-   - – Licenca: Slobodne
+   - – Licenca: Slobodno
    - – Obavijest o autorskom pravu: Copyright (c) 1997-2003 Thomas Nolte
    - – Web-mjesto za preuzimanje: http://os2.thono.com/ (poveznica na njemački)
 8. PM Scrapbook
    - – Licenca: Shareware
    - – Obavijest o autorskom pravu: Copyright (c) 1995 Coolware
 9. PMCARD
-   - – Licenca: Slobodne
+   - – Licenca: Slobodno
    - – Obavijest o autorskom pravu: Copyright (c) 1990 Jeff Prosise
 10. Tbook
     - – Licenca: Shareware
     - – Obavijest o autorskom pravu: Copyright (c) 1996 ThunderSoft
 11. The Internet Address Book
-    - – Licenca: Slobodne
+    - – Licenca: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1995-1996 Adam Van de Berghe
 
 Potpune pravne obavijesti, popise suradnika i prevoditelja potražite na ovoj stranici https://bobsgame.fandom.com/wiki/Extras (poveznica na engleski)
