@@ -45,7 +45,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 15. SQliteman
     - – Lisans: GPL 2.0
     - – Telif Hakkı Bildirimi: Copyright (c) 2007-2010 Petr Vaněk
-    - – İndirme Sitesi: http://sqliteman.yarpen.cz/ (bağda ingilizce)
+    - – İndirme Sitesi: http://sqliteman.yarpen.cz/ (bağda İngilizce)
 16. VIPER Database Engine
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1995 Douglas A. Bebber
@@ -53,4 +53,4 @@ Bu klasör aşağıdaki yazılımı içerebilir:
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 2010 Wolfgang Draxler
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

@@ -9,7 +9,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 3. Antiword
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 1998-2005 Adriaan van Os
-   - – İndirme Sitesi: http://www.winfield.demon.nl/ (bağda ingilizce)
+   - – İndirme Sitesi: http://www.winfield.demon.nl/ (bağda İngilizce)
 4. BIEW
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 1995-2017 Nikolay Kolosov
@@ -55,6 +55,6 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 18. YACReader
     - – Lisans: GPL 3.0
     - – Telif Hakkı Bildirimi: Copyright (c) 2009-2019 Luis Ángel San Martín Rodríguez
-    - – İndirme Sitesi: https://www.yacreader.com/ (bağda ingilizce)
+    - – İndirme Sitesi: https://www.yacreader.com/ (bağda İngilizce)
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

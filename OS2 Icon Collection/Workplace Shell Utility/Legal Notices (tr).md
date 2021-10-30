@@ -84,7 +84,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 29. PM ThinkPad On Screen Display
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 2003 Serge Sterck, 2005 Jan van Wijk
-    - – İndirme Sitesi: https://www.dfsee.com/download/index.php (bağda ingilizce)
+    - – İndirme Sitesi: https://www.dfsee.com/download/index.php (bağda İngilizce)
 30. PMLock
     - – Lisans: Özgür
 31. PMPause
@@ -117,7 +117,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 40. ScreenSaver
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1993-1996 Siegfried Hanisch
-    - – İndirme Sitesi: https://www.hanisch.com/cms/index.php/home_en/screensaver_en/index.html (bağda ingilizce)
+    - – İndirme Sitesi: https://www.hanisch.com/cms/index.php/home_en/screensaver_en/index.html (bağda İngilizce)
 41. Security/2
     - – Lisans: Özgür, ticaret değıl kullanım
     - – Telif Hakkı Bildirimi: Copyright (c) 2002-2007 Nikolay Kolosov
@@ -182,4 +182,4 @@ Bu klasör aşağıdaki yazılımı içerebilir:
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1999 CodeSmith Software
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

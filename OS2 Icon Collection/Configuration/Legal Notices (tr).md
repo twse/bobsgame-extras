@@ -15,7 +15,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 5. CleanINI
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 2001 Carsten Arnold
-   - – İndirme Sitesi: http://www.ca-arnold.de/e/index.html (bağda ingilizce)
+   - – İndirme Sitesi: http://www.ca-arnold.de/e/index.html (bağda İngilizce)
 6. CNFGINFO
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 1994-1995 Rick Meigs
@@ -25,7 +25,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 8. ConfigEdit/2
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 2001 Dimitris 'sehh' Michelinakis
-   - – İndirme Sitesi: https://www.michelinakis.gr/Dimitris/ce/index.html (bağda ingilizce)
+   - – İndirme Sitesi: https://www.michelinakis.gr/Dimitris/ce/index.html (bağda İngilizce)
 9. ConfigMaint/2
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 1998-2001 Kai Evers
@@ -66,11 +66,11 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 21. FastIni
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1997 Dennis Bareis
-    - – İndirme Sitesi: https://www.dennisbareis.com/ (bağda ingilizce)
+    - – İndirme Sitesi: https://www.dennisbareis.com/ (bağda İngilizce)
 22. GenINI
     - – Lisans: GPL 2.0
     - – Telif Hakkı Bildirimi: Copyright (c) 2008-2014 Peter Moylan
-    - – İndirme Sitesi: http://www.pmoylan.org/pages/os2/genini.html (bağda ingilizce)
+    - – İndirme Sitesi: http://www.pmoylan.org/pages/os2/genini.html (bağda İngilizce)
 23. I Browse
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1995 Jay Freeman
@@ -122,7 +122,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 39. OS2CSM
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1999-2009 Veit Kannegieser
-    - – İndirme Sitesi: http://www.kannegieser.net/veit/ (bağda ingilizce)
+    - – İndirme Sitesi: http://www.kannegieser.net/veit/ (bağda İngilizce)
 40. PM Preference
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1990 Todd Fincannon
@@ -158,4 +158,4 @@ Bu klasör aşağıdaki yazılımı içerebilir:
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1995 François Thunus
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

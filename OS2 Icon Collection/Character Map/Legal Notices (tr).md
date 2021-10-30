@@ -9,7 +9,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 3. Characters Map/2
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 1998-2013 Dmitry A. Steklenev
-   - – İndirme Sitesi: http://www.5nets.ru/charmap.html (bağda ingilizce)
+   - – İndirme Sitesi: http://www.5nets.ru/charmap.html (bağda İngilizce)
 4. CodeTable/2
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1992 The Software Mill
@@ -19,9 +19,9 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 6. Extended Character Map
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 2005-2018 Alexander Taylor
-   - – İndirme Sitesi: http://www.altsan.org/ (bağda ingilizce)
+   - – İndirme Sitesi: http://www.altsan.org/ (bağda İngilizce)
 7. Table
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 2002 Goran Ivanković
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

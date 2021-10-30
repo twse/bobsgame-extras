@@ -21,7 +21,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 7. PM Adressen
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 1997-2003 Thomas Nolte
-   - – İndirme Sitesi: http://os2.thono.com/ (bağda almance)
+   - – İndirme Sitesi: http://os2.thono.com/ (bağda Almance)
 8. PM Scrapbook
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1995 Coolware
@@ -35,4 +35,4 @@ Bu klasör aşağıdaki yazılımı içerebilir:
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1995-1996 Adam Van de Berghe
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

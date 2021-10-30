@@ -19,7 +19,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 6. CD2MP3, CD2MP3PM, CD-ROM Speed Tester
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 1998-2001 Samuel Audet
-   - – İndirme Sitesi: https://nova.polymtl.ca/~guardia/cd2mp3pm.php (bağda ingilizce) veya https://nova.polymtl.ca/~guardia/smallutils.php (bağda ingilizce)
+   - – İndirme Sitesi: https://nova.polymtl.ca/~guardia/cd2mp3pm.php (bağda İngilizce) veya https://nova.polymtl.ca/~guardia/smallutils.php (bağda İngilizce)
 7. CDIndex
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 1998 Ingo Böttcher
@@ -34,7 +34,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 11. dvdauthor
     - – Lisans: GPL 2.0
     - – Telif Hakkı Bildirimi: Copyright (c) 2003-2010 Scott Smith, 2010-2017 Lawrence D'Oliveiro
-    - – İndirme Sitesi: http://dvdauthor.sourceforge.net/ (bağda ingilizce)
+    - – İndirme Sitesi: http://dvdauthor.sourceforge.net/ (bağda İngilizce)
 12. DVDDAO
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 2004-2010 Nikolay Kolosov
@@ -60,4 +60,4 @@ Bu klasör aşağıdaki yazılımı içerebilir:
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1997-2001 Przemysław Dobrowolski
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

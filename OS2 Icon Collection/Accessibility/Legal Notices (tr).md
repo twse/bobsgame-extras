@@ -16,4 +16,4 @@ Bu klasör aşağıdaki yazılımı içerebilir:
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 1998 Daniel Helgason
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

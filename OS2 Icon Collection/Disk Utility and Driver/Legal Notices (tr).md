@@ -6,7 +6,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 2. CDSpeed2
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 2009 Marcel Müller
-   - – İndirme Sitesi: http://maazl.de/
+   - – İndirme Sitesi: http://maazl.de/ (bağda İngilizce)
 3. CHKSTORE
    - – Lisans: IBM EWS
    - – Telif Hakkı Bildirimi: Copyright (c) 1994 David Kelsey
@@ -34,7 +34,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 11. Display File Systems
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1997-2021 Jan van Wijk
-    - – İndirme Sitesi: https://www.dfsee.com/
+    - – İndirme Sitesi: https://www.dfsee.com/ (bağda İngilizce)
 12. DMATEST
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1995 PowerQuest Corporation
@@ -131,14 +131,14 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 43. RxLVM
     - – Lisans: BSD 3-Tümcecik
     - – Telif Hakkı Bildirimi: Copyright (c) 2006-2007 Alexander Taylor
-    - – İndirme Sitesi: http://www.altsan.org/ (bağda ingilizce)
+    - – İndirme Sitesi: http://www.altsan.org/ (bağda İngilizce)
 44. SLICE2, SPLICE2
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1992 Gary L. Robinson
 45. SMART Monitoring Tools
     - – Lisans: GPL 2.0
     - – Telif Hakkı Bildirimi: Copyright (c) 2002-2009 Bruce Allen, 2004-2021 Christian Franke
-    - – İndirme Sitesi: https://www.smartmontools.org/ (bağda ingilizce)
+    - – İndirme Sitesi: https://www.smartmontools.org/ (bağda İngilizce)
 46. SMARTMON
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 2005 Andrew A. Belov
@@ -165,4 +165,4 @@ Bu klasör aşağıdaki yazılımı içerebilir:
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 2001-2004 Christian Langanke
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

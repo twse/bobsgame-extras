@@ -6,7 +6,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 2. ATSHELL
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 2005-2006 Alexander Taylor
-   - – İndirme Sitesi: http://www.altsan.org/ (bağda ingilizce)
+   - – İndirme Sitesi: http://www.altsan.org/ (bağda İngilizce)
 3. CandyBarZ
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 1996-2000 Peter Garner, Eric Norman, Jack Troughton, Matthew Wagner
@@ -25,11 +25,11 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 8. NPS WPS Enhancer
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 1995-1996 Shinji Takasugi
-   - – İndirme Sitesi: http://www.sf.airnet.ne.jp/ts/npswps/index.html (bağda ingilizce)
+   - – İndirme Sitesi: http://www.sf.airnet.ne.jp/ts/npswps/index.html (bağda İngilizce)
 9. Object Desktop
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1993-2017 Stardock Corporation
-   - – İndirme Sitesi: https://www.stardock.com/products/odnt/ (bağda ingilizce)
+   - – İndirme Sitesi: https://www.stardock.com/products/odnt/ (bağda İngilizce)
 10. PDE Shell
     - – Lisans: GPL 2.0
     - – Telif Hakkı Bildirimi: Copyright (c) 2003 Vladymyr Sergeyev
@@ -65,4 +65,4 @@ Bu klasör aşağıdaki yazılımı içerebilir:
     - – Telif Hakkı Bildirimi: Copyright (c) 1998-2009 Ulrich Möller
     - – İndirme Sitesi: http://xworkplace.netlabs.org/
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

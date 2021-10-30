@@ -12,15 +12,15 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 4. ArcView
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 2009-2013 Alexander Taylor
-   - – İndirme Sitesi: http://www.altsan.org/ (bağda ingilizce)
+   - – İndirme Sitesi: http://www.altsan.org/ (bağda İngilizce)
 5. ARJ
    - – Lisans: Özgür veya shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
-   - – İndirme Sitesi: http://www.arjsoftware.com/ (bağda ingilizce) veya http://arj.sourceforge.net/ (bağda ingilizce)
+   - – İndirme Sitesi: http://www.arjsoftware.com/ (bağda İngilizce) veya http://arj.sourceforge.net/ (bağda İngilizce)
 6. CABextract
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 2000-2018 Stuart Caie
-   - – İndirme Sitesi: https://www.cabextract.org.uk/ (bağda ingilizce)
+   - – İndirme Sitesi: https://www.cabextract.org.uk/ (bağda İngilizce)
 7. Drop and Zip
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1994 Dirk Terrell
@@ -40,7 +40,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 12. LHA
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1989 Yooichi Tagawa, 1990 Haruyasu Yoshizaki, 1991 Masaru Oki, 1993-1995 Nobutaka Wakazaki, 1998-2008 Koji Arai, 2000 Tsugio Okamoto
-    - – İndirme Sitesi: http://lha.osdn.jp/ (bağda japance)
+    - – İndirme Sitesi: http://lha.osdn.jp/ (bağda Japance)
 13. LSZipWizard
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 2017-2021 Lothar Söns
@@ -59,7 +59,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 18. RPF Zip Control
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1993-2007 RPF Software
-    - – İndirme Sitesi: https://www.rpfsoftware.com/ (bağda ingilizce)
+    - – İndirme Sitesi: https://www.rpfsoftware.com/ (bağda İngilizce)
 19. rxGZlib
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 2000 Daniel Hellerstein
@@ -78,7 +78,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 24. UNRAR
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1993-2017 Alexander Roshal
-    - – İndirme Sitesi: https://www.rarlab.com/ (bağda ingilizce)
+    - – İndirme Sitesi: https://www.rarlab.com/ (bağda İngilizce)
 25. WarpExpander
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 2003 Salvador Parra Camacho
@@ -107,7 +107,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 33. Zippy
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 2017 Dmitry A. Steklenev
-    - – İndirme Sitesi: http://www.5nets.ru/ (bağda ingilizce)
+    - – İndirme Sitesi: http://www.5nets.ru/ (bağda İngilizce)
 34. ZipStream
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1994-1995 Carbon Based Software
@@ -117,6 +117,6 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 36. zlib
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1995-2017 Jean-loup Gailly ve Mark Adler
-    - – İndirme Sitesi: http://www.zlib.net/ (bağda ingilizce)
+    - – İndirme Sitesi: http://www.zlib.net/ (bağda İngilizce)
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

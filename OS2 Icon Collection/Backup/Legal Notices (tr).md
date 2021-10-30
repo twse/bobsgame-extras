@@ -36,14 +36,14 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 12. luckyBackup
     - – Lisans: GPL 3.0
     - – Telif Hakkı Bildirimi: Copyright (c) 2007-2018 Loukas Avgeriou
-    - – İndirme Sitesi: http://luckybackup.sourceforge.net/ (bağda ingilizce)
+    - – İndirme Sitesi: http://luckybackup.sourceforge.net/ (bağda İngilizce)
 13. Obackup
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1991-1993 Trumphurst Ltd.
 14. PM Backup Suite
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 2017-2019 Dmitry A. Steklenev
-    - – İndirme Sitesi: http://www.5nets.ru/backup.html (bağda ingilizce)
+    - – İndirme Sitesi: http://www.5nets.ru/backup.html (bağda İngilizce)
 15. RCONTROL
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1997 Cornel Huth
@@ -66,4 +66,4 @@ Bu klasör aşağıdaki yazılımı içerebilir:
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1995 New Özgürdom Data Center
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

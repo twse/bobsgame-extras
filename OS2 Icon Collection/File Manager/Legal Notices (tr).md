@@ -15,7 +15,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 5. Dired
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 1974-1992 Stuart Cracraft, Stanley G. Kugell, Mike Lijewski, Michael Sperber
-   - – İndirme Sitesi: https://www.deinprogramm.de/sperber/software/dired/ (bağda ingilizce)
+   - – İndirme Sitesi: https://www.deinprogramm.de/sperber/software/dired/ (bağda İngilizce)
 6. Directory Manager/PM
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1993 QB SoftWare
@@ -25,7 +25,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 8. EF Commander
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1994-2010 Emil Fickel
-   - – İndirme Sitesi: http://www.efsoftware.de/cw/e.htm (bağda ingilizce)
+   - – İndirme Sitesi: http://www.efsoftware.de/cw/e.htm (bağda İngilizce)
 9. File Browser
    - – Lisans: Özgür, destek değil
    - – Telif Hakkı Bildirimi: Copyright (c) 1997-2004 Christoph Bratschi
@@ -102,4 +102,4 @@ Bu klasör aşağıdaki yazılımı içerebilir:
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1985-1992 Gary W. Wood
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

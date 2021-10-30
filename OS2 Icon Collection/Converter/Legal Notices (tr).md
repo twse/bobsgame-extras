@@ -12,14 +12,14 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 4. ConText/2
    - – Lisans: BSD 3-Tümcecik
    - – Telif Hakkı Bildirimi: Copyright (c) 2007 Alexander Taylor
-   - – İndirme Sitesi: http://www.altsan.org/ (bağda ingilizce)
+   - – İndirme Sitesi: http://www.altsan.org/ (bağda İngilizce)
 5. Conversion Pro for OS/2
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1995-1997 Jon F. Kaminsky
 6. Crovert
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1996 Domagoj Klepac
-   - – İndirme Sitesi: https://www.blagi.net/hrslova/hrslovpl.html (bağda hırvatistance)
+   - – İndirme Sitesi: https://www.blagi.net/hrslova/hrslovpl.html (bağda Hırvatistance)
 7. DC
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1997-1999 Evgeny Kotsuba
@@ -71,11 +71,11 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 23. WP2LaTeX
     - – Lisans: GPL 2.0
     - – Telif Hakkı Bildirimi: Copyright (c) 2000-2018 Jaroslav Fojtík
-    - – İndirme Sitesi: http://www.penguin.cz/~fojtik/wp2latex/wp2latex.htm (bağda ingilizce)
+    - – İndirme Sitesi: http://www.penguin.cz/~fojtik/wp2latex/wp2latex.htm (bağda İngilizce)
 24. XBIN
     - – Lisans: Özgür
 25. XEOL
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1993-1995 Paul Gallagher
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

@@ -48,7 +48,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 16. NewView
     - – Lisans: GPL 2.0
     - – Telif Hakkı Bildirimi: Copyright (c) 1994-2005 Aaron Lawrence, 2006-2019 Ronald Brill
-    - – İndirme Sitesi: http://www.rbri.org/projects/newview (bağda ingilizce)
+    - – İndirme Sitesi: http://www.rbri.org/projects/newview (bağda İngilizce)
 17. Thelp
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1993 Colin Thomson
@@ -71,4 +71,4 @@ Bu klasör aşağıdaki yazılımı içerebilir:
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1998-1999 Cristiano Guadagnino
 
-Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda ingilizce) ziyaret edin
+Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin
