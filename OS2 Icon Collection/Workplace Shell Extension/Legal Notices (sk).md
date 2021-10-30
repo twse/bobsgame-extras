@@ -57,10 +57,10 @@ Tento priečinok môže obsahovať nasledujúci softvér:
     - – Licencia: GPL 2.0
     - – Upozornenie na autorských práva: Copyright (c) 1998-2004 Herwig Bauernfeind
 20. Run
-    - – Licencia: GPL 2.0 nebo svobodné
+    - – Licencia: GPL 2.0 alebo svobodné
     - – Upozornenie na autorských práva: Copyright (c) 2000 John Pedone, 2003-2009 Richard L. Walsh
 21. SendYes!
-    - – Licencia: Svobodné nebo shareware
+    - – Licencia: Svobodné alebo shareware
     - – Upozornenie na autorských práva: Copyright (c) 1995 Wes Santee, 1996 Christian Langanke
 22. StartDOS
     - – Licencia: IBM EWS

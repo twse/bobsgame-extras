@@ -151,7 +151,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 49. TestDisk, PhotoRec
     - – Licencia: GPL 2.0
     - – Upozornenie na autorských práva: Copyright (c) 1998-2019 Christophe Grenier
-    - – Server pro stáhovanie: https://www.cgsecurity.org/wiki/TestDisk nebo https://www.cgsecurity.org/wiki/PhotoRec
+    - – Server pro stáhovanie: https://www.cgsecurity.org/wiki/TestDisk alebo https://www.cgsecurity.org/wiki/PhotoRec
 50. TFile
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 1997 Tom Brown
