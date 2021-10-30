@@ -37,7 +37,7 @@
     - – Licens: LGPL 2.0
     - – Meddelelse om ophavsret: Copyright (c) 1997-1998 John Blumel
 13. RexxBase
-    - – Licens: Free inte stød
+    - – Licens: Free inte støtte
     - – Meddelelse om ophavsret: Copyright (c) 1997 American Coders Ltd.
 14. REXXGDB2
     - – Licens: Free
