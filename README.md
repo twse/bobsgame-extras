@@ -39,7 +39,7 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 | None                          | Begin drag                | TBD                         |
 | Blocked Pop-up Window         | None                      | BG Notify.wav               |
 | Calendar Reminder             | None                      | BG Notify.wav               |
-| Change Theme                  | None                      | TBD                         |
+| Change Theme                  | None                      | BG Startup.wav              |
 | Close Program                 | Closing window (Animated) | BG Close Program.wav        |
 | Complete Navigation           | None                      | TBD                         |
 | Critical Battery Alarm        | None                      | BG Battery Critical.wav     |
