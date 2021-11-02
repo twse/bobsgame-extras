@@ -102,7 +102,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
     - – Licencia: Shareware
     - – Upozornenie na autorských práva: Copyright (c) 1993 Custom Design Software
 32. ZiPMe
-    - – Licencia: Poștal
+    - – Licencia: Poštový
     - – Upozornenie na autorských práva: Copyright (c) 1995-1996 Peter Eggert
 33. Zippy
     - – Licencia: Shareware

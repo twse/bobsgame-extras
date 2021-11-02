@@ -112,7 +112,7 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1991 ASH Software, Inc.
 37. PMFloppy
-    - – Lizenz: Publik-Domain
+    - – Lizenz: Publikdomain
     - – Copyright-Hinweise: Copyright (c) 1990 Greg Bryant, 1995 Brady Flowers
 38. PMFORMAT
     - – Lizenz: BSD 3-Klausel
@@ -156,7 +156,7 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1997 Tom Brown
 51. Usage
-    - – Lizenz: Publik-Domain
+    - – Lizenz: Publikdomain
     - – Copyright-Hinweise: Copyright (c) 1990-1992 John Ridges
 52. VFATMon
     - – Lizenz: GPL 2.0

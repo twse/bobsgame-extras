@@ -35,7 +35,7 @@
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1997 Sean Ryan
 12. GammaSun
-    - – Licence: Publikdomain
+    - – Licence: Doména publikum
     - – Upozornění na autorská práva: Copyright (c) 1995 Reinhard Alt
 13. gnuplot
     - – Licence: Svobodné
