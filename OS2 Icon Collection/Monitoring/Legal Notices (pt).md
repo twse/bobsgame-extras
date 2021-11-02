@@ -92,7 +92,7 @@
     - – Licença: IBM EWS
     - – Aviso de direitos autorais: Copyright (c) 1992-1993 Barry R. Diller
 31. LM78
-    - – Licença: Beta
+    - – Licença: Béta
     - – Aviso de direitos autorais: Copyright (c) 1998 Stefano Zamprogno
 32. MAP
     - – Licença: Grátis

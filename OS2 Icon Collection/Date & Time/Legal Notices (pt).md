@@ -40,7 +40,7 @@
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1997-2000 Mark Eckstein
 14. eClock
-    - – Licença: Licensed to Serenity Systems International
+    - – Licença: Licenciado para Serenity Systems International
     - – Aviso de direitos autorais: Copyright (c) 2002 Mark Eckstein
     - – Site de descarregamento: eComStation Beta Zone
 15. Egg Timer/2
@@ -80,7 +80,7 @@
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 1996 Jérôme Santini
 27. OS2DAY
-    - – Licença: Beta
+    - – Licença: Béta
     - – Aviso de direitos autorais: Copyright (c) 1995 Oleg Titov
 28. PCCLOCK
     - – Licença: Shareware

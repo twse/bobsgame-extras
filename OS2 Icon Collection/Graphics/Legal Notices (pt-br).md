@@ -13,7 +13,7 @@
 4. AutoTrace
    - – Licença: GPL 2.0
    - – Aviso de copyright: Copyright (c) 2000-2003 Martin Weber
-   - – Site de download: http://autotrace.sourceforge.net/
+   - – Site de download: http://autotrace.sourceforge.net/ (link em inglês)
 5. Background Carousel
    - – Licença: Grátis
    - – Aviso de copyright: Copyright (c) 1995 Tony Beerman
@@ -139,7 +139,7 @@
     - – Licença: Grátis
     - – Aviso de copyright: Copyright (c) 1994 Duncan Wilcox
 44. IPAD
-    - – Licença: Beta
+    - – Licença: Béta
     - – Aviso de copyright: Copyright (c) 1997 Sergio Masci
 45. JasPer
     - – Licença: Grátis
