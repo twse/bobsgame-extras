@@ -43,7 +43,7 @@
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1996-1999 Marco Pesenti Gritti
 14. Fast Editor Lite
-    - – Licencia: BSD 2-Clause
+    - – Licencia: BSD de 2 cláusulas
     - – Aviso de derechos de autor: Copyright (c) 1997-2004 Sergey I. Yevtushenko
 15. FlexEdit
     - – Licencia: Gratis
@@ -116,7 +116,7 @@
     - – Licencia: Shareware
     - – Aviso de derechos de autor: Copyright (c) 1997 Simon Schlauri
 36. NVI2
-    - – Licencia: BSD 3-Clause
+    - – Licencia: BSD de 3 cláusulas
     - – Aviso de derechos de autor: Copyright (c) 1991-2000 Los Regentes de la Universidad de Califórnia, Keith Bostic, Sven Verdoolaege, 2011 Zhihao Yuan
 37. Program Editor
     - – Licencia: Gratis
