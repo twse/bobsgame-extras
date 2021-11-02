@@ -6,7 +6,7 @@
 2. CDSpeed2
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 2009 Marcel Müller
-   - – Download-Site: http://maazl.de/ (link auf Englisch)
+   - – Download-Site: http://maazl.de/index.html.de
 3. CHKSTORE
    - – Lizenz: IBM EWS
    - – Copyright-Hinweise: Copyright (c) 1994 David Kelsey

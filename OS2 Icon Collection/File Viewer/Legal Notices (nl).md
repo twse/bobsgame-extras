@@ -9,7 +9,7 @@
 3. Antiword
    - – Licentie: GPL 2.0
    - – Copyright notice: Copyright (c) 1998-2005 Adriaan van Os
-   - – Download site: http://www.winfield.demon.nl/
+   - – Download site: http://www.winfield.demon.nl/ (koppeling in Engels)
 4. BIEW
    - – Licentie: GPL 2.0
    - – Copyright notice: Copyright (c) 1995-2017 Nikolay Kolosov
