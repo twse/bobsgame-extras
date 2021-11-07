@@ -2,7 +2,7 @@
 Contains extra stuff for bob's game excluding fonts.
 
 ## Translated game readme
-The translation is available in eight languages.
+The translation is available in eight languages. The translated readme was based on the original English documentation from the bob's game repositories until June 24th, 2021.
 
 ## Art Department
 Want to be a show-off? Impress your friends? This is the place. Robert Matthew Pelloni will be offering a wallpaper for you. In any case, please feel free to download these and use them on your desktop.
@@ -16,7 +16,9 @@ Use theme managers ([Anemone](https://github.com/astronautlevel2/Anemone3DS), [C
 ### Windows User Account Picture
 Use this to replace the user account picture (this can be done in Windows XP via **Control Panel: User Accounts: Change your picture** (category view) or **Control Panel: User Accounts: Your username: Change my picture** (classic view) or in Windows Vista and 7 via **Control Panel: User Accounts and Family Safety: User Accounts: Change your picture** (category view) or **User Accounts: Change your picture** (normal view) or in Windows 8 via **Start: Your username: Change account picture** or **PC settings: Personalize: Account picture: Browse** or in Windows 10 and 11 via **Settings: Accounts: Your account: Your picture: Browse**).
 
-**Note:** The default pictures are located in Windows XP at `Documents and Settings\All Users\Application Data\Microsoft\User Account Pictures\Default Pictures` (Images should be 48×48) or in Windows Vista and 7 at `ProgramData\Microsoft\User Account Pictures\Default Pictures` (Images should be 128×128).
+**Default user account picture locations**
+* Windows XP: `Documents and Settings\All Users\Application Data\Microsoft\User Account Pictures\Default Pictures` (Images should be 48×48 and are available as bmp)
+* Windows Vista, 7, 8, 10 and 11: `ProgramData\Microsoft\User Account Pictures\Default Pictures` (Images should be 128×128 in Windows Vista and 7 and are available as bmp. Images are available in 32×32 up to 448×448 and in bmp or png in Windows 8, 10 and 11).
 
 ### Windows Desktop Theme
 Use this to replace the desktop theme in Windows. Includes Windows Aero effects if Windows Vista or 7 is running.
