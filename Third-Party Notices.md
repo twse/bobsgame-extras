@@ -798,7 +798,7 @@ All changes and additions to the original code (Astrolog 5.40) are copyright (c)
 
 None of these notices may be changed or removed for any reason.
 
-## For use of Attribute Manager, Batch Editor, Comment Manager, File Splitter and Joiner, Module Replacer, NEWLOOK, TreeFolder, WPS Class Manager
+## For use of Attribute Manager, Batch Editor, Comment Manager, File Splitter and Joiner, Module Replacer, NEWLOOK, Swap Monitor, TreeFolder, WPS Class Manager
 Copyright © 1996-2006 Alessandro Cantatore
 
 Under no circumstances the author is liable for any loss or damage.
@@ -982,18 +982,6 @@ This license is governed by the laws of Ontario, Canada.
 Copyright 1992, 1996 by John Brock
 
 RXXMATH is unsupported freeware, and is provided "as is", with no warranties of any sort, express or implied. RXXMATH may be freely distributed in any format, provided no alterations are made to the files (other than what may be necessary to port RXXMATH to a new environment) and no restrictions are placed on further distribution. Users may modify RXXMATH at their convenience, as long as the copyright notices are retained and the modified version is not distributed publicly.
-
-## For use of Swap Monitor
-(c) 1996-1998 Alessandro Cantatore
-
-Under no circumstances the author is liable for any LOSS OR DAMAGE.
-* You are FREE TO USE this version of the program on as many machines as you like.
-* You are FREE TO MODIFY the program to suit your needs.
-* You are FREE TO DISTRIBUTE the program provided that you include all the files in the archive without any modification.
-* YOU ARE NOT ALLOWED TO SELL THE PROGRAM, but can charge a reasonable amount to cover the cost of the distribution media.
-* You can use the original ARTWORKS included in the archive as bitmaps, icons, or included in the executables as resources ONLY FOR PERSONAL USE! You are forbidden to use any of the above mentioned artworks in your programs without asking the author for permission.
-
-The use of the program implies acceptance of the conditions stated above!
 
 ## For use of WarpCalc
 Copyright (c) 1997-2012 Carl-Magnus Olsson. All rights reserved.
