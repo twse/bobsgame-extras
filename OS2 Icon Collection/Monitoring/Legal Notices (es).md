@@ -39,7 +39,7 @@
 13. dmidecode
     - – Licencia: GPL 2.0
     - – Aviso de derechos de autor: Copyright (c) 2001-2021 Alan Cox, Jean Delvare
-    - – Sitio de descarga: http://www.nongnu.org/dmidecode/
+    - – Sitio de descarga: http://www.nongnu.org/dmidecode/ (enlace en inglés)
 14. File-System Benchmarks
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1996 Radim Kolář
@@ -151,7 +151,7 @@
 50. PU Monitor
     - – Licencia: BSD de 2 cláusulas
     - – Aviso de derechos de autor: Copyright (c) 1997-2002 Sergey I. Yevtushenko
-    - – Sitio de descarga: http://es.os2.ru/pumon.html
+    - – Sitio de descarga: http://es.os2.ru/pumon.html (enlace en inglés)
 51. QikView/2
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1999 Daniel Goggia
@@ -191,7 +191,7 @@
 63. SystemInformationDisplay/2
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 2002-2003 Terje Flaarønning
-    - – Sitio de descarga: http://www.flaaronning.net/
+    - – Sitio de descarga: http://www.flaaronning.net/ (enlace en inglés)
 64. Terminator/2
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1994 Abimbola A. Olowofoyeku (The African Chief)
@@ -207,7 +207,7 @@
 68. TOP, PLIST, PKILL
     - – Licencia: Mailware
     - – Aviso de derechos de autor: Copyright (c) 1999-2018 Ian Hargreaves, Paul Ratcliffe
-    - – Sitio de descarga: http://home.clara.net/orac/
+    - – Sitio de descarga: http://home.clara.net/orac/ (enlace en inglés)
 69. TrayMonitor
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 2004-2005 Alex A. Porollo
@@ -235,6 +235,6 @@
 77. XMBMon
     - – Licencia: BSD de 2 cláusulas
     - – Aviso de derechos de autor: Copyright (c) 1999-2004 Yoshifumi R. Shimizu
-    - – Sitio de descarga: http://www.nt.phys.kyushu-u.ac.jp/shimizu/download/download.html
+    - – Sitio de descarga: http://www.nt.phys.kyushu-u.ac.jp/shimizu/download/download.html (enlace en inglés)
 
 Para obtener avisos legales completos, listas de colaboradores y traductores, visite https://bobsgame.fandom.com/wiki/Extras (enlace en inglés)
