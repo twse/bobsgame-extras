@@ -7,7 +7,7 @@
    - – Licenze: Libre
    - – Avviso di copyright: Copyright (c) 1995 Stefan Rauchecker
 3. CWHelp
-   - – Licenze: BSD 3-Clause
+   - – Licenze: BSD di 3 clausula
    - – Avviso di copyright: Copyright (c) 2002 Chris Wohlgemuth
 4. FLINF
    - – Licenze: Shareware

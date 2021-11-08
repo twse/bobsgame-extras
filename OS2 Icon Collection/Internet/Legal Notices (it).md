@@ -174,7 +174,7 @@
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2011 Myung-Hun Ko
 57. KSCP
-    - – Licenze: BSD 3-Clause
+    - – Licenze: BSD di 3 clausula
     - – Avviso di copyright: Copyright (c) 2012-2017 Myung-Hun Ko
 58. Kuvert/2
     - – Licenze: Shareware
@@ -327,7 +327,7 @@
      - – Licenze: Shareware
      - – Avviso di copyright: Copyright (c) 1999 Frugal Software
 105. ripMIME
-     - – Licenze: BSD 3-Clause
+     - – Licenze: BSD di 3 clausula
      - – Avviso di copyright: Copyright (c) 2002-2011 Paul L. Daniels
      - – Sito di download: https://pldaniels.com/ripmime/ (link in inglese)
 106. rxCalcNet
@@ -350,7 +350,7 @@
      - – Licenze: Shareware
      - – Avviso di copyright: Copyright (c) 1997 Iftach Silberman
 112. TCP/IP Profile Manager
-     - – Licenze: BSD 3-Clause
+     - – Licenze: BSD di 3 clausula
      - – Avviso di copyright: Copyright (c) 2010 Alexander Taylor
      - – Sito di download: http://www.altsan.org/ (link in inglese)
 113. TESTLOCK

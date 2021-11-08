@@ -20,7 +20,7 @@
    - – Licenze: Libre
    - – Avviso di copyright: Copyright (c) 1994-1996 René Grothmann
 7. DECalc
-   - – Licenze: BSD 3-Clause
+   - – Licenze: BSD di 3 clausula
    - – Avviso di copyright: Copyright (c) 2001-2004 Don K. Eitner
 8. EditCalc
    - – Licenze: Libre
@@ -85,7 +85,7 @@
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1996-1998 Christian Bressler
 27. Perl-Compatible Regular Expressions
-    - – Licenze: BSD 3-Clause
+    - – Licenze: BSD di 3 clausula
     - – Avviso di copyright: Copyright (c) 1997-2021 Università di Cambridge
     - – Download site: http://www.pcre.org/ (link in inglese)
 28. PlotMTV

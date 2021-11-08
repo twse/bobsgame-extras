@@ -129,7 +129,7 @@
     - – Licenze: Comerciali
     - – Avviso di copyright: Copyright (c) 2002 RSJ
 43. RxLVM
-    - – Licenze: BSD 3-Clause
+    - – Licenze: BSD di 3 clausula
     - – Avviso di copyright: Copyright (c) 2006-2007 Alexander Taylor
     - – Sito di download: http://www.altsan.org/ (link in inglese)
 44. SLICE2, SPLICE2

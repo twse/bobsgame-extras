@@ -20,7 +20,7 @@
    - – Licenze: IBM EWS
    - – Avviso di copyright: Copyright (c) 1992-1994 Monte Copeland
 7. Nice OS/2 Enhancer
-   - – Licenze: BSD 3-Clause
+   - – Licenze: BSD di 3 clausula
    - – Avviso di copyright: Copyright (c) 1994-2015 Sergey Posokhov
 8. NPS WPS Enhancer
    - – Licenze: Libre

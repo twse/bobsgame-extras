@@ -40,7 +40,7 @@
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1996 Tomas Ögren
 14. DESplit
-    - – Licenze: BSD 3-Clause
+    - – Licenze: BSD di 3 clausula
     - – Avviso di copyright: Copyright (c) 2003 Don K. Eitner
 15. DSTAT
     - – Licenze: Libre
@@ -175,7 +175,7 @@
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1991 Bob Mahan
 59. Syslev
-    - – Licenze: BSD 3-Clause
+    - – Licenze: BSD di 3 clausula
     - – Avviso di copyright: Copyright (c) 2000-2016 Robert D Eager
 60. Syslog
     - – Licenze: Libre

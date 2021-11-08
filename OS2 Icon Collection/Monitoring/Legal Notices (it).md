@@ -149,7 +149,7 @@
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1997-2007 Seth A. Eilbott, Christian Langanke
 50. PU Monitor
-    - – Licenze: BSD 2-Clause
+    - – Licenze: BSD di 2 clausula
     - – Avviso di copyright: Copyright (c) 1997-2002 Sergey I. Yevtushenko
     - – Sito di download: http://es.os2.ru/pumon.html (link in inglese)
 51. QikView/2
@@ -165,7 +165,7 @@
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1998 Mike Ruskai
 55. RxFnSet
-    - – Licenze: BSD 3-Clause
+    - – Licenze: BSD di 3 clausula
     - – Avviso di copyright: Copyright (c) 1995 Leshek Fiedorowicz
 56. RxSwitchQuery
     - – Licenze: Cardware
@@ -183,10 +183,10 @@
     - – Licenze: Mailware
     - – Avviso di copyright: Copyright (c) 1995 Wes Santee
 61. SysInfo/2
-    - – Licenze: BSD 3-Clause
+    - – Licenze: BSD di 3 clausula
     - – Avviso di copyright: Copyright (c) 1999-2004 Alexey Smirnov, 2005-2008 Yuri Prokushev
 62. System Load
-    - – Licenze: BSD 3-Clause
+    - – Licenze: BSD di 3 clausula
     - – Avviso di copyright: Copyright (c) 2015-2018 Andrey Vasilkin
 63. SystemInformationDisplay/2
     - – Licenze: Libre
@@ -233,7 +233,7 @@
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2009 Clemens-Elias Fischer
 77. XMBMon
-    - – Licenze: BSD 2-Clause
+    - – Licenze: BSD di 2 clausula
     - – Avviso di copyright: Copyright (c) 1999-2004 Yoshifumi R. Shimizu
     - – Sito di download: http://www.nt.phys.kyushu-u.ac.jp/shimizu/download/download.html (link in inglese)
 

@@ -10,7 +10,7 @@
    - – Licenze: Libre
    - – Avviso di copyright: Copyright (c) 1995 Stefan Rauchecker
 4. ConText/2
-   - – Licenze: BSD 3-Clause
+   - – Licenze: BSD di 3 clausula
    - – Avviso di copyright: Copyright (c) 2007 Alexander Taylor
    - – Sito di download: http://www.altsan.org/ (link in inglese)
 5. Conversion Pro for OS/2
