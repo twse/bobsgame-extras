@@ -100,7 +100,7 @@
     - – Licentie: IBM EWS
     - – Copyright notice: Copyright (c) 1994 Felix Sawicki
 35. Pwd/2
-    - – Licentie: MIT License
+    - – Licentie: MIT-licentie
     - – Copyright notice: Copyright (c) 2003-2007 Nicholas Paul Sheppard
 36. Rwx
     - – Licentie: Mozilla 1.1
@@ -117,9 +117,9 @@
 40. ScreenSaver
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1993-1996 Siegfried Hanisch
-    - – Download site: https://www.hanisch.com/cms/index.php/home_en/screensaver_en/index.html
+    - – Download site: https://www.hanisch.com/cms/index.php/home_en/screensaver_en/index.html (koppeling in Engels)
 41. Security/2
-    - – Licentie: Free voor niet-commerciëlle gebruiken
+    - – Licentie: Free voor niet commercieel gebruiken
     - – Copyright notice: Copyright (c) 2002-2007 Nikolay Kolosov
 42. Service Center
     - – Licentie: Free
