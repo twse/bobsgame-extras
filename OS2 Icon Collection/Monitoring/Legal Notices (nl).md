@@ -180,7 +180,7 @@
     - – Licentie: Free zonder ondersteuning
     - – Copyright notice: Copyright (c) 1996-1998 Alessandro Cantatore
 60. SwitchMaster
-    - – Licentie: Mailware
+    - – Licentie: Emailware
     - – Copyright notice: Copyright (c) 1995 Wes Santee
 61. SysInfo/2
     - – Licentie: BSD 3-Clause
@@ -205,7 +205,7 @@
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1988 Charles Petzold, 1989 Eric L. Baatz
 68. TOP, PLIST, PKILL
-    - – Licentie: Mailware
+    - – Licentie: Emailware
     - – Copyright notice: Copyright (c) 1999-2018 Ian Hargreaves, Paul Ratcliffe
     - – Download site: http://home.clara.net/orac/ (koppeling in Engels)
 69. TrayMonitor
@@ -238,3 +238,4 @@
     - – Download site: http://www.nt.phys.kyushu-u.ac.jp/shimizu/download/download.html (koppeling in Engels)
 
 Voor volledige juridische kennisgevingen, bijdragers en vertaal lijsten https://bobsgame.fandom.com/wiki/Extras (koppeling in Engels) bezoeken
+

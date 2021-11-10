@@ -180,7 +180,7 @@
     - – Licencia: Gratis sin soporte
     - – Aviso de derechos de autor: Copyright (c) 1996-1998 Alessandro Cantatore
 60. SwitchMaster
-    - – Licencia: Mailware
+    - – Licencia: Emailware
     - – Aviso de derechos de autor: Copyright (c) 1995 Wes Santee
 61. SysInfo/2
     - – Licencia: BSD de 3 cláusulas
@@ -205,7 +205,7 @@
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1988 Charles Petzold, 1989 Eric L. Baatz
 68. TOP, PLIST, PKILL
-    - – Licencia: Mailware
+    - – Licencia: Emailware
     - – Aviso de derechos de autor: Copyright (c) 1999-2018 Ian Hargreaves, Paul Ratcliffe
     - – Sitio de descarga: http://home.clara.net/orac/ (enlace en inglés)
 69. TrayMonitor

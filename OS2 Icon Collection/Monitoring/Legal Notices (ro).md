@@ -180,7 +180,7 @@ Acest folder poate conține următorul software:
     - – Licență: Gratis fără suportate
     - – Aviz de copyright: Copyright (c) 1996-1998 Alessandro Cantatore
 60. SwitchMaster
-    - – Licență: Mailware
+    - – Licență: Poștal
     - – Aviz de copyright: Copyright (c) 1995 Wes Santee
 61. SysInfo/2
     - – Licență: BSD 3-Clause
@@ -205,7 +205,7 @@ Acest folder poate conține următorul software:
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1988 Charles Petzold, 1989 Eric L. Baatz
 68. TOP, PLIST, PKILL
-    - – Licență: Mailware
+    - – Licență: Poștal
     - – Aviz de copyright: Copyright (c) 1999-2018 Ian Hargreaves, Paul Ratcliffe
     - – Site-ul de download: http://home.clara.net/orac/ (legătură în limba engleza)
 69. TrayMonitor

@@ -180,7 +180,7 @@
     - – Licenc: Szabad, nem támogatott
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-1998 Alessandro Cantatore
 60. SwitchMaster
-    - – Licenc: Mailware
+    - – Licenc: Emailware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Wes Santee
 61. SysInfo/2
     - – Licenc: BSD 3-klauzula
@@ -205,7 +205,7 @@
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1988 Charles Petzold, 1989 Eric L. Baatz
 68. TOP, PLIST, PKILL
-    - – Licenc: Mailware
+    - – Licenc: Emailware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1999-2018 Ian Hargreaves, Paul Ratcliffe
     - – Letöltési hely: http://home.clara.net/orac/ (angol nyelvem)
 69. TrayMonitor

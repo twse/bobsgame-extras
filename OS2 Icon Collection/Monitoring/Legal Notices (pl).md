@@ -180,7 +180,7 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Licencja: Wolny bez wspierać
     - – Informacja o prawach autorskich: Copyright (c) 1996-1998 Alessandro Cantatore
 60. SwitchMaster
-    - – Licencja: Mailware
+    - – Licencja: Pocztowy
     - – Informacja o prawach autorskich: Copyright (c) 1995 Wes Santee
 61. SysInfo/2
     - – Licencja: BSD 3-klauzule
@@ -205,7 +205,7 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1988 Charles Petzold, 1989 Eric L. Baatz
 68. TOP, PLIST, PKILL
-    - – Licencja: Mailware
+    - – Licencja: Pocztowy
     - – Informacja o prawach autorskich: Copyright (c) 1999-2018 Ian Hargreaves, Paul Ratcliffe
     - – Strona pobierania: http://home.clara.net/orac/ (w angielski)
 69. TrayMonitor
