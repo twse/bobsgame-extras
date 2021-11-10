@@ -8,7 +8,7 @@
    - – Licenze: Shareware
    - – Avviso di copyright: Copyright (c) 1994 Takashi Hamaguchi
 3. DataSeeker
-   - – Licenze: BSD 3-Clause e OpenWatcom
+   - – Licenze: BSD di 3 clausula e OpenWatcom
    - – Avviso di copyright: Copyright (c) 2003-2007 Alessandro Cantatore, 2008-2017 Andreas Buchinger
 4. DH-Grep-PM
    - – Licenze: Shareware
