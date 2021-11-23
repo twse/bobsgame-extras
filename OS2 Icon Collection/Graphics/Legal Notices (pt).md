@@ -254,9 +254,9 @@
     - – Licença: GPL 3.0
     - – Aviso de direitos autorais: Copyright (c) 2007-2012 Victor Hackeridze
 78. QVV
-    - – Licença: Grátis
-    - – Aviso de direitos autorais: Copyright (c) 1999-2017 Vladi Belperchinov-Shabanski
-    - – Site de descarregamento: http://cade.datamax.bg/qvv/ (link em inglês)
+    - – Licença: GPL 2.0
+    - – Aviso de direitos autorais: Copyright (c) 1999-2021 Vladi Belperchinov-Shabanski
+    - – Site de descarregamento: http://cade.noxrun.com/projects/qvv/ (link em inglês)
 79. RTMMM
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1996 Filippo Sartori

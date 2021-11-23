@@ -255,8 +255,8 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2007-2012 Victor Hackeridze
 78. QVV
     - – Licenc: GPL 2.0
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1999-2017 Vladi Belperchinov-Shabanski
-    - – Letöltési hely: http://cade.datamax.bg/qvv/ (angol nyelvem)
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1999-2021 Vladi Belperchinov-Shabanski
+    - – Letöltési hely: http://cade.noxrun.com/projects/qvv/ (angol nyelvem)
 79. RTMMM
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996 Filippo Sartori

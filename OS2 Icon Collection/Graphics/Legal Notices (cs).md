@@ -255,8 +255,8 @@
     - – Upozornění na autorská práva: Copyright (c) 2007-2012 Victor Hackeridze
 78. QVV
     - – Licence: GPL 2.0
-    - – Upozornění na autorská práva: Copyright (c) 1999-2017 Vladi Belperchinov-Shabanski
-    - – Server pro stahování: http://cade.datamax.bg/qvv/ (odkaz v angličtina)
+    - – Upozornění na autorská práva: Copyright (c) 1999-2021 Vladi Belperchinov-Shabanski
+    - – Server pro stahování: http://cade.noxrun.com/projects/qvv/ (odkaz v angličtina)
 79. RTMMM
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1996 Filippo Sartori
