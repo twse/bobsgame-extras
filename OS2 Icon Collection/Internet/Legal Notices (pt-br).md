@@ -256,7 +256,7 @@
 82. Netscape
     - – Licença: MPL 2.0
     - – Aviso de copyright: Copyright (c) 1997-2008 Contribuintes para a base de código Mozilla
-    - – Site de download: http://sillydog.org/narchive/full123.php (link em inglês)
+    - – Site de download: https://sillydog.org/narchive/full123.php (link em inglês)
 83. NetUse
     - – Licença: GPL 2.0
     - – Aviso de copyright: Copyright (c) 1999-2004 Thomas Bohn
