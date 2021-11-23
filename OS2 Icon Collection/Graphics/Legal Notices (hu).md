@@ -219,7 +219,7 @@
 67. PMJPEG
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2008 PixVision Software
-    - – Letöltési hely: http://www.pixvision.com/ (angol nyelvem)
+    - – Letöltési hely: https://www.pixvision.com/ (angol nyelvem)
 68. PmPaint
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1991 Mitchell Fisher

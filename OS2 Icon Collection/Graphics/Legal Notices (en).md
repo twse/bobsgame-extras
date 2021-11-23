@@ -219,7 +219,7 @@
 67. PMJPEG
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 2008 PixVision Software
-    - – Download Site : http://www.pixvision.com/
+    - – Download Site : https://www.pixvision.com/
 68. PmPaint
     - – License : Free
     - – Copyright Notice : Copyright (c) 1991 Mitchell Fisher

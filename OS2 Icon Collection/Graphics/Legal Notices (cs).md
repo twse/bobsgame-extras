@@ -219,7 +219,7 @@
 67. PMJPEG
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 2008 PixVision Software
-    - – Server pro stahování: http://www.pixvision.com/ (odkaz v angličtina)
+    - – Server pro stahování: https://www.pixvision.com/ (odkaz v angličtina)
 68. PmPaint
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1991 Mitchell Fisher
