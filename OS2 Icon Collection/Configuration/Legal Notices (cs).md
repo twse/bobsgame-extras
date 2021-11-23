@@ -150,7 +150,6 @@
 48. UniMaint
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1994-2011 Jim Read
-    - – Server pro stahování: http://www.jaread.net/downloads/unimaint/
 49. Warp'n'Go
     - – Licence: IBM EWS
     - – Upozornění na autorská práva: Copyright (c) 1994-1995 Dietmar M. Klein

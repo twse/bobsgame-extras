@@ -50,7 +50,6 @@ Acest folder poate conține următorul software:
 16. FileStar/2
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1994-2011 Jim Read
-    - – Site-ul de download: http://www.jaread.net/ (legătură în limba engleza)
 17. FileView
     - – Licență: IBM EWS
     - – Aviz de copyright: Copyright (c) 1995-1996 Ole Barner

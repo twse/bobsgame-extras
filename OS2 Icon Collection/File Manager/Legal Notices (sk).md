@@ -50,7 +50,6 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 16. FileStar/2
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 1994-2011 Jim Read
-    - – Server pro stáhovanie: http://www.jaread.net/
 17. FileView
     - – Licencia: IBM EWS
     - – Upozornenie na autorských práva: Copyright (c) 1995-1996 Ole Barner

@@ -150,7 +150,6 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 48. UniMaint
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1994-2011 Jim Read
-    - – İndirme Sitesi: http://www.jaread.net/downloads/unimaint/
 49. Warp'n'Go
     - – Lisans: IBM EWS
     - – Telif Hakkı Bildirimi: Copyright (c) 1994-1995 Dietmar M. Klein

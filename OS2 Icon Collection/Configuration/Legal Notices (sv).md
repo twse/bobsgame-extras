@@ -150,7 +150,6 @@
 48. UniMaint
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1994-2011 Jim Read
-    - – Nedladdningssida: http://www.jaread.net/downloads/unimaint/
 49. Warp'n'Go
     - – Licens: IBM EWS
     - – Copyrightmeddelande: Copyright (c) 1994-1995 Dietmar M. Klein

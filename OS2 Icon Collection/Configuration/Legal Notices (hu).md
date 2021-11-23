@@ -150,7 +150,6 @@
 47. UniMaint
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994-2011 Jim Read
-    - – Letöltési hely: http://www.jaread.net/downloads/unimaint/ (angol nyelvem)
 48. Warp'n'Go
     - – Licenc: IBM EWS
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994-1995 Dietmar M. Klein

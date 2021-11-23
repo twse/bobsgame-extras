@@ -150,7 +150,6 @@
 47. UniMaint
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1994-2011 Jim Read
-    - – Sito di download: http://www.jaread.net/downloads/unimaint/
 48. Warp'n'Go
     - – Licenze: IBM EWS
     - – Avviso di copyright: Copyright (c) 1994-1995 Dietmar M. Klein

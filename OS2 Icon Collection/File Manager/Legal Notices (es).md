@@ -50,7 +50,6 @@
 16. FileStar/2
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1994-2011 Jim Read
-    - – Sitio de descarga: http://www.jaread.net/ (enlace en inglés)
 17. FileView
     - – Licencia: IBM EWS
     - – Aviso de derechos de autor: Copyright (c) 1995-1996 Ole Barner

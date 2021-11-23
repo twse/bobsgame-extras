@@ -48,7 +48,6 @@ Acest folder poate conține următorul software:
 15. FlexEdit
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1994-2011 Jim Read
-    - – Site-ul de download: http://www.jaread.net/
 16. FocusWriter
     - – Licență: GPL 3.0
     - – Aviz de copyright: Copyright (c) 2008-2021 Graeme Gott

@@ -50,7 +50,6 @@
 16. FileStar/2
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1994-2011 Jim Read
-    - – Server pro stahování: http://www.jaread.net/
 17. FileView
     - – Licence: IBM EWS
     - – Upozornění na autorská práva: Copyright (c) 1995-1996 Ole Barner

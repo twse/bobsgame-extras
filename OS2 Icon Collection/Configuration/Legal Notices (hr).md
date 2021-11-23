@@ -150,7 +150,6 @@
 48. UniMaint
     - – Licenca: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1994-2011 Jim Read
-    - – Web-mjesto za preuzimanje: http://www.jaread.net/downloads/unimaint/
 49. Warp'n'Go
     - – Licenca: IBM EWS
     - – Obavijest o autorskom pravu: Copyright (c) 1994-1995 Dietmar M. Klein

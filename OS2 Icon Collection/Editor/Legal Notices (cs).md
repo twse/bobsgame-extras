@@ -48,7 +48,6 @@
 15. FlexEdit
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1994-2011 Jim Read
-    - – Server pro stahování: http://www.jaread.net/
 16. FocusWriter
     - – Licence: GPL 3.0
     - – Upozornění na autorská práva: Copyright (c) 2008-2021 Graeme Gott

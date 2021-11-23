@@ -150,7 +150,6 @@ Acest folder poate conține următorul software:
 47. UniMaint
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1994-2011 Jim Read
-    - – Site-ul de download: http://www.jaread.net/downloads/unimaint/ (legătură în limba engleza)
 48. Warp'n'Go
     - – Licență: IBM EWS
     - – Aviz de copyright: Copyright (c) 1994-1995 Dietmar M. Klein

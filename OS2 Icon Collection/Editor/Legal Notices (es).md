@@ -48,7 +48,6 @@
 15. FlexEdit
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1994-2011 Jim Read
-    - – Sitio de descarga: http://www.jaread.net/ (enlace en inglés)
 16. FocusWriter
     - – Licencia: GPL 3.0
     - – Aviso de derechos de autor: Copyright (c) 2008-2021 Graeme Gott

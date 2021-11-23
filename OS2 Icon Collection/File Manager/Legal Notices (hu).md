@@ -50,7 +50,6 @@
 16. FileStar/2
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994-2011 Jim Read
-    - – Letöltési hely: http://www.jaread.net/ (angol nyelvem)
 17. FileView
     - – Licenc: IBM EWS
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-1996 Ole Barner

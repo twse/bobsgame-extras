@@ -150,7 +150,6 @@ Ten folder może zawierać następujące oprogramowanie:
 47. UniMaint
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1994-2011 Jim Read
-    - – Strona pobierania: http://www.jaread.net/downloads/unimaint/
 48. Warp'n'Go
     - – Licencja: IBM EWS
     - – Informacja o prawach autorskich: Copyright (c) 1994-1995 Dietmar M. Klein

@@ -150,7 +150,6 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 48. UniMaint
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 1994-2011 Jim Read
-    - – Server pro stáhovanie: http://www.jaread.net/downloads/unimaint/
 49. Warp'n'Go
     - – Licencia: IBM EWS
     - – Upozornenie na autorských práva: Copyright (c) 1994-1995 Dietmar M. Klein
