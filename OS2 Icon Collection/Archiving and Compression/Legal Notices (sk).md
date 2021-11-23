@@ -85,7 +85,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 26. WarpIN
     - – Licencia: LGPL 2.1
     - – Upozornenie na autorských práva: Copyright (c) 1997-2012 Netlabs
-    - – Server pro stáhovanie: http://warpin.netlabs.org/ (link v angličtina)
+    - – Server pro stáhovanie: http://warpin.netlabs.org/en/site/index.xml (link v angličtina)
 27. WarpZip
     - – Licencia: Shareware
     - – Upozornenie na autorských práva: Copyright (c) 1996-2000 PillarSoft

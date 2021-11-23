@@ -85,7 +85,7 @@ Ten folder może zawierać następujące oprogramowanie:
 26. WarpIN
     - – Licencja: LGPL 2.1
     - – Informacja o prawach autorskich: Copyright (c) 1997-2012 Netlabs
-    - – Strona pobierania: http://warpin.netlabs.org/ (w angielski)
+    - – Strona pobierania: http://warpin.netlabs.org/en/site/index.xml (w angielski)
 27. WarpZip
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 1996-2000 PillarSoft

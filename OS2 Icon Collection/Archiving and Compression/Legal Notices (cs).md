@@ -85,7 +85,7 @@
 26. WarpIN
     - – Licence: LGPL 2.1
     - – Upozornění na autorská práva: Copyright (c) 1997-2012 Netlabs
-    - – Server pro stahování: http://warpin.netlabs.org/ (odkaz v angličtina)
+    - – Server pro stahování: http://warpin.netlabs.org/en/site/index.xml (odkaz v angličtina)
 27. WarpZip
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1996-2000 PillarSoft

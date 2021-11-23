@@ -85,7 +85,7 @@ Acest folder poate conține următorul software:
 26. WarpIN
     - – Licență: LGPL 2.1
     - – Aviz de copyright: Copyright (c) 1997-2012 Netlabs
-    - – Site-ul de download: http://warpin.netlabs.org/ (legătură în limba engleza)
+    - – Site-ul de download: http://warpin.netlabs.org/en/site/index.xml (legătură în limba engleza)
 27. WarpZip
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1996-2000 PillarSoft

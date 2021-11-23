@@ -85,7 +85,7 @@
 26. WarpIN
     - – Licenc: LGPL 2.1
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2012 Netlabs
-    - – Letöltési hely: http://warpin.netlabs.org/ (angol nyelvem)
+    - – Letöltési hely: http://warpin.netlabs.org/en/site/index.xml (angol nyelvem)
 27. WarpZip
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-2000 PillarSoft

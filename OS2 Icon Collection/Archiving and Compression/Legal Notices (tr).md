@@ -85,7 +85,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 26. WarpIN
     - – Lisans: LGPL 2.1
     - – Telif Hakkı Bildirimi: Copyright (c) 1997-2012 Netlabs
-    - – İndirme Sitesi: http://warpin.netlabs.org/
+    - – İndirme Sitesi: http://warpin.netlabs.org/en/site/index.xml (bağda İngilizce)
 27. WarpZip
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1996-2000 PillarSoft

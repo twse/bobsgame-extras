@@ -12,7 +12,7 @@
 4. ArcView
    - – Licenze: GPL 2.0
    - – Avviso di copyright: Copyright (c) 2009-2013 Alexander Taylor
-   - – Sito di download: http://www.altsan.org/
+   - – Sito di download: http://www.altsan.org/ (link in inglese)
 5. ARJ
    - – Licenze: Libre o shareware
    - – Avviso di copyright: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
@@ -85,7 +85,7 @@
 26. WarpIN
     - – Licenze: LGPL 2.1
     - – Avviso di copyright: Copyright (c) 1997-2012 Netlabs
-    - – Sito di download: http://warpin.netlabs.org/ (link in inglese)
+    - – Sito di download: http://warpin.netlabs.org/en/site/index.xml (link in inglese)
 27. WarpZip
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1996-2000 PillarSoft
