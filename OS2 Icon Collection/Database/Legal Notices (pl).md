@@ -45,7 +45,7 @@ Ten folder może zawierać następujące oprogramowanie:
 15. SQliteman
     - – Licencja: GPL 2.0
     - – Informacja o prawach autorskich: Copyright (c) 2007-2010 Petr Vaněk
-    - – Letöltési hely: http://sqliteman.yarpen.cz/ (w angielski)
+    - – Strona pobierania: http://sqliteman.yarpen.cz/ (w angielski)
 16. VIPER Database Engine
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1995 Douglas A. Bebber
