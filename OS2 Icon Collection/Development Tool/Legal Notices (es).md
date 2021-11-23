@@ -11,7 +11,7 @@
 4. ASM Edit
    - – Licencia: Gratis
    - – Aviso de derechos de autor: Copyright (c) 1996 Olaf Krusche, Tilo Elstner
-   - – Sitio de descarga: http://www.o-love.net/asmedit/
+   - – Sitio de descarga: http://www.o-love.net/asmedit/ (enlace en inglés)
 5. AUTOS2
    - – Licencia: Gratis
    - – Aviso de derechos de autor: Copyright (c) 1995-2003 Squiredeck
@@ -36,7 +36,7 @@
 12. CScope
     - – Licencia: BSD de 3 cláusulas
     - – Aviso de derechos de autor: Copyright (c) 1998-2000 The Santa Cruz Operation
-    - – Sitio de descarga: http://cscope.sourceforge.net/
+    - – Sitio de descarga: http://cscope.sourceforge.net/ (enlace en inglés)
 13. C-Scout
     - – Licencia: Shareware
     - – Aviso de derechos de autor: Copyright (c) 1996 a priori computer solutions GmbH
@@ -49,7 +49,7 @@
 16. Dialog
     - – Licencia: LGPL 2.1
     - – Aviso de derechos de autor: Copyright (c) 1993-1994 Savio Lam, 1997-2021 Thomas E. Dickey
-    - – Sitio de descarga: https://invisible-island.net/dialog/
+    - – Sitio de descarga: https://invisible-island.net/dialog/ (enlace en inglés)
 17. Dialog Editor
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1993-1995 Giovanni Iachello
@@ -112,11 +112,11 @@
 35. HexIt
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1995-2001 Mikael Klasson
-    - – Sitio de descarga: http://www.mklasson.com/hexit.php
+    - – Sitio de descarga: http://www.mklasson.com/hexit.php (enlace en inglés)
 36. Hiew
     - – Licencia: Shareware
     - – Aviso de derechos de autor: Copyright (c) 1997-2021 Eugene Suslikov
-    - – Sitio de descarga: http://www.hiew.ru/
+    - – Sitio de descarga: http://www.hiew.ru/ (enlace en inglés)
 37. ICONRESOURCE
     - – Licencia: LGPL 2.0
     - – Aviso de derechos de autor: Copyright (c) 2001 Christian Langanke
@@ -201,7 +201,7 @@
 62. Python
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 2001-2021 Python Software Foundation
-    - – Sitio de descarga: https://www.python.org/
+    - – Sitio de descarga: https://www.python.org/ (enlace en inglés)
 63. QDevelop
     - – Licencia: GPL 2.0
     - – Aviso de derechos de autor: Copyright (c) 2006-2010 Jean-Luc Biord
@@ -220,7 +220,7 @@
 68. Rexx/DW
     - – Licencia: GPL 2.0
     - – Aviso de derechos de autor: Copyright (c) 1997-2015 Mark Hessling
-    - – Sitio de descarga: http://rexxdw.sourceforge.net/
+    - – Sitio de descarga: http://rexxdw.sourceforge.net/ (enlace en inglés)
 69. REXX_EXE
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 2006 Veit Kannegieser
@@ -254,7 +254,7 @@
 79. SDL
     - – Licencia: zlib
     - – Aviso de derechos de autor: Copyright (c) 2006-2018 Sam Lantinga
-    - – Sitio de descarga: http://www.libsdl.org/
+    - – Sitio de descarga: http://www.libsdl.org/ (enlace en inglés)
 80. SeeDump
     - – Licencia: Shareware
     - – Aviso de derechos de autor: Copyright (c) 1996 a priori computer solutions GmbH
