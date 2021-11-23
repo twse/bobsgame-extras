@@ -59,6 +59,6 @@ Acest folder poate conține următorul software:
 19. ValidateItNow
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1996-1999 Terje Flaarønning
-    - – Site-ul de download: http://www.flaaronning.net/
+    - – Site-ul de download: http://www.flaaronning.net/ (legătură în limba engleza)
 
 Pentru notificări legale complete, contribuitor și liste de traducator, vă rugăm să vizitați https://bobsgame.fandom.com/wiki/Extras (legătură în limba engleza)

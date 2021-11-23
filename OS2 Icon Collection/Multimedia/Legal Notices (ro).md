@@ -178,7 +178,7 @@ Acest folder poate conține următorul software:
 55. PM123
     - – Licență: BSD 3-clause
     - – Aviz de copyright: Copyright (c) 1997-2003 Samuel Audet, Taneli Leppä, 2004-2017 Dmitry A. Steklenev, Marcel Müller
-    - – Site-ul de download: http://www.5nets.ru/pm123.html (legătură în limba engleza) or http://maazl.de/project/pm123/index.html (legătură în limba engleza)
+    - – Site-ul de download: http://www.5nets.ru/pm123.html (legătură în limba engleza) sau http://maazl.de/project/pm123/index.html (legătură în limba engleza)
 56. PMaud
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1996 Ryan C. Gordon 
