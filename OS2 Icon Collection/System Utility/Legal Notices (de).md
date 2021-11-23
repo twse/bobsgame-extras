@@ -122,7 +122,7 @@
 41. Odin
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1999-2017 Netlabs
-    - – Download-Site: http://odin.netlabs.org/ (link auf Englisch)
+    - – Download-Site: http://odin.netlabs.org/en/site/index.xml (link auf Englisch)
 42. OS/2 Command Line Utilities
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1991-2004 Jonathan de Boyne Pollard
