@@ -63,6 +63,6 @@
 20. XWorkplace
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 1998-2009 Ulrich Möller
-    - – Site de descarregamento: http://xworkplace.netlabs.org/ (link em inglês)
+    - – Site de descarregamento: http://xworkplace.netlabs.org/en/site/index.xml (link em inglês)
 
 Para avisos legais completos, listas de contribuintes e tradutores, consulte https://bobsgame.fandom.com/wiki/Extras (link em inglês)

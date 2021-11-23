@@ -63,6 +63,6 @@
 20. XWorkplace
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 1998-2009 Ulrich Möller
-    - – Server pro stahování: http://xworkplace.netlabs.org/ (odkaz v angličtina)
+    - – Server pro stahování: http://xworkplace.netlabs.org/en/site/index.xml (odkaz v angličtina)
 
 Úplné právní doložky, seznamy přispěvatelů a převaděče naleznete na https://bobsgame.fandom.com/wiki/Extras (odkaz v angličtina)

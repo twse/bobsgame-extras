@@ -63,6 +63,6 @@ Acest folder poate conține următorul software:
 20. XWorkplace
     - – Licență: GPL 2.0
     - – Aviz de copyright: Copyright (c) 1998-2009 Ulrich Möller
-    - – Site-ul de download: http://xworkplace.netlabs.org/ (legătură în limba engleza)
+    - – Site-ul de download: http://xworkplace.netlabs.org/en/site/index.xml (legătură în limba engleza)
 
 Pentru notificări legale complete, contribuitor și liste de traducator, vă rugăm să vizitați https://bobsgame.fandom.com/wiki/Extras (legătură în limba engleza)

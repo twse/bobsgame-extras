@@ -63,6 +63,6 @@
 20. XWorkplace
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2009 Ulrich Möller
-    - – Letöltési hely: http://xworkplace.netlabs.org/ (angol nyelvem)
+    - – Letöltési hely: http://xworkplace.netlabs.org/en/site/index.xml (angol nyelvem)
 
 A teljes jogi közlemények, közreműködő és fordító listák, kérjük, látogasson el a https://bobsgame.fandom.com/wiki/Extras (angol nyelvem)

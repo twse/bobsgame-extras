@@ -63,6 +63,6 @@
 20. XWorkplace
     - – Licens: GPL 2.0
     - – Meddelelse om ophavsret: Copyright (c) 1998-2009 Ulrich Möller
-    - – Download site: http://xworkplace.netlabs.org/ (link på engelsk)
+    - – Download site: http://xworkplace.netlabs.org/en/site/index.xml (link på engelsk)
 
 For fuld juridiske meddelelser, bidragyder og oversætter lister, kan du besøge https://bobsgame.fandom.com/wiki/Extras (link på engelsk)

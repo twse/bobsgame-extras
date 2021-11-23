@@ -63,6 +63,6 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 20. XWorkplace
     - – Lisans: GPL 2.0
     - – Telif Hakkı Bildirimi: Copyright (c) 1998-2009 Ulrich Möller
-    - – İndirme Sitesi: http://xworkplace.netlabs.org/
+    - – İndirme Sitesi: http://xworkplace.netlabs.org/en/site/index.xml (bağda İngilizce)
 
 Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

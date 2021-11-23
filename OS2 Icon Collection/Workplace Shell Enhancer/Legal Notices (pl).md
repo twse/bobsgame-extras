@@ -63,6 +63,6 @@ Ten folder może zawierać następujące oprogramowanie:
 20. XWorkplace
     - – Licencja: GPL 2.0
     - – Informacja o prawach autorskich: Copyright (c) 1998-2009 Ulrich Möller
-    - – Strona pobierania: http://xworkplace.netlabs.org/ (w angielski)
+    - – Strona pobierania: http://xworkplace.netlabs.org/en/site/index.xml (w angielski)
 
 W celu uzyskania pełnych informacji prawnych, list autorów i tłumaczy prosimy odwiedzić https://bobsgame.fandom.com/wiki/Extras (w angielski)

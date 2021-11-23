@@ -63,6 +63,6 @@
 20. XWorkplace
     - – Licenca: GPL 2.0
     - – Obavijest o autorskom pravu: Copyright (c) 1998-2009 Ulrich Möller
-    - – Web-mjesto za preuzimanje: http://xworkplace.netlabs.org/ (poveznica na engleski)
+    - – Web-mjesto za preuzimanje: http://xworkplace.netlabs.org/en/site/index.xml (poveznica na engleski)
 
 Potpune pravne obavijesti, popise suradnika i prevoditelja potražite na ovoj stranici https://bobsgame.fandom.com/wiki/Extras (poveznica na engleski)
