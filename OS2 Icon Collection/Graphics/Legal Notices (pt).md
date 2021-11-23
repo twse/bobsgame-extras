@@ -167,7 +167,7 @@
 51. libjpeg
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1991-2020 Thomas G. Lane, Guido Vollbeding
-    - – Site de descarregamento: http://www.ijg.org/
+    - – Site de descarregamento: http://www.ijg.org/ (link em inglês)
 52. libpng
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2021 Cosmin Truța
