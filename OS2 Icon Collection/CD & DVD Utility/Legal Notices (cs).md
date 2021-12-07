@@ -6,7 +6,7 @@
 2. BatchBurn
    - – Licence: Svobodné
    - – Upozornění na autorská práva: Copyright (c) 2005 Martin Vieregg
-   - – Server pro stahování: http://www.hypermake.com/
+   - – Server pro stahování: http://www.hypermake.com/english/batchburn.html (odkaz v angličtina)
 3. CD Audio Dump/2
    - – Licence: Shareware
    - – Upozornění na autorská práva: Copyright (c) 1996 Richard Reuters

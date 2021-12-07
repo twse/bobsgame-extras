@@ -6,7 +6,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 2. BatchBurn
    - – Licencia: Svobodné
    - – Upozornenie na autorských práva: Copyright (c) 2005 Martin Vieregg
-   - – Server pro stáhovanie: http://www.hypermake.com/
+   - – Server pro stáhovanie: http://www.hypermake.com/english/batchburn.html (link v angličtina)
 3. CD Audio Dump/2
    - – Licencia: Shareware
    - – Upozornenie na autorských práva: Copyright (c) 1996 Richard Reuters

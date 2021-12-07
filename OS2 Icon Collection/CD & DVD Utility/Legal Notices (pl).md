@@ -6,7 +6,7 @@ Ten folder może zawierać następujące oprogramowanie:
 2. BatchBurn
    - – Licencja: Wolny
    - – Informacja o prawach autorskich: Copyright (c) 2005 Martin Vieregg
-   - – Strona pobierania: http://www.hypermake.com/
+   - – Strona pobierania: http://www.hypermake.com/english/batchburn.html (w angielski)
 3. CD Audio Dump/2
    - – Licencja: Shareware
    - – Informacja o prawach autorskich: Copyright (c) 1996 Richard Reuters

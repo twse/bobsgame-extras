@@ -6,7 +6,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 2. BatchBurn
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 2005 Martin Vieregg
-   - – İndirme Sitesi: http://www.hypermake.com/
+   - – İndirme Sitesi: http://www.hypermake.com/english/batchburn.html (bağda İngilizce)
 3. CD Audio Dump/2
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1996 Richard Reuters

@@ -6,7 +6,7 @@
 2. BatchBurn
    - – Licentie: Free
    - – Copyright notice: Copyright (c) 2005 Martin Vieregg
-   - – Download site: http://www.hypermake.com/
+   - – Download site: http://www.hypermake.com/english/batchburn.html (koppeling in Engels)
 3. CD Audio Dump/2
    - – Licentie: Shareware
    - – Copyright notice: Copyright (c) 1996 Richard Reuters

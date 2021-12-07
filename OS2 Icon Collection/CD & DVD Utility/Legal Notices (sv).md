@@ -6,7 +6,7 @@
 2. BatchBurn
    - – Licens: Free
    - – Copyrightmeddelande: Copyright (c) 2005 Martin Vieregg
-   - – Nedladdningssida: http://www.hypermake.com/
+   - – Nedladdningssida: http://www.hypermake.com/english/batchburn.html (link på engelska)
 3. CD Audio Dump/2
    - – Licens: Shareware
    - – Copyrightmeddelande: Copyright (c) 1996 Richard Reuters

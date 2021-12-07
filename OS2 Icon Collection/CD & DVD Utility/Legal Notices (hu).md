@@ -6,7 +6,7 @@
 2. BatchBurn
    - – Licenc: Szabad
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2005 Martin Vieregg
-   - – Letöltési hely: http://www.hypermake.com/
+   - – Letöltési hely: http://www.hypermake.com/english/batchburn.html (angol nyelvem)
 3. CD Audio Dump/2
    - – Licenc: Shareware
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1996 Richard Reuters
