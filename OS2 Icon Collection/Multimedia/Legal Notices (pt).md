@@ -32,7 +32,7 @@
 10. BatchBurn
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2005 Martin Vieregg
-    - – Site de descarregamento: http://www.hypermake.com/
+    - – Site de descarregamento: http://www.hypermake.com/english/batchburn.html (link em inglês)
 11. BladeEnc
     - – Licença: LGPL 2.1
     - – Aviso de direitos autorais: Copyright (c) 1998-2001 Tord Jansson

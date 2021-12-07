@@ -32,7 +32,7 @@
 10. BatchBurn
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2005 Martin Vieregg
-    - – Letöltési hely: http://www.hypermake.com/
+    - – Letöltési hely: http://www.hypermake.com/english/batchburn.html
 11. BladeEnc
     - – Licenc: LGPL 2.1
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2001 Tord Jansson

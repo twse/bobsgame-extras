@@ -32,7 +32,7 @@ Acest folder poate conține următorul software:
 10. BatchBurn
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 2005 Martin Vieregg
-    - – Site-ul de download: http://www.hypermake.com/
+    - – Site-ul de download: http://www.hypermake.com/english/batchburn.html (legătură în limba engleza)
 11. BladeEnc
     - – Licență: LGPL 2.1
     - – Aviz de copyright: Copyright (c) 1998-2001 Tord Jansson
