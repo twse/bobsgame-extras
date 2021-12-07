@@ -64,10 +64,10 @@
 20. WarpGLOBE
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1998 Sergio Costas Rodríguez
-    - – Download Site : https://www.rastersoft.com/programas/globe.html or https://www.rastersoft.com/programas/globe_es.html (in Spanish / en Español)
+    - – Download Site : https://www.rastersoft.com/programas/globe.html
 21. XEphem
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 1990-2015 Elwood Charles Downey
-    - – Download Site : http://www.clearskyinstitute.com/xephem/
+    - – License : MIT License
+    - – Copyright Notice : Copyright (c) 1990-2021 Elwood Charles Downey
+    - – Download Site : https://xephem.github.io/XEphem/Site/xephem.html
 
 For full legal notices, contributor and translator lists, please visit https://bobsgame.fandom.com/wiki/Extras
