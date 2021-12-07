@@ -4,7 +4,7 @@
    - – Licence : Partagiciel
    - – Avis de copyright : Copyright (c) 1992 Turgut Kalfaoğlu
 2. BackMaster
-   - – Licence : Beta
+   - – Licence : Bêta
    - – Avis de copyright : Copyright (c) 1993-1994 MSR Development
 3. Backrar
    - – Licence : Libre

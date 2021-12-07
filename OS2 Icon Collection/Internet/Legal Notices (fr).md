@@ -26,7 +26,7 @@
    - – Licence : GPL 2.0
    - – Avis de copyright : Copyright (c) 2009-2012 Sebastian Bota
 9. BlackRose FTP
-   - – Licence : Beta
+   - – Licence : Bêta
    - – Avis de copyright : Copyright (c) 1994 Stephen F Townsend
 10. BM2WPS
     - – Licence : Libre

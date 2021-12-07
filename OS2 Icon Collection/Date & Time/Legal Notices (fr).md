@@ -80,7 +80,7 @@
     - – Licence : GPL 2.0
     - – Avis de copyright : Copyright (c) 1996 Jérôme Santini
 27. OS2DAY
-    - – Licence : Beta
+    - – Licence : Bêta
     - – Avis de copyright : Copyright (c) 1995 Oleg Titov
 28. PCCLOCK
     - – Licence : Partagiciel

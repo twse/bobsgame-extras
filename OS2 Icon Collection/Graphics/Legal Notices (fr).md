@@ -139,7 +139,7 @@
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1994 Duncan Wilcox
 44. IPAD
-    - – Licence : Beta
+    - – Licence : Bêta
     - – Avis de copyright : Copyright (c) 1997 Sergio Masci
 45. JasPer
     - – Licence : Libre
