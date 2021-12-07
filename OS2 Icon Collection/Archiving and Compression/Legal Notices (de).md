@@ -118,6 +118,6 @@
 36. zlib
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995-2017 Jean-loup Gailly und Mark Adler
-    - – Download-Site: http://www.zlib.net/ (lien en anglais)
+    - – Download-Site: http://www.zlib.net/ (link auf Englisch)
 
 Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
