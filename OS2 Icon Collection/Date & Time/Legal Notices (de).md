@@ -103,7 +103,7 @@
 34. TinyAlarm
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2006 Martin Vieregg
-    - – Download-Site: http://www.hypermake.com/
+    - – Download-Site: http://www.hypermake.com/deutsch/n048.html
 35. TYM-STAMP
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995 Pete Graszer

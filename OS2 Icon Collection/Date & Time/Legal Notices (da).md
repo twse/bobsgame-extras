@@ -95,7 +95,7 @@
     - – Licens: GPL 2.0
     - – Meddelelse om ophavsret: Copyright (c) 1996 Jeff Freedman
 32. Time Tracker
-    - – Licens: Postalisch
+    - – Licens: Postal
     - – Meddelelse om ophavsret: Copyright (c) 1998 Trevor Hemsley
 33. TIMETRAC
     - – Licens: GPL 2.0
@@ -103,7 +103,7 @@
 34. TinyAlarm
     - – Licens: Free
     - – Meddelelse om ophavsret: Copyright (c) 2006 Martin Vieregg
-    - – Download site: http://www.hypermake.com/
+    - – Download site: http://www.hypermake.com/english/tinyalarm.html (link på engelsk)
 35. TYM-STAMP
     - – Licens: Free
     - – Meddelelse om ophavsret: Copyright (c) 1995 Pete Graszer

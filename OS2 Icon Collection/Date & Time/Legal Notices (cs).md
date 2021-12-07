@@ -103,7 +103,7 @@
 34. TinyAlarm
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 2006 Martin Vieregg
-    - – Server pro stahování: http://www.hypermake.com/
+    - – Server pro stahování: http://www.hypermake.com/english/tinyalarm.html (odkaz v angličtina)
 35. TYM-STAMP
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1995 Pete Graszer

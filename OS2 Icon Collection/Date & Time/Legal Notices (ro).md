@@ -103,7 +103,7 @@ Acest folder poate conține următorul software:
 34. TinyAlarm
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 2006 Martin Vieregg
-    - – Site-ul de download: http://www.hypermake.com/
+    - – Site-ul de download: http://www.hypermake.com/english/tinyalarm.html (legătură în limba engleza)
 35. TYM-STAMP
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1995 Pete Graszer

@@ -103,7 +103,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 34. TinyAlarm
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 2006 Martin Vieregg
-    - – İndirme Sitesi: http://www.hypermake.com/
+    - – İndirme Sitesi: http://www.hypermake.com/english/tinyalarm.html (bağda İngilizce)
 35. TYM-STAMP
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1995 Pete Graszer

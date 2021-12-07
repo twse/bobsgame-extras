@@ -103,7 +103,7 @@
 34. TinyAlarm
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 2006 Martin Vieregg
-    - – Nedladdningssida: http://www.hypermake.com/
+    - – Nedladdningssida: http://www.hypermake.com/english/tinyalarm.html (link på engelska)
 35. TYM-STAMP
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1995 Pete Graszer

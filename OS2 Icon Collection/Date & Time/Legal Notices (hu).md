@@ -103,7 +103,7 @@
 34. TinyAlarm
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2006 Martin Vieregg
-    - – Letöltési hely: http://www.hypermake.com/
+    - – Letöltési hely: http://www.hypermake.com/english/tinyalarm.html (angol nyelvem)
 35. TYM-STAMP
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Pete Graszer

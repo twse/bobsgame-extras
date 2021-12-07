@@ -103,7 +103,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 34. TinyAlarm
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 2006 Martin Vieregg
-    - – Server pro stáhovanie: http://www.hypermake.com/
+    - – Server pro stáhovanie: http://www.hypermake.com/english/tinyalarm.html (link v angličtina)
 35. TYM-STAMP
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 1995 Pete Graszer

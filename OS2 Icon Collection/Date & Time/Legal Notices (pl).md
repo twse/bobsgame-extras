@@ -103,7 +103,7 @@ Ten folder może zawierać następujące oprogramowanie:
 34. TinyAlarm
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 2006 Martin Vieregg
-    - – Strona pobierania: http://www.hypermake.com/
+    - – Strona pobierania: http://www.hypermake.com/english/tinyalarm.html (w angeilski)
 35. TYM-STAMP
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1995 Pete Graszer

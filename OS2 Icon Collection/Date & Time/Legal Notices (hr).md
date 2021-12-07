@@ -103,7 +103,7 @@
 34. TinyAlarm
     - – Licenca: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 2006 Martin Vieregg
-    - – Web-mjesto za preuzimanje: http://www.hypermake.com/
+    - – Web-mjesto za preuzimanje: http://www.hypermake.com/english/tinyalarm.html (poveznica na engleski)
 35. TYM-STAMP
     - – Licenca: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1995 Pete Graszer

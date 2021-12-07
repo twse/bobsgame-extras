@@ -103,7 +103,7 @@
 34. TinyAlarm
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2006 Martin Vieregg
-    - – Site de descarregamento: http://www.hypermake.com/ (link em inglês)
+    - – Site de descarregamento: http://www.hypermake.com/english/tinyalarm.html (link em inglês)
 35. TYM-STAMP
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1995 Pete Graszer
