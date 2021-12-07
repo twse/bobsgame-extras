@@ -69,6 +69,7 @@
 21. Simple ZipShell, ZipShell
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993-1996 Martin Vieregg
+    - – Letöltési hely: http://www.hypermake.com/english/zipshell.html (angol nyelvem)
 22. TarGZipPM
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 Virtual Publication

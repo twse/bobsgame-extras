@@ -69,6 +69,7 @@
 21. Simple ZipShell, ZipShell
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1993-1996 Martin Vieregg
+    - – Site de descarregamento: http://www.hypermake.com/english/zipshell.html (link em inglês)
 22. TarGZipPM
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1998 Virtual Publication

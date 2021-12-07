@@ -69,6 +69,7 @@
 21. Simple ZipShell, ZipShell
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1993-1996 Martin Vieregg
+    - – Server pro stahování: http://www.hypermake.com/english/zipshell.html (odkaz v angličtina)
 22. TarGZipPM
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1998 Virtual Publication

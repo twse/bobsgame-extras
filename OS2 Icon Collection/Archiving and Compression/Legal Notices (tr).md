@@ -69,6 +69,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 21. Simple ZipShell, ZipShell
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1993-1996 Martin Vieregg
+    - – İndirme Sitesi: http://www.hypermake.com/english/zipshell.html (bağda İngilizce)
 22. TarGZipPM
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1998 Virtual Publication

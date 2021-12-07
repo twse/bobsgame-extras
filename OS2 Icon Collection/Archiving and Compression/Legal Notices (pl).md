@@ -69,6 +69,7 @@ Ten folder może zawierać następujące oprogramowanie:
 21. Simple ZipShell, ZipShell
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1993-1996 Martin Vieregg
+    - – Strona pobierania: http://www.hypermake.com/english/zipshell.html (w angielski)
 22. TarGZipPM
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1998 Virtual Publication

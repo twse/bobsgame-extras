@@ -69,6 +69,7 @@
 21. Simple ZipShell, ZipShell
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1993-1996 Martin Vieregg
+    - – Download-Site: http://www.hypermake.com/deutsch/n047.html
 22. TarGZipPM
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1998 Virtual Publication

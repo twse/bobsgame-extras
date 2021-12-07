@@ -69,6 +69,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 21. Simple ZipShell, ZipShell
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 1993-1996 Martin Vieregg
+    - – Server pro stáhovanie: http://www.hypermake.com/english/zipshell.html (link v angličtina)
 22. TarGZipPM
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 1998 Virtual Publication

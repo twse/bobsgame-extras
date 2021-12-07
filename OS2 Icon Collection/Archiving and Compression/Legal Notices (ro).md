@@ -69,6 +69,7 @@ Acest folder poate conține următorul software:
 21. Simple ZipShell, ZipShell
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1993-1996 Martin Vieregg
+    - – Site-ul de download: http://www.hypermake.com/english/zipshell.html (legătură în limba engleza)
 22. TarGZipPM
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1998 Virtual Publication
