@@ -3,7 +3,7 @@
 1. 4allCalc
    - – Licenc: Szabad (OS/2) vagy shareware (Windows)
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2009 Martin Vieregg
-   - – Letöltési hely: http://www.hypermake.com/
+   - – Letöltési hely: http://www.hypermake.com/english/4allcalc.html (angol nyelvem)
 2. Bicycle Ride Calorie Calculator
    - – Licenc: Szabad
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Greg Kondrasuk

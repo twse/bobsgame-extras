@@ -3,7 +3,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 1. 4allCalc
    - – Licencia: Svobodné (OS/2) alebo shareware (Windows)
    - – Upozornenie na autorských práva: Copyright (c) 1995-2009 Martin Vieregg
-   - – Server pro stáhovanie: http://www.hypermake.com/
+   - – Server pro stáhovanie: http://www.hypermake.com/english/4allcalc.html (link v angličtina)
 2. Bicycle Ride Calorie Calculator
    - – Licencia: Svobodné
    - – Upozornenie na autorských práva: Copyright (c) 1995 Greg Kondrasuk

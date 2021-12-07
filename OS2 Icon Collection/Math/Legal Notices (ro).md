@@ -3,7 +3,7 @@ Acest folder poate conține următorul software:
 1. 4allCalc
    - – Licență: Gratis (OS/2) sau shareware (Windows)
    - – Aviz de copyright: Copyright (c) 1995-2009 Martin Vieregg
-   - – Site-ul de download: http://www.hypermake.com/
+   - – Site-ul de download: http://www.hypermake.com/english/4allcalc.html (legătură în limba engleza)
 2. Bicycle Ride Calorie Calculator
    - – Licență: Gratis
    - – Aviz de copyright: Copyright (c) 1995 Greg Kondrasuk

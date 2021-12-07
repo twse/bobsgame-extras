@@ -3,7 +3,7 @@
 1. 4allCalc
    - – Licens: Slobodno (OS/2) ili shareware (Windows)
    - – Obavijest o autorskom pravu: Copyright (c) 1995-2009 Martin Vieregg
-   - – Nedladdningssida: http://www.hypermake.com/
+   - – Web-mjesto za preuzimanje: http://www.hypermake.com/english/4allcalc.html (poveznica na engleski)
 2. Bicycle Ride Calorie Calculator
    - – Licens: Slobodno
    - – Obavijest o autorskom pravu: Copyright (c) 1995 Greg Kondrasuk
@@ -40,7 +40,7 @@
 13. gnuplot
     - – Licens: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1986-1993, 1998, 2004, 2007 Thomas Williams, Colin Kelley
-    - – Nedladdningssida: http://www.gnuplot.info/ (poveznica na engleski)
+    - – Web-mjesto za preuzimanje: http://www.gnuplot.info/ (poveznica na engleski)
 14. GraphX
     - – Licens: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1994 Dominique Beauchamp
@@ -56,15 +56,15 @@
 18. KeyCalc
     - – Licens: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 2008-2009 Peter Moylan
-    - – Nedladdningssida: http://www.pmoylan.org/pages/os2/keycalc.html (poveznica na engleski)
+    - – Web-mjesto za preuzimanje: http://www.pmoylan.org/pages/os2/keycalc.html (poveznica na engleski)
 19. Kind Constructor
     - – Licens: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 2001-2002 Michal Žemlička
-    - – Nedladdningssida: http://www.ms.mff.cuni.cz/~zemlicka/KindCons/index.html.en (poveznica na engleski)
+    - – Web-mjesto za preuzimanje: http://www.ms.mff.cuni.cz/~zemlicka/KindCons/index.html.en (poveznica na engleski)
 20. Knotter
     - – Licens: GPL 3.0
     - – Obavijest o autorskom pravu: Copyright (c) 2012-2014 Mattia Basaglia
-    - – Nedladdningssida: https://knotter.mattbas.org/ (poveznica na engleski)
+    - – Web-mjesto za preuzimanje: https://knotter.mattbas.org/ (poveznica na engleski)
 21. LinePlot
     - – Licens: Shareware
     - – Obavijest o autorskom pravu: Copyright (c) 1998 Neighborhood Business Services
@@ -80,14 +80,14 @@
 25. Octave
     - – Licens: GPL 3.0
     - – Obavijest o autorskom pravu: Copyright (c) 1992-2021 John W. Eaton
-    - – Nedladdningssida: http://www.gnu.org/software/octave/ (poveznica na engleski)
+    - – Web-mjesto za preuzimanje: http://www.gnu.org/software/octave/ (poveznica na engleski)
 26. Ortelius
     - – Licens: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1996-1998 Christian Bressler
 27. Perl-Compatible Regular Expressions
     - – Licens: BSD 3-klauzule
     - – Obavijest o autorskom pravu: Copyright (c) 1997-2021 Universitetet i Cambridge
-    - – Nedladdningssida: http://www.pcre.org/ (poveznica na engleski)
+    - – Web-mjesto za preuzimanje: http://www.pcre.org/ (poveznica na engleski)
 28. PlotMTV
     - – Licens: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1997 Kenny K.H. Toh
@@ -109,7 +109,7 @@
 34. POV-Ray
     - – Licens: AGPL 3.0
     - – Obavijest o autorskom pravu: Copyright (c) 1991-2019 Persistence of Visual Raytracer Pty Ltd.
-    - – Nedladdningssida: http://www.povray.org/ (poveznica na engleski)
+    - – Web-mjesto za preuzimanje: http://www.povray.org/ (poveznica na engleski)
 35. Prime Number Generator
     - – Licens: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1995 Paul Damer, Jawed Karim
@@ -128,7 +128,7 @@
 40. RPCALC
     - – Licens: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 2000 Nathan Liskov
-    - – Nedladdningssida: http://nateliskov.com/os2apps/myapps.htm (poveznica na engleski)
+    - – Web-mjesto za preuzimanje: http://nateliskov.com/os2apps/myapps.htm (poveznica na engleski)
 41. RXNUM
     - – Licens: Shareware
     - – Obavijest o autorskom pravu: Copyright (c) 1996 Michael Mieves

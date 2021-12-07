@@ -3,7 +3,7 @@ Ten folder może zawierać następujące oprogramowanie:
 1. 4allCalc
    - – Licencja: Wolny (OS/2) lub shareware (Windows)
    - – Informacja o prawach autorskich: Copyright (c) 1995-2009 Martin Vieregg
-   - – Strona pobierania: http://www.hypermake.com/
+   - – Strona pobierania: http://www.hypermake.com/english/4allcalc.html (w angielski)
 2. Bicycle Ride Calorie Calculator
    - – Licencja: Wolny
    - – Informacja o prawach autorskich: Copyright (c) 1995 Greg Kondrasuk

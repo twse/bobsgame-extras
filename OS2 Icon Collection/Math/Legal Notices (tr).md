@@ -3,7 +3,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 1. 4allCalc
    - – Lisans: Özgür (OS/2) veya shareware (Windows)
    - – Telif Hakkı Bildirimi: Copyright (c) 1995-2009 Martin Vieregg
-   - – İndirme Sitesi: http://www.hypermake.com/
+   - – İndirme Sitesi: http://www.hypermake.com/english/4allcalc.html (bağda İngilizce)
 2. Bicycle Ride Calorie Calculator
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 1995 Greg Kondrasuk

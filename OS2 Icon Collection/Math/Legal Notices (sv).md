@@ -3,7 +3,7 @@
 1. 4allCalc
    - – Licens: Free (OS/2) eller shareware (Windows)
    - – Copyrightmeddelande: Copyright (c) 1995-2009 Martin Vieregg
-   - – Nedladdningssida: http://www.hypermake.com/
+   - – Nedladdningssida: http://www.hypermake.com/english/4allcalc.html (link på engelska)
 2. Bicycle Ride Calorie Calculator
    - – Licens: Free
    - – Copyrightmeddelande: Copyright (c) 1995 Greg Kondrasuk
