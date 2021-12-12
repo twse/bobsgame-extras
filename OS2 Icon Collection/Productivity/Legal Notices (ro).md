@@ -52,7 +52,7 @@ Acest folder poate conține următorul software:
 17. Maul Publisher
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1995-2018 Peter Koller
-    - – Site-ul de download: http://www.manglais.com/
+    - – Site-ul de download: http://www.manglais.com/ (legătură în limba engleza)
 18. nobleNote
     - – Licență: Licență MIT
     - – Aviz de copyright: Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler
@@ -145,6 +145,6 @@ Acest folder poate conține următorul software:
 46. Yrolo
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1995 Muhammad A Muquit
-    - – Site-ul de download: http://www.muquit.com/muquit/software/yrolo/yrolo.html
+    - – Site-ul de download: http://www.muquit.com/muquit/software/yrolo/yrolo.html (legătură în limba engleza)
 
 Pentru notificări legale complete, contribuitor și liste de traducator, vă rugăm să vizitați https://bobsgame.fandom.com/wiki/Extras (legătură în limba engleza)

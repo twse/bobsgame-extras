@@ -32,7 +32,7 @@
 11. most
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994-2017 John E. Davis
-    - – Download Site : http://www.jedsoft.org/ (Releases available via https variant)
+    - – Download Site : http://www.jedsoft.org/
 12. OLBOX
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Antal Koós
