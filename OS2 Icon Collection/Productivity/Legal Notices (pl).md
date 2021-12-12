@@ -51,8 +51,8 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Strona pobierania: https://www.lyx.org/
 17. Maul Publisher
     - – Licencja: Shareware
-    - – Informacja o prawach autorskich: Copyright (c) 1995-2018 Peter Koller
-    - – Strona pobierania: http://www.manglais.com/ (w angielski)
+    - – Informacja o prawach autorskich: Copyright (c) 1995-2020 Peter Koller
+    - – Strona pobierania: http://www.manglais.com/subs/php/product.php?MAULW300 lub http://www.manglais.com/subs/php/product.php?MAULE300 (w angielski)
 18. nobleNote
     - – Licencja: Licencja MIT
     - – Informacja o prawach autorskich: Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler

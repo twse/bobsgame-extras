@@ -51,8 +51,8 @@
     - – Letöltési hely: https://www.lyx.org/ (angol nyelvem)
 17. Maul Publisher
     - – Licenc: Shareware
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2018 Peter Koller
-    - – Letöltési hely: http://www.manglais.com/ (angol nyelvem)
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2020 Peter Koller
+    - – Letöltési hely: http://www.manglais.com/subs/php/product.php?MAULW300 vagy http://www.manglais.com/subs/php/product.php?MAULE300 (angol nyelvem)
 18. nobleNote
     - – Licenc: Licenc MIT
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler

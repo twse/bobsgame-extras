@@ -51,8 +51,8 @@
     - – Server pro stahování: https://www.lyx.org/
 17. Maul Publisher
     - – Licence: Shareware
-    - – Upozornění na autorská práva: Copyright (c) 1995-2018 Peter Koller
-    - – Server pro stahování: http://www.manglais.com/
+    - – Upozornění na autorská práva: Copyright (c) 1995-2020 Peter Koller
+    - – Server pro stahování: http://www.manglais.com/subs/php/product.php?MAULW300 nebo http://www.manglais.com/subs/php/product.php?MAULE300 (odkaz v angličtina)
 18. nobleNote
     - – Licence: MIT License
     - – Upozornění na autorská práva: Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler

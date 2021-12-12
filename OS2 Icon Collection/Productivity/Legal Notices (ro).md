@@ -51,8 +51,8 @@ Acest folder poate conține următorul software:
     - – Site-ul de download: https://www.lyx.org/
 17. Maul Publisher
     - – Licență: Shareware
-    - – Aviz de copyright: Copyright (c) 1995-2018 Peter Koller
-    - – Site-ul de download: http://www.manglais.com/ (legătură în limba engleza)
+    - – Aviz de copyright: Copyright (c) 1995-2020 Peter Koller
+    - – Site-ul de download: http://www.manglais.com/subs/php/product.php?MAULW300 sau http://www.manglais.com/subs/php/product.php?MAULE300 (legătură în limba engleza)
 18. nobleNote
     - – Licență: Licență MIT
     - – Aviz de copyright: Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler

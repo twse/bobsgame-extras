@@ -51,8 +51,8 @@
     - – Site de téléchargement : https://www.lyx.org/
 17. Maul Publisher
     - – Licence : Partagiciel
-    - – Avis de copyright : Copyright (c) 1995-2018 Peter Koller
-    - – Site de téléchargement : http://www.manglais.com/
+    - – Avis de copyright : Copyright (c) 1995-2020 Peter Koller
+    - – Site de téléchargement : http://www.manglais.com/subs/php/product.php?MAULW300 où http://www.manglais.com/subs/php/product.php?MAULE300 (lien en anglais)
 18. nobleNote
     - – Licence : Licence MIT
     - – Avis de copyright : Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler

@@ -51,8 +51,8 @@
     - – Download site: https://www.lyx.org/
 17. Maul Publisher
     - – Licentie: Shareware
-    - – Copyright notice: Copyright (c) 1995-2018 Peter Koller
-    - – Download site: http://www.manglais.com/
+    - – Copyright notice: Copyright (c) 1995-2020 Peter Koller
+    - – Download site: http://www.manglais.com/subs/php/product.php?MAULW300 of http://www.manglais.com/subs/php/product.php?MAULE300 (koppeling in Engels)
 18. nobleNote
     - – Licentie: MIT-licentie
     - – Copyright notice: Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler
