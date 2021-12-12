@@ -101,41 +101,37 @@
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2000-2016 Martin Vieregg
     - – Site de descarregamento: http://www.hypermake.com/english/n015.html (link em inglês) ou http://www.hypermake.com/english/writeset.html (link em inglês)
-32. Maul Publisher
-    - – Licença: Shareware
-    - – Aviso de direitos autorais: Copyright (c) 1998-2018 Peter Koller
-    - – Site de descarregamento: http://www.manglais.com/ (link em inglês)
-33. MMM Editor
+32. MMM Editor
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1996 Andrey V. Astrelin, Oleg Machulski
-34. Nirvana Edit
+33. Nirvana Edit
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 1998-2017 Desenvolvedores Nirvana Edit
-35. Ntuitive Editor
+34. Ntuitive Editor
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1997 Simon Schlauri
-36. NVI2
+35. NVI2
     - – Licença: BSD de 3-cláusulas
     - – Aviso de direitos autorais: Copyright (c) 1991-2000 Os Regentes da Universidade da Califórnia, Keith Bostic, Sven Verdoolaege, 2011 Zhihao Yuan
-37. Program Editor
+36. Program Editor
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1995-2003 Peter Koller
-    - – Site de descarregamento: http://www.manglais.com/ (link em inglês)
-38. Quick Text Editor
+    - – Site de descarregamento: http://www.manglais.com/download.php (link em inglês)
+37. Quick Text Editor
     - – Licença: GPL 3.0
     - – Aviso de direitos autorais: Copyright (c) 2018-2020 Alexander Taylor
     - – Site de descarregamento: http://www.altsan.org/ (link em inglês)
-39. Quicky
+38. Quicky
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 2008 Elad Lahav
-40. Vim
+39. Vim
     - – Licença: Charityware
     - – Aviso de direitos autorais: Copyright (c) 2001-2020 Bram Moolenaar
     - – Site de descarregamento: https://www.vim.org/ (link em inglês)
-41. ZED
+40. ZED
     - – Licença: BSD de 3-cláusulas
     - – Aviso de direitos autorais: Copyright (c) 1995-2013 E. Bruce Shankle III
-42. ZEDIT
+41. ZEDIT
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2013 Clyde Thomas Zuber
 

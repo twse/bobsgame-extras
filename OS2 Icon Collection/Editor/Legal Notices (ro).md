@@ -101,41 +101,37 @@ Acest folder poate conține următorul software:
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 2000-2016 Martin Vieregg
     - – Site-ul de download: http://www.hypermake.com/english/n015.html (legătură în limba engleza) sau http://www.hypermake.com/english/writeset.html (legătură în limba engleza)
-32. Maul Publisher
-    - – Licență: Shareware
-    - – Aviz de copyright: Copyright (c) 1998-2018 Peter Koller
-    - – Site-ul de download: http://www.manglais.com/ (legătură în limba engleza)
-33. MMM Editor
+32. MMM Editor
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1996 Andrey V. Astrelin, Oleg Machulski
-34. Nirvana Edit
+33. Nirvana Edit
     - – Licență: GPL 2.0
     - – Aviz de copyright: Copyright (c) 1998-2017 Dezvoltatori Nirvana Edit
-35. Ntuitive Editor
+34. Ntuitive Editor
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1997 Simon Schlauri
-36. NVI2
+35. NVI2
     - – Licență: BSD 3-clause
     - – Aviz de copyright: Copyright (c) 1991-2000 Regentului de Universitatea din California, Keith Bostic, Sven Verdoolaege, 2011 Zhihao Yuan
-37. Program Editor
+36. Program Editor
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1995-2003 Peter Koller
-    - – Site-ul de download: http://www.manglais.com/ (legătură în limba engleza)
-38. Quick Text Editor
+    - – Site-ul de download: http://www.manglais.com/download.php (legătură în limba engleza)
+37. Quick Text Editor
     - – Licență: GPL 3.0
     - – Aviz de copyright: Copyright (c) 2018-2020 Alexander Taylor
     - – Site-ul de download: http://www.altsan.org/ (legătură în limba engleza)
-39. Quicky
+38. Quicky
     - – Licență: GPL 2.0
     - – Aviz de copyright: Copyright (c) 2008 Elad Lahav
-40. Vim
+39. Vim
     - – Licență: Charityware
     - – Aviz de copyright: Copyright (c) 2001-2020 Bram Moolenaar
     - – Site-ul de download: https://www.vim.org/ (legătură în limba engleza)
-41. ZED
-    - – Licență: BSD 3-Clause
+40. ZED
+    - – Licență: BSD 3-clause
     - – Aviz de copyright: Copyright (c) 1995-2013 E. Bruce Shankle III
-42. ZEDIT
+41. ZEDIT
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 2013 Clyde Thomas Zuber
 

@@ -101,41 +101,37 @@
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 2000-2016 Martin Vieregg
     - – Nedladdningssida: http://www.hypermake.com/english/n015.html (link på engelska) eller http://www.hypermake.com/english/writeset.html (link på engelska)
-32. Maul Publisher
-    - – Licens: Shareware
-    - – Copyrightmeddelande: Copyright (c) 1998-2018 Peter Koller
-    - – Nedladdningssida: http://www.manglais.com/ (link på engelska)
-33. MMM Editor
+32. MMM Editor
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1996 Andrey V. Astrelin, Oleg Machulski
-34. Nirvana Edit
+33. Nirvana Edit
     - – Licens: GPL 2.0
     - – Copyrightmeddelande: Copyright (c) 1998-2017 Nirvana Edit-utvecklare
-35. Ntuitive Editor
+34. Ntuitive Editor
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 1997 Simon Schlauri
-36. NVI2
+35. NVI2
     - – Licens: BSD 3-sats
     - – Copyrightmeddelande: Copyright (c) 1991-2000 Regent av University of University of California, Keith Bostic, Sven Verdoolaege, 2011 Zhihao Yuan
-37. Program Editor
+36. Program Editor
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1995-2003 Peter Koller
-    - – Nedladdningssida: http://www.manglais.com/ (link på engelska)
-38. Quick Text Editor
+    - – Nedladdningssida: http://www.manglais.com/download.php (link på engelska)
+37. Quick Text Editor
     - – Licens: GPL 3.0
     - – Copyrightmeddelande: Copyright (c) 2018-2020 Alexander Taylor
     - – Nedladdningssida: http://www.altsan.org/ (link på engelska)
-39. Quicky
+38. Quicky
     - – Licens: GPL 2.0
     - – Copyrightmeddelande: Copyright (c) 2008 Elad Lahav
-40. Vim
+39. Vim
     - – Licens: Charityware
     - – Copyrightmeddelande: Copyright (c) 2001-2020 Bram Moolenaar
     - – Nedladdningssida: https://www.vim.org/ (link på engelska)
-41. ZED
+40. ZED
     - – Licens: BSD 3-sats
     - – Copyrightmeddelande: Copyright (c) 1995-2013 E. Bruce Shankle III
-42. ZEDIT
+41. ZEDIT
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 2013 Clyde Thomas Zuber
 

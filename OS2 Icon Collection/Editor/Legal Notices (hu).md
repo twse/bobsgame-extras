@@ -101,41 +101,37 @@
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2000-2016 Martin Vieregg
     - – Letöltési hely: http://www.hypermake.com/english/n015.html (angol nyelvem) vagy http://www.hypermake.com/english/writeset.html (angol nyelvem)
-32. Maul Publisher
-    - – Licenc: Shareware
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2018 Peter Koller
-    - – Letöltési hely: http://www.manglais.com/ (angol nyelvem)
-33. MMM Editor
+32. MMM Editor
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996 Andrey V. Astrelin, Oleg Machulski
-34. Nirvana Edit
+33. Nirvana Edit
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2017 Nirvana Edit fejlesztők
-35. Ntuitive Editor
+34. Ntuitive Editor
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Simon Schlauri
-36. NVI2
+35. NVI2
     - – Licenc: BSD 3-klauzula
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1991-2000 Kalifornia-i Egyetem régensek, Keith Bostic, Sven Verdoolaege, 2011 Zhihao Yuan
-37. Program Editor
+36. Program Editor
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2003 Peter Koller
-    - – Letöltési hely: http://www.manglais.com/ (angol nyelvem)
-38. Quick Text Editor
+    - – Letöltési hely: http://www.manglais.com/download.php (angol nyelvem)
+37. Quick Text Editor
     - – Licenc: GPL 3.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2018-2020 Alexander Taylor
     - – Letöltési hely: http://www.altsan.org/ (angol nyelvem)
-39. Quicky
+38. Quicky
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2008 Elad Lahav
-40. Vim
+39. Vim
     - – Licenc: Charityware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2020 Bram Moolenaar
     - – Letöltési hely: https://www.vim.org/ (angol nyelvem)
-41. ZED
+40. ZED
     - – Licenc: BSD 3-klauzula
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2013 E. Bruce Shankle III
-42. ZEDIT
+41. ZEDIT
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2013 Clyde Thomas Zuber
 

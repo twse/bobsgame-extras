@@ -101,41 +101,37 @@
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000-2016 Martin Vieregg
     - – Download Site : http://www.hypermake.com/english/n015.html or http://www.hypermake.com/english/writeset.html
-32. Maul Publisher
-    - – License : Shareware
-    - – Copyright Notice : Copyright (c) 1998-2018 Peter Koller
-    - – Download Site : http://www.manglais.com/
-33. MMM Editor
+32. MMM Editor
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Andrey V. Astrelin, Oleg Machulski
-34. Nirvana Edit
+33. Nirvana Edit
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1998-2017 Nirvana Edit developers
-35. Ntuitive Editor
+34. Ntuitive Editor
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 Simon Schlauri
-36. NVI2
+35. NVI2
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 1991-2000 The Regents of the University of California, Keith Bostic, Sven Verdoolaege, 2011 Zhihao Yuan
-37. Program Editor
+36. Program Editor
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995-2003 Peter Koller
-    - – Download Site : http://www.manglais.com/
-38. Quick Text Editor
+    - – Download Site : http://www.manglais.com/download.php
+37. Quick Text Editor
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2018-2020 Alexander Taylor
     - – Download Site : http://www.altsan.org/
-39. Quicky
+38. Quicky
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2008 Elad Lahav
-40. Vim
+39. Vim
     - – License : Charityware
     - – Copyright Notice : Copyright (c) 2001-2020 Bram Moolenaar
     - – Download Site : https://www.vim.org/
-41. ZED
+40. ZED
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 1995-2013 E. Bruce Shankle III
-42. ZEDIT
+41. ZEDIT
     - – License : Free
     - – Copyright Notice : Copyright (c) 2013 Clyde Thomas Zuber
 

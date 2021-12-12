@@ -169,7 +169,7 @@
 52. PM Make
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995-2004 Peter Koller
-    - – Download-Site: http://www.manglais.com/ (link auf Englisch)
+    - – Download-Site: http://www.manglais.com/download.php (link auf Englisch)
 53. PMDLL
     - – Lizenz: Publikdomain
     - – Copyright-Hinweise: Copyright (c) 1995-1999 Arthur van Beek, 2001-2016 Steven H. Levine

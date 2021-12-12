@@ -116,7 +116,7 @@
 38. European Juggle
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1991-1997 Peter Koller
-    - – Download Site : http://www.manglais.com/
+    - – Download Site : http://www.manglais.com/download.php
 39. FairSeaBattle
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 2007-2011 Alexey Michurin

@@ -101,41 +101,37 @@
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 2000-2016 Martin Vieregg
     - – Server pro stahování: http://www.hypermake.com/english/n015.html (odkaz v angličtina) nebo http://www.hypermake.com/english/writeset.html (odkaz v angličtina)
-32. Maul Publisher
-    - – Licence: Shareware
-    - – Upozornění na autorská práva: Copyright (c) 1998-2018 Peter Koller
-    - – Server pro stahování: http://www.manglais.com/ (odkaz v angličtina)
-33. MMM Editor
+32. MMM Editor
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1996 Andrey V. Astrelin, Oleg Machulski
-34. Nirvana Edit
+33. Nirvana Edit
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 1998-2017 Vývojáři Nirvana Edit
-35. Ntuitive Editor
+34. Ntuitive Editor
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1997 Simon Schlauri
-36. NVI2
+35. NVI2
     - – Licence: BSD 3-klauzule
     - – Upozornění na autorská práva: Copyright (c) 1991-2000 Regentům Kalifornská univerzita, Keith Bostic, Sven Verdoolaege, 2011 Zhihao Yuan
-37. Program Editor
+36. Program Editor
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1995-2003 Peter Koller
-    - – Server pro stahování: http://www.manglais.com/ (odkaz v angličtina)
-38. Quick Text Editor
+    - – Server pro stahování: http://www.manglais.com/download.php (odkaz v angličtina)
+37. Quick Text Editor
     - – Licence: GPL 3.0
     - – Upozornění na autorská práva: Copyright (c) 2018-2020 Alexander Taylor
     - – Server pro stahování: http://www.altsan.org/ (odkaz v angličtina)
-39. Quicky
+38. Quicky
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 2008 Elad Lahav
-40. Vim
+39. Vim
     - – Licence: Charityware
     - – Upozornění na autorská práva: Copyright (c) 2001-2020 Bram Moolenaar
     - – Server pro stahování: https://www.vim.org/ (odkaz v angličtina)
-41. ZED
+40. ZED
     - – Licence: BSD 3-klauzule
     - – Upozornění na autorská práva: Copyright (c) 1995-2013 E. Bruce Shankle III
-42. ZEDIT
+41. ZEDIT
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 2013 Clyde Thomas Zuber
 
