@@ -57,52 +57,55 @@
 19. Lost 'N' Found
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Melissa N. Mortellaro, Steven P. Krispli
-20. Multiple Recursive Search & Replace
+20. MultifileDetector
+    - – Licenc: GPL 2.0
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 2010-2011 Alexander Pilloud
+21. Multiple Recursive Search & Replace
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 Byte Of Software Systems Inc.
-21. PM File Finder
+22. PM File Finder
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1989 Jerry Weldon
-22. PmDup
+23. PmDup
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993 Roland Mayer
-23. PMSpy
+24. PMSpy
     - – Licenc: IBM EWS
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993 Jürg von Känel, Steve M. Diering
-24. ReplText/2
+25. ReplText/2
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1999 Robert Schroeder
-25. Rh
+26. Rh
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1990 Ken Stauffer
-26. RWPC
+27. RWPC
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 Rupert Weber-Henschel
-27. RxMulch
+28. RxMulch
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994-1996 Rony G. Flatscher
-28. Search Editor PM
+29. Search Editor PM
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Norbert Heller
-29. SearchPlus
+30. SearchPlus
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2007-2014 Keith Merrington
-30. Searchraw
+31. Searchraw
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 Trevor Hemsley
-31. strrpl
+32. strrpl
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 Ulrich Möller
-32. Text Search
+33. Text Search
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996 Reto Pauli
-33. WaitSem
+34. WaitSem
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Günther Huber
-34. Whereis
+35. Whereis
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1989-1992 Code Blazers, Inc.
-35. Wild Find
+36. Wild Find
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1988-1996 NPL Corporation
 

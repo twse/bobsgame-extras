@@ -57,52 +57,55 @@ Ten folder może zawierać następujące oprogramowanie:
 19. Lost 'N' Found
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 1995 Melissa N. Mortellaro, Steven P. Krispli
-20. Multiple Recursive Search & Replace
+20. MultifileDetector
+    - – Licencja: GPL 2.0
+    - – Informacja o prawach autorskich: Copyright (c) 2010-2011 Alexander Pilloud
+21. Multiple Recursive Search & Replace
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1998 Byte Of Software Systems Inc.
-21. PM File Finder
+22. PM File Finder
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1989 Jerry Weldon
-22. PmDup
+23. PmDup
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1993 Roland Mayer
-23. PMSpy
+24. PMSpy
     - – Licencja: IBM EWS
     - – Informacja o prawach autorskich: Copyright (c) 1993 Jürg von Känel, Steve M. Diering
-24. ReplText/2
+25. ReplText/2
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1999 Robert Schroeder
-25. Rh
+26. Rh
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1990 Ken Stauffer
-26. RWPC
+27. RWPC
     - – Licencja: GPL 2.0
     - – Informacja o prawach autorskich: Copyright (c) 1998 Rupert Weber-Henschel
-27. RxMulch
+28. RxMulch
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1994-1996 Rony G. Flatscher
-28. Search Editor PM
+29. Search Editor PM
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 1995 Norbert Heller
-29. SearchPlus
+30. SearchPlus
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 2007-2014 Keith Merrington
-30. Searchraw
+31. Searchraw
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1998 Trevor Hemsley
-31. strrpl
+32. strrpl
     - – Licencja: GPL 2.0
     - – Informacja o prawach autorskich: Copyright (c) 1998 Ulrich Möller
-32. Text Search
+33. Text Search
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1996 Reto Pauli
-33. WaitSem
+34. WaitSem
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 1995 Günther Huber
-34. Whereis
+35. Whereis
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1989-1992 Code Blazers, Inc.
-35. Wild Find
+36. Wild Find
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 1988-1996 NPL Corporation
 

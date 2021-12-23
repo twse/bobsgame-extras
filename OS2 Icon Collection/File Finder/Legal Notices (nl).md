@@ -57,52 +57,55 @@
 19. Lost 'N' Found
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1995 Melissa N. Mortellaro, Steven P. Krispli
-20. Multiple Recursive Search & Replace
+20. MultifileDetector
+    - – Licentie: GPL 2.0
+    - – Copyright notice: Copyright (c) 2010-2011 Alexander Pilloud
+21. Multiple Recursive Search & Replace
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1998 Byte Of Software Systems Inc.
-21. PM File Finder
+22. PM File Finder
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1989 Jerry Weldon
-22. PmDup
+23. PmDup
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1993 Roland Mayer
-23. PMSpy
+24. PMSpy
     - – Licentie: IBM EWS
     - – Copyright notice: Copyright (c) 1993 Jürg von Känel, Steve M. Diering
-24. ReplText/2
+25. ReplText/2
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1999 Robert Schroeder
-25. Rh
+26. Rh
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1990 Ken Stauffer
-26. RWPC
+27. RWPC
     - – Licentie: GPL 2.0
     - – Copyright notice: Copyright (c) 1998 Rupert Weber-Henschel
-27. RxMulch
+28. RxMulch
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1994-1996 Rony G. Flatscher
-28. Search Editor PM
+29. Search Editor PM
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1995 Norbert Heller
-29. SearchPlus
+30. SearchPlus
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 2007-2014 Keith Merrington
-30. Searchraw
+31. Searchraw
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1998 Trevor Hemsley
-31. strrpl
+32. strrpl
     - – Licentie: GPL 2.0
     - – Copyright notice: Copyright (c) 1998 Ulrich Möller
-32. Text Search
+33. Text Search
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1996 Reto Pauli
-33. WaitSem
+34. WaitSem
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1995 Günther Huber
-34. Whereis
+35. Whereis
     - – Licentie: Free
     - – Copyright notice: Copyright (c) 1989-1992 Code Blazers, Inc.
-35. Wild Find
+36. Wild Find
     - – Licentie: Shareware
     - – Copyright notice: Copyright (c) 1988-1996 NPL Corporation
 

@@ -110,102 +110,99 @@
 37. LogIt
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1997 Julian Buss
-38. MultifileDetector
-    - – Lizenz: GPL 2.0
-    - – Copyright-Hinweise: Copyright (c) 2010-2011 Alexander Pilloud
-39. NoCAD
+38. NoCAD
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1993 Bernd Kunrath
-40. noList
+39. noList
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1993 Jack Tan
-41. Odin
+40. Odin
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1999-2017 Netlabs
     - – Download-Site: http://odin.netlabs.org/en/site/index.xml (link auf Englisch)
-42. OS/2 Command Line Utilities
+41. OS/2 Command Line Utilities
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1991-2004 Jonathan de Boyne Pollard
-43. PM Patrol
+42. PM Patrol
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1996 WallyWare
-44. PMAttrib
+43. PMAttrib
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1997 Antonino Iannella
-45. PMSplit
+44. PMSplit
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2000 Michael Eckert
-46. Protime
+45. Protime
     - – Lizenz: Emailware
     - – Copyright-Hinweise: Copyright (c) 2004 Gene Angel
-47. PSPLIT
+46. PSPLIT
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1996 Claes Lindblom
-48. RMX
+47. RMX
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995 Johan Wikman
-49. RUNFOR
+48. RUNFOR
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995 Wonkoo Kim
-50. RXU
+49. RXU
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1994 Dave Boll, 1999 Walter Metcalf
-51. ScreenSpace
+50. ScreenSpace
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1996 *Shprota*
-52. SDFDump
+51. SDFDump
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2001 Andrew Belov
-53. shar
+52. shar
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1986 Mike Kersenbrock
-54. Showfrag
+53. Showfrag
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1991-1992 Bob Flanders, Michael Holmes, Dennis Lang
-55. SOS Utilities
+54. SOS Utilities
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 1993 Tommi Nieminen
-56. STATE
+55. STATE
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1990 Dirk Rober
-57. SWAPDCP
+56. SWAPDCP
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1992 Ned Konz
-58. SWAPSIZE
+57. SWAPSIZE
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1991 Bob Mahan
-59. Syslev
+58. Syslev
     - – Lizenz: BSD 3-Klausel
     - – Copyright-Hinweise: Copyright (c) 2000-2016 Robert D Eager
-60. Syslog
+59. Syslog
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1983-1988 Die Regenten von University of California
-61. THD ProScan
+60. THD ProScan
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995 David Muir
-62. ThStat
+61. ThStat
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1989 Franz Krainer
-63. TLHIDE
+62. TLHIDE
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995 Christian Langanke
-64. TuneUp
+63. TuneUp
     - – Lizenz: IBM EWS
     - – Copyright-Hinweise: Copyright (c) 1993 Ken Hubacher
-65. UNIQ
+64. UNIQ
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995 Edwin Groothuis
-66. UpdCd
+65. UpdCd
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2000-2007 Dimitris „sehh“ Michelinakis, Zsolt Kádár
-67. uptime
+66. uptime
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995 Cheng-Yang Tan, 2000 Mark Eckstein
-68. USB Resource Manager
+67. USB Resource Manager
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2017 Wim Brul
     - – Download-Site: https://home.hccnet.nl/w.m.brul/usbcalls/index.html (link auf Englisch)
-69. WillUtil
+68. WillUtil
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1992-1994 Will E. Rose
 
