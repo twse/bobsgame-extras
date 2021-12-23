@@ -43,7 +43,7 @@
 14. File-System Benchmarks
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1996 Radim Kolář
-15. Libre Memory Display
+15. Free Memory Display
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1988 Charles Petzold
 16. Go!

@@ -39,11 +39,11 @@
 13. dmidecode
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 2001-2021 Alan Cox, Jean Delvare
-    - – Server pro stahování: http://www.nongnu.org/dmidecode/
+    - – Server pro stahování: http://www.nongnu.org/dmidecode/ (odkaz v angličtina)
 14. File-System Benchmarks
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1996 Radim Kolář
-15. Svobodné Memory Display
+15. Free Memory Display
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1988 Charles Petzold
 16. Go!
@@ -151,7 +151,7 @@
 50. PU Monitor
     - – Licence: BSD 2-klauzule
     - – Upozornění na autorská práva: Copyright (c) 1997-2002 Sergey I. Yevtushenko
-    - – Server pro stahování: http://es.os2.ru/pumon.html
+    - – Server pro stahování: http://es.os2.ru/pumon.html (odkaz v angličtina)
 51. QikView/2
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1999 Daniel Goggia
@@ -191,7 +191,7 @@
 63. SystemInformationDisplay/2
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 2002-2003 Terje Flaarønning
-    - – Server pro stahování: http://www.flaaronning.net/
+    - – Server pro stahování: http://www.flaaronning.net/ (odkaz v angličtina)
 64. Terminator/2
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1994 Abimbola A. Olowofoyeku (The African Chief)
@@ -207,7 +207,7 @@
 68. TOP, PLIST, PKILL
     - – Licence: Poštovná
     - – Upozornění na autorská práva: Copyright (c) 1999-2018 Ian Hargreaves, Paul Ratcliffe
-    - – Server pro stahování: http://home.clara.net/orac/
+    - – Server pro stahování: http://home.clara.net/orac/ (odkaz v angličtina)
 69. TrayMonitor
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 2004-2005 Alex A. Porollo

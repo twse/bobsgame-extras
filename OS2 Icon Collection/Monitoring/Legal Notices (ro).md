@@ -43,7 +43,7 @@ Acest folder poate conține următorul software:
 14. File-System Benchmarks
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1996 Radim Kolář
-15. Gratis Memory Display
+15. Free Memory Display
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1988 Charles Petzold
 16. Go!

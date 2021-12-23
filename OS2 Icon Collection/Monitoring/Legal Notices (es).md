@@ -43,7 +43,7 @@
 14. File-System Benchmarks
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1996 Radim Kolář
-15. Gratis Memory Display
+15. Free Memory Display
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 1988 Charles Petzold
 16. Go!

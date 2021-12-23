@@ -43,7 +43,7 @@
 14. File-System Benchmarks
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996 Radim Kolář
-15. Szabad Memory Display
+15. Free Memory Display
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1988 Charles Petzold
 16. Go!

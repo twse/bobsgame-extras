@@ -43,7 +43,7 @@ Ten folder może zawierać następujące oprogramowanie:
 14. File-System Benchmarks
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1996 Radim Kolář
-15. Wolny Memory Display
+15. Free Memory Display
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1988 Charles Petzold
 16. Go!
