@@ -122,7 +122,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 39. OS2CSM
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 1999-2009 Veit Kannegieser
-    - – Server pro stáhovanie: http://www.kannegieser.net/veit/
+    - – Server pro stáhovanie: http://www.kannegieser.net/veit/programm/index_e.htm (link v angličtina)
 40. PM Preference
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 1990 Todd Fincannon

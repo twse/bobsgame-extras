@@ -27,7 +27,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 8. E_WISE, NELite, STIX, Typ
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 2001-2006 Veit Kannegieser
-   - – İndirme Sitesi: http://www.kannegieser.net/veit/
+   - – İndirme Sitesi: http://www.kannegieser.net/veit/programm/index_e.htm (bağda İngilizce)
 9. IDE Installer
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1995 David J. Heritage

@@ -33,7 +33,7 @@
 11. R_EADATA
     - – Licenca: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1999 Veit Kannegieser
-    - – Download site: http://www.kannegieser.net/veit/
+    - – Download site: http://www.kannegieser.net/veit/programm/index_e.htm (poveznica na engleski)
 12. VSZAP
     - – Licenca: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1991 VS2

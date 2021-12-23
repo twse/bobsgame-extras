@@ -122,7 +122,7 @@
 39. OS2CSM
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1999-2009 Veit Kannegieser
-    - – Server pro stahování: http://www.kannegieser.net/veit/ (odkaz v angličtina)
+    - – Server pro stahování: http://www.kannegieser.net/veit/programm/index_e.htm (odkaz v angličtina)
 40. PM Preference
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1990 Todd Fincannon

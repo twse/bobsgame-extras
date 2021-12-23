@@ -122,7 +122,7 @@ Ten folder może zawierać następujące oprogramowanie:
 38. OS2CSM
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1999-2009 Veit Kannegieser
-    - – Strona pobierania: http://www.kannegieser.net/veit/
+    - – Strona pobierania: http://www.kannegieser.net/veit/programm/index_e.htm (w angielski)
 39. PM Preference
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1990 Todd Fincannon

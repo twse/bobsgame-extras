@@ -27,7 +27,7 @@
 8. E_WISE, NELite, STIX, Typ
    - – Licenc: Szabad
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2006 Veit Kannegieser
-   - – Letöltési hely: http://www.kannegieser.net/veit/
+   - – Letöltési hely: http://www.kannegieser.net/veit/programm/index_e.htm (angol nyelvem)
 9. IDE Installer
    - – Licenc: Shareware
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 David J. Heritage

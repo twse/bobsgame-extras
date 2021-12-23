@@ -122,7 +122,7 @@
 38. OS2CSM
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1999-2009 Veit Kannegieser
-    - – Letöltési hely: http://www.kannegieser.net/veit/
+    - – Letöltési hely: http://www.kannegieser.net/veit/programm/index_e.htm (angol nyelvem)
 39. PM Preference
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1990 Todd Fincannon

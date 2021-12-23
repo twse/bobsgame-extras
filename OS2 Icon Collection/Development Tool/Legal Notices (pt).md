@@ -224,7 +224,7 @@
 69. REXX_EXE
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2006 Veit Kannegieser
-    - – Site de descarregamento: http://www.kannegieser.net/veit/
+    - – Site de descarregamento: http://www.kannegieser.net/veit/programm/index_e.htm (link em inglês)
 70. REXXCC
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1994-1997 Bernd Schemmer

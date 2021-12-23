@@ -33,7 +33,7 @@
 11. R_EADATA
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1999 Veit Kannegieser
-    - – Letöltési hely: http://www.kannegieser.net/veit/
+    - – Letöltési hely: http://www.kannegieser.net/veit/programm/index_e.htm (angol nyelvem)
 12. VSZAP
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1991 VS2

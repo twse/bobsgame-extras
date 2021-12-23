@@ -33,7 +33,7 @@ Acest folder poate conține următorul software:
 11. R_EADATA
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1999 Veit Kannegieser
-    - – Site-ul de download: http://www.kannegieser.net/veit/
+    - – Site-ul de download: http://www.kannegieser.net/veit/programm/index_e.htm (legătură în limba engleza)
 12. VSZAP
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1991 VS2

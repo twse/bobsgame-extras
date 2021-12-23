@@ -33,7 +33,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 11. R_EADATA
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 1999 Veit Kannegieser
-    - – Server pro stáhovanie: http://www.kannegieser.net/veit/
+    - – Server pro stáhovanie: http://www.kannegieser.net/veit/programm/index_e.htm (link v angličtina)
 12. VSZAP
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 1991 VS2

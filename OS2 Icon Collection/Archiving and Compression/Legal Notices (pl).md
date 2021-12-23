@@ -27,7 +27,7 @@ Ten folder może zawierać następujące oprogramowanie:
 8. E_WISE, NELite, STIX, Typ
    - – Licencja: Wolny
    - – Informacja o prawach autorskich: Copyright (c) 2001-2006 Veit Kannegieser
-   - – Strona pobierania: http://kannegieser.net/veit/ (w angielski)
+   - – Strona pobierania: http://www.kannegieser.net/veit/programm/index_e.htm (w angielski)
 9. IDE Installer
    - – Licencja: Shareware
    - – Informacja o prawach autorskich: Copyright (c) 1995 David J. Heritage

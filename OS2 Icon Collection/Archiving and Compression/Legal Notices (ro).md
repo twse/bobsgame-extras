@@ -27,7 +27,7 @@ Acest folder poate conține următorul software:
 8. E_WISE, NELite, STIX, Typ
    - – Licență: Gratis
    - – Aviz de copyright: Copyright (c) 2001-2006 Veit Kannegieser
-   - – Site-ul de download: http://www.kannegieser.net/veit/ (legătură în limba engleza)
+   - – Site-ul de download: http://www.kannegieser.net/veit/programm/index_e.htm (legătură în limba engleza)
 9. IDE Installer
    - – Licență: Shareware
    - – Aviz de copyright: Copyright (c) 1995 David J. Heritage

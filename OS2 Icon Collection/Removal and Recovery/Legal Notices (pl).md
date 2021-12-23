@@ -33,7 +33,7 @@ Ten folder może zawierać następujące oprogramowanie:
 11. R_EADATA
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1999 Veit Kannegieser
-    - – Strona pobierania: http://www.kannegieser.net/veit/
+    - – Strona pobierania: http://www.kannegieser.net/veit/programm/index_e.htm (w angielski)
 12. VSZAP
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1991 VS2

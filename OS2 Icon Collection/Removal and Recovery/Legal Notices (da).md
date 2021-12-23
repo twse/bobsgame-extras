@@ -33,7 +33,7 @@
 11. R_EADATA
     - – Licens: Free
     - – Meddelelse om ophavsret: Copyright (c) 1999 Veit Kannegieser
-    - – Download site: http://www.kannegieser.net/veit/
+    - – Download site: http://www.kannegieser.net/veit/programm/index_e.htm (link på engelsk)
 12. VSZAP
     - – Licens: Free
     - – Meddelelse om ophavsret: Copyright (c) 1991 VS2

@@ -122,7 +122,7 @@
 39. OS2CSM
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1999-2009 Veit Kannegieser
-    - – Site de téléchargement : http://www.kannegieser.net/veit/ (lien en anglais)
+    - – Site de téléchargement : http://www.kannegieser.net/veit/programm/index_e.htm (lien en anglais)
 40. PM Preference
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1990 Todd Fincannon

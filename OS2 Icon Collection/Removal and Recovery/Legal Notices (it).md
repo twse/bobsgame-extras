@@ -33,7 +33,7 @@
 11. R_EADATA
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1999 Veit Kannegieser
-    - – Download site: http://www.kannegieser.net/veit/
+    - – Download site: http://www.kannegieser.net/veit/programm/index_e.htm (link in inglese)
 12. VSZAP
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1991 VS2

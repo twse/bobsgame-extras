@@ -33,7 +33,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 11. R_EADATA
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1999 Veit Kannegieser
-    - – İndirme Sitesi: http://www.kannegieser.net/veit/
+    - – İndirme Sitesi: http://www.kannegieser.net/veit/programm/index_e.htm (bağda İngilizce)
 12. VSZAP
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1991 VS2

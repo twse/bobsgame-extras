@@ -122,7 +122,7 @@ Acest folder poate conține următorul software:
 38. OS2CSM
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1999-2009 Veit Kannegieser
-    - – Site-ul de download: http://www.kannegieser.net/veit/
+    - – Site-ul de download: http://www.kannegieser.net/veit/programm/index_e.htm (legătură în limba engleza)
 39. PM Preference
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1990 Todd Fincannon

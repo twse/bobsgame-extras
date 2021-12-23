@@ -33,7 +33,7 @@
 11. R_EADATA
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1999 Veit Kannegieser
-    - – Server pro stahování: http://www.kannegieser.net/veit/
+    - – Server pro stahování: http://www.kannegieser.net/veit/programm/index_e.htm (odkaz v angličtina)
 12. VSZAP
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1991 VS2

@@ -27,7 +27,7 @@
 8. E_WISE, NELite, STIX, Typ
    - – Licence: Svobodné
    - – Upozornění na autorská práva: Copyright (c) 2001-2006 Veit Kannegieser
-   - – Server pro stahování: http://www.kannegieser.net/veit/
+   - – Server pro stahování: http://www.kannegieser.net/veit/programm/index_e.htm (odkaz v angličtina)
 9. IDE Installer
    - – Licence: Shareware
    - – Upozornění na autorská práva: Copyright (c) 1995 David J. Heritage

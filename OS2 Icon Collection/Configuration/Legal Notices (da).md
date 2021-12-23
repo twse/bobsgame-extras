@@ -122,7 +122,7 @@
 38. OS2CSM
     - – Licens: Free
     - – Meddelelse om ophavsret: Copyright (c) 1999-2009 Veit Kannegieser
-    - – Download site: http://www.kannegieser.net/veit/
+    - – Download site: http://www.kannegieser.net/veit/programm/index_e.htm (link på engelsk)
 39. PM Preference
     - – Licens: Free
     - – Meddelelse om ophavsret: Copyright (c) 1990 Todd Fincannon

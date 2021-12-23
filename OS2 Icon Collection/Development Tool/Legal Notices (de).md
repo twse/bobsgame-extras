@@ -224,7 +224,7 @@
 69. REXX_EXE
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2006 Veit Kannegieser
-    - – Download-Site: http://www.kannegieser.net/veit/
+    - – Download-Site: http://www.kannegieser.net/veit/programm/index_d.htm (link auf Englisch)
 70. REXXCC
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1994-1997 Bernd Schemmer

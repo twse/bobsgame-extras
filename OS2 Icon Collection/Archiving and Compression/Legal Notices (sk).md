@@ -27,7 +27,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 8. E_WISE, NELite, STIX, Typ
    - – Licencia: Svobodné
    - – Upozornenie na autorských práva: Copyright (c) 2001-2006 Veit Kannegieser
-   - – Server pro stáhovanie: http://www.kannegieser.net/veit/ (link v angličtina)
+   - – Server pro stáhovanie: http://www.kannegieser.net/veit/programm/index_e.htm (link v angličtina)
 9. IDE Installer
    - – Licencia: Shareware
    - – Upozornenie na autorských práva: Copyright (c) 1995 David J. Heritage

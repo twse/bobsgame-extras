@@ -122,7 +122,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 39. OS2CSM
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1999-2009 Veit Kannegieser
-    - – İndirme Sitesi: http://www.kannegieser.net/veit/ (bağda İngilizce)
+    - – İndirme Sitesi: http://www.kannegieser.net/veit/programm/index_e.htm (bağda İngilizce)
 40. PM Preference
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1990 Todd Fincannon

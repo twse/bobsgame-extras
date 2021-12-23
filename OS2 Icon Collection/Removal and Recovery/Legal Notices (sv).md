@@ -33,7 +33,7 @@
 11. R_EADATA
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1999 Veit Kannegieser
-    - – Nedladdningssida: http://www.kannegieser.net/veit/
+    - – Nedladdningssida: http://www.kannegieser.net/veit/programm/index_e.htm (link på engelska)
 12. VSZAP
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1991 VS2

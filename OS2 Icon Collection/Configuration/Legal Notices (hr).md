@@ -122,7 +122,7 @@
 39. OS2CSM
     - – Licenca: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1999-2009 Veit Kannegieser
-    - – Web-mjesto za preuzimanje: http://www.kannegieser.net/veit/ (poveznica na engleski)
+    - – Web-mjesto za preuzimanje: http://www.kannegieser.net/veit/programm/index_e.htm (poveznica na engleski)
 40. PM Preference
     - – Licenca: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1990 Todd Fincannon
