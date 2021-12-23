@@ -351,7 +351,7 @@
 112. TCP/IP Profile Manager
      - – Licenze: BSD di 3 clausula
      - – Avviso di copyright: Copyright (c) 2010 Alexander Taylor
-     - – Sito di download: http://www.altsan.org/ (link in inglese)
+     - – Sito di download: http://www.altsan.org/programming/os2/index.html (link in inglese)
 113. TESTLOCK
      - – Licenze: Shareware
      - – Avviso di copyright: Copyright (c) 1993-1994 Burton Systems Software

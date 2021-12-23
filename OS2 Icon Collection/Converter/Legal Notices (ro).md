@@ -12,7 +12,7 @@ Acest folder poate conține următorul software:
 4. ConText/2
    - – Licență: BSD 3-Clause
    - – Aviz de copyright: Copyright (c) 2007 Alexander Taylor
-   - – Site-ul de download: http://www.altsan.org/ (legătură în limba engleza)
+   - – Site-ul de download: http://www.altsan.org/programming/os2/index.html (legătură în limba engleza)
 5. Conversion Pro for OS/2
    - – Licență: Shareware
    - – Aviz de copyright: Copyright (c) 1995-1997 Jon F. Kaminsky

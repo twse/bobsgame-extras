@@ -19,7 +19,7 @@ Ten folder może zawierać następujące oprogramowanie:
 6. Extended Character Map
    - – Licencja: GPL 2.0
    - – Informacja o prawach autorskich: Copyright (c) 2005-2018 Alexander Taylor
-   - – Strona pobierania: http://www.altsan.org/ (w angielski)
+   - – Strona pobierania: http://www.altsan.org/programming/os2/index.html (w angielski)
 7. Table
    - – Licencja: GPL 2.0
    - – Informacja o prawach autorskich: Copyright (c) 2002 Goran Ivanković

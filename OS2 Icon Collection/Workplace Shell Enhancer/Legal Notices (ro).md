@@ -6,7 +6,7 @@ Acest folder poate conține următorul software:
 2. ATSHELL
    - – Licență: GPL 2.0
    - – Aviz de copyright: Copyright (c) 2005-2006 Alexander Taylor
-   - – Site-ul de download: http://www.altsan.org/ (legătură în limba engleza)
+   - – Site-ul de download: http://www.altsan.org/programming/os2/index.html (legătură în limba engleza)
 3. CandyBarZ
    - – Licență: Gratis
    - – Aviz de copyright: Copyright (c) 1996-2000 Peter Garner, Eric Norman, Jack Troughton, Matthew Wagner

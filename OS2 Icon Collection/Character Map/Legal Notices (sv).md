@@ -19,7 +19,7 @@
 6. Extended Character Map
    - – Licens: GPL 2.0
    - – Copyrightmeddelande: Copyright (c) 2005-2018 Alexander Taylor
-   - – Nedladdningssida: http://www.altsan.org/ (link på engelska)
+   - – Nedladdningssida: http://www.altsan.org/programming/os2/index.html (link på engelska)
 7. Table
    - – Licens: GPL 2.0
    - – Copyrightmeddelande: Copyright (c) 2002 Goran Ivanković

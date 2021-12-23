@@ -12,7 +12,7 @@
 4. ArcView
    - – Licence : GPL 2.0
    - – Avis de copyright : Copyright (c) 2009-2013 Alexander Taylor
-   - – Site de téléchargement : http://www.altsan.org/ (lien en anglais)
+   - – Site de téléchargement : http://www.altsan.org/programming/os2/index.html (lien en anglais)
 5. ARJ
    - – Licence : Libre où partagiciel
    - – Avis de copyright : Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia

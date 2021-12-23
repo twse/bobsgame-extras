@@ -19,7 +19,7 @@
 6. Extended Character Map
    - – Licenca: GPL 2.0
    - – Obavijest o autorskom pravu: Copyright (c) 2005-2018 Alexander Taylor
-   - – Web-mjesto za preuzimanje: http://www.altsan.org/ (poveznica na engleski)
+   - – Web-mjesto za preuzimanje: http://www.altsan.org/programming/os2/index.html (poveznica na engleski)
 7. Table
    - – Licenca: GPL 2.0
    - – Obavijest o autorskom pravu: Copyright (c) 2002 Goran Ivanković

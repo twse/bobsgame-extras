@@ -12,7 +12,7 @@
 4. ConText/2
    - – Licenc: BSD 3-klauzula
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2007 Alexander Taylor
-   - – Letöltési hely: http://www.altsan.org/ (angol nyelvem)
+   - – Letöltési hely: http://www.altsan.org/programming/os2/index.html (angol nyelvem)
 5. Conversion Pro for OS/2
    - – Licenc: Shareware
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-1997 Jon F. Kaminsky

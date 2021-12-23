@@ -12,7 +12,7 @@
 4. ArcView
    - – Licenc: GPL 2.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2009-2013 Alexander Taylor
-   - – Letöltési hely: http://www.altsan.org/ (angol nyelvem)
+   - – Letöltési hely: http://www.altsan.org/programming/os2/index.html (angol nyelvem)
 5. ARJ
    - – Licenc: Szabad vagy shareware
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia

@@ -12,7 +12,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 4. ConText/2
    - – Lisans: BSD 3-Tümcecik
    - – Telif Hakkı Bildirimi: Copyright (c) 2007 Alexander Taylor
-   - – İndirme Sitesi: http://www.altsan.org/ (bağda İngilizce)
+   - – İndirme Sitesi: http://www.altsan.org/programming/os2/index.html (bağda İngilizce)
 5. Conversion Pro for OS/2
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1995-1997 Jon F. Kaminsky

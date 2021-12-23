@@ -19,7 +19,7 @@
 6. Extended Character Map
    - – Licenc: GPL 2.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2005-2018 Alexander Taylor
-   - – Letöltési hely: http://www.altsan.org/ (angol nyelvem)
+   - – Letöltési hely: http://www.altsan.org/programming/os2/index.html (angol nyelvem)
 7. Table
    - – Licenc: GPL 2.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2002 Goran Ivanković

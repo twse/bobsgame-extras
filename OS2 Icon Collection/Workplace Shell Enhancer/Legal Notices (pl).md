@@ -6,7 +6,7 @@ Ten folder może zawierać następujące oprogramowanie:
 2. ATSHELL
    - – Licencja: GPL 2.0
    - – Informacja o prawach autorskich: Copyright (c) 2005-2006 Alexander Taylor
-   - – Strona pobierania: http://www.altsan.org/ (w angielski)
+   - – Strona pobierania: http://www.altsan.org/programming/os2/index.html (w angielski)
 3. CandyBarZ
    - – Licencja: Wolny
    - – Informacja o prawach autorskich: Copyright (c) 1996-2000 Peter Garner, Eric Norman, Jack Troughton, Matthew Wagner

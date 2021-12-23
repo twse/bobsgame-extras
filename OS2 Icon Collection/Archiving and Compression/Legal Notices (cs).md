@@ -12,7 +12,7 @@
 4. ArcView
    - – Licence: GPL 2.0
    - – Upozornění na autorská práva: Copyright (c) 2009-2013 Alexander Taylor
-   - – Server pro stahování: http://www.altsan.org/ (odkaz v angličtina)
+   - – Server pro stahování: http://www.altsan.org/programming/os2/index.html (odkaz v angličtina)
 5. ARJ
    - – Licence: Svobodné nebo shareware
    - – Upozornění na autorská práva: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia

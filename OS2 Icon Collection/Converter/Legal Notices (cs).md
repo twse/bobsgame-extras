@@ -12,7 +12,7 @@
 4. ConText/2
    - – Licence: BSD 3-klauzula
    - – Upozornění na autorská práva: Copyright (c) 2007 Alexander Taylor
-   - – Server pro stahování: http://www.altsan.org/ (odkaz v angličtina)
+   - – Server pro stahování: http://www.altsan.org/programming/os2/index.html (odkaz v angličtina)
 5. Conversion Pro for OS/2
    - – Licence: Shareware
    - – Upozornění na autorská práva: Copyright (c) 1995-1997 Jon F. Kaminsky

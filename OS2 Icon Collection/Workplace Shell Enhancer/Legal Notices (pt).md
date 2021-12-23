@@ -6,7 +6,7 @@
 2. ATSHELL
    - – Licença: GPL 2.0
    - – Aviso de direitos autorais: Copyright (c) 2005-2006 Alexander Taylor
-   - – Site de descarregamento: http://www.altsan.org/ (link em inglês)
+   - – Site de descarregamento: http://www.altsan.org/programming/os2/index.html (link em inglês)
 3. CandyBarZ
    - – Licença: Grátis
    - – Aviso de direitos autorais: Copyright (c) 1996-2000 Peter Garner, Eric Norman, Jack Troughton, Matthew Wagner

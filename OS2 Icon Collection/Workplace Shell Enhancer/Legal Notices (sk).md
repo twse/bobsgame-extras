@@ -6,7 +6,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 2. ATSHELL
    - – Licencia: GPL 2.0
    - – Upozornenie na autorských práva: Copyright (c) 2005-2006 Alexander Taylor
-   - – Server pro stáhovanie: http://www.altsan.org/ (link v angličtina)
+   - – Server pro stáhovanie: http://www.altsan.org/programming/os2/index.html (link v angličtina)
 3. CandyBarZ
    - – Licencia: Svobodné
    - – Upozornenie na autorských práva: Copyright (c) 1996-2000 Peter Garner, Eric Norman, Jack Troughton, Matthew Wagner

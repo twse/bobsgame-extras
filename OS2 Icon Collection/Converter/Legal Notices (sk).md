@@ -12,7 +12,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 4. ConText/2
    - – Licencia: BSD 3-klauzule
    - – Upozornenie na autorských práva: Copyright (c) 2007 Alexander Taylor
-   - – Server pro stáhovanie: http://www.altsan.org/ (link v angličtina)
+   - – Server pro stáhovanie: http://www.altsan.org/programming/os2/index.html (link v angličtina)
 5. Conversion Pro for OS/2
    - – Licencia: Shareware
    - – Upozornenie na autorských práva: Copyright (c) 1995-1997 Jon F. Kaminsky

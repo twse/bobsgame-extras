@@ -12,7 +12,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 4. ArcView
    - – Licencia: GPL 2.0
    - – Upozornenie na autorských práva: Copyright (c) 2009-2013 Alexander Taylor
-   - – Server pro stáhovanie: http://www.altsan.org/ (link v angličtina)
+   - – Server pro stáhovanie: http://www.altsan.org/programming/os2/index.html (link v angličtina)
 5. ARJ
    - – Licencia: Svobodné alebo shareware
    - – Upozornenie na autorských práva: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia

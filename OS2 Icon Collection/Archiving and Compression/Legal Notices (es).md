@@ -12,7 +12,7 @@
 4. ArcView
    - – Licencia: GPL 2.0
    - – Aviso de derechos de autor: Copyright (c) 2009-2013 Alexander Taylor
-   - – Sitio de descarga: http://www.altsan.org/ (lien en anglais)
+   - – Sitio de descarga: http://www.altsan.org/programming/os2/index.html (enlace en inglés)
 5. ARJ
    - – Licencia: Gratis o shareware
    - – Aviso de derechos de autor: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
@@ -20,7 +20,7 @@
 6. CABextract
    - – Licencia: GPL 2.0
    - – Aviso de derechos de autor: Copyright (c) 2000-2018 Stuart Caie
-   - – Sitio de descarga: https://www.cabextract.org.uk/ (lien en anglais)
+   - – Sitio de descarga: https://www.cabextract.org.uk/ (enlace en inglés)
 7. Drop and Zip
    - – Licencia: Shareware
    - – Aviso de derechos de autor: Copyright (c) 1994 Dirk Terrell

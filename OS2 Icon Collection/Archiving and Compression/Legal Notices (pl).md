@@ -12,7 +12,7 @@ Ten folder może zawierać następujące oprogramowanie:
 4. ArcView
    - – Licencja: GPL 2.0
    - – Informacja o prawach autorskich: Copyright (c) 2009-2013 Alexander Taylor
-   - – Strona pobierania: http://www.altsan.org/
+   - – Strona pobierania: http://www.altsan.org/programming/os2/index.html (w angielski)
 5. ARJ
    - – Licencja: Wolny lub shareware
    - – Informacja o prawach autorskich: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia

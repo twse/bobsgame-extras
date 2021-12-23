@@ -19,7 +19,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 6. Extended Character Map
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 2005-2018 Alexander Taylor
-   - – İndirme Sitesi: http://www.altsan.org/ (bağda İngilizce)
+   - – İndirme Sitesi: http://www.altsan.org/programming/os2/index.html (bağda İngilizce)
 7. Table
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 2002 Goran Ivanković

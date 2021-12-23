@@ -12,7 +12,7 @@ Acest folder poate conține următorul software:
 4. ArcView
    - – Licență: GPL 2.0
    - – Aviz de copyright: Copyright (c) 2009-2013 Alexander Taylor
-   - – Site-ul de download: http://www.altsan.org/ (legătură în limba engleza)
+   - – Site-ul de download: http://www.altsan.org/programming/os2/index.html (legătură în limba engleza)
 5. ARJ
    - – Licență: Gratis sau shareware
    - – Aviz de copyright: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia

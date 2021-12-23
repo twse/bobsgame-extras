@@ -19,7 +19,7 @@
 6. Extended Character Map
    - – Licence: GPL 2.0
    - – Upozornění na autorská práva: Copyright (c) 2005-2018 Alexander Taylor
-   - – Server pro stahování: http://www.altsan.org/ (odkaz v angličtina)
+   - – Server pro stahování: http://www.altsan.org/programming/os2/index.html (odkaz v angličtina)
 7. Table
    - – Licence: GPL 2.0
    - – Upozornění na autorská práva: Copyright (c) 2002 Goran Ivanković

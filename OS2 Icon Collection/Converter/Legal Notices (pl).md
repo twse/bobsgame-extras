@@ -12,7 +12,7 @@ Ten folder może zawierać następujące oprogramowanie:
 4. ConText/2
    - – Licencja: BSD 3-klauzula
    - – Informacja o prawach autorskich: Copyright (c) 2007 Alexander Taylor
-   - – Strona pobierania: http://www.altsan.org/ (w angielski)
+   - – Strona pobierania: http://www.altsan.org/programming/os2/index.html (w angielski)
 5. Conversion Pro for OS/2
    - – Licencja: Shareware
    - – Informacja o prawach autorskich: Copyright (c) 1995-1997 Jon F. Kaminsky

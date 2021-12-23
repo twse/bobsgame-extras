@@ -6,7 +6,7 @@
 2. ATSHELL
    - – Licenc: GPL 2.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2005-2006 Alexander Taylor
-   - – Letöltési hely: http://www.altsan.org/ (angol nyelvem)
+   - – Letöltési hely: http://www.altsan.org/programming/os2/index.html (angol nyelvem)
 3. CandyBarZ
    - – Licenc: Szabad
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-2000 Peter Garner, Eric Norman, Jack Troughton, Matthew Wagner

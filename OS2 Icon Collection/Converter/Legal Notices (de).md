@@ -12,7 +12,7 @@
 4. ConText/2
    - – Lizenz: BSD 3-Klausel
    - – Copyright-Hinweise: Copyright (c) 2007 Alexander Taylor
-   - – Download-Site: http://www.altsan.org/ (link auf Englisch)
+   - – Download-Site: http://www.altsan.org/programming/os2/index.html (link auf Englisch)
 5. Conversion Pro for OS/2
    - – Lizenz: Shareware
    - – Copyright-Hinweise: Copyright (c) 1995-1997 Jon F. Kaminsky

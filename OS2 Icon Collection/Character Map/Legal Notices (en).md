@@ -19,7 +19,7 @@
 6. Extended Character Map
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 2005-2018 Alexander Taylor
-   - – Download Site : http://www.altsan.org/
+   - – Download Site : http://www.altsan.org/programming/os2/index.html
 7. Table
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 2002 Goran Ivanković

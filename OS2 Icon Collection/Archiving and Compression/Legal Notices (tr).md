@@ -12,7 +12,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 4. ArcView
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 2009-2013 Alexander Taylor
-   - – İndirme Sitesi: http://www.altsan.org/ (bağda İngilizce)
+   - – İndirme Sitesi: http://www.altsan.org/programming/os2/index.html (bağda İngilizce)
 5. ARJ
    - – Lisans: Özgür veya shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia

@@ -19,7 +19,7 @@ Acest folder poate conține următorul software:
 6. Extended Character Map
    - – Licență: GPL 2.0
    - – Aviz de copyright: Copyright (c) 2005-2018 Alexander Taylor
-   - – Site-ul de download: http://www.altsan.org/ (legătură în limba engleza)
+   - – Site-ul de download: http://www.altsan.org/programming/os2/index.html (legătură în limba engleza)
 7. Table
    - – Licență: Gratis
    - – Aviz de copyright: Copyright (c) 2002 Goran Ivanković

@@ -19,7 +19,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 6. Extended Character Map
    - – Licencia: GPL 2.0
    - – Upozornenie na autorských práva: Copyright (c) 2005-2018 Alexander Taylor
-   - – Server pro stáhovanie: http://www.altsan.org/ (angol nyelvem)
+   - – Server pro stáhovanie: http://www.altsan.org/programming/os2/index.html (angol nyelvem)
 7. Table
    - – Licencia: GPL 2.0
    - – Upozornenie na autorských práva: Copyright (c) 2002 Goran Ivanković

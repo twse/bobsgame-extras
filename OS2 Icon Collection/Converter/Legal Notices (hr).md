@@ -12,7 +12,7 @@
 4. ConText/2
    - – Licenca: BSD 3-klauzule
    - – Obavijest o autorskom pravu: Copyright (c) 2007 Alexander Taylor
-   - – Web-mjesto za preuzimanje: http://www.altsan.org/(poveznica na engleski)
+   - – Web-mjesto za preuzimanje: http://www.altsan.org/programming/os2/index.html (poveznica na engleski)
 5. Conversion Pro for OS/2
    - – Licenca: Shareware
    - – Obavijest o autorskom pravu: Copyright (c) 1995-1997 Jon F. Kaminsky

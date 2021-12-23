@@ -6,7 +6,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 2. ATSHELL
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 2005-2006 Alexander Taylor
-   - – İndirme Sitesi: http://www.altsan.org/ (bağda İngilizce)
+   - – İndirme Sitesi: http://www.altsan.org/programming/os2/index.html (bağda İngilizce)
 3. CandyBarZ
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 1996-2000 Peter Garner, Eric Norman, Jack Troughton, Matthew Wagner
