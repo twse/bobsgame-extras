@@ -35,7 +35,7 @@
 11. Emacs
     - – Licença: GPL 3.0
     - – Aviso de direitos autorais: Copyright (c) 1985-2021 Richard Stallman
-    - – Site de descarregamento: http://www.gnu.org/software/emacs
+    - – Site de descarregamento: http://www.gnu.org/software/emacs (link em inglês)
 12. Enhanced Editor
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1996-2001 PillarSoft

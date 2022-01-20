@@ -76,7 +76,7 @@ Acest folder poate conține următorul software:
 24. JED
     - – Licență: GPL 2.0
     - – Aviz de copyright: Copyright (c) 1992-1994, 2002, 2004, 2009 John E. Davis
-    - – Site-ul de download: http://www.jedsoft.org/jed/
+    - – Site-ul de download: http://www.jedsoft.org/jed/ (legătură în limba engleza)
 25. Joe's Own Editor
     - – Licență: GPL 1.0
     - – Aviz de copyright: Copyright (c) 1991-2018 Joseph H. Allen, 2001 Marek Grac

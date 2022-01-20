@@ -31,11 +31,11 @@
 10. Elvis
     - – Licens: Clarified Artistic License
     - – Copyrightmeddelande: Copyright (c) 1993-2003 Steve Kirkendall
-    - – Nedladdningssida: http://elvis.the-little-red-haired-girl.org/
+    - – Nedladdningssida: http://elvis.the-little-red-haired-girl.org/ (link på engelska)
 11. Emacs
     - – Licens: GPL 3.0
     - – Copyrightmeddelande: Copyright (c) 1985-2021 Richard Stallman
-    - – Nedladdningssida: http://www.gnu.org/software/emacs
+    - – Nedladdningssida: http://www.gnu.org/software/emacs (link på engelska)
 12. Enhanced Editor
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 1996-2001 PillarSoft
@@ -112,7 +112,7 @@
     - – Copyrightmeddelande: Copyright (c) 1997 Simon Schlauri
 35. NVI2
     - – Licens: BSD 3-sats
-    - – Copyrightmeddelande: Copyright (c) 1991-2000 Regent av University of University of California, Keith Bostic, Sven Verdoolaege, 2011 Zhihao Yuan
+    - – Copyrightmeddelande: Copyright (c) 1991-2000 Regent av University of California, Keith Bostic, Sven Verdoolaege, 2011 Zhihao Yuan
 36. Program Editor
     - – Licens: Free
     - – Copyrightmeddelande: Copyright (c) 1995-2003 Peter Koller

@@ -35,7 +35,7 @@
 11. Emacs
     - – Licenc: GPL 3.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1985-2021 Richard Stallman
-    - – Letöltési hely: http://www.gnu.org/software/emacs
+    - – Letöltési hely: http://www.gnu.org/software/emacs (angol nyelvem)
 12. Enhanced Editor
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-2001 PillarSoft
