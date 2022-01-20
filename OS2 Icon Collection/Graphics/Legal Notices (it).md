@@ -236,7 +236,7 @@
 72. pngmeta
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1998-2001 David Beckett
-    - – Sito di download: https://pmt.sourceforge.io/pngmeta (link in inglese)
+    - – Sito di download: https://pmt.sourceforge.io/pngmeta/ (link in inglese)
 73. Potrace
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2001-2019 Peter Selinger

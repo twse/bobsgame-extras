@@ -236,7 +236,7 @@
 72. pngmeta
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1998-2001 David Beckett
-    - – Server pro stahování: https://pmt.sourceforge.io/pngmeta (odkaz v angličtina)
+    - – Server pro stahování: https://pmt.sourceforge.io/pngmeta/ (odkaz v angličtina)
 73. Potrace
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 2001-2019 Peter Selinger

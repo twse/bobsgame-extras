@@ -236,7 +236,7 @@
 72. pngmeta
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2001 David Beckett
-    - – Letöltési hely: https://pmt.sourceforge.io/pngmeta (angol nyelvem)
+    - – Letöltési hely: https://pmt.sourceforge.io/pngmeta/ (angol nyelvem)
 73. Potrace
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2019 Peter Selinger
