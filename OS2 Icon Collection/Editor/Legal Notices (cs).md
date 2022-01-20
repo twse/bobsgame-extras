@@ -35,7 +35,7 @@
 11. Emacs
     - – Licence: GPL 3.0
     - – Upozornění na autorská práva: Copyright (c) 1985-2021 Richard Stallman
-    - – Server pro stahování: http://www.gnu.org/software/emacs (odkaz v angličtina)
+    - – Server pro stahování: http://www.gnu.org/software/emacs/ (odkaz v angličtina)
 12. Enhanced Editor
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1996-2001 PillarSoft

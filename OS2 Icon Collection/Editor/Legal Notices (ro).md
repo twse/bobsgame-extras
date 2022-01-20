@@ -35,7 +35,7 @@ Acest folder poate conține următorul software:
 11. Emacs
     - – Licență: GPL 3.0
     - – Aviz de copyright: Copyright (c) 1985-2021 Richard Stallman
-    - – Site-ul de download: http://www.gnu.org/software/emacs (legătură în limba engleza)
+    - – Site-ul de download: http://www.gnu.org/software/emacs/ (legătură în limba engleza)
 12. Enhanced Editor
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1996-2001 PillarSoft
