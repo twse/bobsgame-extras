@@ -28,8 +28,8 @@
    - – Licença: Grátis
    - – Aviso de direitos autorais: Copyright (c) 1994 David Thorn, 1995 Pat Curtis
 10. fileUpdate
-   - – Licença: Grátis
-   - – Aviso de direitos autorais: Copyright (c) 2000 Bob O'Brien
+    - – Licença: Grátis
+    - – Aviso de direitos autorais: Copyright (c) 2000 Bob O'Brien
 11. Iris
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 2003-2018 Dimitrios Bogiatzoules

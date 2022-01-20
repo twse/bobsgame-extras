@@ -28,8 +28,8 @@ Tento priečinok môže obsahovať nasledujúci softvér:
    - – Licencia: Svobodné
    - – Upozornenie na autorských práva: Copyright (c) 1994 David Thorn, 1995 Pat Curtis
 10. fileUpdate
-   - – Licencia: Svobodné
-   - – Upozornenie na autorských práva: Copyright (c) 2000 Bob O'Brien
+    - – Licencia: Svobodné
+    - – Upozornenie na autorských práva: Copyright (c) 2000 Bob O'Brien
 11. Iris
     - – Licencia: GPL 2.0
     - – Upozornenie na autorských práva: Copyright (c) 2003-2018 Dimitrios Bogiatzoules

@@ -28,8 +28,8 @@ Acest folder poate conține următorul software:
    - – Licență: Gratis
    - – Aviz de copyright: Copyright (c) 1994 David Thorn, 1995 Pat Curtis
 10. fileUpdate
-   - – Licență: Gratis
-   - – Aviz de copyright: Copyright (c) 2000 Bob O'Brien
+    - – Licență: Gratis
+    - – Aviz de copyright: Copyright (c) 2000 Bob O'Brien
 11. Iris
     - – Licență: GPL 2.0
     - – Aviz de copyright: Copyright (c) 2003-2018 Dimitrios Bogiatzoules

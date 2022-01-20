@@ -28,8 +28,8 @@ Bu klasör aşağıdaki yazılımı içerebilir:
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 1994 David Thorn, 1995 Pat Curtis
 10. fileUpdate
-   - – Lisans: Özgür
-   - – Telif Hakkı Bildirimi: Copyright (c) 2000 Bob O'Brien
+    - – Lisans: Özgür
+    - – Telif Hakkı Bildirimi: Copyright (c) 2000 Bob O'Brien
 11. Iris
     - – Lisans: GPL 2.0
     - – Telif Hakkı Bildirimi: Copyright (c) 2003-2018 Dimitrios Bogiatzoules

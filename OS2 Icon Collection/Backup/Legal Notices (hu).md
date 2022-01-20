@@ -28,8 +28,8 @@
    - – Licenc: Szabad
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1994 David Thorn, 1995 Pat Curtis
 10. fileUpdate
-   - – Licenc: Szabad
-   - – Szerzői jogi figyelmeztetés: Copyright (c) 2000 Bob O'Brien
+    - – Licenc: Szabad
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 2000 Bob O'Brien
 11. Iris
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2003-2018 Dimitrios Bogiatzoules

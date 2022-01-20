@@ -28,8 +28,8 @@
    - – Licence: Svobodné
    - – Upozornění na autorská práva: Copyright (c) 1994 David Thorn, 1995 Pat Curtis
 10. fileUpdate
-   - – Licence: Svobodné
-   - – Upozornění na autorská práva: Copyright (c) 2000 Bob O'Brien
+    - – Licence: Svobodné
+    - – Upozornění na autorská práva: Copyright (c) 2000 Bob O'Brien
 11. Iris
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 2003-2018 Dimitrios Bogiatzoules

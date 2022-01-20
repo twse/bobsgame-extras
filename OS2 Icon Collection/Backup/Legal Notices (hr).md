@@ -28,8 +28,8 @@
    - – Licenca: Slobodno
    - – Obavijest o autorskom pravu: Copyright (c) 1994 David Thorn, 1995 Pat Curtis
 10. fileUpdate
-   - – Licenca: Slobodno
-   - – Obavijest o autorskom pravu: Copyright (c) 2000 Bob O'Brien
+    - – Licenca: Slobodno
+    - – Obavijest o autorskom pravu: Copyright (c) 2000 Bob O'Brien
 11. Iris
     - – Licenca: GPL 2.0
     - – Obavijest o autorskom pravu: Copyright (c) 2003-2018 Dimitrios Bogiatzoules

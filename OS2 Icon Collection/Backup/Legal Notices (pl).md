@@ -28,8 +28,8 @@ Ten folder może zawierać następujące oprogramowanie:
    - – Licencja: Wolny
    - – Informacja o prawach autorskich: Copyright (c) 1994 David Thorn, 1995 Pat Curtis
 10. fileUpdate
-   - – Licencja: Wolny
-   - – Informacja o prawach autorskich: Copyright (c) 2000 Bob O'Brien
+    - – Licencja: Wolny
+    - – Informacja o prawach autorskich: Copyright (c) 2000 Bob O'Brien
 11. Iris
     - – Licencja: GPL 2.0
     - – Informacja o prawach autorskich: Copyright (c) 2003-2018 Dimitrios Bogiatzoules
