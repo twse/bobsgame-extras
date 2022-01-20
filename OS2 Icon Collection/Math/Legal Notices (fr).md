@@ -80,7 +80,7 @@
 25. Octave
     - – Licence : GPL 3.0
     - – Avis de copyright : Copyright (c) 1992-2021 John W. Eaton
-    - – Site de téléchargement : http://www.gnu.org/software/octave/
+    - – Site de téléchargement : http://www.gnu.org/software/octave/ (lien en anglais)
 26. Ortelius
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1996-1998 Christian Bressler

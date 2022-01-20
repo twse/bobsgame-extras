@@ -80,7 +80,7 @@ Acest folder poate conține următorul software:
 25. Octave
     - – Licență: GPL 3.0
     - – Aviz de copyright: Copyright (c) 1992-2021 John W. Eaton
-    - – Site-ul de download: http://www.gnu.org/software/octave/
+    - – Site-ul de download: http://www.gnu.org/software/octave/ (legătură în limba engleza)
 26. Ortelius
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1996-1998 Christian Bressler

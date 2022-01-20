@@ -60,7 +60,7 @@
 19. Kind Constructor
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 2001-2002 Michal Žemlička
-    - – Server pro stahování: http://www.ms.mff.cuni.cz/~zemlicka/KindCons
+    - – Server pro stahování: http://www.ms.mff.cuni.cz/~zemlicka/KindCons/index.html.cz
 20. Knotter
     - – Licence: GPL 3.0
     - – Upozornění na autorská práva: Copyright (c) 2012-2014 Mattia Basaglia

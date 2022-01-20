@@ -80,7 +80,7 @@
 25. Octave
     - – Licenc: GPL 3.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1992-2021 John W. Eaton
-    - – Letöltési hely: http://www.gnu.org/software/octave/
+    - – Letöltési hely: http://www.gnu.org/software/octave/ (angol nyelvem)
 26. Ortelius
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-1998 Christian Bressler
