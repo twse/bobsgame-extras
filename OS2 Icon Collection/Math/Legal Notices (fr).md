@@ -128,7 +128,7 @@
 40. RPCALC
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2000 Nathan Liskov
-    - – Download Site : http://nateliskov.com/os2apps/myapps.htm
+    - – Site de téléchargement : http://nateliskov.com/os2apps/myapps.htm (lien en anglais)
 41. RXNUM
     - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 1996 Michael Mieves
