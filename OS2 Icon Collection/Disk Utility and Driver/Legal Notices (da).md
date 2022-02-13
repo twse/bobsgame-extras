@@ -6,7 +6,7 @@
 2. CDSpeed2
    - – Licens: Free
    - – Meddelelse om ophavsret: Copyright (c) 2009 Marcel Müller
-   - – Download site: http://maazl.de/index.html
+   - – Download site: http://maazl.de/ (link på engelsk)
 3. CHKSTORE
    - – Licens: IBM EWS
    - – Meddelelse om ophavsret: Copyright (c) 1994 David Kelsey
