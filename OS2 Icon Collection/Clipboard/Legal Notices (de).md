@@ -28,4 +28,4 @@
    - – Lizenz: Shareware
    - – Copyright-Hinweise: Copyright (c) 1996 Don Hawkinson
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

@@ -18,7 +18,7 @@
 6. BOXER
    - – Lizenz: Shareware
    - – Copyright-Hinweise: Copyright (c) 1991-2010 Boxer Software
-   - – Download-Site: http://www.boxersoftware.com/ (link auf Englisch)
+   - – Download-Site: http://www.boxersoftware.com/ (link auf englisch)
 7. CEDIT
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1994 Jeroen Frijters
@@ -31,11 +31,11 @@
 10. Elvis
     - – Lizenz: Clarified Artistic License
     - – Copyright-Hinweise: Copyright (c) 1993-2003 Steve Kirkendall
-    - – Download-Site: http://elvis.the-little-red-haired-girl.org/ (link auf Englisch)
+    - – Download-Site: http://elvis.the-little-red-haired-girl.org/ (link auf englisch)
 11. Emacs
     - – Lizenz: GPL 3.0
     - – Copyright-Hinweise: Copyright (c) 1985-2021 Richard Stallman
-    - – Download-Site: http://www.gnu.org/software/emacs/ (link auf Englisch)
+    - – Download-Site: http://www.gnu.org/software/emacs/ (link auf englisch)
 12. Enhanced Editor
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1996-2001 PillarSoft
@@ -51,7 +51,7 @@
 16. FocusWriter
     - – Lizenz: GPL 3.0
     - – Copyright-Hinweise: Copyright (c) 2008-2021 Graeme Gott
-    - – Download-Site: https://gottcode.org/ (link auf Englisch)
+    - – Download-Site: https://gottcode.org/ (link auf englisch)
 17. Future Wave Editor
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1996-2000 Future Wave Limited
@@ -76,11 +76,11 @@
 24. JED
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 1992-1994, 2002, 2004, 2009 John E. Davis
-    - – Download-Site: http://www.jedsoft.org/jed/ (link auf Englisch)
+    - – Download-Site: http://www.jedsoft.org/jed/ (link auf englisch)
 25. Joe's Own Editor
     - – Lizenz: GPL 1.0
     - – Copyright-Hinweise: Copyright (c) 1991-2018 Joseph H. Allen, 2001 Marek Grac
-    - – Download-Site: https://joe-editor.sourceforge.io/ (link auf Englisch)
+    - – Download-Site: https://joe-editor.sourceforge.io/ (link auf englisch)
 26. JOVE
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1986-2002 Jonathan Payne
@@ -116,18 +116,18 @@
 36. Program Editor
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995-2003 Peter Koller
-    - – Download-Site: http://www.manglais.com/download.php (link auf Englisch)
+    - – Download-Site: http://www.manglais.com/download.php (link auf englisch)
 37. Quick Text Editor
     - – Lizenz: GPL 3.0
     - – Copyright-Hinweise: Copyright (c) 2018-2020 Alexander Taylor
-    - – Download-Site: http://www.altsan.org/ (link auf Englisch)
+    - – Download-Site: http://www.altsan.org/ (link auf englisch)
 38. Quicky
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 2008 Elad Lahav
 39. Vim
     - – Lizenz: Charityware
     - – Copyright-Hinweise: Copyright (c) 2001-2020 Bram Moolenaar
-    - – Download-Site: https://www.vim.org/ (link auf Englisch)
+    - – Download-Site: https://www.vim.org/ (link auf englisch)
 40. ZED
     - – Lizenz: BSD 3-Klausel
     - – Copyright-Hinweise: Copyright (c) 1995-2013 E. Bruce Shankle III
@@ -135,4 +135,4 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2013 Clyde Thomas Zuber
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

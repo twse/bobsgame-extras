@@ -15,7 +15,7 @@
 5. Dired
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1974-1992 Stuart Cracraft, Stanley G. Kugell, Mike Lijewski, Michael Sperber
-   - – Download-Site: https://www.deinprogramm.de/sperber/software/dired/ (link auf Englisch)
+   - – Download-Site: https://www.deinprogramm.de/sperber/software/dired/ (link auf englisch)
 6. Directory Manager/PM
    - – Lizenz: Shareware
    - – Copyright-Hinweise: Copyright (c) 1993 QB SoftWare
@@ -56,7 +56,7 @@
 18. FM/2
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 1997-2001 Mark Kimes, 2002-2017 Gregg Young, Steven H. Levine
-    - – Download-Site: http://trac.netlabs.org/fm2 (link auf Englisch)
+    - – Download-Site: http://trac.netlabs.org/fm2 (link auf englisch)
 19. K File Wizard
     - – Lizenz: GPL 3.0
     - – Copyright-Hinweise: Copyright (c) 2014 Myung-Hun Ko
@@ -69,7 +69,7 @@
 22. Midnight Commander
     - – Lizenz: GPL 3.0
     - – Copyright-Hinweise: Copyright (c) 1997-2021 Midnight Commander-Entwickler
-    - – Download-Site: http://midnight-commander.org/ (link auf Englisch)
+    - – Download-Site: http://midnight-commander.org/ (link auf englisch)
 23. Mr. File/PM
     - – Lizenz: IBM EWS
     - – Copyright-Hinweise: Copyright (c) 1995-2000 Michael Kaczmarski, Richard J. Moore
@@ -101,4 +101,4 @@
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1985-1992 Gary W. Wood
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

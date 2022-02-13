@@ -19,7 +19,7 @@
 6. CD2MP3, CD2MP3PM, CD-ROM Speed Tester
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1998-2001 Samuel Audet
-   - – Download-Site: https://nova.polymtl.ca/~guardia/cd2mp3pm.php (link auf Englisch) oder https://nova.polymtl.ca/~guardia/smallutils.php (link auf Englisch)
+   - – Download-Site: https://nova.polymtl.ca/~guardia/cd2mp3pm.php (link auf englisch) oder https://nova.polymtl.ca/~guardia/smallutils.php (link auf englisch)
 7. CDIndex
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1998 Ingo Böttcher
@@ -34,7 +34,7 @@
 11. dvdauthor
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 2003-2010 Scott Smith, 2010-2017 Lawrence D'Oliveiro
-    - – Download-Site: http://dvdauthor.sourceforge.net/ (link auf Englisch)
+    - – Download-Site: http://dvdauthor.sourceforge.net/ (link auf englisch)
 12. DVDDAO
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2004-2010 Nikolay Kolosov
@@ -60,4 +60,4 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1997-2001 Przemysław Dobrowolski
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

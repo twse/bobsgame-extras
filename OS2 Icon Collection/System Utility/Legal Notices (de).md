@@ -24,7 +24,7 @@
 8. CAD/Off
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1999 Thorsten Thielen
-   - – Download-Site: http://www.c2226.de/programs/cadoff/index.phtml (link auf Englisch)
+   - – Download-Site: http://www.c2226.de/programs/cadoff/index.phtml (link auf englisch)
 9. ClearTMP
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1998 Sergey Posokhov
@@ -119,7 +119,7 @@
 40. Odin
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1999-2017 Netlabs
-    - – Download-Site: http://odin.netlabs.org/en/site/index.xml (link auf Englisch)
+    - – Download-Site: http://odin.netlabs.org/en/site/index.xml (link auf englisch)
 41. OS/2 Command Line Utilities
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1991-2004 Jonathan de Boyne Pollard
@@ -201,9 +201,9 @@
 67. USB Resource Manager
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2017 Wim Brul
-    - – Download-Site: https://home.hccnet.nl/w.m.brul/usbcalls/index.html (link auf Englisch)
+    - – Download-Site: https://home.hccnet.nl/w.m.brul/usbcalls/index.html (link auf englisch)
 68. WillUtil
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1992-1994 Will E. Rose
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

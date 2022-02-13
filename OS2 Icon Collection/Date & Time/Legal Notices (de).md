@@ -114,4 +114,4 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2001-2004 Goran Ivanković
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

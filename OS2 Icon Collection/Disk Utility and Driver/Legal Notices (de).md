@@ -34,14 +34,14 @@
 11. Display File Systems
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1997-2021 Jan van Wijk
-    - – Download-Site: https://www.dfsee.com/ (link auf Englisch)
+    - – Download-Site: https://www.dfsee.com/ (link auf englisch)
 12. DMATEST
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1995 PowerQuest Corporation
 13. EMT Suite
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1991-2011 Daniel Valot
-    - – Download-Site: http://dvalot.free.fr/ (link auf Englisch)
+    - – Download-Site: http://dvalot.free.fr/ (link auf englisch)
 14. FAT32 Blanker
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2004 Alfredo Fernández Díaz, 2017 André Doff
@@ -131,14 +131,14 @@
 43. RxLVM
     - – Lizenz: BSD 3-Klause
     - – Copyright-Hinweise: Copyright (c) 2006-2007 Alexander Taylor
-    - – Download-Site: http://www.altsan.org/ (link auf Englisch)
+    - – Download-Site: http://www.altsan.org/ (link auf englisch)
 44. SLICE2, SPLICE2
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1992 Gary L. Robinson
 45. SMART Monitoring Tools
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 2002-2009 Bruce Allen, 2004-2021 Christian Franke
-    - – Download-Site: https://www.smartmontools.org/ (link auf Englisch)
+    - – Download-Site: https://www.smartmontools.org/ (link auf englisch)
 46. SMARTMON
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2005 Andrew A. Belov
@@ -165,4 +165,4 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2001-2004 Christian Langanke
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

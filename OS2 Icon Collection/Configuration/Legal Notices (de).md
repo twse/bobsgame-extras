@@ -25,7 +25,7 @@
 8. ConfigEdit/2
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 2001 Dimitris 'sehh' Michelinakis
-   - – Download-Site: https://www.michelinakis.gr/Dimitris/ce/index.html (link auf Englisch)
+   - – Download-Site: https://www.michelinakis.gr/Dimitris/ce/index.html (link auf englisch)
 9. ConfigMaint/2
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1998-2001 Kai Evers
@@ -66,11 +66,11 @@
 21. FastIni
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1997 Dennis Bareis
-    - – Download-Site: https://www.dennisbareis.com/ (link auf Englisch)
+    - – Download-Site: https://www.dennisbareis.com/ (link auf englisch)
 22. GenINI
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 2008-2014 Peter Moylan
-    - – Download-Site: http://www.pmoylan.org/pages/os2/genini.html (link auf Englisch)
+    - – Download-Site: http://www.pmoylan.org/pages/os2/genini.html (link auf englisch)
 23. I Browse
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995 Jay Freeman
@@ -157,4 +157,4 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995 François Thunus
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

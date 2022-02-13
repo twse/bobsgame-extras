@@ -9,7 +9,7 @@
 3. Antiword
    - – Lizenz: GPL 2.0
    - – Copyright-Hinweise: Copyright (c) 1998-2005 Adriaan van Os
-   - – Download-Site: http://www.winfield.demon.nl/ (link auf Englisch)
+   - – Download-Site: http://www.winfield.demon.nl/ (link auf englisch)
 4. BIEW
    - – Lizenz: GPL 2.0
    - – Copyright-Hinweise: Copyright (c) 1995-2017 Nikolay Kolosov
@@ -55,6 +55,6 @@
 18. YACReader
     - – Lizenz: GPL 3.0
     - – Copyright-Hinweise: Copyright (c) 2009-2019 Luis Ángel San Martín Rodríguez
-    - – Download-Site: https://www.yacreader.com/ (link auf Englisch)
+    - – Download-Site: https://www.yacreader.com/ (link auf englisch)
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

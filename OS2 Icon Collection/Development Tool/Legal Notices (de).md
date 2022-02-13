@@ -11,7 +11,7 @@
 4. ASM Edit
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1996 Olaf Krusche, Tilo Elstner
-   - – Download-Site: http://www.o-love.net/asmedit/ (link auf Englisch)
+   - – Download-Site: http://www.o-love.net/asmedit/ (link auf englisch)
 5. AUTOS2
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1995-2003 Squiredeck
@@ -36,7 +36,7 @@
 12. CScope
     - – Lizenz: BSD 3-Klausel
     - – Copyright-Hinweise: Copyright (c) 1998-2000 The Santa Cruz Operation
-    - – Download-Site: http://cscope.sourceforge.net/ (link auf Englisch)
+    - – Download-Site: http://cscope.sourceforge.net/ (link auf englisch)
 13. C-Scout
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1996 a priori computer solutions GmbH
@@ -49,7 +49,7 @@
 16. Dialog
     - – Lizenz: LGPL 2.1
     - – Copyright-Hinweise: Copyright (c) 1993-1994 Savio Lam, 1997-2021 Thomas E. Dickey
-    - – Download-Site: https://invisible-island.net/dialog/ (link auf Englisch)
+    - – Download-Site: https://invisible-island.net/dialog/ (link auf englisch)
 17. Dialog Editor
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1993-1995 Giovanni Iachello
@@ -74,11 +74,11 @@
 24. Expat
     - – Lizenz: MIT-Lizenz
     - – Copyright-Hinweise: Copyright (c) 2001-2021 Expat-Unterhalterer
-    - – Download-Site: https://libexpat.github.io/ (link auf Englisch)
+    - – Download-Site: https://libexpat.github.io/ (link auf englisch)
 25. GCC
     - – Lizenz: GPL 3.0
     - – Copyright-Hinweise: Copyright (c) 1985-2021 Richard Stallman
-    - – Download-Site: https://gcc.gnu.org/ (link auf Englisch)
+    - – Download-Site: https://gcc.gnu.org/ (link auf englisch)
 26. GCI
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2004 Florian Große-Coosmann
@@ -86,14 +86,14 @@
 27. Glade
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 2001-2021 Ximian, Inc., Joaquín Cuenca Abela, Paolo Borelli, Tristan Van Berkom, Juan Pablo Ugarte, Alberto Fanjul Alonso und anderes
-    - – Download-Site: https://glade.gnome.org/ (link auf Englisch)
+    - – Download-Site: https://glade.gnome.org/ (link auf englisch)
 28. GPF REXX
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1992-1998 Jean-Bernard Clerin
 29. GTK
     - – Lizenz: LGPL 2.0
     - – Copyright-Hinweise: Copyright (c) 1995-2021 Spencer Kimball, Josh MacDonald, Peter Mattis und der GTK-Entwicklerteam
-    - – Download-Site: https://www.gtk.org/ (link auf Englisch)
+    - – Download-Site: https://www.gtk.org/ (link auf englisch)
 30. gX XML Parser
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2002 Gregory Bourassa
@@ -112,18 +112,18 @@
 35. HexIt
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995-2001 Mikael Klasson
-    - – Download-Site: http://www.mklasson.com/hexit.php (link auf Englisch)
+    - – Download-Site: http://www.mklasson.com/hexit.php (link auf englisch)
 36. Hiew
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1997-2021 Eugene Suslikov
-    - – Download-Site: http://www.hiew.ru/ (link auf Englisch)
+    - – Download-Site: http://www.hiew.ru/ (link auf englisch)
 37. ICONRESOURCE
     - – Lizenz: LGPL 2.0
     - – Copyright-Hinweise: Copyright (c) 2001 Christian Langanke
 38. ICU
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1991-2018 Unicode, Inc.
-    - – Download-Site: http://site.icu-project.org/ (link auf Englisch)
+    - – Download-Site: http://site.icu-project.org/ (link auf englisch)
 39. Installed Product Tracker
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1998 Kai Evers
@@ -133,21 +133,21 @@
 41. libxml2
     - – Lizenz: MIT-Lizenz
     - – Copyright-Hinweise: Copyright (c) 1997-2012 Daniel Veillard
-    - – Download-Site: http://xmlsoft.org/ (link auf Englisch)
+    - – Download-Site: http://xmlsoft.org/ (link auf englisch)
 42. Linear eXecutable Dump Facility/2
     - – Lizenz: Frei ohne unterstützung
     - – Copyright-Hinweise: Copyright (c) 1999 Roman Stangl
 43. Lua
     - – Lizenz: MIT-Lizenz
     - – Copyright-Hinweise: Copyright (c) 1994-2021 Lua.org, PUC-Rio
-    - – Download-Site: http://www.lua.org/ (link auf Englisch)
+    - – Download-Site: http://www.lua.org/ (link auf englisch)
 44. LXOPT
     - – Lizenz: Frei ohne unterstützung
     - – Copyright-Hinweise: Copyright (c) 1994-1997 Functional Software Limited
 45. Netwide Assembler
     - – Lizenz: BSD 2-Klause
     - – Copyright-Hinweise: Copyright (c) 1996-2018 Der NASM-Urheberen
-    - – Download-Site: https://www.nasm.us/ (link auf Englisch)
+    - – Download-Site: https://www.nasm.us/ (link auf englisch)
 46. OS/2 Syslevel Editor
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1997 Harald Wilhelm
@@ -169,7 +169,7 @@
 52. PM Make
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995-2004 Peter Koller
-    - – Download-Site: http://www.manglais.com/download.php (link auf Englisch)
+    - – Download-Site: http://www.manglais.com/download.php (link auf englisch)
 53. PMDLL
     - – Lizenz: Publikdomain
     - – Copyright-Hinweise: Copyright (c) 1995-1999 Arthur van Beek, 2001-2016 Steven H. Levine
@@ -188,7 +188,7 @@
 58. PPWIZARD
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1997-2018 Dennis Bareis
-    - – Download-Site: https://www.dennisbareis.com/ (link auf Englisch)
+    - – Download-Site: https://www.dennisbareis.com/ (link auf englisch)
 59. PrjBld
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1998 IDK, Inc.
@@ -201,7 +201,7 @@
 62. Python
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2001-2021 Python Software Foundation
-    - – Download-Site: https://www.python.org/ (link auf Englisch)
+    - – Download-Site: https://www.python.org/ (link auf englisch)
 63. QDevelop
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 2006-2010 Jean-Luc Biord
@@ -220,11 +220,11 @@
 68. Rexx/DW
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 1997-2015 Mark Hessling
-    - – Download-Site: http://rexxdw.sourceforge.net/ (link auf Englisch)
+    - – Download-Site: http://rexxdw.sourceforge.net/ (link auf englisch)
 69. REXX_EXE
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2006 Veit Kannegieser
-    - – Download-Site: http://www.kannegieser.net/veit/programm/index_d.htm (link auf Englisch)
+    - – Download-Site: http://www.kannegieser.net/veit/programm/index_d.htm (link auf englisch)
 70. REXXCC
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1994-1997 Bernd Schemmer
@@ -254,7 +254,7 @@
 79. SDL
     - – Lizenz: zlib
     - – Copyright-Hinweise: Copyright (c) 2006-2018 Sam Lantinga
-    - – Download-Site: http://www.libsdl.org/ (link auf Englisch)
+    - – Download-Site: http://www.libsdl.org/ (link auf englisch)
 80. SeeDump
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1996 a priori computer solutions GmbH
@@ -270,7 +270,7 @@
 84. SWI-Prolog
     - – Lizenz: BSD 2-Klausel
     - – Copyright-Hinweise: Copyright (c) 1985-2020 Universität von Amsterdam
-    - – Download-Site: https://www.swi-prolog.org/ (link auf Englisch)
+    - – Download-Site: https://www.swi-prolog.org/ (link auf englisch)
 85. The Interactive Disassembler
     - – Lizenz: Freimium
     - – Copyright-Hinweise: Copyright (c) 1996 Datarescue sprl
@@ -293,4 +293,4 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1996 CodeSmith Software
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

@@ -6,7 +6,7 @@
 2. AACgain
    - – Lizenz: GPL 2.0
    - – Copyright-Hinweise: Copyright (c) 2004-2010 Altos Design, Inc.
-   - – Download-Site: http://aacgain.altosdesign.com/ (link auf Englisch)
+   - – Download-Site: http://aacgain.altosdesign.com/ (link auf englisch)
 3. ACCU Music System
    - – Lizenz: Shareware
    - – Copyright-Hinweise: Copyright (c) 1994-1996 Kevin Fischer
@@ -28,7 +28,7 @@
 9. BackTalk
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1996-1997 Samuel Audet, 1996 Jim Little
-   - – Download-Site: https://nova.polymtl.ca/~guardia/smallutils.php (link auf Englisch)
+   - – Download-Site: https://nova.polymtl.ca/~guardia/smallutils.php (link auf englisch)
 10. BladeEnc
     - – Lizenz: LGPL 2.1
     - – Copyright-Hinweise: Copyright (c) 1998-2001 Tord Jansson
@@ -38,11 +38,11 @@
 12. Chordii
     - – Lizenz: GPL 3.0
     - – Copyright-Hinweise: Copyright (c) 1995-2013 Mario Dorion, Martin Leclerc, Adam Monsen, Johan Vromans
-    - – Download-Site: https://johan.vromans.org/projects/Chordii/ (link auf Englisch)
+    - – Download-Site: https://johan.vromans.org/projects/Chordii/ (link auf englisch)
 13. CUE/WAV Extract
     - – Lizenz: Publikdomain
     - – Copyright-Hinweise: Copyright (c) 2005-2009 George Yohng
-    - – Download-Site: http://www.yohng.com/software/cuewavextract.html (link auf Englisch)
+    - – Download-Site: http://www.yohng.com/software/cuewavextract.html (link auf englisch)
 14. cuetools
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 2003-2015 Svend Sanjay Sorensen
@@ -64,7 +64,7 @@
 20. Festival
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1996-2017 University of Edinburgh
-    - – Download-Site: https://www.cstr.ed.ac.uk/projects/festival/ (Britisch) oder http://festvox.org/festival/ (Amerikanisch)
+    - – Download-Site: https://www.cstr.ed.ac.uk/projects/festival/ (Britisch - link auf englisch) oder http://festvox.org/festival/ (Amerikanisch - link auf englisch)
 21. FFmpeg
     - – Lizenz: LGPL 2.1
     - – Copyright-Hinweise: Copyright (c) 1998-2021 Fabrice Bellard und FFmpeg-Mitwirkender
@@ -77,14 +77,14 @@
 24. Flacon
     - – Lizenz: LGPL 2.1
     - – Copyright-Hinweise: Copyright (c) 2012-2021 Alexander Sokolov
-    - – Download-Site: http://flacon.github.io/ (link auf Englisch)
+    - – Download-Site: http://flacon.github.io/ (link auf englisch)
 25. Flash Player
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995-2021 Adobe Macromedia Software LLC
 26. GramoFile
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 1998-2001 Jeroen A. Bezemer
-    - – Download-Site: http://www.opensourcepartners.nl/~costar/gramofile/ (link auf Englisch)
+    - – Download-Site: http://www.opensourcepartners.nl/~costar/gramofile/ (link auf englisch)
 27. Gravis Ultrasound Mixer
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1994 Robert Turner
@@ -104,7 +104,7 @@
 32. libvpx
     - – Lizenz: BSD 3-Klausel
     - – Copyright-Hinweise: Copyright (c) 2010-2021 Der WebM-Projekt-Urheberer
-    - – Download-Site: https://www.webmproject.org/ (link auf Englisch)
+    - – Download-Site: https://www.webmproject.org/ (link auf englisch)
 33. Lyrics, MotivatorMaker, QScaleGen
     - – Lizenz: GPL 2.0
 34. MadCast
@@ -125,7 +125,7 @@
 39. Minta
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 1996-2003 Thorsten Thielen
-    - – Download-Site: http://www.c2226.de/programs/minta/index.phtml (link auf Englisch)
+    - – Download-Site: http://www.c2226.de/programs/minta/index.phtml (link auf englisch)
 40. Mixomat
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1997-1998 Christoph Bratschi
@@ -141,11 +141,11 @@
 44. MPG123
     - – Lizenz: LGPL 2.1
     - – Copyright-Hinweise: Copyright (c) 1995-2017 Michael Hipp, Thomas Orgis und anderes
-    - – Download-Site: http://www.mpg123.de/ (link auf Englisch)
+    - – Download-Site: http://www.mpg123.de/ (link auf englisch)
 45. MPlayer
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 2000-2019 Árpád Gereöffy und MPlayer-Team
-    - – Download-Site: http://www.mplayerhq.hu/ (link auf Englisch)
+    - – Download-Site: http://www.mplayerhq.hu/ (link auf englisch)
 46. Mup
     - – Lizenz: BSD 3-Klausel
     - – Copyright-Hinweise: Copyright (c) 1995-2017 Arkkra Enterprises
@@ -158,7 +158,7 @@
 49. Ogg Vorbis, Opus, Speex, Theora
     - – Lizenz: BSD 3-Klausel
     - – Copyright-Hinweise: Copyright (c) 2001-2018 Xiph.org Foundation
-    - – Download-Site: https://www.xiph.org/ (link auf Englisch)
+    - – Download-Site: https://www.xiph.org/ (link auf englisch)
 50. OplID
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1994 François D. Ménard
@@ -174,7 +174,7 @@
 54. PM123
     - – Lizenz: BSD 3-Klausel
     - – Copyright-Hinweise: Copyright (c) 1997-2003 Samuel Audet, Taneli Leppä, 2004-2017 Dmitry A. Steklenev, Marcel Müller
-    - – Download-Site: http://www.5nets.ru/pm123.html (link auf Englisch) oder http://maazl.de/project/pm123/index.html (link auf Englisch)
+    - – Download-Site: http://www.5nets.ru/pm123.html (link auf englisch) oder http://maazl.de/project/pm123/index.html (link auf englisch)
 55. PMaud
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1996 Ryan C. Gordon 
@@ -245,7 +245,7 @@
 77. TiMidity
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 1997-2012 Masanao Izumo, Tuukka Toivonen und TiMidity-Mitwirkender
-    - – Download-Site: http://timidity.sourceforge.net/ (link auf Englisch)
+    - – Download-Site: http://timidity.sourceforge.net/ (link auf englisch)
 78. trk2iso
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2000 Valerie Vrabie
@@ -278,4 +278,4 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1999 Terry Fry
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

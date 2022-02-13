@@ -16,4 +16,4 @@
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1998 Daniel Helgason
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

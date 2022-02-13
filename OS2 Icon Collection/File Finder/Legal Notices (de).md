@@ -3,12 +3,12 @@
 1. AGREP
    - – Lizenz: ISC-Lizenz
    - – Copyright-Hinweise: Copyright (c) 1989-1996 Udi Manber, Sun Wu und anderes
-   - – Download-Site: https://www.tgries.de/agrep/index.html (link auf Englisch)
+   - – Download-Site: https://www.tgries.de/agrep/index.html (link auf englisch)
 2. Corpus Wizard
    - – Lizenz: Shareware
    - – Copyright-Hinweise: Copyright (c) 1994 Takashi Hamaguchi
 3. DataSeeker
-   - – Lizenz: BSD 3-Klausele und OpenWatcom
+   - – Lizenz: BSD 3-Klausel und OpenWatcom
    - – Copyright-Hinweise: Copyright (c) 2003-2007 Alessandro Cantatore, 2008-2017 Andreas Buchinger
 4. DH-Grep-PM
    - – Lizenz: Shareware
@@ -109,4 +109,4 @@
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1988-1996 NPL Corporation
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

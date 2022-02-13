@@ -36,14 +36,14 @@
 12. luckyBackup
     - – Lizenz: GPL 3.0
     - – Copyright-Hinweise: Copyright (c) 2007-2018 Loukas Avgeriou
-    - – Download-Site: http://luckybackup.sourceforge.net/ (link auf Englisch)
+    - – Download-Site: http://luckybackup.sourceforge.net/ (link auf englisch)
 13. Obackup
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1991-1993 Trumphurst Ltd.
 14. PM Backup Suite
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 2017-2019 Dmitry A. Steklenev
-    - – Download-Site: http://www.5nets.ru/backup.html (link auf Englisch)
+    - – Download-Site: http://www.5nets.ru/backup.html (link auf englisch)
 15. RCONTROL
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1997 Cornel Huth
@@ -66,4 +66,4 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995 New Freidom Data Center
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

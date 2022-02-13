@@ -84,7 +84,7 @@
 29. PM ThinkPad On Screen Display
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2003 Serge Sterck, 2005 Jan van Wijk
-    - – Download-Site: https://www.dfsee.com/download/index.php (link auf Englisch)
+    - – Download-Site: https://www.dfsee.com/download/index.php (link auf englisch)
 30. PMLock
     - – Lizenz: Frei
 31. PMPause
@@ -117,7 +117,7 @@
 40. ScreenSaver
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1993-1996 Siegfried Hanisch
-    - – Download-Site: https://www.hanisch.com/cms/index.php/home_en/screensaver_en/index.html
+    - – Download-Site: https://www.hanisch.com/cms/index.php/home_de/screensaver_de/index.html
 41. Security/2
     - – Lizenz: Frei für nicht Kommerzielle benutzung
     - – Copyright-Hinweise: Copyright (c) 2002-2007 Nikolay Kolosov
@@ -182,4 +182,4 @@
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1999 CodeSmith Software
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

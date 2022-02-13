@@ -45,7 +45,7 @@
 15. SQliteman
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 2007-2010 Petr Vaněk
-    - – Download Site : http://sqliteman.yarpen.cz/ (link auf Englisch)
+    - – Download Site : http://sqliteman.yarpen.cz/ (link auf englisch)
 16. VIPER Database Engine
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995 Douglas A. Bebber
@@ -53,4 +53,4 @@
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 2010 Wolfgang Draxler
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

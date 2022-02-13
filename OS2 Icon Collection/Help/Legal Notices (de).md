@@ -48,7 +48,7 @@
 16. NewView
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 1994-2005 Aaron Lawrence, 2006-2019 Ronald Brill
-    - – Download-Site: http://www.rbri.org/projects/newview (link auf Englisch)
+    - – Download-Site: http://www.rbri.org/projects/newview (link auf englisch)
 17. Thelp
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1993 Colin Thomson
@@ -71,4 +71,4 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1998-1999 Cristiano Guadagnino
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

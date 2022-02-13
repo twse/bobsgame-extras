@@ -12,14 +12,14 @@
 4. ConText/2
    - – Lizenz: BSD 3-Klausel
    - – Copyright-Hinweise: Copyright (c) 2007 Alexander Taylor
-   - – Download-Site: http://www.altsan.org/programming/os2/index.html (link auf Englisch)
+   - – Download-Site: http://www.altsan.org/programming/os2/index.html (link auf englisch)
 5. Conversion Pro for OS/2
    - – Lizenz: Shareware
    - – Copyright-Hinweise: Copyright (c) 1995-1997 Jon F. Kaminsky
 6. Crovert
    - – Lizenz: Shareware
    - – Copyright-Hinweise: Copyright (c) 1996 Domagoj Klepac
-   - – Download-Site: https://www.blagi.net/hrslova/hrslovpl.html (link auf Kroatisch)
+   - – Download-Site: https://www.blagi.net/hrslova/hrslovpl.html (link auf kroatisch)
 7. DC
    - – Lizenz: Shareware
    - – Copyright-Hinweise: Copyright (c) 1997-1999 Evgeny Kotsuba
@@ -71,11 +71,11 @@
 23. WP2LaTeX
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 2000-2018 Jaroslav Fojtík
-    - – Download-Site: http://www.penguin.cz/~fojtik/wp2latex/wp2latex.htm (link auf Englisch)
+    - – Download-Site: http://www.penguin.cz/~fojtik/wp2latex/wp2latex.htm (link auf englisch)
 24. XBIN
     - – Lizenz: Frei
 25. XEOL
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1993-1995 Paul Gallagher
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

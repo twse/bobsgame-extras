@@ -12,15 +12,15 @@
 4. ArcView
    - – Lizenz: GPL 2.0
    - – Copyright-Hinweise: Copyright (c) 2009-2013 Alexander Taylor
-   - – Download-Site: http://www.altsan.org/programming/os2/index.html (link auf Englisch)
+   - – Download-Site: http://www.altsan.org/programming/os2/index.html (link auf englisch)
 5. ARJ
    - – Lizenz: Frei oder Shareware
    - – Copyright-Hinweise: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
-   - – Download-Site: http://www.arjsoftware.com/ (link auf Englisch) oder http://arj.sourceforge.net/ (link auf Englisch)
+   - – Download-Site: http://www.arjsoftware.com/ (link auf englisch) oder http://arj.sourceforge.net/ (link auf englisch)
 6. CABextract
    - – Lizenz: GPL 2.0
    - – Copyright-Hinweise: Copyright (c) 2000-2018 Stuart Caie
-   - – Download-Site: https://www.cabextract.org.uk/ (link auf Englisch)
+   - – Download-Site: https://www.cabextract.org.uk/ (link auf englisch)
 7. Drop and Zip
    - – Lizenz: Shareware
    - – Copyright-Hinweise: Copyright (c) 1994 Dirk Terrell
@@ -40,7 +40,7 @@
 12. LHA
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1989 Yooichi Tagawa, 1990 Haruyasu Yoshizaki, 1991 Masaru Oki, 1993-1995 Nobutaka Wakazaki, 1998-2008 Koji Arai, 2000 Tsugio Okamoto
-    - – Download-Site: http://lha.osdn.jp/ (link auf Japanisch)
+    - – Download-Site: http://lha.osdn.jp/ (link auf japanisch)
 13. LSZipWizard
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2017-2021 Lothar Söns
@@ -59,7 +59,7 @@
 18. RPF Zip Control
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1993-2007 RPF Software
-    - – Download-Site: https://www.rpfsoftware.com/ (link auf Englisch)
+    - – Download-Site: https://www.rpfsoftware.com/ (link auf englisch)
 19. rxGZlib
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2000 Daniel Hellerstein
@@ -79,14 +79,14 @@
 24. UNRAR
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1993-2017 Alexander Roshal
-    - – Download-Site: https://www.rarlab.com/ (link auf Englisch)
+    - – Download-Site: https://www.rarlab.com/ (link auf englisch)
 25. WarpExpander
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2003 Salvador Parra Camacho
 26. WarpIN
     - – Lizenz: LGPL 2.1
     - – Copyright-Hinweise: Copyright (c) 1997-2012 Netlabs
-    - – Download-Site: http://warpin.netlabs.org/en/site/index.xml (link auf Englisch)
+    - – Download-Site: http://warpin.netlabs.org/en/site/index.xml (link auf englisch)
 27. WarpZip
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1996-2000 PillarSoft
@@ -108,7 +108,7 @@
 33. Zippy
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 2017 Dmitry A. Steklenev
-    - – Download-Site: http://www.5nets.ru/ (link auf Englisch)
+    - – Download-Site: http://www.5nets.ru/ (link auf englisch)
 34. ZipStream
     - – Lizenz: Shareware
     - – Copyright-Hinweise: Copyright (c) 1994-1995 Carbon Based Software
@@ -118,6 +118,6 @@
 36. zlib
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995-2017 Jean-loup Gailly und Mark Adler
-    - – Download-Site: http://www.zlib.net/ (link auf Englisch)
+    - – Download-Site: http://www.zlib.net/ (link auf englisch)
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

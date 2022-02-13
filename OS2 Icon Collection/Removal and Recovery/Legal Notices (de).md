@@ -50,4 +50,4 @@
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1995-1997 Wonkoo Kim
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)

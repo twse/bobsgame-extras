@@ -6,7 +6,7 @@
 2. ATSHELL
    - – Lizenz: GPL 2.0
    - – Copyright-Hinweise: Copyright (c) 2005-2006 Alexander Taylor
-   - – Download-Site: http://www.altsan.org/programming/os2/index.html (link auf Englisch)
+   - – Download-Site: http://www.altsan.org/programming/os2/index.html (link auf englisch)
 3. CandyBarZ
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1996-2000 Peter Garner, Eric Norman, Jack Troughton, Matthew Wagner
@@ -25,11 +25,11 @@
 8. NPS WPS Enhancer
    - – Lizenz: Frei
    - – Copyright-Hinweise: Copyright (c) 1995-1996 Shinji Takasugi
-   - – Download-Site: http://www.sf.airnet.ne.jp/ts/npswps/index.html (link auf Englisch)
+   - – Download-Site: http://www.sf.airnet.ne.jp/ts/npswps/index.html (link auf englisch)
 9. Object Desktop
    - – Lizenz: Shareware
    - – Copyright-Hinweise: Copyright (c) 1993-2017 Stardock Corporation
-   - – Download-Site: https://www.stardock.com/products/odnt/ (link auf Englisch)
+   - – Download-Site: https://www.stardock.com/products/odnt/ (link auf englisch)
 10. PDE Shell
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 2003 Vladymyr Sergeyev
@@ -63,6 +63,6 @@
 20. XWorkplace
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 1998-2009 Ulrich Möller
-    - – Download-Site: http://xworkplace.netlabs.org/en/site/index.xml (link auf Englisch)
+    - – Download-Site: http://xworkplace.netlabs.org/en/site/index.xml (link auf englisch)
 
-Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf Englisch)
+Vollständige rechtliche Hinweise, Teilnehmer- und Übersetzerlisten finden Sie in https://bobsgame.fandom.com/wiki/Extras (link auf englisch)
