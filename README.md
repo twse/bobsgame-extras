@@ -8,12 +8,12 @@ The translation is available in eight languages. The translated readme is based 
 Want to be a show-off? Impress your friends? This is the place. Robert Matthew Pelloni will be offering a wallpaper for you. In any case, please feel free to download these and use them on your desktop.
 
 ### Icons
-Icons in OS/2 format based on the lowercase letters included in the bob's game font for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits. See **Legal Notices.md** (multi-language) in each software category folder for brief legal notices.
+Icons in OS/2 format based on the lowercase letters included in the bob's game font for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits. See **Legal Notices (language code).md** (multi-language) in each software category folder for brief legal notices, whereas **(language code)** is the language.
 
 ### Nintendo 3DS Skin
 Use theme managers ([Anemone](https://github.com/astronautlevel2/Anemone3DS), [CHMM2](https://github.com/Rinnegatamante/CHMM2), [Themely](https://github.com/Ann0ying/Themely), etc. etc. etc.) to replace the skin. The skin was created with [3DS Theme Editor](https://github.com/usagirei/3DS-Theme-Editor).
 
-### Windows User Account Picture
+### Windows User Account Picture (BMP)
 Use this to replace the user account picture (this can be done in Windows XP via **Control Panel: User Accounts: Change your picture** (category view) or **Control Panel: User Accounts: Your username: Change my picture** (classic view) or in Windows Vista and 7 via **Control Panel: User Accounts and Family Safety: User Accounts: Change your picture** (category view) or **User Accounts: Change your picture** (normal view) or in Windows 8 via **Start: Your username: Change account picture** or **PC settings: Personalize: Account picture: Browse** or in Windows 10 and 11 via **Settings: Accounts: Your account: Your picture: Browse**).
 
 **Default user account picture locations**
@@ -23,7 +23,7 @@ Use this to replace the user account picture (this can be done in Windows XP via
 ### Windows Desktop Theme
 Use this to replace the desktop theme in Windows. Includes Windows Aero effects if Windows Vista or 7 is running.
 
-### ReactOS Logon GINA Header
+### ReactOS Logon GINA Header (BMP)
 Use this to replace the first bitmap resource in `msgina.dll`. **Nimbus Sans Mono** is used to display the modified image.
 
 ## Sound Scheme
@@ -36,9 +36,9 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 ### Index of sound events
 | Windows name                  | OS/2 name                 | Filename                    |
 |-------------------------------|---------------------------|-----------------------------|
-| None                          | Alarm Clock               | TBD                         |
+| None                          | Alarm Clock               | BG Notify.wav               |
 | Asterisk                      | None                      | BG Balloon.wav              |
-| None                          | Begin drag                | TBD                         |
+| None                          | Begin drag                | BG Select.wav               |
 | Blocked Pop-up Window         | None                      | BG Notify.wav               |
 | Calendar Reminder             | None                      | BG Notify.wav               |
 | Change Theme                  | None                      | BG Startup.wav              |
@@ -95,7 +95,7 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
 
-Under Windows Vista & above, the registry keys are located in `HKLM\Software\Microsoft\Windows NT\CurrentVersion\OEMInformation` by adding the following keys:
+Under Windows Vista & above, the registry keys are located in `HKLM\Software\Microsoft\Windows NT\CurrentVersion\OEMInformation` (on non-OEM copies, there are no values included within this key) by adding the following string values:
 * **Logo**: `OEMlogo.bmp`
 * **Manufacturer**: Robert Matthew Pelloni
 * **SupportURL**: Second line in the `Support Information` heading in `OEMinfo.ini`
