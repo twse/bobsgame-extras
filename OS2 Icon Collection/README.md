@@ -22,7 +22,7 @@ This icon collection is subject to the following OS/2 software archives and webs
 * Netlabs: ftp://ftp.netlabs.org/pub/
 * OS/2 World: https://www.os2world.com/
 
-For full legal notices, contributor and translator lists, see the Extras page in the Bob's Game Wiki at the end of Legal Notices.md file on each software category. Some legal notices contains material which may not be suitable for young users (see WarpCfg for example). Viewer discretion is advised.
+For full legal notices, contributor and translator lists, see the Extras page in the Bob's Game Wiki at the end of Legal Notices.md file on each software category. Some legal notices contain material which may not be suitable for young readers (see e.g. WarpCfg). Viewer discretion is advised.
 
 ## Translations of Legal Notices.md to other languages
 
@@ -45,16 +45,6 @@ Nom programari
 * – Lloc de descàrrega:
 
 Per a avisos legals complets, llistes de col·laboradors i traductors, visiteu https://bobsgame.fandom.com/wiki/Extras (enllaç en anglès)
-
-### Finnish
-Tämä kansio saattaa sisältää seuraavat ohjelmistot:
-
-Ohjelmistonam
-* – Lisenssi:
-* – Tekijän oikeus ilmoitus:
-* – Lataussivusto:
-
-Saat täydelliset oikeudelliset ilmoitukset, avustaja-ja kääntäjä luettelot osoitteesta https://bobsgame.fandom.com/wiki/Extras (linkki sivulla englanti)
 
 ### Greek
 Αυτός ο φάκελος μπορεί να περιέχει το ακόλουθο λογισμικό:
