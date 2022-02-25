@@ -2,10 +2,10 @@
 Contains extra stuff for bob's game except fonts.
 
 ## Translated game readme
-The translation is available in eight languages. The translated readme is based on the original English documentation from the bob's game repositories until June 24th, 2021 when the game was renamed to “ok”.
+The translation is available in eight languages. The translated readme is based on the original documentation from the bob's game repositories until June 24th, 2021 when the game was renamed to “ok”.
 
 ## Art Department
-Want to be a show-off? Impress your friends? This is the place. Robert Matthew Pelloni will be offering a wallpaper for you. In any case, please feel free to download these and use them on your desktop.
+Want to be a show-off? Impress your friends? This is the place. Robert Matthew Pelloni will be offering a wallpaper for you. In any case, please feel free to use them on your desktop.
 
 ### Icons
 Icons in OS/2 format based on the lowercase letters included in the bob's game font for use with OS/2 programs. Use them to replace icons from the program resources. See **Third-Party Notices.md** for commercial and unsupported freeware credits. See **Legal Notices (language code).md** (multi-language) in each software category folder for brief legal notices, whereas **(language code)** is the language.
@@ -24,7 +24,7 @@ Use this to replace the user account picture (this can be done in Windows XP via
 Use this to replace the desktop theme in Windows. Includes Windows Aero effects if Windows Vista or 7 is running.
 
 ### ReactOS Logon GINA Header (BMP)
-Use this to replace the first bitmap resource in `msgina.dll`. **Nimbus Sans Mono** is used to display the modified image.
+Use this to replace the first bitmap resource in `msgina.dll`. The image was typeset with the Nimbus Sans Mono font for illustration purposes.
 
 ## Sound Scheme
 Use this to replace system sounds or change it through the sound settings (e.g. in **Control Panel** in Windows, **System Setup** in OS/2 or **Preferences** in BeOS or Haiku, it is located under **Desktop Themes: Settings: Sound events** or **Sounds and Multimedia: Sounds: Sound Events** in Windows 95/98/ME, **Sounds** in Windows 2000, BeOS or Haiku, **Sounds and Audio Devices** in Windows XP (also in **Sounds, Speech, and Audio Devices** in category view), and under **Sound: Sounds: Program Events** (also in **Hardware and Sound** in category view or **Personalization** in icon view) in Windows Vista & above, OS/2 and more, **Sound and Audio Devices** on ReactOS, and **Settings: Personalization: Themes: Sounds** in Windows 10 and 11). Under Windows, the sounds have to be copied to `%SystemRoot%\media` or `%windir%\media` (make sure you're logged in as an administrator).
@@ -43,7 +43,7 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 | Calendar Reminder             | None                      | BG Notify.wav               |
 | Change Theme                  | None                      | BG Startup.wav              |
 | Close Program                 | Closing window (Animated) | BG Close Program.wav        |
-| Complete Navigation           | None                      | TBD                         |
+| Complete Navigation           | None                      | BG Notify.wav               |
 | Critical Battery Alarm        | None                      | BG Battery Critical.wav     |
 | Critical Stop                 | Error                     | BG Critical Stop.wav        |
 | Default Beep                  | Error                     | BG Error.wav                |
@@ -109,7 +109,7 @@ The boot skin is available in 15 languages. Rename `bobsgame.bmp` to `logo.sys` 
 For use with the Windows XP version of [BootSkin](https://www.stardock.com/products/bootskin/) only. The boot skin is available in 13 languages. Attempting to install with the Windows Vista version will most likely fail, so please don't try it. I created this with Windows Paint.
 
 ## Palm OS Emulator Skin
-Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created with [PMView](https://www.pmview.com/).
+Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created from the bmp files with [PMView](https://www.pmview.com/).
 
 This skin can be used with the emulators listed below. Robert Matthew Pelloni is not the original author of these emulators. The original copyright notice, license and contributor list is set forth below.
 
