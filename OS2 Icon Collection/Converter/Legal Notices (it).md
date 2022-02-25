@@ -59,7 +59,7 @@
 19. tcs
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1992 AT&T
-20. Texinfo converting tools
+20. Strumenti di conversione Texinfo
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1996-1997 Andreas Kaiser, Karl Heinz Marbaise
 21. Text Converter
