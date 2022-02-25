@@ -221,6 +221,7 @@
 71. MICQ
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 1998-1999 Matthew D. Smith, 2000-2007 Rüdiger Kuhlmann
+    - – Site de descarregamento: http://micq.org/ (o idioma por padrão é ruso)
 72. MPING
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1998 Maxim Annenkov
