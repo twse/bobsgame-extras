@@ -82,76 +82,76 @@
 27. LAN Server Management Tools
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995-2001 Alain Rykaert
-28. LANXCOPY, RINGUT
-    - – License : IBM EWS
-    - – Copyright Notice : Copyright (c) 1994 Chris Ahl
-29. LiveWire Communications
+28. LiveWire Communications
     - – License : Unsupported freeware
     - – Copyright Notice : Copyright (c) 1990-1995 DataMirage Software
-30. LogiCOMM
+29. LogiCOMM
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1988-1990 Logistique LMM
-31. MAGCOM
+30. MAGCOM
     - – License : Free
     - – Copyright Notice : Copyright (c) 1989-1993 Gilmore Systems
-32. Monitor
+31. Monitor
     - – License : IBM EWS or Free
     - – Copyright Notice : Copyright (c) 1988 Marc L. Cohen, 1996 Thor Johnson
-33. MTPSync
+32. MTPSync
     - – License : Free
     - – Copyright Notice : Copyright (c) 2004-2010 Nikolay Kolosov
-34. Netcat
+33. Netcat
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1995-1996 Avian Research, 2002-2004 Giovanni Giacobbi
     - – Download Site : http://netcat.sourceforge.net/
-35. OS2TERM
+34. OS2TERM
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993 Jeff M. Garzik
-36. PhoneAttention
+35. PhoneAttention
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992 Mikael Wahlgren
-37. PhoneBoy
+36. PhoneBoy
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Igor Divjak
-38. pilot-link
+37. pilot-link
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2002-2010 David A. Desrosiers, Kenneth Albanowski and pilot-link developers
-39. PM Napster
+38. PM Napster
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000-2002 Ricardo Mayrink
-40. PM Timer
+39. PM Timer
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996-1997 Jeffrey Habets
-41. PMBiff
+40. PMBiff
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Thomas Vandahl
-42. Pmcomm
+41. Pmcomm
     - – License : Free
     - – Copyright Notice : Copyright (c) 1990-1996 Multi-Net Communications
-43. PMphone
+42. PMphone
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997 Gary L. Robinson
-44. POPBiff
+43. POPBiff
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Michele Marziani
-45. ProTalk
+44. ProTalk
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1994 Brian Fisher
-46. Psion OS/2 utilities
+45. Psion OS/2 utilities
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1999-2000 Andy A. Porro
-47. REXX Named Pipes
+46. REXX Named Pipes
     - – License : DAP Software
     - – Copyright Notice : Copyright (c) 1994 Graham Ewart
-48. RexxIPC
+47. RexxIPC
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994-1995 Serge Brisson
-49. RexxSem
+48. RexxSem
     - – License : Unsupported freeware
     - – Copyright Notice : Copyright (c) 1997-2000 Darin McBride
-50. REXXSOCKVM
+49. REXXSOCKVM
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Peter R. Flass
+50. RINGUT
+    - – License : IBM EWS
+    - – Copyright Notice : Copyright (c) 1994 Chris Ahl
 51. RxMirror
     - – License : Free
     - – Copyright Notice : Sergey Ayukov

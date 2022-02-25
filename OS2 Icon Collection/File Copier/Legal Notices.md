@@ -15,14 +15,17 @@
 5. KCopy/2
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 1999 Myung-Hun Ko
-6. RCopy
+6. LANXCOPY
+   - – License : IBM EWS
+   - – Copyright Notice : Copyright (c) 1994 Chris Ahl
+7. RCopy
    - – License : Free
    - – Copyright Notice : Copyright (c) 1996 Vitus Jensen
-7. Safecopy
+8. Safecopy
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 2005-2012 Eric Noack
    - – Download Site : http://safecopy.sourceforge.net/
-8. WSSFill
+9. WSSFill
    - – License : Shareware
    - – Copyright Notice : Copyright (c) 1998 Robert W. Babcock
 
