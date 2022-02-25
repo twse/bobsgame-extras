@@ -21,101 +21,104 @@
    - – Licença: GPL 2.0
    - – Aviso de direitos autorais: Copyright (c) 2000-2018 Stuart Caie
    - – Site de descarregamento: https://www.cabextract.org.uk/ (link em inglês)
-7. Drop and Zip
+7. Diskette Image Unpacker
+   - – Licença: Grátis
+   - – Aviso de direitos autorais: Copyright (c) 1998 IBM
+8. Drop and Zip
    - – Licença: Shareware
    - – Aviso de direitos autorais: Copyright (c) 1994 Dirk Terrell
-8. E_WISE, NELite, STIX, Typ
+9. E_WISE, NELite, STIX, Typ
    - – Licença: Grátis
    - – Aviso de direitos autorais: Copyright (c) 2001-2006 Veit Kannegieser
    - – Site de descarregamento: http://www.kannegieser.net/veit/programm/index_e.htm (link em inglês)
-9. IDE Installer
-   - – Licença: Shareware
-   - – Aviso de direitos autorais: Copyright (c) 1995 David J. Heritage
-10. KAZip
+10. IDE Installer
+    - – Licença: Shareware
+    - – Aviso de direitos autorais: Copyright (c) 1995 David J. Heritage
+11. KAZip
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1998 Kevin Ash
-11. KL-ZIP
+12. KL-ZIP
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1995 Keith Luken
-12. LHA
+13. LHA
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1989 Yooichi Tagawa, 1990 Haruyasu Yoshizaki, 1991 Masaru Oki, 1993-1995 Nobutaka Wakazaki, 1998-2008 Koji Arai, 2000 Tsugio Okamoto
     - – Site de descarregamento: http://lha.osdn.jp/ (link em japonês)
-13. LSZipWizard
+14. LSZipWizard
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2017-2021 Lothar Söns
-14. lxLite
+15. lxLite
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 1996-1997 Andrew Zabolotny, 2001-2015 Max Alekseyev, 2017 bitwise works GmbH
-15. PM Zipper
+16. PM Zipper
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1997 Frank Ambacher, 1994-2005 Gunner Prießnitz
-16. PMUnZip
+17. PMUnZip
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2007 Gunner Prießnitz
-17. pull
+18. pull
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1995-1997 Yao Li
-18. RPF Zip Control
+19. RPF Zip Control
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1993-2007 RPF Software
     - – Site de descarregamento: https://www.rpfsoftware.com/ (link em inglês)
-19. rxGZlib
+20. rxGZlib
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2000 Daniel Hellerstein
-20. SAFEPACK
+21. SAFEPACK
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1995 D J Harvey Software
-21. Simple ZipShell, ZipShell
+22. Simple ZipShell, ZipShell
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1993-1996 Martin Vieregg
     - – Site de descarregamento: http://www.hypermake.com/english/zipshell.html (link em inglês)
-22. TarGZipPM
+23. TarGZipPM
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1998 Virtual Publication
-23. The UnZip Shell
+24. The UnZip Shell
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1994-1996 John Wagner
-24. UNRAR
+25. UNRAR
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1993-2017 Alexander Roshal
     - – Site de descarregamento: https://www.rarlab.com/ (link em inglês)
-25. WarpExpander
+26. WarpExpander
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2003 Salvador Parra Camacho
-26. WarpIN
+27. WarpIN
     - – Licença: LGPL 2.1
     - – Aviso de direitos autorais: Copyright (c) 1997-2012 Netlabs
     - – Site de descarregamento: http://warpin.netlabs.org/en/site/index.xml (link em inglês)
-27. WarpZip
+28. WarpZip
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1996-2000 PillarSoft
-28. Workplace Shell UnZip
+29. Workplace Shell UnZip
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1994 Scott Maxwell
-29. WPIView
+30. WPIView
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2006-2010 Herwig Bauernfeind
-30. Zip Chunker Pro
+31. Zip Chunker Pro
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1991-1995 Scott Jibben
-31. Zip Viewer
+32. Zip Viewer
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1993 Custom Design Software
-32. ZiPMe
+33. ZiPMe
     - – Licença: Cardware
     - – Aviso de direitos autorais: Copyright (c) 1995-1996 Peter Eggert
-33. Zippy
+34. Zippy
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 2017 Dmitry A. Steklenev
     - – Site de descarregamento: http://www.5nets.ru/
-34. ZipStream
+35. ZipStream
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1994-1995 Carbon Based Software
-35. ZipZap
+36. ZipZap
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 1997-2012 Gary L. Robinson
-36. zlib
+37. zlib
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1995-2017 Jean-loup Gailly e Mark Adler
     - – Site de descarregamento: http://www.zlib.net/ (link em inglês)

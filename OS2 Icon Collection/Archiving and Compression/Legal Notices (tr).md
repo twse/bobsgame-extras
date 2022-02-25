@@ -21,17 +21,20 @@ Bu klasör aşağıdaki yazılımı içerebilir:
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 2000-2018 Stuart Caie
    - – İndirme Sitesi: https://www.cabextract.org.uk/ (bağda İngilizce)
-7. Drop and Zip
+7. Diskette Image Unpacker
+   - – Lisans: Özgür
+   - – Telif Hakkı Bildirimi: Copyright (c) 1998 IBM
+8. Drop and Zip
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1994 Dirk Terrell
-8. E_WISE, NELite, STIX, Typ
+9. E_WISE, NELite, STIX, Typ
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 2001-2006 Veit Kannegieser
    - – İndirme Sitesi: http://www.kannegieser.net/veit/programm/index_e.htm (bağda İngilizce)
-9. IDE Installer
-   - – Lisans: Shareware
-   - – Telif Hakkı Bildirimi: Copyright (c) 1995 David J. Heritage
-10. KAZip
+10. IDE Installer
+    - – Lisans: Shareware
+    - – Telif Hakkı Bildirimi: Copyright (c) 1995 David J. Heritage
+11. KAZip
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1998 Kevin Ash
 11. KL-ZIP

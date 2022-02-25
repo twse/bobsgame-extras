@@ -21,101 +21,104 @@
    - – Licenc: GPL 2.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2000-2018 Stuart Caie
    - – Letöltési hely: https://www.cabextract.org.uk/ (angol nyelvem)
-7. Drop and Zip
+7. Diskette Image Unpacker
+   - – Licenc: Szabad
+   - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 IBM
+8. Drop and Zip
    - – Licenc: Shareware
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1994 Dirk Terrell
-8. E_WISE, NELite, STIX, Typ
+9. E_WISE, NELite, STIX, Typ
    - – Licenc: Szabad
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2006 Veit Kannegieser
    - – Letöltési hely: http://www.kannegieser.net/veit/programm/index_e.htm (angol nyelvem)
-9. IDE Installer
-   - – Licenc: Shareware
-   - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 David J. Heritage
-10. KAZip
+10. IDE Installer
+    - – Licenc: Shareware
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 David J. Heritage
+11. KAZip
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 Kevin Ash
-11. KL-ZIP
+12. KL-ZIP
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Keith Luken
-12. LHA
+13. LHA
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1989 Yooichi Tagawa, 1990 Haruyasu Yoshizaki, 1991 Masaru Oki, 1993-1995 Nobutaka Wakazaki, 1998-2008 Koji Arai, 2000 Tsugio Okamoto
     - – Letöltési hely: http://lha.osdn.jp/ (japán nyelvem)
-13. LSZipWizard
+14. LSZipWizard
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2017-2021 Lothar Söns
-14. lxLite
+15. lxLite
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-1997 Andrew Zabolotny, 2001-2015 Max Alekseyev, 2017 bitwise works GmbH
-15. PM Zipper
+16. PM Zipper
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Frank Ambacher, 1994-2005 Gunner Prießnitz
-16. PMUnZip
+17. PMUnZip
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2007 Gunner Prießnitz
-17. pull
+18. pull
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-1997 Yao Li
-18. RPF Zip Control
+19. RPF Zip Control
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993-2007 RPF Software
     - – Letöltési hely: https://www.rpfsoftware.com/ (angol nyelvem)
-19. rxGZlib
+20. rxGZlib
     - – Licenc: Free
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2000 Daniel Hellerstein
-20. SAFEPACK
+21. SAFEPACK
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 D J Harvey Software
-21. Simple ZipShell, ZipShell
+22. Simple ZipShell, ZipShell
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993-1996 Martin Vieregg
     - – Letöltési hely: http://www.hypermake.com/english/zipshell.html (angol nyelvem)
-22. TarGZipPM
+23. TarGZipPM
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 Virtual Publication
-23. The UnZip Shell
+24. The UnZip Shell
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994-1996 John Wagner
-24. UNRAR
+25. UNRAR
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993-2017 Alexander Roshal
     - – Letöltési hely: https://www.rarlab.com/ (angol nyelvem)
-25. WarpExpander
+26. WarpExpander
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2003 Salvador Parra Camacho
-26. WarpIN
+27. WarpIN
     - – Licenc: LGPL 2.1
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2012 Netlabs
     - – Letöltési hely: http://warpin.netlabs.org/en/site/index.xml (angol nyelvem)
-27. WarpZip
+28. WarpZip
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-2000 PillarSoft
-28. Workplace Shell UnZip
+29. Workplace Shell UnZip
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994 Scott Maxwell
-29. WPIView
+30. WPIView
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2006-2010 Herwig Bauernfeind
-30. Zip Chunker Pro
+31. Zip Chunker Pro
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1991-1995 Scott Jibben
-31. Zip Viewer
+32. Zip Viewer
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993 Custom Design Software
-32. ZiPMe
+33. ZiPMe
     - – Licenc: Képeslap
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-1996 Peter Eggert
-33. Zippy
+34. Zippy
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2017 Dmitry A. Steklenev
     - – Letöltési hely: http://www.5nets.ru/ (angol nyelvem)
-34. ZipStream
+35. ZipStream
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994-1995 Carbon Based Software
-35. ZipZap
+36. ZipZap
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2012 Gary L. Robinson
-36. zlib
+37. zlib
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2017 Jean-loup Gailly és Mark Adler
     - – Letöltési hely: http://www.zlib.net/ (angol nyelvem)
