@@ -222,193 +222,190 @@
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1998-1999 Matthew D. Smith, 2000-2007 Rüdiger Kuhlmann
     - – Download Site : http://micq.org/ (Default language is Russian)
-72. MPING
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 1998 Maxim Annenkov
-73. MR/2 ICE
+72. MR/2 ICE
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996-2005 Knightware Software Company
-74. MUEd/PM
+73. MUEd/PM
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993-1995 Craig A. Morrison
-75. MYIP
+74. MYIP
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2006 Alexander Taylor, 2012-2019 Andreas Buchinger
-76. NCB
+75. NCB
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Pavel Shtemenko
-77. NcFTP
+76. NcFTP
     - – License : Clarified Artistic License
     - – Copyright Notice : Copyright (c) 1992-2016 Mike Gleason
     - – Download Site : https://www.ncftp.com/
-78. NDFSCONF
+77. NDFSCONF
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 Eirik Øverby
-79. NetChat
+78. NetChat
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 Gary L. Robinson
-80. Netextra, Netwatch, Web Willy Watch
+79. Netextra, Netwatch, Web Willy Watch
     - – License : Unsupported freeware
     - – Copyright Notice : Copyright (c) 1999 Momotek Computer Specialties
-81. NETIO
+80. NETIO
     - – License : Free
     - – Copyright Notice : Copyright (c) 1997-2012 Kai-Uwe Rommel
-82. Netscape
+81. Netscape
     - – License : MPL 2.0
     - – Copyright Notice : Copyright (c) 1997-2008 Contributors to the Mozilla codebase
     - – Download Site : https://sillydog.org/narchive/full123.php
-83. NetUse
+82. NetUse
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1999-2004 Thomas Bohn
-84. Network Configuration Manager
+83. Network Configuration Manager
     - – License : Free
     - – Copyright Notice : Copyright (c) 2000 John Blumel
-85. News Harvest
+84. News Harvest
     - – License : GPL 3.0
     - – Copyright Notice : Copyright (c) 1997-2011 Kingsley Turner, Steven H. Levine
-86. Newsbeat
+85. Newsbeat
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 Dave Minogue, Vipin Bhargava
-87. NFTP
+86. NFTP
     - – License : MIT License
     - – Copyright Notice : Copyright (c) 1994-2011 Sergey Ayukov
     - – Download Site : http://www.ayukov.com/nftp/index.html
-88. NIFMON
+87. NIFMON
     - – License : Free
     - – Copyright Notice : Copyright (c) 1996 John R Clark
-89. nslint
+88. nslint
     - – License : Free
     - – Copyright Notice : Copyright (c) 1992-2009 The Regents of the University of California
-90. OpenIRC/2
+89. OpenIRC/2
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1997 Max Mikhanosha
-91. OpenXP
+90. OpenXP
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1992-1999 Peter Mandrella
-92. Opera
+91. Opera
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994-2021 Opera Software ASA
     - – Download Site : https://www.opera.com/
-93. OS2_NTPD
+92. OS2_NTPD
     - – License : Free
     - – Copyright Notice : Copyright (c) 1998 Bruce M. Penrod
-94. Page
+93. Page
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 Derek Clarkson
-95. Picardy 3
+94. Picardy 3
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 David Devaney, Jr.
-96. Pigeon
+95. Pigeon
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 2001-2002 Christopher Angelico
-97. PM Downloader
+96. PM Downloader
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 2002-2006 Eugene Romanenko
-98. PM Weather
+97. PM Weather
     - – License : Free or Shareware
     - – Copyright Notice : Copyright (c) 1994 Mike Kopack, Ed Boykin, Stephen Loomis, David DuPré
-99. PMINews
+98. PMINews
     - – License : Commercial
     - – Copyright Notice : Copyright (c) 1998 SouthSoft Inc., Stardock Systems Inc.
-100. PMSPX
-     - – License : Free
-     - – Copyright Notice : Copyright (c) 1993 Cliff DeCarlo
-101. QadHTML
+99. PMSPX
+    - – License : Free
+    - – Copyright Notice : Copyright (c) 1993 Cliff DeCarlo
+100. QadHTML
      - – License : Shareware
      - – Copyright Notice : Copyright (c) 1995 QAD Software
-102. QBrows
+101. QBrows
      - – License : GPL 3.0
      - – Copyright Notice : Copyright (c) 2010 Denis Bespalov
-103. QtWeb
+102. QtWeb
      - – License : GPL 2.0
      - – Copyright Notice : Copyright (c) 2008-2013 QtWeb contributors
      - – Download Site : http://www.qtweb.net/
-104. RacerNet
+103. RacerNet
      - – License : Shareware
      - – Copyright Notice : Copyright (c) 1999 Frugal Software
-105. ripMIME
+104. ripMIME
      - – License : BSD 3-Clause
      - – Copyright Notice : Copyright (c) 2002-2011 Paul L. Daniels
      - – Download Site : https://pldaniels.com/ripmime/
-106. rxCalcNet
+105. rxCalcNet
      - – License : Free
      - – Copyright Notice : Copyright (c) 2010 VicTor Smirnoff
-107. RxFTP
+106. RxFTP
      - – License : IBM EWS
      - – Copyright Notice : Copyright (c) 1994 Patrick J. Mueller, Cliff Nadler
-108. Scythia
+107. Scythia
      - – License : GPL 3.0
      - – Copyright Notice : Copyright (c) 2007-2011 Frédéric Julian
-109. Sslurp!
+108. Sslurp!
      - – License : Free
      - – Copyright Notice : Copyright (c) 1997-2003 Michael Hohner
      - – Download Site : http://sslurp.mhohner.de/
-110. TafelEd/2
+109. TafelEd/2
      - – License : Free
      - – Copyright Notice : Copyright (c) 1996 Justin S. Cooksey
-111. Tag Thief, Cookie Thief
+110. Tag Thief, Cookie Thief
      - – License : Shareware
      - – Copyright Notice : Copyright (c) 1997 Iftach Silberman
-112. TCP/IP Profile Manager
+111. TCP/IP Profile Manager
      - – License : BSD 3-Clause
      - – Copyright Notice : Copyright (c) 2010 Alexander Taylor
      - – Download Site : http://www.altsan.org/programming/os2/index.html
-113. TESTLOCK
+112. TESTLOCK
      - – License : Shareware
      - – Copyright Notice : Copyright (c) 1993-1994 Burton Systems Software
-114. timEd
+113. timEd
      - – License : Shareware
      - – Copyright Notice : Copyright (c) 1994 Gerard van Essen
-115. TNEF
+114. TNEF
      - – License : GPL 2.0
      - – Copyright Notice : Copyright (c) 2000-2018 Mark Simpson
-116. Traffic Visor III
+115. Traffic Visor III
      - – License : Free
      - – Copyright Notice : Copyright (c) 2007 Andrey Vasilkin
-117. UNHTML
+116. UNHTML
      - – License : GPL 2.0
      - – Copyright Notice : Copyright (c) 1996-2004 Stephen Loomis
-118. URL Scanner
+117. URL Scanner
      - – License : Free
      - – Copyright Notice : Copyright (c) 1998 Jerry McBride
-119. URLCopy
+118. URLCopy
      - – License : Free
      - – Copyright Notice : Copyright (c) 2000-2002 Lothar Söns
-120. URLObjectTool
+119. URLObjectTool
      - – License : GPL 2.0
      - – Copyright Notice : Copyright (c) 1998-2000 Norbert Kohl
-121. VxFTP
+120. VxFTP
      - – License : Free
      - – Copyright Notice : Copyright (c) 1994 Howard Hyten
-122. VX-FSP
+121. VX-FSP
      - – License : Free
      - – Copyright Notice : Copyright (c) 1994 Semir Patel
-123. Web G.R.A.B., Web S.L.I.D.E.
+122. Web G.R.A.B., Web S.L.I.D.E.
      - – License : Free
      - – Copyright Notice : Copyright (c) 1996 Asbjørn Pettersen
-124. WebExplorer
+123. WebExplorer
      - – License : Free
      - – Copyright Notice : Copyright (c) 1995-1998 IBM
-125. WebWriter/2
+124. WebWriter/2
      - – License : Shareware
      - – Copyright Notice : Copyright (c) 1995-1996 John Blumel
-126. WFAX
+125. WFAX
      - – License : Free
      - – Copyright Notice : Copyright (c) 1997 Jürgen Dankoweit
-127. Wget
+126. Wget
      - – License : GPL 3.0
      - – Copyright Notice : Copyright (c) 1995-2021 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
      - – Download Site : http://www.gnu.org/software/wget/
-128. whois
+127. whois
      - – License : Free
      - – Copyright Notice : Copyright (c) 1998 Thomas Fotherby, 1995 Richard J. Sexton
-129. WSiever
+128. WSiever
      - – License : Free
      - – Copyright Notice : Copyright (c) 2003 A.Y. Dayo
-130. WWWGrab/2
+129. WWWGrab/2
      - – License : Shareware
      - – Copyright Notice : Copyright (c) 1998 Jiří Rubeš
-131. zeupd
+130. zeupd
      - – License : Free
      - – Copyright Notice : Copyright (c) 2004 Ken Laurie
 

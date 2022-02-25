@@ -222,193 +222,190 @@
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 1998-1999 Matthew D. Smith, 2000-2007 Rüdiger Kuhlmann
     - – Site de descarregamento: http://micq.org/ (o idioma por padrão é ruso)
-72. MPING
-    - – Licença: Grátis
-    - – Aviso de direitos autorais: Copyright (c) 1998 Maxim Annenkov
-73. MR/2 ICE
+72. MR/2 ICE
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1996-2005 Knightware Software Company
-74. MUEd/PM
+73. MUEd/PM
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1993-1995 Craig A. Morrison
-75. MYIP
+74. MYIP
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 2006 Alexander Taylor, 2012-2019 Andreas Buchinger
-76. NCB
+75. NCB
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2000 Pavel Shtemenko
-77. NcFTP
+76. NcFTP
     - – Licença: Clarified Artistic License
     - – Aviso de direitos autorais: Copyright (c) 1992-2016 Mike Gleason
     - – Site de descarregamento: https://www.ncftp.com/ (link em inglês)
-78. NDFSCONF
+77. NDFSCONF
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2000 Eirik Øverby
-79. NetChat
+78. NetChat
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1997 Gary L. Robinson
-80. Netextra, Netwatch, Web Willy Watch
+79. Netextra, Netwatch, Web Willy Watch
     - – Licença: Grátis, não suportado
     - – Aviso de direitos autorais: Copyright (c) 1999 Momotek Computer Specialties
-81. NETIO
+80. NETIO
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1997-2012 Kai-Uwe Rommel
-82. Netscape
+81. Netscape
     - – Licença: MPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 1997-2008 Contribuintes para a base de código seletiva Mozilla
     - – Site de descarregamento: https://sillydog.org/narchive/full123.php (link em inglês)
-83. NetUse
+82. NetUse
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 1999-2004 Thomas Bohn
-84. Network Configuration Manager
+83. Network Configuration Manager
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2000 John Blumel
-85. News Harvest
+84. News Harvest
     - – Licença: GPL 3.0
     - – Aviso de direitos autorais: Copyright (c) 1997-2011 Kingsley Turner, Steven H. Levine
-86. Newsbeat
+85. Newsbeat
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1996 Dave Minogue, Vipin Bhargava
-87. NFTP
+86. NFTP
     - – Licença: Licença MIT
     - – Aviso de direitos autorais: Copyright (c) 1994-2011 Sergey Ayukov
     - – Site de descarregamento: http://www.ayukov.com/nftp/index.html (link em inglês)
-88. NIFMON
+87. NIFMON
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1996 John R Clark
-89. nslint
+88. nslint
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1992-2009 Os Regentes da Universidade da Califórnia
-90. OpenIRC/2
+89. OpenIRC/2
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1997 Max Mikhanosha
-91. OpenXP
+90. OpenXP
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 1992-1999 Peter Mandrella
-92. Opera
+91. Opera
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1994-2021 Opera Software ASA
     - – Site de descarregamento: https://www.opera.com/
-93. OS2_NTPD
+92. OS2_NTPD
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 1998 Bruce M. Penrod
-94. Page
+93. Page
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1996 Derek Clarkson
-95. Picardy 3
+94. Picardy 3
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1996 David Devaney, Jr.
-96. Pigeon
+95. Pigeon
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 2001-2002 Christopher Angelico
-97. PM Downloader
+96. PM Downloader
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 2002-2006 Eugene Romanenko
-98. PM Weather
+97. PM Weather
     - – Licença: Grátis ou Shareware
     - – Aviso de direitos autorais: Copyright (c) 1994 Mike Kopack, Ed Boykin, Stephen Loomis, David DuPré
-99. PMINews
+98. PMINews
     - – Licença: Comercial
     - – Aviso de direitos autorais: Copyright (c) 1998 SouthSoft Inc., Stardock Systems Inc.
-100. PMSPX
-     - – Licença: Grátis
-     - – Aviso de direitos autorais: Copyright (c) 1993 Cliff DeCarlo
-101. QadHTML
+99. PMSPX
+    - – Licença: Grátis
+    - – Aviso de direitos autorais: Copyright (c) 1993 Cliff DeCarlo
+100. QadHTML
      - – Licença: Shareware
      - – Aviso de direitos autorais: Copyright (c) 1995 QAD Software
-102. QBrows
+101. QBrows
      - – Licença: GPL 3.0
      - – Aviso de direitos autorais: Copyright (c) 2010 Denis Bespalov
-103. QtWeb
+102. QtWeb
      - – Licença: GPL 2.0
      - – Aviso de direitos autorais: Copyright (c) 2008-2013 Contribuintes QtWeb
      - – Site de descarregamento: http://www.qtweb.net/ (link em inglês)
-104. RacerNet
+103. RacerNet
      - – Licença: Shareware
      - – Aviso de direitos autorais: Copyright (c) 1999 Frugal Software
-105. ripMIME
+104. ripMIME
      - – Licença: BSD de 3 cláusulas
      - – Aviso de direitos autorais: Copyright (c) 2002-2011 Paul L. Daniels
      - – Site de descarregamento: https://pldaniels.com/ripmime/ (link em inglês)
-106. rxCalcNet
+105. rxCalcNet
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 2010 VicTor Smirnoff
-107. RxFTP
+106. RxFTP
      - – Licença: IBM EWS
      - – Aviso de direitos autorais: Copyright (c) 1994 Patrick J. Mueller, Cliff Nadler
-108. Scythia
+107. Scythia
      - – Licença: GPL 3.0
      - – Aviso de direitos autorais: Copyright (c) 2007-2011 Frédéric Julian
-109. Sslurp!
+108. Sslurp!
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 1997-2003 Michael Hohner
      - – Site de descarregamento: http://sslurp.mhohner.de/ (link em inglês)
-110. TafelEd/2
+109. TafelEd/2
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 1996 Justin S. Cooksey
-111. Tag Thief, Cookie Thief
+110. Tag Thief, Cookie Thief
      - – Licença: Shareware
      - – Aviso de direitos autorais: Copyright (c) 1997 Iftach Silberman
-112. TCP/IP Profile Manager
+111. TCP/IP Profile Manager
      - – Licença: BSD do 3 cláusulas
      - – Aviso de direitos autorais: Copyright (c) 2010 Alexander Taylor
      - – Site de descarregamento: http://www.altsan.org/programming/os2/index.html (link em inglês)
-113. TESTLOCK
+112. TESTLOCK
      - – Licença: Shareware
      - – Aviso de direitos autorais: Copyright (c) 1993-1994 Burton Systems Software
-114. timEd
+113. timEd
      - – Licença: Shareware
      - – Aviso de direitos autorais: Copyright (c) 1994 Gerard van Essen
-115. TNEF
+114. TNEF
      - – Licença: GPL 2.0
      - – Aviso de direitos autorais: Copyright (c) 2000-2018 Mark Simpson
-116. Traffic Visor III
+115. Traffic Visor III
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 2007 Andrey Vasilkin
-117. UNHTML
+116. UNHTML
      - – Licença: GPL 2.0
      - – Aviso de direitos autorais: Copyright (c) 1996-2004 Stephen Loomis
-118. URL Scanner
+117. URL Scanner
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 1998 Jerry McBride
-119. URLCopy
+118. URLCopy
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 2000-2002 Lothar Söns
-120. URLObjectTool
+119. URLObjectTool
      - – Licença: GPL 2.0
      - – Aviso de direitos autorais: Copyright (c) 1998-2000 Norbert Kohl
-121. VxFTP
+120. VxFTP
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 1994 Howard Hyten
-122. VX-FSP
+121. VX-FSP
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 1994 Semir Patel
-123. Web G.R.A.B., Web S.L.I.D.E.
+122. Web G.R.A.B., Web S.L.I.D.E.
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 1996 Asbjørn Pettersen
-124. WebExplorer
+123. WebExplorer
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 1995-1998 IBM
-125. WebWriter/2
+124. WebWriter/2
      - – Licença: Shareware
      - – Aviso de direitos autorais: Copyright (c) 1995-1996 John Blumel
-126. WFAX
+125. WFAX
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 1997 Jürgen Dankoweit
-127. Wget
+126. Wget
      - – Licença: GPL 3.0
      - – Aviso de direitos autorais: Copyright (c) 1995-2021 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
      - – Site de descarregamento: http://www.gnu.org/software/wget/ (link em inglês)
-128. whois
+127. whois
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 1998 Thomas Fotherby, 1995 Richard J. Sexton
-129. WSiever
+128. WSiever
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 2003 A.Y. Dayo
-130. WWWGrab/2
+129. WWWGrab/2
      - – Licença: Shareware
      - – Aviso de direitos autorais: Copyright (c) 1998 Jiří Rubeš
-131. zeupd
+130. zeupd
      - – Licença: Grátis
      - – Aviso de direitos autorais: Copyright (c) 2004 Ken Laurie
 
