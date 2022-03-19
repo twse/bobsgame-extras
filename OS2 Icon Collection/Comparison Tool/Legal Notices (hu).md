@@ -27,7 +27,7 @@
 9. dwdiff
    - – Licenc: GPL 3.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2007-2020 Gertjan Halkes
-   - – Download Site : https://os.ghalkes.nl/dwdiff.html (angol nyelvem)
+   - – Letöltési hely: https://os.ghalkes.nl/dwdiff.html (angol nyelvem)
 10. File Base Differencer
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Coridon Henshaw
@@ -37,7 +37,7 @@
 12. gifsicle
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2018 Eddie Kohler
-    - – Download Site : http://www.lcdf.org/gifsicle/ (angol nyelvem)
+    - – Letöltési hely: http://www.lcdf.org/gifsicle/ (angol nyelvem)
 13. Graphical File Comparison
     - – Licenc: IBM EWS
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994 Barney Scott
