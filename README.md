@@ -63,11 +63,11 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 | Instant Message Notification  | None                      | BG Notify.wav               |
 | Low Battery Alarm             | None                      | BG Battery Low.wav          |
 | Maximize                      | None                      | BG Maximize.wav             |
-| Menu Command                  | None                      | TBD                         |
-| Menu Pop-up                   | None                      | TBD                         |
+| Menu Command                  | None                      | BG Select.wav               |
+| Menu Pop-up                   | None                      | BG Select.wav               |
 | Message Badge                 | None                      | BG Notify.wav               |
 | Minimize                      | None                      | BG Minimize.wav             |
-| Move Menu Item                | None                      | TBD                         |
+| Move Menu Item                | None                      | BG Select.wav               |
 | New Fax Notification          | None                      | BG Notify.wav               |
 | New Mail Notification         | None                      | BG Notify.wav               |
 | New Text Message Notification | None                      | BG Notify.wav               |
@@ -85,7 +85,7 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 | Search Provider Discovered    | None                      | BG Notify.wav               |
 | Select                        | None                      | BG Select.wav               |
 | Show Toolbar Band             | None                      | TBD                         |
-| Start Navigation              | None                      | TBD                         |
+| Start Navigation              | None                      | BG Select.wav               |
 | Start Windows                 | System startup            | BG Startup.wav              |
 | System Notification           | Information               | BG Information.wav          |
 | Windows Logoff                | System shutdown           | BG Shutdown.wav             |
