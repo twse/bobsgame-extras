@@ -34,26 +34,22 @@
 11. GDIFF
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1999 Daniel Hellerstein
-12. gifsicle
-    - – Licence: GPL 2.0
-    - – Upozornění na autorská práva: Copyright (c) 1997-2018 Eddie Kohler
-    - – Server pro stahování: http://www.lcdf.org/gifsicle/ (odkaz v angličtina)
-13. Graphical File Comparison
+12. Graphical File Comparison
     - – Licence: IBM EWS
     - – Upozornění na autorská práva: Copyright (c) 1994 Barney Scott
-14. IsoComp/2, XComp/2
+13. IsoComp/2, XComp/2
     - – Licence: Svobodné bez podporovat
     - – Upozornění na autorská práva: Copyright (c) 1998 Roman Stangl
-15. Linedif
+14. Linedif
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 2005-2006 Fritz Schori
-16. PM Directory Enforcer
+15. PM Directory Enforcer
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1996 Coolware
-17. PM File Compare
+16. PM File Compare
     - – Licence: Svobodné bez podporovat
     - – Upozornění na autorská práva: Copyright (c) 1994 American Coders Ltd.
-18. Visual File Compare
+17. Visual File Compare
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 2000 HPC Ltd.
 

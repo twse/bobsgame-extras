@@ -34,26 +34,22 @@
 11. GDIFF
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1999 Daniel Hellerstein
-12. gifsicle
-    - – Licence : GPL 2.0
-    - – Avis de copyright : Copyright (c) 1997-2018 Eddie Kohler
-    - – Site de téléchargement : http://www.lcdf.org/gifsicle/ (lien en anglais)
-13. Graphical File Comparison
+12. Graphical File Comparison
     - – Licence : IBM EWS
     - – Avis de copyright : Copyright (c) 1994 Barney Scott
-14. IsoComp/2, XComp/2
+13. IsoComp/2, XComp/2
     - – Licence : Libre sans support
     - – Avis de copyright : Copyright (c) 1998 Roman Stangl
-15. Linedif
+14. Linedif
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 2005-2006 Fritz Schori
-16. PM Directory Enforcer
+15. PM Directory Enforcer
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1996 Coolware
-17. PM File Compare
+16. PM File Compare
     - – Licence : Libre sans support
     - – Avis de copyright : Copyright (c) 1994 American Coders Ltd.
-18. Visual File Compare
+17. Visual File Compare
     - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 2000 HPC Ltd.
 

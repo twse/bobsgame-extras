@@ -34,26 +34,22 @@ Acest folder poate conține următorul software:
 11. GDIFF
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1999 Daniel Hellerstein
-12. gifsicle
-    - – Licență: GPL 2.0
-    - – Aviz de copyright: Copyright (c) 1997-2018 Eddie Kohler
-    - – Site-ul de download: http://www.lcdf.org/gifsicle/ (legătură în limba engleza)
-13. Graphical File Comparison
+12. Graphical File Comparison
     - – Licență: IBM EWS
     - – Aviz de copyright: Copyright (c) 1994 Barney Scott
-14. IsoComp/2, XComp/2
+13. IsoComp/2, XComp/2
     - – Licență: Gratis fără suportate
     - – Aviz de copyright: Copyright (c) 1998 Roman Stangl
-15. Linedif
+14. Linedif
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 2005-2006 Fritz Schori
-16. PM Directory Enforcer
+15. PM Directory Enforcer
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1996 Coolware
-17. PM File Compare
+16. PM File Compare
     - – Licență: Gratis fără suportate
     - – Aviz de copyright: Copyright (c) 1994 American Coders Ltd.
-18. Visual File Compare
+17. Visual File Compare
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 2000 HPC Ltd.
 

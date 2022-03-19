@@ -104,219 +104,223 @@
     - – Licenze: Licenze MIT
     - – Avviso di copyright: Copyright (c) 1997 Eric S. Raymond
     - – Sito di download: http://giflib.sourceforge.net/ (link in inglese)
-33. GIFtrans
+33. gifsicle
+    - – Licenze: GPL 2.0
+    - – Avviso di copyright: Copyright (c) 1997-2018 Eddie Kohler
+    - – Sito di download: http://www.lcdf.org/gifsicle/ (link in inglese)
+34. GIFtrans
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1994 Andreas Ley
-34. GIMP
+35. GIMP
     - – Licenze: GPL 3.0 (programmi), LGPL 3.0 (biblioteca), CC-SA 4.0 (sito Web)
     - – Avviso di copyright: Copyright (c) 1995-2021 Spencer Kimball, Peter Mattis e il team di sviluppo GIMP
     - – Sito di download: https://www.gimp.org/ (link in inglese)
-35. Graphics Mode Printing for REXX
+36. Graphics Mode Printing for REXX
     - – Licenze: Dominio pubblico
     - – Avviso di copyright: Copyright (c) 1994-2002 ADD Consulting
-36. GRFXREXX
+37. GRFXREXX
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1995 Raphaël Vanney
-37. HPGS
+38. HPGS
     - – Licenze: LGPL 2.1
     - – Avviso di copyright: Copyright (c) 2004-2009 Wolfgang Glas
-38. IconEase
+39. IconEase
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1995 New Freedom Data Center
-39. Image Alchemy
+40. Image Alchemy
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1993 CHAOS Software
-40. Image Archiver, Image Notebook
+41. Image Archiver, Image Notebook
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1994 Lou Miranda
-41. ImgMeta, PMExif
+42. ImgMeta, PMExif
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2002-2013 Lutz Wagner
-42. imShow
+43. imShow
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1989-1993 Martin Erzberger
-43. INFO2BMP
+44. INFO2BMP
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1994 Duncan Wilcox
-44. IPAD
+45. IPAD
     - – Licenze: Beta
     - – Avviso di copyright: Copyright (c) 1997 Sergio Masci
-45. JasPer
+46. JasPer
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2001-2021 Michael David Adams
     - – Sito di download: https://www.ece.uvic.ca/~frodo/jasper/ (link in inglese)
-46. Jhead
+47. Jhead
     - – Licenze: Dominio pubblico
     - – Avviso di copyright: Copyright (c) 2001-2018 Matthias Wandel
     - – Sito di download: https://www.sentex.ca/~mwandel/jhead/ (link in inglese)
-47. jp2a
+48. jp2a
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2006-2016 Christian Stigen Larsen, 2020 Christoph Raitzig
     - – Sito di download: https://csl.name/jp2a/ (link in inglese)
-48. jpeg2ps
+49. jpeg2ps
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1994-2002 Thomas Merz
-49. KDC_DC2, OutJPEG
+50. KDC_DC2, OutJPEG
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1999-2001 Stéphane Charette
     - – Sito di download: http://charette.no-ip.com:81/main_apps.html (link in inglese)
-50. LibGD
+51. LibGD
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1994-2004 Thomas Boutell, 2000-2016 Pierre-Alain Joye
     - – Sito di download: https://libgd.github.io/ (link in inglese)
-51. libjpeg
+52. libjpeg
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1991-2020 Thomas G. Lane, Guido Vollbeding
     - – Sito di download: http://www.ijg.org/ (link in inglese)
-52. libpng
+53. libpng
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2021 Cosmin Truța
     - – Sito di download: http://www.libpng.org/pub/png/libpng.html (rilascio stabile, link in inglese) o https://libpng.sourceforge.io/ (rilascio sviluppo, link in inglese)
-53. LogoArt
+54. LogoArt
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1996-1997 WORKLab System Solutions GmbH
-54. NHView
+55. NHView
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1995 Jonny Rein Eriksen
-55. Nicki's USBCamera-To-HardDrive-Thingy
+56. Nicki's USBCamera-To-HardDrive-Thingy
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2003 Peter Brown
-56. nJPGd
+57. nJPGd
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2000 Marko Zarkovic
-57. Optimize OCR
+58. Optimize OCR
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1998 Carsten Müller
-58. OptiPNG
+59. OptiPNG
     - – Licenze: zlib
     - – Avviso di copyright: Copyright (c) 2001-2017 Cosmin Truța e l'autori collaboratori
     - – Sito di download: http://optipng.sourceforge.net/ (link in inglese)
-59. Painter, TPaint
+60. Painter, TPaint
     - – Licenze: GPL 2.0
-60. Panorama Tools
+61. Panorama Tools
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1998-2006 Helmut Dersch
     - – Sito di download: http://panotools.sourceforge.net/ (link in inglese)
-61. PhotoQt
+62. PhotoQt
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2011-2018 Lukas Spies
     - – Sito di download: https://photoqt.org/ (link in inglese)
-62. PhotoTiger
+63. PhotoTiger
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1996-2001 Michael Mögn
-63. PM I-Cat
+64. PM I-Cat
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1995 Barry R. Diller
-64. PM/GIF
+65. PM/GIF
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1989 Andy Levine
-65. PMDIB
+66. PMDIB
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1991 Midori S.A.
-66. PMDRAW
+67. PMDRAW
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1989-1990 Mark I. Walsh
-67. PMJPEG
+68. PMJPEG
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 2008 PixVision Software
     - – Sito di download: https://www.pixvision.com/ (link in inglese)
-68. PmPaint
+69. PmPaint
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1991 Mitchell Fisher
-69. PMSheet
+70. PMSheet
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2002-2010 Jasper de Keijzer
-70. PMView
+71. PMView
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1992-2017 Nielsen Software Enterprises
     - – Sito di download: https://www.pmview.com/ (link in inglese)
-71. pngcheck
+72. pngcheck
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1995-2007 Greg Roelofs
-72. pngmeta
+73. pngmeta
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1998-2001 David Beckett
     - – Sito di download: https://pmt.sourceforge.io/pngmeta/ (link in inglese)
-73. Potrace
+74. Potrace
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2001-2019 Peter Selinger
     - – Sito di download: http://potrace.sourceforge.net/ (link in inglese)
-74. PPM2FLI
+75. PPM2FLI
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1993-1999 Klaus Ehrenfried
-75. PTPro
+76. PTPro
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2006-2015 Richard L. Walsh
-76. QIViewer
+77. QIViewer
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2010 Dario Ignacio Aguilera
-77. Qtnp
+78. Qtnp
     - – Licenze: GPL 3.0
     - – Avviso di copyright: Copyright (c) 2007-2012 Victor Hackeridze
-78. QVV
+79. QVV
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1999-2021 Vladi Belperchinov-Shabanski
     - – Sito di download: http://cade.noxrun.com/projects/qvv/ (link in inglese)
-79. RTMMM
+80. RTMMM
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1996 Filippo Sartori
-80. RXEXIF
+81. RXEXIF
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2003-2005 Lone Peak Automation, LLC
-81. RXGDUTIL
+82. RXGDUTIL
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1995 Andrew J. Wysocki
-82. RxTTF
+83. RxTTF
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1999 Michal Nečásek, Daniel Hellerstein
-83. SANE
+84. SANE
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1998-2021 David Mosberger-Tang e il sviluppattori SANE
     - – Sito di download: http://www.sane-project.org/ (link in inglese)
-84. ShowBMP
+85. ShowBMP
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1992 Bill Leonard
-85. ShowFont
+86. ShowFont
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1996 Norbert Heller
-86. SPFig
+87. SPFig
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1999 Pierre Santoni
-87. Squash
+88. Squash
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2007 Seb Ruiz
-88. STLView
+89. STLView
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1999 Andrea Venturoli
-89. Tame/2
+90. Tame/2
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1997-2004 Goran Ivanković, Klaus Städtler
-90. Tesseract
+91. Tesseract
     - – Licenze: Apache 2.0
     - – Avviso di copyright: Copyright (c) 1985-1998 Hewlett-Packard Company, 2006-2018 Google LLC
-91. The Wall
+92. The Wall
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1995-2011 Ken Kinoshita
-92. ThirdEye
+93. ThirdEye
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 2001-2002 Igor Vanin, Andrei A. Porodko, Eugene Gorbunoff
-93. unpaper
+94. unpaper
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2005-2009 Jens Gulden, 2011-2014 Diego Elio Pettenò
     - – Sito di download: https://www.flameeyes.com/projects/unpaper (link in inglese)
-94. VGASYNC
+95. VGASYNC
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1991 John B. Thiel
-95. VIEWGIF
+96. VIEWGIF
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1990 DATAD Telecom Products
-96. VImage Toolkit
+97. VImage Toolkit
     - – Licenze: IBM EWS
     - – Avviso di copyright: Copyright (c) 1991 Larry Salomon Jr.
-97. Wallpaper Finer
+98. Wallpaper Finer
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2012 Péter Deák
-98. XIcon
+99. XIcon
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1993 Norman Walsh
 

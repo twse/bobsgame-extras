@@ -104,219 +104,223 @@
     - – Licenc: MIT License
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Eric S. Raymond
     - – Letöltési hely: http://giflib.sourceforge.net/ (angol nyelvem)
-33. GIFtrans
+33. gifsicle
+    - – Licenc: GPL 2.0
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2018 Eddie Kohler
+    - – Letöltési hely: http://www.lcdf.org/gifsicle/ (angol nyelvem)
+34. GIFtrans
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994 Andreas Ley
-34. GIMP
+35. GIMP
     - – Licenc: GPL 3.0 (programok), LGPL 3.0 (könyvtár), CC-SA 4.0 (honlap)
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2021 Spencer Kimball, Peter Mattis és GIMP fejlemény csapat
     - – Letöltési hely: https://www.gimp.org/ (angol nyelvem)
-35. Graphics Mode Printing for REXX
+36. Graphics Mode Printing for REXX
     - – Licenc: Szabad felhasználás
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994-2002 ADD Consulting
-36. GRFXREXX
+37. GRFXREXX
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Raphaël Vanney
-37. HPGS
+38. HPGS
     - – Licenc: LGPL 2.1
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2004-2009 Wolfgang Glas
-38. IconEase
+39. IconEase
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 New Freedom Data Center
-39. Image Alchemy
+40. Image Alchemy
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993 CHAOS Software
-40. Image Archiver, Image Notebook
+41. Image Archiver, Image Notebook
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994 Lou Miranda
-41. ImgMeta, PMExif
+42. ImgMeta, PMExif
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2002-2013 Lutz Wagner
-42. imShow
+43. imShow
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1989-1993 Martin Erzberger
-43. INFO2BMP
+44. INFO2BMP
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994 Duncan Wilcox
-44. IPAD
+45. IPAD
     - – Licenc: Beta
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Sergio Masci
-45. JasPer
+46. JasPer
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2021 Michael David Adams
     - – Letöltési hely: https://www.ece.uvic.ca/~frodo/jasper/ (angol nyelvem)
-46. Jhead
+47. Jhead
     - – Licenc: Szabad felhasználás
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2018 Matthias Wandel
     - – Letöltési hely: https://www.sentex.ca/~mwandel/jhead/ (angol nyelvem)
-47. jp2a
+48. jp2a
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2006-2016 Christian Stigen Larsen, 2020 Christoph Raitzig
     - – Letöltési hely: https://csl.name/jp2a/ (angol nyelvem)
-48. jpeg2ps
+49. jpeg2ps
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994-2002 Thomas Merz
-49. KDC_DC2, OutJPEG
+50. KDC_DC2, OutJPEG
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1999-2001 Stéphane Charette
     - – Letöltési hely: http://charette.no-ip.com:81/main_apps.html (angol nyelvem)
-50. LibGD
+51. LibGD
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994-2004 Thomas Boutell, 2000-2016 Pierre-Alain Joye
     - – Letöltési hely: https://libgd.github.io/ (angol nyelvem)
-51. libjpeg
+52. libjpeg
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1991-2020 Thomas G. Lane, Guido Vollbeding
     - – Letöltési hely: http://www.ijg.org/ (angol nyelvem)
-52. libpng
+53. libpng
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2000, 2002, 2004, 2006-2018 Glenn Randers-Pehrson, 2018-2021 Cosmin Truța
     - – Letöltési hely: http://www.libpng.org/pub/png/libpng.html (stabil megjelenés) vagy https://libpng.sourceforge.io/ (fejlemény megjelenés)
-53. LogoArt
+54. LogoArt
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-1997 WORKLab System Solutions GmbH
-54. NHView
+55. NHView
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Jonny Rein Eriksen
-55. Nicki's USBCamera-To-HardDrive-Thingy
+56. Nicki's USBCamera-To-HardDrive-Thingy
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2003 Peter Brown
-56. nJPGd
+57. nJPGd
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2000 Marko Zarkovic
-57. Optimize OCR
+58. Optimize OCR
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 Carsten Müller
-58. OptiPNG
+59. OptiPNG
     - – Licenc: zlib
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2017 Cosmin Truța és közreműködéseket szerző
     - – Letöltési hely: http://optipng.sourceforge.net/ (angol nyelvem)
-59. Painter, TPaint
+60. Painter, TPaint
     - – Licenc: GPL 2.0
-60. Panorama Tools
+61. Panorama Tools
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2006 Helmut Dersch
     - – Letöltési hely: http://panotools.sourceforge.net/ (angol nyelvem)
-61. PhotoQt
+62. PhotoQt
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2011-2018 Lukas Spies
     - – Letöltési hely: https://photoqt.org/ (angol nyelvem)
-62. PhotoTiger
+63. PhotoTiger
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-2001 Michael Mögn
-63. PM I-Cat
+64. PM I-Cat
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Barry R. Diller
-64. PM/GIF
+65. PM/GIF
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1989 Andy Levine
-65. PMDIB
+66. PMDIB
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1991 Midori S.A.
-66. PMDRAW
+67. PMDRAW
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1989-1990 Mark I. Walsh
-67. PMJPEG
+68. PMJPEG
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2008 PixVision Software
     - – Letöltési hely: https://www.pixvision.com/ (angol nyelvem)
-68. PmPaint
+69. PmPaint
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1991 Mitchell Fisher
-69. PMSheet
+70. PMSheet
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2002-2010 Jasper de Keijzer
-70. PMView
+71. PMView
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1992-2017 Nielsen Software Enterprises
     - – Letöltési hely: https://www.pmview.com/ (angol nyelvem)
-71. pngcheck
+72. pngcheck
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2007 Greg Roelofs
-72. pngmeta
+73. pngmeta
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2001 David Beckett
     - – Letöltési hely: https://pmt.sourceforge.io/pngmeta/ (angol nyelvem)
-73. Potrace
+74. Potrace
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2019 Peter Selinger
     - – Letöltési hely: http://potrace.sourceforge.net/ (angol nyelvem)
-74. PPM2FLI
+75. PPM2FLI
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993-1999 Klaus Ehrenfried
-75. PTPro
+76. PTPro
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2006-2015 Richard L. Walsh
-76. QIViewer
+77. QIViewer
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2010 Dario Ignacio Aguilera
-77. Qtnp
+78. Qtnp
     - – Licenc: GPL 3.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2007-2012 Victor Hackeridze
-78. QVV
+79. QVV
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1999-2021 Vladi Belperchinov-Shabanski
     - – Letöltési hely: http://cade.noxrun.com/projects/qvv/ (angol nyelvem)
-79. RTMMM
+80. RTMMM
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996 Filippo Sartori
-80. RXEXIF
+81. RXEXIF
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2003-2005 Lone Peak Automation, LLC
-81. RXGDUTIL
+82. RXGDUTIL
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Andrew J. Wysocki
-82. RxTTF
+83. RxTTF
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1999 Michal Nečásek, Daniel Hellerstein
-83. SANE
+84. SANE
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2021 David Mosberger-Tang és SANE fejlesztők
     - – Letöltési hely: http://www.sane-project.org/ (angol nyelvem)
-84. ShowBMP
+85. ShowBMP
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1992 Bill Leonard
-85. ShowFont
+86. ShowFont
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996 Norbert Heller
-86. SPFig
+87. SPFig
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1999 Pierre Santoni
-87. Squash
+88. Squash
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2007 Seb Ruiz
-88. STLView
+89. STLView
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1999 Andrea Venturoli
-89. Tame/2
+90. Tame/2
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2004 Goran Ivanković, Klaus Städtler
-90. Tesseract
+91. Tesseract
     - – Licenc: Apache 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1985-1998 Hewlett-Packard Company, 2006-2018 Google LLC
-91. The Wall
+92. The Wall
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2011 Ken Kinoshita
-92. ThirdEye
+93. ThirdEye
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2002 Igor Vanin, Andrei A. Porodko, Eugene Gorbunoff
-93. unpaper
+94. unpaper
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2005-2009 Jens Gulden, 2011-2014 Diego Elio Pettenò
     - – Letöltési hely: https://www.flameeyes.com/projects/unpaper (angol nyelvem)
-94. VGASYNC
+95. VGASYNC
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1991 John B. Thiel
-95. VIEWGIF
+96. VIEWGIF
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1990 DATAD Telecom Products
-96. VImage Toolkit
+97. VImage Toolkit
     - – Licenc: IBM EWS
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1991 Larry Salomon Jr.
-97. Wallpaper Finer
+98. Wallpaper Finer
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2012 Deák Péter
-98. XIcon
+99. XIcon
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993 Norman Walsh
 
