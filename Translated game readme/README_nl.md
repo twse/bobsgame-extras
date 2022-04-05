@@ -1,4 +1,6 @@
-# *bob's game* is:
+**ok** is open source
+
+# *ok* is:
  
 ## *DE BESTE PUZZELSPEL OOIT GEMAAKT*
 
@@ -12,21 +14,37 @@
 
 ## MIXED-MODUS ONLINE/LOKALE MULTIPLAYER
 
-[Wikipedia-artikel in afwachting (koppeling en Engels)](https://en.wikipedia.org/w/index.php?title=Bob%27s_Game&oldid=713042467), help de huidige invoer te herzien zoals ik dat niet mag.
+## HELEMAAL GRATIS
 
-**bob's game** (van de beruchte aankomende RPG *"bob's game"*) is een multiplayer-puzzelspel - maar niet zomaar een puzzelspel, **ELK puzzelspel!** Het is een bouw je eigen puzzelspel met een maker van een puzzelspel waarin JE alle regels definieert voor je eigen aangepaste spel!
+## HELEMAAL OPNIEUW GESCHREVEN IN C++
 
-Meer dan dat, er is veel zorg besteed om ervoor te zorgen dat **bob's game** de *beste* versie van elk puzzelspel is. Ik heb alle puzzelspelforums en wiki's doorgenomen die ik kon vinden en zorgde ervoor dat ik elk detail en elke functie implementeerde die hardcore spelers op toernooinachtig niveau nodig hebben. Het heeft wall-kicks, floor-kicks, spin-kicks, T-spins, aanpasbare timing, power-ups, noem maar op. Al deze functies zijn van toepassing op alle games, hoe je maar wilt, waardoor het de beste versie van elk spel is!
+## OPEN SOURCE
 
-**bob's game** verandert in realtime terwijl je speelt, verandert van spel naar spel en maakt elke ronde compleet uniek. Of je kunt ervoor kiezen om gewoon je favoriete speltype tegen je vrienden te spelen met fantastische bedieningselementen, super strakke timing en functies en power-ups van andere spellen.
+**ok** is een multiplayer-puzzelspel - maar niet zomaar een puzzelspel, **ELK puzzelspel!** Het is een bouw je eigen puzzelspel met een maker van een puzzelspel waarin JE alle regels definieert voor je eigen aangepaste spel!
 
-**bob's game** is volledig aanpasbaar, waardoor de speler diepgaande regelsets kan maken om bestaande puzzelgames na te bootsen of volledig nieuwe te maken om aan de online bibliotheek toe te voegen.
+Meer dan dat, er is veel zorg besteed om ervoor te zorgen dat **ok** de *beste* versie van elk puzzelspel is. Ik heb alle puzzelspelforums en wiki's doorgenomen die ik kon vinden en zorgde ervoor dat ik elk detail en elke functie implementeerde die hardcore spelers op toernooinachtig niveau nodig hebben. Het heeft wall-kicks, floor-kicks, spin-kicks, T-spins, aanpasbare timing, power-ups, noem maar op. Al deze functies zijn van toepassing op alle games, hoe je maar wilt, waardoor het de beste versie van elk spel is!
+
+**ok** verandert in realtime terwijl je speelt, verandert van spel naar spel en maakt elke ronde compleet uniek. Of je kunt ervoor kiezen om gewoon je favoriete speltype tegen je vrienden te spelen met fantastische bedieningselementen, super strakke timing en functies en power-ups van andere spellen.
+
+**ok** is volledig aanpasbaar, waardoor de speler diepgaande regelsets kan maken om bestaande puzzelgames na te bootsen of volledig nieuwe te maken om aan de online bibliotheek toe te voegen.
 
 Maak je eigen puzzelmodi! Bedenk aangepaste regels of daag je vrienden uit voor een reeks van al je favoriete spellen. Neem deel aan een online wereldkampioenschap en verbeter je vaardigheden om de top van het openbare scorebord te bereiken.
 
-**bob's game** evolueert voortdurend met nieuwe themapakketten, nieuwe regels en door de gebruiker ontworpen puzzelpakketten.
+**ok** evolueert voortdurend met nieuwe themapakketten, nieuwe regels en door de gebruiker ontworpen puzzelpakketten.
 
-**bob's game** ondersteunt momenteel zoveel lokale of netwerkspelers als u wilt, gemengde multiplayer voor lokale/netwerken, Facebook-integratie, ondersteuning voor gamecontrollers en meer.
+**ok** ondersteunt momenteel zoveel lokale of netwerkspelers als u wilt, gemengde multiplayer voor lokale/netwerken, Facebook-integratie, ondersteuning voor gamecontrollers en meer.
+
+De broncode is beschikbaar op GitHub zodat het kan uitgroeien tot een standaard toernooi platform voor alle puzzelspellen!
+
+**ok is nog niet klaar - het is behoorlijk speelbaar, maar ik voeg actief nog veel meer functies toe.**
+
+## Aankomende lijst met functies:
+* Veel meer functies, modi en doelen van de gamemodus
+* Betere multiplayer-lobby met chat
+* Toernooifuncties en ladders, regionaal en wereldwijd
+* Matchmaking per regio of rang
+* Server verificatie
+* Toeschouwersmodus, herhalingen, uitdagingherhaling
 
 # License
 Robert Matthew Pelloni is de auteur van deze software met betrekking tot het recht van de auteur. Alle rechten voorbehouden.<br />
