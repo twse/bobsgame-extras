@@ -52,7 +52,7 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 | Device Disconnect             | None                      | BG Hardware Remove.wav      |
 | Device Failed to Connect      | None                      | BG Hardware Fail.wav        |
 | Empty Recycle Bin             | Recycle                   | BG Recycle.wav              |
-| None                          | End drag                  | TBD                         |
+| None                          | End drag                  | BG Select.wav               |
 | Exclamation                   | Warning                   | BG Exclamation.wav          |
 | Exit Windows                  | System shutdown           | BG Shutdown.wav             |
 | Fax error                     | None                      | BG Error.wav                |
@@ -84,7 +84,7 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 | Restore Up                    | None                      | BG Maximize.wav             |
 | Search Provider Discovered    | None                      | BG Notify.wav               |
 | Select                        | None                      | BG Select.wav               |
-| Show Toolbar Band             | None                      | TBD                         |
+| Show Toolbar Band             | None                      | BG Select.wav               |
 | Start Navigation              | None                      | BG Select.wav               |
 | Start Windows                 | System startup            | BG Startup.wav              |
 | System Notification           | Information               | BG Information.wav          |
