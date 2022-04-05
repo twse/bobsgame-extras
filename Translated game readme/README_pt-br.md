@@ -48,5 +48,5 @@ O código-fonte é disponível no GitHub para que ele possa se transformar em um
 * Temas, sons e músicas personalizadas
 
 # Licença
-Robert Matthew Pelloni é o autor deste programa para fins de direitos autorais. Todos os direitos reservados.<br />
-Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® é uma marca registrada do Robert Pelloni.
+1. Faça o que quer
+2. 1 + 1 = 3

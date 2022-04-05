@@ -45,6 +45,7 @@ Actualmente, **ok** admite tantos jugadores locales o de red como quieras, multi
 * Matchmaking por región o rango
 * Verificación del servidor
 * Modo espectador, repeticiones, repetición de desafío
+* Temas personalizados, sonidos y música
 
 # Licencia
 1. Hace lo que quieras
