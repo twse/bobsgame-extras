@@ -14,9 +14,9 @@
 
 ## MOD MIXT ONLINE/LOCAL MULTIPLAYER
 
-## COMPLET GRATUIT
+## SCRIS DE LA ZERO ÎN C++, TRADUS DIN JAVA, PORTAT DIN C, PORTAT DIN TIPARE, PROCESAT DE CREIERUL MEU, PORTAT DINTR-UN SEMNAL RADIO TELEPATIC PRIMIT DE LA DUMNEZEU
 
-## SCRIS DE LA ZERO DE C++
+## COMPLET GRATUIT
 
 ## OPEN SOURCE
 
@@ -48,5 +48,7 @@ Codul sursă disponibil pe GitHub, astfel încât acesta să devină o platform�
 * Teme personalizate, sunete și muzică
 
 # Licențiere
-Robert Matthew Pelloni este autorul acestui software în scopul protejării drepturilor de autor. Toate drepturile rezervate.<br />
-Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® este marca registrați de BobCorporation.
+1. Fă orice
+2. Este posibil ca acest dispozitiv să nu provoace interferențe dăunătoare și
+3. Acest dispozitiv trebuie să accepte orice interferență primită, inclusiv interferențe care pot cauza o funcționaire nedorită.
+4. 1 + 1 = 3

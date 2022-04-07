@@ -14,9 +14,9 @@
 
 ## MODE MIXTE MULTIJOUEUR LOCAL/EN LIGNE
 
-## COMPLÈTEMENT LIBRE
+## ÉCRIT À PARTIR DE ZÉRO EN C++, TRADUIT DE JAVA, PORTÉ À PARTIR DE C, PORTÉ À PARTIR DE MODÈLES, TRAITÉ PAR MON CERVEAU, PORTÉ À PARTIR D'UN SIGNAL RADIO TÉLÉPATHIQUE REÇU DE DIEU
 
-## ÉCRIT EN C++
+## COMPLÈTEMENT LIBRE
 
 ## OPEN SOURCE
 
@@ -48,5 +48,7 @@ Le source code est disponible sur GitHub afin de devenir une plate-forme de tour
 * Thèmes, sons et musique personnalisés
 
 # Licence
-Robert Matthew Pelloni est le auteur de ce logiciel au regard du droit de l'auteur. Tous droits réservés.<br />
-Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® est une marqué registrée de Robert Pelloni.
+1. Fais ce que tu veux
+2. Cet appareil ne doit pas causer d'interférences nuisibles et
+3. Cet appareil doit accepter toute interférence reçue, y compris les interférences susceptibles de provoquer un fonctionnement indésirable.
+4. 1 + 1 = 3

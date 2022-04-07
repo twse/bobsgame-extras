@@ -14,9 +14,9 @@
 
 ## MULTIGIOCATORE ONLINE/LOCALE IN MODALITÀ MISTA
 
-## COMPLETAMENTE GRATIS
+## SCRITTO DA ZERO IN C++, TRADOTTO DA JAVA, PORTATO DA C, PORTATO DA SCHEMI, ELABORATO DAL MIO CERVELLO, PORTATO DA UN SEGNALE RADIO TELEPATICO RICEVUTO DA DIO
 
-## SCRITTO DA ZERO IN C++
+## COMPLETAMENTE GRATIS
 
 ## CODICE ABERTI
 
@@ -48,5 +48,7 @@ Il codice sorgente è disponibile su GitHub in modo che possa diventare una piat
 * Temi, suoni e musica personalizzati
 
 ## Licenze
-Robert Matthew Pelloni è l'autore di questo software per quanto riguarda il diritto dell'autore. Tutti i diritti riservati.<br />
-Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® è un marchio registrato di Robert Pelloni.
+1. Fare qualsiasi cosa
+2. Questo dispositivo non può causare interferenze dannose e
+3. Questo dispositivo deve accettare qualsiasi interferenza ricevuta, comprese le interferenze che potrebbero causare un funzionamento indesiderato.
+4. 1 + 1 = 3

@@ -14,9 +14,9 @@
 
 ## MIXED-MODUS ONLINE/LOKALE MULTIPLAYER
 
-## HELEMAAL GRATIS
+## HELEMAAL OPNIEUW GESCHREVEN IN C++, VERTAALD UIT JAVA, OVERGENOMEN UIT C, OVERGENOMEN UIT PATRONEN, VERWERKT DOOR MIJN HERSENEN, OVERGENOMEN VAN EEN TELEPATHISCH RADIOSIGNAAL ONTVANGEN VAN GOD
 
-## HELEMAAL OPNIEUW GESCHREVEN IN C++
+## HELEMAAL GRATIS
 
 ## OPEN SOURCE
 
@@ -46,6 +46,8 @@ De broncode is beschikbaar op GitHub zodat het kan uitgroeien tot een standaard 
 * Server verificatie
 * Toeschouwersmodus, herhalingen, uitdagingherhaling
 
-# License
-Robert Matthew Pelloni is de auteur van deze software met betrekking tot het recht van de auteur. Alle rechten voorbehouden.<br />
-Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob's game® is een geregistreerd handelsmerk van Robert Pelloni.
+# Licentie
+1. Doe maar waat
+2. Dit apparaat mag geen schadelijke interferentie veroorzaken en
+3. Dit apparaat moet alle ontvangen interferentie accepteren, inclusief interferentie die een ongewenste werking kan veroorzaken.
+4. 1 + 1 = 3

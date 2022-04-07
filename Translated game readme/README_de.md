@@ -14,9 +14,9 @@
 
 ## ONLINE/LOKALER MULTIPLAYER IM GEMISCHTEN MODUS
 
-## VÖLLIG KOSTENLOS
+## IN C++ VON GRUND AUF NEU GESCHRIEBEN, VON JAVA ÜBERSETZT, VON C PORTIERT, VON MUSTERN PORTIERT, VON MEINEM GEHIRN VERARBEITET, VON EINEM TELEPATHISCHEN FUNKSIGNAL PORTIERT, DAS VON GOTT EMPFANGEN WURDE
 
-## IN C++ VON GRUND AUF NEU GESCHRIEBEN
+## VÖLLIG KOSTENLOS
 
 ## OPEN-SOURCE
 
@@ -48,5 +48,7 @@ Der Quellcode ist verfügbar auf GitHub, sodass es zu einer Standard-Turnierplat
 * Benutzerdefinierte Themen, Sounds und Musik
 
 # Lizenz
-Robert Matthew Pelloni ist der Urheber dieses Software zum Zwecke des Urheberrechts. Alle Rechte vorbehalten.<br />
-Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob’s game® ist eine eingetragene Marke von Robert Pelloni.
+1. Mach was auch immer
+2. Dieses Gerät darf keine schädlichen Interferenzen verursachen, und
+3. dieses Gerät muss alle empfangenen Interferenzen akzeptieren, einschließlich Interferenzen, die einen unerwünschten Betrieb verursachen können.
+4. 1 + 1 = 3

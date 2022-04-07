@@ -12,15 +12,15 @@
 
 ## MULTIJUGADOR LOCAL I EN LÍNIA AMB REPRODUCTORS IL·LIMITATS
 
-## COMPLETAMENTE LLIURE
+## ESCRIT DES DE ZERO EN C++, TRADUÏT DE JAVA, PORTAT DE C, PORTAT A PARTIR DE PATRONS, PROCESSAT PEL MEU CERTELL, PORTAT A PARTIR D'UN SENYAL DE RÀDIO TELEPÀTIC REBUT DE DÉU
 
-## ESCRIT DES DE ZERO A C++
+## COMPLETAMENTE LLIURE
 
 ## CODI ABERT
 
 **ok** és un joc de trencaclosques multijugador, però no només qualsevol joc de trencaclosques, **TOTS els jocs de trencaclosques.**  És un joc de trencaclosques propi amb un creador de jocs de trencaclosques que on definiu totes les regles del vostre propi joc personalitzat.
 
-A més, s'ha cuidat molt perquè **"bob's game"** sigui la *millor* versió de cada joc de trencaclosques.  Vaig anar a través de tots els fòrums de jocs de trencaclosques i wiki que vaig poder trobar i em vaig assegurar d'implementar tots els detalls i les característiques requerides pels jugadors de nivell de torneig.  Té puntades de paret, puntades de terra, puntades de gir, tirades en T, temporització ajustable, posades en marxa, el nom.  Totes aquestes funcions s'apliquen a tots els jocs que vulgueu, per la qual cosa és la millor versió de tots els jocs.
+A més, s'ha cuidat molt perquè **ok** sigui la *millor* versió de cada joc de trencaclosques.  Vaig anar a través de tots els fòrums de jocs de trencaclosques i wiki que vaig poder trobar i em vaig assegurar d'implementar tots els detalls i les característiques requerides pels jugadors de nivell de torneig.  Té puntades de paret, puntades de terra, puntades de gir, tirades en T, temporització ajustable, posades en marxa, el nom.  Totes aquestes funcions s'apliquen a tots els jocs que vulgueu, per la qual cosa és la millor versió de tots els jocs.
 
 **ok** canvia en temps real mentre es juga, transformant-se de joc a joc i fent que cada ronda sigui única.  O podeu optar per jugar només el vostre tipus de joc favorit contra els vostres amics amb controls fantàstics, sincronització estricta i funcions i posades en marxa d'altres jocs.
 
@@ -32,7 +32,7 @@ Creeu els vostres propis modes de trencaclosques!  Inventa règims personalitzat
 
 Actualment, **ok** és compatible amb tants jugadors locals o de xarxa com vulgueu, multijugador local/xarxa mixt, integració de Facebook, suport per a controladors de jocs i molt més.
 
-El codi font esté disponible a GitHub perquè pugui convertir-se en una plataforma de tornejos estàndard per a tots els jocs de trencaclosques!
+El codi font està disponible a GitHub perquè pugui convertir-se en una plataforma de tornejos estàndard per a tots els jocs de trencaclosques!
 
 **ok no es fa, és bastant jugable, però estic activament afegint moltes més funcions.**
 
@@ -46,5 +46,7 @@ El codi font esté disponible a GitHub perquè pugui convertir-se en una platafo
 * Temes, sons i música personalitzats
 
 # Licencia
-Robert Matthew Pelloni és l’autor d’aquest programari pel que fa al dret de l’autor. Tots els drets reservats.<br />
-Copyright © 2003-2017 BobCorporation, Robert Pelloni. bob’s game® és una marca registrada de Robert Pelloni.
+1. Fes el que sigui
+2. Aquest dispositiu no pot causar interferències perjudicials i
+3. Aquest dispositiu ha d'acceptar qualsevol interferència rebuda, incloses les interferències que puguin provocar un funcionament no desitjat.
+4. 1 + 1 = 3

@@ -14,9 +14,9 @@
 
 ## MODO MULTIJOGADOR LOCAL/ONLINE DE MODO MISTO
 
-## COMPLETAMENTE LIVRE
+## ESCRITO DO ZERO EM C++, TRADUZIDO DE JAVA, PORTADO DE C, PORTADO DE PADRÕES, PROCESSADO PELO MEU CÉREBRO, PORTADO DE UM SINAL DE RÁDIO TELEPÁTICO RECEBIDO DE DEUS
 
-## ESCRITO EM C++
+## COMPLETAMENTE LIVRE
 
 ## CÓDIGO ABERTO
 
@@ -48,5 +48,7 @@ O código-fonte é disponível no GitHub para que ele possa se transformar em um
 * Temas, sons e músicas personalizadas
 
 # Licença
-1. Faça o que quer
-2. 1 + 1 = 3
+1. Faça o que for
+2. Este dispositivo não pode causar interferência prejudicial e
+3. Deve aceitar qualquer interferência recebida, incluindo interferência que possa causar operação indesejada.
+4. 1 + 1 = 3

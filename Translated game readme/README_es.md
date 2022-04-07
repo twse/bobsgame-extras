@@ -14,9 +14,9 @@
 
 ## MODO MIXTO LOCAL Y EN LÍNEA MULTIJUGADOR
 
-## COMPLETAMENTE GRATIS
+## ESCRITO DESDE CERO EN C++, TRADUCIDO DE JAVA, PORTADO DE C, PORTADO DE PATRONES, PROCESADO POR MI CEREBRO, PORTADO DE UNA SEÑAL DE RADIO TELEPÁTICA RECIBIDA DE DIOS
 
-## ESCRITO EN C++
+## COMPLETAMENTE GRATIS
 
 ## CÓDIGO ABIERTO
 
@@ -48,5 +48,7 @@ Actualmente, **ok** admite tantos jugadores locales o de red como quieras, multi
 * Temas personalizados, sonidos y música
 
 # Licencia
-1. Hace lo que quieras
-2. 1 + 1 = 3
+1. Hacer cualquier cosa
+2. Es posible que este dispositivo no cause interferencias dañinas y
+3. Debe aceptar cualquier interferencia recibida, incluidas las interferencias que puedan causar un funcionamiento no deseado.
+4. 1 + 1 = 3
