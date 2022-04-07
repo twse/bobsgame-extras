@@ -2,7 +2,7 @@
 Contains extra stuff for bob's game except fonts.
 
 ## Translated game readme
-The translation is available in eight languages. The translated readme is based on the original documentation from the bob's game repositories until June 24th, 2021 when the game was renamed to “ok”.
+The translation is available in eight languages. The translated readme is based on [the original documentation from the “bobsgame/ok” repository](https://github.com/bobsgame/ok/blob/master/README.md).
 
 ## Art Department
 Want to be a show-off? Impress your friends? This is the place. Robert Matthew Pelloni will be offering a wallpaper for you. In any case, please feel free to use them on your desktop.
