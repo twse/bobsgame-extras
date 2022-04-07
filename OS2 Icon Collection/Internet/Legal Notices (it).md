@@ -80,332 +80,335 @@
 25. FTP Browser
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1996 Jason Rushton
-26. FTP Manager
+26. FTP IFS
+    - – Licenze: Shareware
+    - – Avviso di copyright: Copyright (c) 1998 Vitalij Timchishin
+27. FTP Manager
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1996 John W. Rugo
-27. FTPBox/2
+28. FTPBox/2
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2007 Miles Kuperus
-28. FTPD Tracefile Logger
+29. FTPD Tracefile Logger
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1994 Justin H. Dolske
-29. FTPPM
+30. FTPPM
     - – Licenze: Comerciali
     - – Avviso di copyright: Copyright (c) IBM
-30. FTP-It!
+31. FTP-It!
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1995-1997 Ben Brown
-31. getstats
+32. getstats
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1994 Kevin Hughes
-32. GetURL
+33. GetURL
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1994 Decker Automation
-33. Gismo, Goose
+34. Gismo, Goose
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1997-2011 Ken Kinoshita
-34. GoSWISH, GrabSite, WWW-Count
+35. GoSWISH, GrabSite, WWW-Count
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1997-1999 Daniel Hellerstein
-35. HandyFTP
+36. HandyFTP
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1999-2011 Brian Smith
-36. Hazel
+37. Hazel
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1993 Golden G. Richard III
-37. HL_News
+38. HL_News
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1999 Tom Fredrickson
-38. HomePage Publisher
+39. HomePage Publisher
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1995-2000 Jean-Bernard Clerin
-39. HTML ColourPlucker
+40. HTML ColourPlucker
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1997 Antonino Iannella
-40. HTML Studio
+41. HTML Studio
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1996 Panacea Software
-41. HTML Viewer
+42. HTML Viewer
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1996 John Martin Alfredsson, Nianqing Liu
-42. HTMLGen
+43. HTMLGen
     - – Licenze: Libre senza soporte
     - – Avviso di copyright: Copyright (c) 1993-1999 American Coders Ltd.
-43. HTML-Ed
+44. HTML-Ed
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1996 Ian Prest
-44. Hypertable
+45. Hypertable
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1998 Tino Knips
-45. IceCQ
+46. IceCQ
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1998 Konstantin Bondarchuk
-46. Integra
+47. Integra
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1993-1997 Soft Earls
-47. InterFTP
+48. InterFTP
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1998 Jonathan Tew
-48. Internet Adventurer
+49. Internet Adventurer
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1997-1998 Adventure Software
-49. Internet Gate
+50. Internet Gate
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1997-1999 Marco Maccaferri
-50. Internet Junkbuster Proxy
+51. Internet Junkbuster Proxy
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1997-1998 Junkbusters Corp.
-51. ipconfig
+52. ipconfig
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2001 John J. LeMay Jr.
-52. IpConfigPM
+53. IpConfigPM
     - – Licenze: GPL 3.0
     - – Avviso di copyright: Copyright (c) 2008-2010 Dušan Golubič
-53. IPSpeed
+54. IPSpeed
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1996-1997 Michael Bock
-54. Istart
+55. Istart
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2002 Michel Such
-55. Jasmine
+56. Jasmine
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1997-2011 Ken Kinoshita
-56. kipcfg
+57. kipcfg
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2011 Myung-Hun Ko
-57. KSCP
+58. KSCP
     - – Licenze: BSD di 3 clausula
     - – Avviso di copyright: Copyright (c) 2012-2017 Myung-Hun Ko
-58. Kuvert/2
+59. Kuvert/2
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1994 Peter Wansch
-59. Links
+60. Links
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1999-2021 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
     - – Sito di download: http://links.twibright.com/ (link in inglese)
-60. LJV Toolkit
+61. LJV Toolkit
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1989-1991 Les J. Ventimiglia
-61. Login
+62. Login
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1998 Aaron B. Brown
-62. LWPFTP
+63. LWPFTP
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1995 Lynn W. Deffenbaugh
-63. Lynx
+64. Lynx
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1997-2020 Garrett Arch Blythe, Thomas E. Dickey, Michael Grobe, Craig Lavender, Foteos Macrides, Lou Montulli, Charles Rezac
     - – Sito di download: https://invisible-island.net/lynx/ (informazioni; link in inglese) o https://lynx.invisible-island.net/ (codice sorgente/file binari; link in inglese)
-64. L-LIST
+65. L-LIST
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1996 Alessandro Trebbi
-65. MailRun
+66. MailRun
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1994-2012 Gary L. Robinson, 2012-2017 André Doff
-66. MAILTO
+67. MAILTO
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2002 Mike Ruskai
-67. Major Major
+68. Major Major
     - – Licenze: GPL 3.0
     - – Avviso di copyright: Copyright (c) 2000-2019 Peter Moylan
     - – Sito di download: http://www.pmoylan.org/pages/os2/Major.html (link in inglese)
-68. Marvin's Retriever
+69. Marvin's Retriever
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2002 Diarmuid Albers
-69. MaxiFTP
+70. MaxiFTP
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1994 Albert Crosby
-70. MaxList
+71. MaxList
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1998 Wilfried Brinkmann
-71. MICQ
+72. MICQ
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1998-1999 Matthew D. Smith, 2000-2007 Rüdiger Kuhlmann
     - – Sito di download: http://micq.org/ (il lingua predefinito è russo)
-72. MR/2 ICE
+73. MR/2 ICE
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1996-2005 Knightware Software Company
-73. MUEd/PM
+74. MUEd/PM
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1993-1995 Craig A. Morrison
-74. MYIP
+75. MYIP
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2006 Alexander Taylor, 2012-2019 Andreas Buchinger
-75. NCB
+76. NCB
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2000 Pavel Shtemenko
-76. NcFTP
+77. NcFTP
     - – Licenze: Clarified Artistic License
     - – Avviso di copyright: Copyright (c) 1992-2016 Mike Gleason
     - – Sito di download: https://www.ncftp.com/ (link in inglese)
-77. NDFSCONF
+78. NDFSCONF
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2000 Eirik Øverby
-78. NetChat
+79. NetChat
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1997 Gary L. Robinson
-79. Netextra, Netwatch, Web Willy Watch
+80. Netextra, Netwatch, Web Willy Watch
     - – Licenze: Libre senza soporte
     - – Avviso di copyright: Copyright (c) 1999 Momotek Computer Specialties
-80. NETIO
+81. NETIO
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1997-2012 Kai-Uwe Rommel
-81. Netscape
+82. Netscape
     - – Licenze: MPL 2.0
     - – Avviso di copyright: Copyright (c) 1997-2008 Collaboratori alla codebase Mozilla
     - – Sito di download: https://sillydog.org/narchive/full123.php (link in inglese)
-82. NetUse
+83. NetUse
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1999-2004 Thomas Bohn
-83. Network Configuration Manager
+84. Network Configuration Manager
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2000 John Blumel
-84. News Harvest
+85. News Harvest
     - – Licenze: GPL 3.0
     - – Avviso di copyright: Copyright (c) 1997-2011 Kingsley Turner, Steven H. Levine
-85. Newsbeat
+86. Newsbeat
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1996 Dave Minogue, Vipin Bhargava
-86. NFTP
+87. NFTP
     - – Licenze: Licenze MIT
     - – Avviso di copyright: Copyright (c) 1994-2011 Sergey Ayukov
     - – Sito di download: http://www.ayukov.com/nftp/index.html (link in inglese)
-87. NIFMON
+88. NIFMON
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1996 John R Clark
-88. nslint
+89. nslint
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1992-2009 I reggenti dell'università di California
-89. OpenIRC/2
+90. OpenIRC/2
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1997 Max Mikhanosha
-90. OpenXP
+91. OpenXP
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1992-1999 Peter Mandrella
-91. Opera
+92. Opera
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1994-2021 Opera Software ASA
     - – Sito di download: https://www.opera.com/
-92. OS2_NTPD
+93. OS2_NTPD
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1998 Bruce M. Penrod
-93. Page
+94. Page
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1996 Derek Clarkson
-94. Picardy 3
+95. Picardy 3
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1996 David Devaney, Jr.
-95. Pigeon
+96. Pigeon
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 2001-2002 Christopher Angelico
-96. PM Downloader
+97. PM Downloader
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 2002-2006 Eugene Romanenko
-97. PM Weather
+98. PM Weather
     - – Licenze: Libre o Shareware
     - – Avviso di copyright: Copyright (c) 1994 Mike Kopack, Ed Boykin, Stephen Loomis, David DuPré
-98. PMINews
+99. PMINews
     - – Licenze: Comerciale
     - – Avviso di copyright: Copyright (c) 1998 SouthSoft Inc., Stardock Systems Inc.
-99. PMSPX
-    - – Licenze: Libre
-    - – Avviso di copyright: Copyright (c) 1993 Cliff DeCarlo
-100. QadHTML
+100. PMSPX
+     - – Licenze: Libre
+     - – Avviso di copyright: Copyright (c) 1993 Cliff DeCarlo
+101. QadHTML
      - – Licenze: Shareware
      - – Avviso di copyright: Copyright (c) 1995 QAD Software
-101. QBrows
+102. QBrows
      - – Licenze: GPL 3.0
      - – Avviso di copyright: Copyright (c) 2010 Denis Bespalov
-102. QtWeb
+103. QtWeb
      - – Licenze: GPL 2.0
      - – Avviso di copyright: Copyright (c) 2008-2013 Collaboratori QtWeb
      - – Sito di download: http://www.qtweb.net/ (link in inglese)
-103. RacerNet
+104. RacerNet
      - – Licenze: Shareware
      - – Avviso di copyright: Copyright (c) 1999 Frugal Software
-104. ripMIME
+105. ripMIME
      - – Licenze: BSD di 3 clausula
      - – Avviso di copyright: Copyright (c) 2002-2011 Paul L. Daniels
      - – Sito di download: https://pldaniels.com/ripmime/ (link in inglese)
-105. rxCalcNet
+106. rxCalcNet
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 2010 VicTor Smirnoff
-106. RxFTP
+107. RxFTP
      - – Licenze: IBM EWS
      - – Avviso di copyright: Copyright (c) 1994 Patrick J. Mueller, Cliff Nadler
-107. Scythia
+108. Scythia
      - – Licenze: GPL 3.0
      - – Avviso di copyright: Copyright (c) 2007-2011 Frédéric Julian
-108. Sslurp!
+109. Sslurp!
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 1997-2003 Michael Hohner
      - – Sito di download: http://sslurp.mhohner.de/ (link in inglese)
-109. TafelEd/2
+110. TafelEd/2
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 1996 Justin S. Cooksey
-110. Tag Thief, Cookie Thief
+111. Tag Thief, Cookie Thief
      - – Licenze: Shareware
      - – Avviso di copyright: Copyright (c) 1997 Iftach Silberman
-111. TCP/IP Profile Manager
+112. TCP/IP Profile Manager
      - – Licenze: BSD di 3 clausula
      - – Avviso di copyright: Copyright (c) 2010 Alexander Taylor
      - – Sito di download: http://www.altsan.org/programming/os2/index.html (link in inglese)
-112. TESTLOCK
+113. TESTLOCK
      - – Licenze: Shareware
      - – Avviso di copyright: Copyright (c) 1993-1994 Burton Systems Software
-113. timEd
+114. timEd
      - – Licenze: Shareware
      - – Avviso di copyright: Copyright (c) 1994 Gerard van Essen
-114. TNEF
+115. TNEF
      - – Licenze: GPL 2.0
      - – Avviso di copyright: Copyright (c) 2000-2018 Mark Simpson
-115. Traffic Visor III
+116. Traffic Visor III
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 2007 Andrey Vasilkin
-116. UNHTML
+117. UNHTML
      - – Licenze: GPL 2.0
      - – Avviso di copyright: Copyright (c) 1996-2004 Stephen Loomis
-117. URL Scanner
+118. URL Scanner
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 1998 Jerry McBride
-118. URLCopy
+119. URLCopy
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 2000-2002 Lothar Söns
-119. URLObjectTool
+120. URLObjectTool
      - – Licenze: GPL 2.0
      - – Avviso di copyright: Copyright (c) 1998-2000 Norbert Kohl
-120. VxFTP
+121. VxFTP
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 1994 Howard Hyten
-121. VX-FSP
+122. VX-FSP
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 1994 Semir Patel
-122. Web G.R.A.B., Web S.L.I.D.E.
+123. Web G.R.A.B., Web S.L.I.D.E.
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 1996 Asbjørn Pettersen
-123. WebExplorer
+124. WebExplorer
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 1995-1998 IBM
-124. WebWriter/2
+125. WebWriter/2
      - – Licenze: Shareware
      - – Avviso di copyright: Copyright (c) 1995-1996 John Blumel
-125. WFAX
+126. WFAX
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 1997 Jürgen Dankoweit
-126. Wget
+127. Wget
      - – Licenze: GPL 3.0
      - – Avviso di copyright: Copyright (c) 1995-2021 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
      - – Sito di download: http://www.gnu.org/software/wget/ (link in inglese)
-127. whois
+128. whois
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 1998 Thomas Fotherby, 1995 Richard J. Sexton
-128. WSiever
+129. WSiever
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 2003 A.Y. Dayo
-129. WWWGrab/2
+130. WWWGrab/2
      - – Licenze: Shareware
      - – Avviso di copyright: Copyright (c) 1998 Jiří Rubeš
-130. zeupd
+131. zeupd
      - – Licenze: Libre
      - – Avviso di copyright: Copyright (c) 2004 Ken Laurie
 
