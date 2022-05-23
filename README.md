@@ -23,7 +23,7 @@ Use this to replace the user account picture (this can be done in Windows XP via
 ### Windows Desktop Theme
 Use this to replace the desktop theme in Windows. Includes Windows Aero effects if Windows Vista or 7 is running.
 
-### ReactOS Logon GINA Header (BMP)
+### ReactOS GINA Logon Header
 Use this to replace the first bitmap resource in `msgina.dll`. The image was typeset with the Nimbus Sans Mono font for illustration purposes.
 
 ## Sound Scheme
