@@ -3,7 +3,7 @@
 1. 4allCalc
    - – Licenze: Libre (OS/2) o shareware (Windows)
    - – Avviso di copyright: Copyright (c) 1995-2009 Martin Vieregg
-   - – Download site: http://www.hypermake.com/english/4allcalc.html (link in inglese)
+   - – Sito di download: http://www.hypermake.com/english/4allcalc.html (link in inglese)
 2. Bicycle Ride Calorie Calculator
    - – Licenze: Libre
    - – Avviso di copyright: Copyright (c) 1995 Greg Kondrasuk
@@ -40,7 +40,7 @@
 13. gnuplot
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1986-1993, 1998, 2004, 2007 Thomas Williams, Colin Kelley
-    - – Download site: http://www.gnuplot.info/ (link in inglese)
+    - – Sito di download: http://www.gnuplot.info/ (link in inglese)
 14. GraphX
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1994 Dominique Beauchamp
@@ -56,15 +56,15 @@
 18. KeyCalc
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2008-2009 Peter Moylan
-    - – Download site: http://www.pmoylan.org/pages/os2/keycalc.html (link in inglese)
+    - – Sito di download: http://www.pmoylan.org/pages/os2/keycalc.html (link in inglese)
 19. Kind Constructor
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2001-2002 Michal Žemlička
-    - – Download site: http://www.ms.mff.cuni.cz/~zemlicka/KindCons/index.html.en (link in inglese)
+    - – Sito di download: http://www.ms.mff.cuni.cz/~zemlicka/KindCons/index.html.en (link in inglese)
 20. Knotter
     - – Licenze: GPL 3.0
     - – Avviso di copyright: Copyright (c) 2012-2014 Mattia Basaglia
-    - – Download site: https://knotter.mattbas.org/ (link in inglese)
+    - – Sito di download: https://knotter.mattbas.org/ (link in inglese)
 21. LinePlot
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1998 Neighborhood Business Services
@@ -80,14 +80,14 @@
 25. Octave
     - – Licenze: GPL 3.0
     - – Avviso di copyright: Copyright (c) 1992-2021 John W. Eaton
-    - – Download site: http://www.gnu.org/software/octave/ (link in inglese)
+    - – Sito di download: http://www.gnu.org/software/octave/ (link in inglese)
 26. Ortelius
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1996-1998 Christian Bressler
 27. Perl-Compatible Regular Expressions
     - – Licenze: BSD di 3 clausula
     - – Avviso di copyright: Copyright (c) 1997-2021 Università di Cambridge
-    - – Download site: http://www.pcre.org/ (link in inglese)
+    - – Sito di download: http://www.pcre.org/ (link in inglese)
 28. PlotMTV
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1997 Kenny K.H. Toh
@@ -109,7 +109,7 @@
 34. POV-Ray
     - – Licenze: AGPL 3.0
     - – Avviso di copyright: Copyright (c) 1991-2019 Persistence of Visual Raytracer Pty Ltd.
-    - – Download site: http://www.povray.org/ (link in inglese)
+    - – Sito di download: http://www.povray.org/ (link in inglese)
 35. Prime Number Generator
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1995 Paul Damer, Jawed Karim
@@ -128,7 +128,7 @@
 40. RPCALC
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 2000 Nathan Liskov
-    - – Download site: http://nateliskov.com/os2apps/myapps.htm (link in inglese)
+    - – Sito di download: http://nateliskov.com/os2apps/myapps.htm (link in inglese)
 41. RXNUM
     - – Licenze: Shareware
     - – Avviso di copyright: Copyright (c) 1996 Michael Mieves

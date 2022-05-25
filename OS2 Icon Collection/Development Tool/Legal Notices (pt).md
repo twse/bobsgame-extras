@@ -48,7 +48,7 @@
     - – Aviso de direitos autorais: Copyright (c) 1990 Dynalink Technologies Inc.
 16. Dialog
     - – Licença: LGPL 2.1
-    - – Aviso de direitos autorais: Copyright (c) 1993-1994 Savio Lam, 1997-2021 Thomas E. Dickey
+    - – Aviso de direitos autorais: Copyright (c) 1993-1994 Savio Lam, 1997-2022 Thomas E. Dickey
     - – Site de descarregamento: https://invisible-island.net/dialog/ (link em inglês)
 17. Dialog Editor
     - – Licença: Grátis
@@ -73,7 +73,7 @@
     - – Aviso de direitos autorais: Copyright (c) 1993 Brian Kenn
 24. Expat
     - – Licença: Licença MIT
-    - – Aviso de direitos autorais: Copyright (c) 2001-2021 Mantenedores Expat
+    - – Aviso de direitos autorais: Copyright (c) 2001-2022 Mantenedores Expat
     - – Site de descarregamento: https://libexpat.github.io/ (link em inglês)
 25. GCC
     - – Licença: GPL 3.0
@@ -82,7 +82,7 @@
 26. GCI
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2004 Florian Große-Coosmann
-    - – Site de descarregamento: http://www.grosse-coosmann.de/~florian/
+    - – Site de descarregamento: http://www.grosse-coosmann.de/~florian/indexe.html (link em inglês)
 27. Glade
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 2001-2021 Ximian, Inc., Joaquín Cuenca Abela, Paolo Borelli, Tristan Van Berkom, Juan Pablo Ugarte, Alberto Fanjul Alonso e outros
@@ -92,8 +92,8 @@
     - – Aviso de direitos autorais: Copyright (c) 1992-1998 Jean-Bernard Clerin
 29. GTK
     - – Licença: LGPL 2.0
-    - – Aviso de direitos autorais: Copyright (c) 1995-2021 Spencer Kimball, Josh MacDonald, Peter Mattis and the GTK Development Team
-    - – Site de descarregamento: https://www.gtk.org/
+    - – Aviso de direitos autorais: Copyright (c) 1995-2022 Spencer Kimball, Josh MacDonald, Peter Mattis and the GTK Development Team
+    - – Site de descarregamento: https://www.gtk.org/ (link em inglês)
 30. gX XML Parser
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2002 Gregory Bourassa
@@ -139,7 +139,7 @@
     - – Aviso de direitos autorais: Copyright (c) 1999 Roman Stangl
 43. Lua
     - – Licença: Licença MIT
-    - – Aviso de direitos autorais: Copyright (c) 1994-2021 Lua.org, PUC-Rio
+    - – Aviso de direitos autorais: Copyright (c) 1994-2022 Lua.org, PUC-Rio
     - – Site de descarregamento: http://www.lua.org/ (link em inglês)
 44. LXOPT
     - – Licença: Grátis, não suportado
@@ -200,7 +200,7 @@
     - – Aviso de direitos autorais: Copyright (c) 2001-2003 Yury Pogrebnyak
 62. Python
     - – Licença: Grátis
-    - – Aviso de direitos autorais: Copyright (c) 2001-2021 Python Software Foundation
+    - – Aviso de direitos autorais: Copyright (c) 2001-2022 Python Software Foundation
     - – Site de descarregamento: https://www.python.org/ (link em inglês)
 63. QDevelop
     - – Licença: GPL 2.0

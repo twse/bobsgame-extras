@@ -48,7 +48,7 @@
     - – Copyright Notice : Copyright (c) 1990 Dynalink Technologies Inc.
 16. Dialog
     - – License : LGPL 2.1
-    - – Copyright Notice : Copyright (c) 1993-1994 Savio Lam, 1997-2021 Thomas E. Dickey
+    - – Copyright Notice : Copyright (c) 1993-1994 Savio Lam, 1997-2022 Thomas E. Dickey
     - – Download Site : https://invisible-island.net/dialog/
 17. Dialog Editor
     - – License : Free
@@ -82,7 +82,7 @@
 26. GCI
     - – License : Free
     - – Copyright Notice : Copyright (c) 2004 Florian Große-Coosmann
-    - – Download Site : http://www.grosse-coosmann.de/~florian/
+    - – Download Site : http://www.grosse-coosmann.de/~florian/indexe.html
 27. Glade
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2001-2021 Ximian, Inc., Joaquín Cuenca Abela, Paolo Borelli, Tristan Van Berkom, Juan Pablo Ugarte, Alberto Fanjul Alonso et al.
@@ -92,7 +92,7 @@
     - – Copyright Notice : Copyright (c) 1992-1998 Jean-Bernard Clerin
 29. GTK
     - – License : LGPL 2.0
-    - – Copyright Notice : Copyright (c) 1995-2021 Spencer Kimball, Josh MacDonald, Peter Mattis and the GTK Development Team
+    - – Copyright Notice : Copyright (c) 1995-2022 Spencer Kimball, Josh MacDonald, Peter Mattis and the GTK Development Team
     - – Download Site : https://www.gtk.org/
 30. gX XML Parser
     - – License : Free
@@ -139,7 +139,7 @@
     - – Copyright Notice : Copyright (c) 1999 Roman Stangl
 43. Lua
     - – License : MIT License
-    - – Copyright Notice : Copyright (c) 1994-2021 Lua.org, PUC-Rio
+    - – Copyright Notice : Copyright (c) 1994-2022 Lua.org, PUC-Rio
     - – Download Site : http://www.lua.org/
 44. LXOPT
     - – License : Unsupported freeware
@@ -200,7 +200,7 @@
     - – Copyright Notice : Copyright (c) 2001-2003 Yury Pogrebnyak
 62. Python
     - – License : Free
-    - – Copyright Notice : Copyright (c) 2001-2021 Python Software Foundation
+    - – Copyright Notice : Copyright (c) 2001-2022 Python Software Foundation
     - – Download Site : https://www.python.org/
 63. QDevelop
     - – License : GPL 2.0

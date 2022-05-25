@@ -48,7 +48,7 @@
     - – Aviso de derechos de autor: Copyright (c) 1990 Dynalink Technologies Inc.
 16. Dialog
     - – Licencia: LGPL 2.1
-    - – Aviso de derechos de autor: Copyright (c) 1993-1994 Savio Lam, 1997-2021 Thomas E. Dickey
+    - – Aviso de derechos de autor: Copyright (c) 1993-1994 Savio Lam, 1997-2022 Thomas E. Dickey
     - – Sitio de descarga: https://invisible-island.net/dialog/ (enlace en inglés)
 17. Dialog Editor
     - – Licencia: Gratis
@@ -82,7 +82,7 @@
 26. GCI
     - – Licencia: Gratis
     - – Aviso de derechos de autor: Copyright (c) 2004 Florian Große-Coosmann
-    - – Sitio de descarga: http://www.grosse-coosmann.de/~florian/
+    - – Sitio de descarga: http://www.grosse-coosmann.de/~florian/indexe.html (enlace en inglés)
 27. Glade
     - – Licencia: GPL 2.0
     - – Aviso de derechos de autor: Copyright (c) 2001-2021 Ximian, Inc., Joaquín Cuenca Abela, Paolo Borelli, Tristan Van Berkom, Juan Pablo Ugarte, Alberto Fanjul Alonso y otros
@@ -92,7 +92,7 @@
     - – Aviso de derechos de autor: Copyright (c) 1992-1998 Jean-Bernard Clerin
 29. GTK
     - – Licencia: LGPL 2.0
-    - – Aviso de derechos de autor: Copyright (c) 1995-2021 Spencer Kimball, Josh MacDonald, Peter Mattis y el equipo de desarrollo de GTK
+    - – Aviso de derechos de autor: Copyright (c) 1995-2022 Spencer Kimball, Josh MacDonald, Peter Mattis y el equipo de desarrollo de GTK
     - – Sitio de descarga: https://www.gtk.org/ (enlace en inglés)
 30. gX XML Parser
     - – Licencia: Gratis
@@ -139,7 +139,7 @@
     - – Aviso de derechos de autor: Copyright (c) 1999 Roman Stangl
 43. Lua
     - – Licencia: Licencia MIT
-    - – Aviso de derechos de autor: Copyright (c) 1994-2021 Lua.org, PUC-Rio
+    - – Aviso de derechos de autor: Copyright (c) 1994-2022 Lua.org, PUC-Rio
     - – Sitio de descarga: http://www.lua.org/ (enlace en inglés)
 44. LXOPT
     - – Licencia: Gratis sin soporte
@@ -200,7 +200,7 @@
     - – Aviso de derechos de autor: Copyright (c) 2001-2003 Yury Pogrebnyak
 62. Python
     - – Licencia: Gratis
-    - – Aviso de derechos de autor: Copyright (c) 2001-2021 Python Software Foundation
+    - – Aviso de derechos de autor: Copyright (c) 2001-2022 Python Software Foundation
     - – Sitio de descarga: https://www.python.org/ (enlace en inglés)
 63. QDevelop
     - – Licencia: GPL 2.0

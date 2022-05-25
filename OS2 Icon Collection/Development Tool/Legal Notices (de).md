@@ -48,7 +48,7 @@
     - – Copyright-Hinweise: Copyright (c) 1990 Dynalink Technologies Inc.
 16. Dialog
     - – Lizenz: LGPL 2.1
-    - – Copyright-Hinweise: Copyright (c) 1993-1994 Savio Lam, 1997-2021 Thomas E. Dickey
+    - – Copyright-Hinweise: Copyright (c) 1993-1994 Savio Lam, 1997-2022 Thomas E. Dickey
     - – Download-Site: https://invisible-island.net/dialog/ (link auf englisch)
 17. Dialog Editor
     - – Lizenz: Frei
@@ -92,7 +92,7 @@
     - – Copyright-Hinweise: Copyright (c) 1992-1998 Jean-Bernard Clerin
 29. GTK
     - – Lizenz: LGPL 2.0
-    - – Copyright-Hinweise: Copyright (c) 1995-2021 Spencer Kimball, Josh MacDonald, Peter Mattis und der GTK-Entwicklerteam
+    - – Copyright-Hinweise: Copyright (c) 1995-2022 Spencer Kimball, Josh MacDonald, Peter Mattis und der GTK-Entwicklerteam
     - – Download-Site: https://www.gtk.org/ (link auf englisch)
 30. gX XML Parser
     - – Lizenz: Frei
@@ -139,7 +139,7 @@
     - – Copyright-Hinweise: Copyright (c) 1999 Roman Stangl
 43. Lua
     - – Lizenz: MIT-Lizenz
-    - – Copyright-Hinweise: Copyright (c) 1994-2021 Lua.org, PUC-Rio
+    - – Copyright-Hinweise: Copyright (c) 1994-2022 Lua.org, PUC-Rio
     - – Download-Site: http://www.lua.org/ (link auf englisch)
 44. LXOPT
     - – Lizenz: Frei ohne unterstützung
@@ -200,7 +200,7 @@
     - – Copyright-Hinweise: Copyright (c) 2001-2003 Yury Pogrebnyak
 62. Python
     - – Lizenz: Frei
-    - – Copyright-Hinweise: Copyright (c) 2001-2021 Python Software Foundation
+    - – Copyright-Hinweise: Copyright (c) 2001-2022 Python Software Foundation
     - – Download-Site: https://www.python.org/ (link auf englisch)
 63. QDevelop
     - – Lizenz: GPL 2.0
