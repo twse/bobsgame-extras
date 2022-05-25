@@ -95,13 +95,13 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
 
-Under Windows Vista & above, the registry keys are located in `HKLM\Software\Microsoft\Windows NT\CurrentVersion\OEMInformation` (on non-OEM copies, there are no values included within this key) by adding the following string values:
+Under Windows Vista & above, the registry keys are located in `HKLM\Software\Microsoft\Windows NT\CurrentVersion\OEMInformation` (on non-OEM copies, there are no values included within this key) - add the following string values to this key:
 * **Logo**: `OEMlogo.bmp`
 * **Manufacturer**: Robert Matthew Pelloni
 * **SupportURL**: Second line in the `Support Information` heading in `OEMinfo.ini`
 
 ## Boot Skin (Windows 9x and ME)
-The boot skin is available in 15 languages. Rename `bobsgame.bmp` to `logo.sys` (copied to the root drive top level directory), `shutdown.bmp` to `logow.sys` and `safetopoweroff.bmp` to `logos.sys` (copied to the Windows directory).
+The boot skin is available in 15 languages. Rename `bobsgame.bmp` to `logo.sys` (copied to the system boot drive's top-level directory), `shutdown.bmp` to `logow.sys` and `safetopoweroff.bmp` to `logos.sys` (copied to the Windows directory).
 
 **Note:** Windows 9x or ME must be running in VGA to display the startup or shutdown screens (EGA only shows the textual output).
 
