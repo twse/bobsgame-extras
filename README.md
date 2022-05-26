@@ -31,16 +31,16 @@ Use this to replace system sounds or change it through the sound settings (e.g. 
 
 Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Windows 8 & above, the `ExcludeFromCPL` value was added to `WindowsLogoff` and `WindowsLogon` sound events; remove this value to show these events).
 
-**Note:** The sound scheme was created with Windows Sound Recorder (Windows XP version) and Wavosaur.
+**Note:** The sound scheme was created and edited with the Windows XP version of Sound Recorder and [Wavosaur](https://www.wavosaur.com/).
 
 ### Index of sound events
 | Windows name                  | OS/2 name                 | Filename                    |
 |-------------------------------|---------------------------|-----------------------------|
-| None                          | Alarm Clock               | BG Notify.wav               |
+| None                          | Alarm Clock               | BG Alarm.wav                |
 | Asterisk                      | None                      | BG Balloon.wav              |
 | None                          | Begin drag                | BG Select.wav               |
 | Blocked Pop-up Window         | None                      | BG Notify.wav               |
-| Calendar Reminder             | None                      | BG Notify.wav               |
+| Calendar Reminder             | None                      | BG Alarm.wav                |
 | Change Theme                  | None                      | BG Startup.wav              |
 | Close Program                 | Closing window (Animated) | BG Close Program.wav        |
 | Complete Navigation           | None                      | BG Notify.wav               |
@@ -57,32 +57,32 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 | Exit Windows                  | System shutdown           | BG Shutdown.wav             |
 | Fax error                     | None                      | BG Error.wav                |
 | Fax line rings                | None                      | BG Notify.wav               |
-| Fax sent                      | None                      | BG Notify.wav               |
-| Feed Discovered               | None                      | BG Notify.wav               |
+| Fax sent                      | None                      | BG Alarm.wav                |
+| Feed Discovered               | None                      | BG Alarm.wav                |
 | Information                   | Information               | BG Information Bar.wav      |
-| Instant Message Notification  | None                      | BG Notify.wav               |
+| Instant Message Notification  | None                      | BG Alarm.wav                |
 | Low Battery Alarm             | None                      | BG Battery Low.wav          |
 | Maximize                      | None                      | BG Maximize.wav             |
 | Menu Command                  | None                      | BG Select.wav               |
 | Menu Pop-up                   | None                      | BG Select.wav               |
-| Message Badge                 | None                      | BG Notify.wav               |
+| Message Badge                 | None                      | BG Alarm.wav                |
 | Minimize                      | None                      | BG Minimize.wav             |
 | Move Menu Item                | None                      | BG Select.wav               |
-| New Fax Notification          | None                      | BG Notify.wav               |
-| New Mail Notification         | None                      | BG Notify.wav               |
-| New Text Message Notification | None                      | BG Notify.wav               |
-| NFIP Completion               | None                      | BG Notify.wav               |
+| New Fax Notification          | None                      | BG Alarm.wav                |
+| New Mail Notification         | None                      | BG Alarm.wav                |
+| New Text Message Notification | None                      | BG Alarm.wav                |
+| NFIP Completion               | None                      | BG Alarm.wav                |
 | NFIP Connection               | None                      | BG Hardware Insert.wav      |
 | Notification                  | None                      | BG Notify.wav               |
 | Notification Bar              | None                      | BG Notify.wav               |
 | Open Program                  | Opening window (Animated) | BG Open Program.wav         |
-| Print Complete                | None                      | BG Notify.wav               |
+| Print Complete                | None                      | BG Alarm.wav                |
 | None                          | Printer error             | BG Error.wav                |
 | Program Error                 | Error                     | BG Error.wav                |
 | Question                      | Information               | BG Notify.wav               |
 | Restore Down                  | None                      | BG Minimize.wav             |
 | Restore Up                    | None                      | BG Maximize.wav             |
-| Search Provider Discovered    | None                      | BG Notify.wav               |
+| Search Provider Discovered    | None                      | BG Alarm.wav                |
 | Select                        | None                      | BG Select.wav               |
 | Show Toolbar Band             | None                      | BG Select.wav               |
 | Start Navigation              | None                      | BG Select.wav               |
@@ -95,7 +95,7 @@ Windows 95 until 7 allows changing the login/logoff/shutdown sounds (with Window
 ## Windows OEM Branding
 The zipped archive is included for use with Windows 95 until XP.
 
-Under Windows Vista & above, the registry keys are located in `HKLM\Software\Microsoft\Windows NT\CurrentVersion\OEMInformation` (on non-OEM copies, there are no values included within this key) - add the following string values to this key:
+In Windows Vista & above, the registry keys are located in `HKLM\Software\Microsoft\Windows NT\CurrentVersion\OEMInformation` (on non-OEM copies, there are no values included within this key) - add the following string values to this key:
 * **Logo**: `OEMlogo.bmp`
 * **Manufacturer**: Robert Matthew Pelloni
 * **SupportURL**: Second line in the `Support Information` heading in `OEMinfo.ini`
