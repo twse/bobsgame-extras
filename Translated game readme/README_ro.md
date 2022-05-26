@@ -46,9 +46,3 @@ Codul sursă disponibil pe GitHub, astfel încât acesta să devină o platform�
 * Verificarea serverului
 * Modul spectator, replici, reluarea provocărilor
 * Teme personalizate, sunete și muzică
-
-# Licențiere
-1. Fă orice
-2. Este posibil ca acest dispozitiv să nu provoace interferențe dăunătoare și
-3. Acest dispozitiv trebuie să accepte orice interferență primită, inclusiv interferențe care pot cauza o funcționaire nedorită.
-4. 1 + 1 = 3

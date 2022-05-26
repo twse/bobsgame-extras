@@ -46,9 +46,3 @@ Actualmente, **ok** admite tantos jugadores locales o de red como quieras, multi
 * Verificación del servidor
 * Modo espectador, repeticiones, repetición de desafío
 * Temas personalizados, sonidos y música
-
-# Licencia
-1. Hacer cualquier cosa
-2. Es posible que este dispositivo no cause interferencias dañinas y
-3. Debe aceptar cualquier interferencia recibida, incluidas las interferencias que puedan causar un funcionamiento no deseado.
-4. 1 + 1 = 3

@@ -45,9 +45,3 @@ De broncode is beschikbaar op GitHub zodat het kan uitgroeien tot een standaard 
 * Matchmaking per regio of rang
 * Server verificatie
 * Toeschouwersmodus, herhalingen, uitdagingherhaling
-
-# Licentie
-1. Doe maar waat
-2. Dit apparaat mag geen schadelijke interferentie veroorzaken en
-3. Dit apparaat moet alle ontvangen interferentie accepteren, inclusief interferentie die een ongewenste werking kan veroorzaken.
-4. 1 + 1 = 3

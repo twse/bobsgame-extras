@@ -46,9 +46,3 @@ O código-fonte é disponível no GitHub para que ele possa se transformar em um
 * Verificação do servidor
 * Modo espectador, replays, replay do desafio
 * Temas, sons e músicas personalizadas
-
-# Licença
-1. Faça o que for
-2. Este dispositivo não pode causar interferência prejudicial e
-3. Deve aceitar qualquer interferência recebida, incluindo interferência que possa causar operação indesejada.
-4. 1 + 1 = 3

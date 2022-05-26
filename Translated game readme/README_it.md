@@ -46,9 +46,3 @@ Il codice sorgente è disponibile su GitHub in modo che possa diventare una piat
 * Verifica del server
 * Modalità spettatore, replay, replay sfida
 * Temi, suoni e musica personalizzati
-
-## Licenze
-1. Fare qualsiasi cosa
-2. Questo dispositivo non può causare interferenze dannose e
-3. Questo dispositivo deve accettare qualsiasi interferenza ricevuta, comprese le interferenze che potrebbero causare un funzionamento indesiderato.
-4. 1 + 1 = 3

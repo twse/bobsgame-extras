@@ -46,9 +46,3 @@ Der Quellcode ist verfügbar auf GitHub, sodass es zu einer Standard-Turnierplat
 * Serverüberprüfung
 * Zuschauermodus und Wiederholungen
 * Benutzerdefinierte Themen, Sounds und Musik
-
-# Lizenz
-1. Mach was auch immer
-2. Dieses Gerät darf keine schädlichen Interferenzen verursachen, und
-3. dieses Gerät muss alle empfangenen Interferenzen akzeptieren, einschließlich Interferenzen, die einen unerwünschten Betrieb verursachen können.
-4. 1 + 1 = 3

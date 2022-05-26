@@ -46,9 +46,3 @@ Le source code est disponible sur GitHub afin de devenir une plate-forme de tour
 * Vérification du serveur
 * Mode spectateur, replays, challenge replay
 * Thèmes, sons et musique personnalisés
-
-# Licence
-1. Fais ce que tu veux
-2. Cet appareil ne doit pas causer d'interférences nuisibles et
-3. Cet appareil doit accepter toute interférence reçue, y compris les interférences susceptibles de provoquer un fonctionnement indésirable.
-4. 1 + 1 = 3

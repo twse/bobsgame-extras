@@ -44,9 +44,3 @@ El codi font està disponible a GitHub perquè pugui convertir-se en una platafo
 * Verificació del servidor
 * Mode espectador, repeticions, repetició de repeticions
 * Temes, sons i música personalitzats
-
-# Licencia
-1. Fes el que sigui
-2. Aquest dispositiu no pot causar interferències perjudicials i
-3. Aquest dispositiu ha d'acceptar qualsevol interferència rebuda, incloses les interferències que puguin provocar un funcionament no desitjat.
-4. 1 + 1 = 3
