@@ -2,7 +2,7 @@
 Contains extra stuff for bob's game except fonts.
 
 ## Translated game readme
-The translation is available in eight languages. The translated readme is based on [the original documentation from the “bobsgame/ok” repository](https://github.com/bobsgame/ok/blob/master/README.md).
+The translation is available in eight languages. The translated readme is based on [the original documentation from the “bobsgamed/ok” repository](https://github.com/bobsgamed/ok/blob/master/README.md).
 
 ## Art Department
 Want to be a show-off? Impress your friends? This is the place. Robert Matthew Pelloni will be offering a wallpaper for you. In any case, please feel free to use them on your desktop.
@@ -112,6 +112,11 @@ For use with the Windows XP version of [BootSkin](https://www.stardock.com/produ
 Use this to replace the Generic skin from the executable file (bmp) or simply access them from the Skins dialog (jpg). The skin is assigned to some Palm devices. The jpg files were created from the bmp files with [PMView](https://www.pmview.com/).
 
 This skin can be used with the emulators listed below. Robert Matthew Pelloni is not the original author of these emulators. The original copyright notice, license and contributor list is set forth below.
+
+### Palm Hardware Emulator
+Copyright © 2013 Perpendox Software LLC
+
+**NB!** The program was removed the Google Play Store.
 
 ### Palm OS Emulator aka Copilot
 Copyright © 1998-2002 Palm, Inc.
