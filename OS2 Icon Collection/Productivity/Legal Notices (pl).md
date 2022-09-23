@@ -35,7 +35,7 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Informacja o prawach autorskich: Copyright (c) 1993-1994 Dan Kehn, Diana Soost
 12. Excel
     - – Licencja: Komercyjny
-    - – Informacja o prawach autorskich: Copyright (c) 1987-2021 Microsoft Corporation
+    - – Informacja o prawach autorskich: Copyright (c) 1987-2022 Microsoft Corporation
 13. Filer
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 1995 Thomas Baier
@@ -58,7 +58,7 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Informacja o prawach autorskich: Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler
 19. OpenOffice
     - – Licencja: Apache 2.0
-    - – Informacja o prawach autorskich: Copyright (c) 2011-2021 Apache Software Foundation
+    - – Informacja o prawach autorskich: Copyright (c) 2011-2022 Apache Software Foundation
     - – Strona pobierania: http://www.openoffice.org/download/index.html
 20. PmNotes
     - – Licencja: Shareware
@@ -141,7 +141,7 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Informacja o prawach autorskich: Copyright (c) 1996 Patrick Schulte
 45. Word
     - – Licencja: Komercyjnj
-    - – Informacja o prawach autorskich: Copyright (c) 1983-2021 Microsoft Corporation
+    - – Informacja o prawach autorskich: Copyright (c) 1983-2022 Microsoft Corporation
 46. Yrolo
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1995 Muhammad A Muquit

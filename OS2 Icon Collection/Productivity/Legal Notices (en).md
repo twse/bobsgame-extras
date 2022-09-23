@@ -35,7 +35,7 @@
     - – Copyright Notice : Copyright (c) 1993-1994 Dan Kehn, Diana Soost
 12. Excel
     - – License : Commercial
-    - – Copyright Notice : Copyright (c) 1987-2021 Microsoft Corporation
+    - – Copyright Notice : Copyright (c) 1987-2022 Microsoft Corporation
 13. Filer
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995 Thomas Baier
@@ -58,7 +58,7 @@
     - – Copyright Notice : Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler
 19. OpenOffice
     - – License : Apache 2.0
-    - – Copyright Notice : Copyright (c) 2011-2021 Apache Software Foundation
+    - – Copyright Notice : Copyright (c) 2011-2022 Apache Software Foundation
     - – Download Site : http://www.openoffice.org/download/index.html
 20. PmNotes
     - – License : Shareware
@@ -141,7 +141,7 @@
     - – Copyright Notice : Copyright (c) 1996 Patrick Schulte
 45. Word
     - – License : Commercial
-    - – Copyright Notice : Copyright (c) 1983-2021 Microsoft Corporation
+    - – Copyright Notice : Copyright (c) 1983-2022 Microsoft Corporation
 46. Yrolo
     - – License : Free
     - – Copyright Notice : Copyright (c) 1995 Muhammad A Muquit

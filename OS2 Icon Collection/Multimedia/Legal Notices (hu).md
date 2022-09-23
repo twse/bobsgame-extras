@@ -140,7 +140,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 Oliver Fromme
 44. MPG123
     - – Licenc: LGPL 2.1
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2017 Michael Hipp, Thomas Orgis és másik
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2017 Michael Hipp, Thomas Orgis és mások
     - – Letöltési hely: http://www.mpg123.de/ (angol nyelvem)
 45. MPlayer
     - – Licenc: GPL 2.0

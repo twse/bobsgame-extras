@@ -62,7 +62,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-1998 Innotek Systemberatung GmbH
 20. XWorkplace
     - – Licenc: GPL 2.0
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2009 Ulrich Möller
-    - – Letöltési hely: http://xworkplace.netlabs.org/en/site/index.xml (angol nyelvem)
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2022 Ulrich Möller és mások
+    - – Letöltési hely: http://xworkplace.netlabs.org/en/site/index.xml (angol nyelvem) vagy http://trac.netlabs.org/xworkplace
 
 A teljes jogi közlemények, közreműködő és fordító listák, kérjük, látogasson el a https://bobsgame.fandom.com/wiki/Extras (angol nyelvem)

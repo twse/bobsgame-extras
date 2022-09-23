@@ -55,7 +55,7 @@ Acest folder poate conține următorul software:
     - – Aviz de copyright: Copyright (c) 1995-1996 Ole Barner
 18. FM/2
     - – Licență: GPL 2.0
-    - – Aviz de copyright: Copyright (c) 1997-2001 Mark Kimes, 2002-2017 Gregg Young, Steven H. Levine
+    - – Aviz de copyright: Copyright (c) 1997-2001 Mark Kimes, 2002-2022 Gregg Young, Steven H. Levine
     - – Site-ul de download: http://trac.netlabs.org/fm2
 19. K File Wizard
     - – Licență: GPL 3.0

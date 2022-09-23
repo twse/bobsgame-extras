@@ -55,7 +55,7 @@
     - – Aviso de derechos de autor: Copyright (c) 1995-1996 Ole Barner
 18. FM/2
     - – Licencia: GPL 2.0
-    - – Aviso de derechos de autor: Copyright (c) 1997-2001 Mark Kimes, 2002-2017 Gregg Young, Steven H. Levine
+    - – Aviso de derechos de autor: Copyright (c) 1997-2001 Mark Kimes, 2002-2022 Gregg Young, Steven H. Levine
     - – Sito di download: http://trac.netlabs.org/fm2
 19. K File Wizard
     - – Licencia: GPL 3.0

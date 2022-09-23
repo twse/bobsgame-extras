@@ -62,7 +62,7 @@
     - – Meddelelse om ophavsret: Copyright (c) 1997-1998 Innotek Systemberatung GmbH
 20. XWorkplace
     - – Licens: GPL 2.0
-    - – Meddelelse om ophavsret: Copyright (c) 1998-2009 Ulrich Möller
-    - – Download site: http://xworkplace.netlabs.org/en/site/index.xml (link på engelsk)
+    - – Meddelelse om ophavsret: Copyright (c) 1998-2009 Ulrich Möller og andres
+    - – Download site: http://xworkplace.netlabs.org/en/site/index.xml (link på engelsk) eller http://trac.netlabs.org/xworkplace
 
 For fuld juridiske meddelelser, bidragyder og oversætter lister, kan du besøge https://bobsgame.fandom.com/wiki/Extras (link på engelsk)

@@ -62,7 +62,7 @@
     - – Obavijest o autorskom pravu: Copyright (c) 1997-1998 Innotek Systemberatung GmbH
 20. XWorkplace
     - – Licenca: GPL 2.0
-    - – Obavijest o autorskom pravu: Copyright (c) 1998-2009 Ulrich Möller
-    - – Web-mjesto za preuzimanje: http://xworkplace.netlabs.org/en/site/index.xml (poveznica na engleski)
+    - – Obavijest o autorskom pravu: Copyright (c) 1998-2022 Ulrich Möller i drugi
+    - – Web-mjesto za preuzimanje: http://xworkplace.netlabs.org/en/site/index.xml (poveznica na engleski) ili http://trac.netlabs.org/xworkplace
 
 Potpune pravne obavijesti, popise suradnika i prevoditelja potražite na ovoj stranici https://bobsgame.fandom.com/wiki/Extras (poveznica na engleski)

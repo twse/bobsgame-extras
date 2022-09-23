@@ -35,7 +35,7 @@ Acest folder poate conține următorul software:
     - – Aviz de copyright: Copyright (c) 1993-1994 Dan Kehn, Diana Soost
 12. Excel
     - – Licență: Comerciali
-    - – Aviz de copyright: Copyright (c) 1987-2021 Microsoft Corporation
+    - – Aviz de copyright: Copyright (c) 1987-2022 Microsoft Corporation
 13. Filer
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1995 Thomas Baier
@@ -58,7 +58,7 @@ Acest folder poate conține următorul software:
     - – Aviz de copyright: Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler
 19. OpenOffice
     - – Licență: Apache 2.0
-    - – Aviz de copyright: Copyright (c) 2011-2021 Apache Software Foundation
+    - – Aviz de copyright: Copyright (c) 2011-2022 Apache Software Foundation
     - – Site-ul de download: http://www.openoffice.org/download/index.html
 20. PmNotes
     - – Licență: Shareware
@@ -141,7 +141,7 @@ Acest folder poate conține următorul software:
     - – Aviz de copyright: Copyright (c) 1996 Patrick Schulte
 45. Word
     - – Licență: Comerciali
-    - – Aviz de copyright: Copyright (c) 1983-2021 Microsoft Corporation
+    - – Aviz de copyright: Copyright (c) 1983-2022 Microsoft Corporation
 46. Yrolo
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1995 Muhammad A Muquit

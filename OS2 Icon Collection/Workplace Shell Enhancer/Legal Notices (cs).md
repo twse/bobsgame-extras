@@ -62,7 +62,7 @@
     - – Upozornění na autorská práva: Copyright (c) 1997-1998 Innotek Systemberatung GmbH
 20. XWorkplace
     - – Licence: GPL 2.0
-    - – Upozornění na autorská práva: Copyright (c) 1998-2009 Ulrich Möller
-    - – Server pro stahování: http://xworkplace.netlabs.org/en/site/index.xml (odkaz v angličtina)
+    - – Upozornění na autorská práva: Copyright (c) 1998-2022 Ulrich Möller a druhý
+    - – Server pro stahování: http://xworkplace.netlabs.org/en/site/index.xml (odkaz v angličtina) nebo http://trac.netlabs.org/xworkplace
 
 Úplné právní doložky, seznamy přispěvatelů a převaděče naleznete na https://bobsgame.fandom.com/wiki/Extras (odkaz v angličtina)

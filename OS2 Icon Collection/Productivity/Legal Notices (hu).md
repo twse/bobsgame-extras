@@ -35,7 +35,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993-1994 Dan Kehn, Diana Soost
 12. Excel
     - – Licenc: Kereskeledmi
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1987-2021 Microsoft Corporation
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1987-2022 Microsoft Corporation
 13. Filer
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Thomas Baier
@@ -58,7 +58,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler
 19. OpenOffice
     - – Licenc: Apache 2.0
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 2011-2021 Apache Software Foundation
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 2011-2022 Apache Software Foundation
     - – Letöltési hely: http://www.openoffice.org/download/index.html
 20. PmNotes
     - – Licenc: Shareware
@@ -141,7 +141,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996 Patrick Schulte
 45. Word
     - – Licenc: Kereskeledmi
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1983-2021 Microsoft Corporation
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1983-2022 Microsoft Corporation
 46. Yrolo
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Muhammad A Muquit

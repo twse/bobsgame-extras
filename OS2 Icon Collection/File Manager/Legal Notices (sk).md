@@ -55,7 +55,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
     - – Upozornenie na autorských práva: Copyright (c) 1995-1996 Ole Barner
 18. FM/2
     - – Licencia: GPL 2.0
-    - – Upozornenie na autorských práva: Copyright (c) 1997-2001 Mark Kimes, 2002-2017 Gregg Young, Steven H. Levine
+    - – Upozornenie na autorských práva: Copyright (c) 1997-2001 Mark Kimes, 2002-2022 Gregg Young, Steven H. Levine
     - – Server pro stáhovanie: http://trac.netlabs.org/fm2
 19. K File Wizard
     - – Licencia: GPL 3.0

@@ -2,7 +2,7 @@
 
 1. AGREP
    - – Licenc: Licenc ISC
-   - – Szerzői jogi figyelmeztetés: Copyright (c) 1989-1996 Udi Manber, Sun Wu és másik
+   - – Szerzői jogi figyelmeztetés: Copyright (c) 1989-1996 Udi Manber, Sun Wu és mások
    - – Letöltési hely: https://www.tgries.de/agrep/index.html (angol nyelvem)
 2. Corpus Wizard
    - – Licenc: Shareware

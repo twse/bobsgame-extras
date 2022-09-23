@@ -62,7 +62,7 @@
     - – Copyright Notice : Copyright (c) 1997-1998 Innotek Systemberatung GmbH
 20. XWorkplace
     - – License : GPL 2.0
-    - – Copyright Notice : Copyright (c) 1998-2009 Ulrich Möller
-    - – Download Site : http://xworkplace.netlabs.org/en/site/index.xml
+    - – Copyright Notice : Copyright (c) 1998-2022 Ulrich Möller et al.
+    - – Download Site : http://xworkplace.netlabs.org/en/site/index.xml or http://trac.netlabs.org/xworkplace
 
 For full legal notices, contributor and translator lists, please visit https://bobsgame.fandom.com/wiki/Extras

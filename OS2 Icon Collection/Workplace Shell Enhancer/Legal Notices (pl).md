@@ -62,7 +62,7 @@ Ten folder może zawierać następujące oprogramowanie:
     - – Informacja o prawach autorskich: Copyright (c) 1997-1998 Innotek Systemberatung GmbH
 20. XWorkplace
     - – Licencja: GPL 2.0
-    - – Informacja o prawach autorskich: Copyright (c) 1998-2009 Ulrich Möller
-    - – Strona pobierania: http://xworkplace.netlabs.org/en/site/index.xml (w angielski)
+    - – Informacja o prawach autorskich: Copyright (c) 1998-2022 Ulrich Möller i drugi
+    - – Strona pobierania: http://xworkplace.netlabs.org/en/site/index.xml (w angielski) lub http://trac.netlabs.org/xworkplace
 
 W celu uzyskania pełnych informacji prawnych, list autorów i tłumaczy prosimy odwiedzić https://bobsgame.fandom.com/wiki/Extras (w angielski)

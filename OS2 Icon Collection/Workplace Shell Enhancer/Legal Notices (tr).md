@@ -62,7 +62,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
     - – Telif Hakkı Bildirimi: Copyright (c) 1997-1998 Innotek Systemberatung GmbH
 20. XWorkplace
     - – Lisans: GPL 2.0
-    - – Telif Hakkı Bildirimi: Copyright (c) 1998-2009 Ulrich Möller
-    - – İndirme Sitesi: http://xworkplace.netlabs.org/en/site/index.xml (bağda İngilizce)
+    - – Telif Hakkı Bildirimi: Copyright (c) 1998-2022 Ulrich Möller veya diğer
+    - – İndirme Sitesi: http://xworkplace.netlabs.org/en/site/index.xml (bağda İngilizce) veya http://trac.netlabs.org/xworkplace
 
 Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

@@ -11,7 +11,7 @@
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1993-1996 Adam Mirowski
 4. CONNECT2, HandShaker
    - – Licenc: Szabad
-   - – Szerzői jogi figyelmeztetés: Copyright (c) 2000 Dima Orlov és másik
+   - – Szerzői jogi figyelmeztetés: Copyright (c) 2000 Dima Orlov és mások
 5. Dired
    - – Licenc: Szabad
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1974-1992 Stuart Cracraft, Stanley G. Kugell, Mike Lijewski, Michael Sperber
@@ -55,8 +55,8 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-1996 Ole Barner
 18. FM/2
     - – Licenc: GPL 2.0
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2001 Mark Kimes, 2002-2017 Gregg Young, Steven H. Levine
-    - – Letöltési hely: http://trac.netlabs.org/fm2 (angol nyelvem)
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2001 Mark Kimes, 2002-2022 Gregg Young, Steven H. Levine
+    - – Letöltési hely: http://trac.netlabs.org/fm2
 19. K File Wizard
     - – Licenc: GPL 3.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2014 Myung-Hun Ko
@@ -69,7 +69,7 @@
 22. Midnight Commander
     - – Licenc: GPL 3.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2022 Fejlesztők Midnight Commander
-    - – Letöltési hely: http://midnight-commander.org/ (angol nyelvem)
+    - – Letöltési hely: http://midnight-commander.org/
 23. Mr. File/PM
     - – Licenc: IBM EWS
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2000 Michael Kaczmarski, Richard J. Moore

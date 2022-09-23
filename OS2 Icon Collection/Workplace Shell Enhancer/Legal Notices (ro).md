@@ -62,7 +62,7 @@ Acest folder poate conține următorul software:
     - – Aviz de copyright: Copyright (c) 1997-1998 Innotek Systemberatung GmbH
 20. XWorkplace
     - – Licență: GPL 2.0
-    - – Aviz de copyright: Copyright (c) 1998-2009 Ulrich Möller
-    - – Site-ul de download: http://xworkplace.netlabs.org/en/site/index.xml (legătură în limba engleza)
+    - – Aviz de copyright: Copyright (c) 1998-2022 Ulrich Möller și altri
+    - – Site-ul de download: http://xworkplace.netlabs.org/en/site/index.xml (legătură în limba engleza) sau http://trac.netlabs.org/xworkplace
 
 Pentru notificări legale complete, contribuitor și liste de traducator, vă rugăm să vizitați https://bobsgame.fandom.com/wiki/Extras (legătură în limba engleza)

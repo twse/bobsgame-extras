@@ -55,8 +55,8 @@
     - – Avis de copyright : Copyright (c) 1995-1996 Ole Barner
 18. FM/2
     - – Licence : GPL 2.0
-    - – Avis de copyright : Copyright (c) 1997-2001 Mark Kimes, 2002-2017 Gregg Young, Steven H. Levine
-    - – Site de téléchargement : http://trac.netlabs.org/fm2 (rien en anglais)
+    - – Avis de copyright : Copyright (c) 1997-2001 Mark Kimes, 2002-2022 Gregg Young, Steven H. Levine
+    - – Site de téléchargement : http://trac.netlabs.org/fm2
 19. K File Wizard
     - – Licence : GPL 3.0
     - – Avis de copyright : Copyright (c) 2014 Myung-Hun Ko
@@ -69,7 +69,7 @@
 22. Midnight Commander
     - – Licence : GPL 3.0
     - – Avis de copyright : Copyright (c) 1997-2022 Développeurs de Midnight Commander
-    - – Site de téléchargement : http://midnight-commander.org/ (rien en anglais)
+    - – Site de téléchargement : http://midnight-commander.org/
 23. Mr. File/PM
     - – Licence : IBM EWS
     - – Avis de copyright : Copyright (c) 1995-2000 Michael Kaczmarski, Richard J. Moore

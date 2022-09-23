@@ -18,7 +18,7 @@
 6. Carrie R. Lust
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 1997-2000 Thorsten Thielen
-   - – Download Site : http://www.c2226.de/
+   - – Download Site : http://www.c2226.de/programs/clust/index.phtml
 7. Cobex
    - – License : Free
 8. ConnStat

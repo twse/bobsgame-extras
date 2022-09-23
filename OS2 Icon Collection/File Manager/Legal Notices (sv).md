@@ -55,7 +55,7 @@
     - – Copyrightmeddelande: Copyright (c) 1995-1996 Ole Barner
 18. FM/2
     - – Licens: GPL 2.0
-    - – Copyrightmeddelande: Copyright (c) 1997-2001 Mark Kimes, 2002-2017 Gregg Young, Steven H. Levine
+    - – Copyrightmeddelande: Copyright (c) 1997-2001 Mark Kimes, 2002-2022 Gregg Young, Steven H. Levine
     - – Nedladdningssida: http://trac.netlabs.org/fm2
 19. K File Wizard
     - – Licens: GPL 3.0

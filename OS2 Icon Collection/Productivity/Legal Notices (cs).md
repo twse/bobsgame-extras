@@ -35,7 +35,7 @@
     - – Upozornění na autorská práva: Copyright (c) 1993-1994 Dan Kehn, Diana Soost
 12. Excel
     - – Licence: Komerční
-    - – Upozornění na autorská práva: Copyright (c) 1987-2021 Microsoft Corporation
+    - – Upozornění na autorská práva: Copyright (c) 1987-2022 Microsoft Corporation
 13. Filer
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1995 Thomas Baier
@@ -58,7 +58,7 @@
     - – Upozornění na autorská práva: Copyright (c) 2012-2017 Christian Metscher, Fabian Deuchler
 19. OpenOffice
     - – Licence: Apache 2.0
-    - – Upozornění na autorská práva: Copyright (c) 2011-2021 Apache Software Foundation
+    - – Upozornění na autorská práva: Copyright (c) 2011-2022 Apache Software Foundation
     - – Server pro stahování: http://www.openoffice.org/download/index.html
 20. PmNotes
     - – Licence: Shareware
@@ -141,7 +141,7 @@
     - – Upozornění na autorská práva: Copyright (c) 1996 Patrick Schulte
 45. Word
     - – Licence: Komerční
-    - – Upozornění na autorská práva: Copyright (c) 1983-2021 Microsoft Corporation
+    - – Upozornění na autorská práva: Copyright (c) 1983-2022 Microsoft Corporation
 46. Yrolo
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1995 Muhammad A Muquit
