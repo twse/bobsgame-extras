@@ -69,7 +69,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Jasper de Keijzer
 22. Drawpile
     - – Licenc: GPL 3.0 (programok); MIT és CC-SA 4.0 (honlap)
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 2006-2021 Calle Laakkonen
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 2006-2022 Calle Laakkonen
     - – Letöltési hely: https://drawpile.net/ (angol nyelvem)
 23. EasyImageSizer
     - – Licenc: GPL 3.0
@@ -113,7 +113,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994 Andreas Ley
 35. GIMP
     - – Licenc: GPL 3.0 (programok), LGPL 3.0 (könyvtár), CC-SA 4.0 (honlap)
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2021 Spencer Kimball, Peter Mattis és GIMP fejlemény csapat
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1995-2022 Spencer Kimball, Peter Mattis és GIMP fejlemény csapat
     - – Letöltési hely: https://www.gimp.org/ (angol nyelvem)
 36. Graphics Mode Printing for REXX
     - – Licenc: Szabad felhasználás
@@ -147,8 +147,8 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Sergio Masci
 46. JasPer
     - – Licenc: Szabad
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2021 Michael David Adams
-    - – Letöltési hely: https://www.ece.uvic.ca/~frodo/jasper/ (angol nyelvem)
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2022 Michael David Adams
+    - – Letöltési hely: https://www.ece.uvic.ca/~frodo/jasper/ (angol nyelvem) vagy https://jasper-software.github.io/jasper/ (angol nyelvem)
 47. Jhead
     - – Licenc: Szabad felhasználás
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2018 Matthias Wandel

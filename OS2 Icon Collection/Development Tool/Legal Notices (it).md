@@ -112,11 +112,11 @@
 35. HexIt
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1995-2001 Mikael Klasson
-    - – Sito di download: http://www.mklasson.com/hexit.php
+    - – Sito di download: http://www.mklasson.com/hexit.php (link in inglese)
 36. Hiew
     - – Licenze: Shareware
-    - – Avviso di copyright: Copyright (c) 1997-2021 Eugene Suslikov
-    - – Sito di download: http://www.hiew.ru/
+    - – Avviso di copyright: Copyright (c) 1997-2022 Eugene Suslikov
+    - – Sito di download: http://www.hiew.ru/ (link in inglese)
 37. ICONRESOURCE
     - – Licenze: LGPL 2.0
     - – Avviso di copyright: Copyright (c) 2001 Christian Langanke
@@ -135,14 +135,14 @@
     - – Avviso di copyright: Copyright (c) 1997-2012 Daniel Veillard
     - – Sito di download: http://xmlsoft.org/ (link in inglese)
 42. Linear eXecutable Dump Facility/2
-    - – Licenze: Unsupported Libreware
+    - – Licenze: Libre senza soporte
     - – Avviso di copyright: Copyright (c) 1999 Roman Stangl
 43. Lua
     - – Licenze: Licenze MIT
     - – Avviso di copyright: Copyright (c) 1994-2022 Lua.org, PUC-Rio
     - – Sito di download: http://www.lua.org/
 44. LXOPT
-    - – Licenze: Unsupported Libreware
+    - – Licenze: Libre senza soporte
     - – Avviso di copyright: Copyright (c) 1994-1997 Functional Software Limited
 45. Netwide Assembler
     - – Licenze: BSD 2-Clause

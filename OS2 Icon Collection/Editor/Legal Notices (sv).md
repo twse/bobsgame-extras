@@ -34,7 +34,7 @@
     - – Nedladdningssida: http://elvis.the-little-red-haired-girl.org/ (link på engelska)
 11. Emacs
     - – Licens: GPL 3.0
-    - – Copyrightmeddelande: Copyright (c) 1985-2021 Richard Stallman
+    - – Copyrightmeddelande: Copyright (c) 1985-2022 Richard Stallman
     - – Nedladdningssida: http://www.gnu.org/software/emacs/ (link på engelska)
 12. Enhanced Editor
     - – Licens: Shareware
@@ -50,8 +50,8 @@
     - – Copyrightmeddelande: Copyright (c) 1994-2011 Jim Read
 16. FocusWriter
     - – Licens: GPL 3.0
-    - – Copyrightmeddelande: Copyright (c) 2008-2021 Graeme Gott
-    - – Nedladdningssida: https://gottcode.org/ (link på engelska)
+    - – Copyrightmeddelande: Copyright (c) 2008-2022 Graeme Gott
+    - – Nedladdningssida: https://gottcode.org/focuswriter/ (link på engelska)
 17. Future Wave Editor
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 1996-2000 Future Wave Limited

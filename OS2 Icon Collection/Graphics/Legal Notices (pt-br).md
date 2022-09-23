@@ -69,7 +69,7 @@
     - – Aviso de copyright: Copyright (c) 1995 Jasper de Keijzer
 22. Drawpile
     - – Licença: GPL 3.0 (programa); MIT e CC-SA 4.0 (site Web)
-    - – Aviso de copyright: Copyright (c) 2006-2021 Calle Laakkonen
+    - – Aviso de copyright: Copyright (c) 2006-2022 Calle Laakkonen
     - – Site de download: https://drawpile.net/ (link em inglês)
 23. EasyImageSizer
     - – Licença: GPL 3.0
@@ -107,13 +107,13 @@
 33. gifsicle
     - – Licença: GPL 2.0
     - – Aviso de copyright: Copyright (c) 1997-2018 Eddie Kohler
-    - – Site de download: http://www.lcdf.org/gifsicle/ (link em inglês(
+    - – Site de download: http://www.lcdf.org/gifsicle/ (link em inglês)
 34. GIFtrans
     - – Licença: GPL 2.0
     - – Aviso de copyright: Copyright (c) 1994 Andreas Ley
 35. GIMP
     - – Licença: GPL 3.0 (programa), LGPL 3.0 (biblioteca), CC-SA 4.0 (site Web)
-    - – Aviso de copyright: Copyright (c) 1995-2021 Spencer Kimball, Peter Mattis e o equipo de desenvolvimento de GIMP
+    - – Aviso de copyright: Copyright (c) 1995-2022 Spencer Kimball, Peter Mattis e o equipo de desenvolvimento de GIMP
     - – Site de download: https://www.gimp.org/ (link em inglês)
 36. Graphics Mode Printing for REXX
     - – Licença: Domínio público
@@ -147,8 +147,8 @@
     - – Aviso de copyright: Copyright (c) 1997 Sergio Masci
 46. JasPer
     - – Licença: Grátis
-    - – Aviso de copyright: Copyright (c) 2001-2021 Michael David Adams
-    - – Site de download: https://www.ece.uvic.ca/~frodo/jasper/ (link em inglês)
+    - – Aviso de copyright: Copyright (c) 2001-2022 Michael David Adams
+    - – Site de download: https://www.ece.uvic.ca/~frodo/jasper/ (link em inglês) ou https://jasper-software.github.io/jasper/ (link em inglês)
 47. Jhead
     - – Licença: Domínio público
     - – Aviso de copyright: Copyright (c) 2001-2018 Matthias Wandel

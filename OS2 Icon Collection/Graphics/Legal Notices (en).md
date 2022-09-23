@@ -69,7 +69,7 @@
     - – Copyright Notice : Copyright (c) 1995 Jasper de Keijzer
 22. Drawpile
     - – License : GPL 3.0 (program); MIT and CC-SA 4.0 (website)
-    - – Copyright Notice : Copyright (c) 2006-2021 Calle Laakkonen
+    - – Copyright Notice : Copyright (c) 2006-2022 Calle Laakkonen
     - – Download Site : https://drawpile.net/
 23. EasyImageSizer
     - – License : GPL 3.0
@@ -113,7 +113,7 @@
     - – Copyright Notice : Copyright (c) 1994 Andreas Ley
 35. GIMP
     - – License : GPL 3.0 (program), LGPL 3.0 (library), CC-SA 4.0 (website)
-    - – Copyright Notice : Copyright (c) 1995-2021 Spencer Kimball, Peter Mattis and the GIMP Development Team
+    - – Copyright Notice : Copyright (c) 1995-2022 Spencer Kimball, Peter Mattis and the GIMP Development Team
     - – Download Site : https://www.gimp.org/
 36. Graphics Mode Printing for REXX
     - – License : Public Domain
@@ -147,8 +147,8 @@
     - – Copyright Notice : Copyright (c) 1997 Sergio Masci
 46. JasPer
     - – License : Free
-    - – Copyright Notice : Copyright (c) 2001-2021 Michael David Adams
-    - – Download Site : https://www.ece.uvic.ca/~frodo/jasper/
+    - – Copyright Notice : Copyright (c) 2001-2022 Michael David Adams
+    - – Download Site : https://www.ece.uvic.ca/~frodo/jasper/ or https://jasper-software.github.io/jasper/
 47. Jhead
     - – License : Public Domain
     - – Copyright Notice : Copyright (c) 2001-2018 Matthias Wandel

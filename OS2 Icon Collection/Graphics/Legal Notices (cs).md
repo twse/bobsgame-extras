@@ -69,7 +69,7 @@
     - – Upozornění na autorská práva: Copyright (c) 1995 Jasper de Keijzer
 22. Drawpile
     - – Licence: GPL 3.0 (programy); MIT a CC-SA 4.0 (strona)
-    - – Upozornění na autorská práva: Copyright (c) 2006-2021 Calle Laakkonen
+    - – Upozornění na autorská práva: Copyright (c) 2006-2022 Calle Laakkonen
     - – Server pro stahování: https://drawpile.net/ (odkaz v angličtina)
 23. EasyImageSizer
     - – Licence: GPL 3.0
@@ -113,7 +113,7 @@
     - – Upozornění na autorská práva: Copyright (c) 1994 Andreas Ley
 35. GIMP
     - – Licence: GPL 3.0 (program), LGPL 3.0 (knihovna), CC-SA 4.0 (strona)
-    - – Upozornění na autorská práva: Copyright (c) 1995-2021 Spencer Kimball, Peter Mattis a vývojářní tým GIMP
+    - – Upozornění na autorská práva: Copyright (c) 1995-2022 Spencer Kimball, Peter Mattis a vývojářní tým GIMP
     - – Server pro stahování: https://www.gimp.org/
 36. Graphics Mode Printing for REXX
     - – Licence: Doména publikum
@@ -147,8 +147,8 @@
     - – Upozornění na autorská práva: Copyright (c) 1997 Sergio Masci
 46. JasPer
     - – Licence: Svobodné
-    - – Upozornění na autorská práva: Copyright (c) 2001-2021 Michael David Adams
-    - – Server pro stahování: https://www.ece.uvic.ca/~frodo/jasper/ (odkaz v angličtina)
+    - – Upozornění na autorská práva: Copyright (c) 2001-2022 Michael David Adams
+    - – Server pro stahování: https://www.ece.uvic.ca/~frodo/jasper/ (odkaz v angličtina) lub https://jasper-software.github.io/jasper/ (odkaz v angličtina)
 47. Jhead
     - – Licence: Doména publikum
     - – Upozornění na autorská práva: Copyright (c) 2001-2018 Matthias Wandel

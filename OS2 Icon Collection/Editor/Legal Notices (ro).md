@@ -50,8 +50,8 @@ Acest folder poate conține următorul software:
     - – Aviz de copyright: Copyright (c) 1994-2011 Jim Read
 16. FocusWriter
     - – Licență: GPL 3.0
-    - – Aviz de copyright: Copyright (c) 2008-2021 Graeme Gott
-    - – Site-ul de download: https://gottcode.org/ (legătură în limba engleza)
+    - – Aviz de copyright: Copyright (c) 2008-2022 Graeme Gott
+    - – Site-ul de download: https://gottcode.org/focuswriter/ (legătură în limba engleza)
 17. Future Wave Editor
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1996-2000 Future Wave Limited

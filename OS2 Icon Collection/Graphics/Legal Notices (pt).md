@@ -113,7 +113,7 @@
     - – Aviso de direitos autorais: Copyright (c) 1994 Andreas Ley
 35. GIMP
     - – Licença: GPL 3.0 (programa), LGPL 3.0 (biblioteca), CC-SA 4.0 (site Web)
-    - – Aviso de direitos autorais: Copyright (c) 1995-2021 Spencer Kimball, Peter Mattis e o equipo de desenvolvimento de GIMP
+    - – Aviso de direitos autorais: Copyright (c) 1995-2022 Spencer Kimball, Peter Mattis e o equipo de desenvolvimento de GIMP
     - – Site de descarregamento: https://www.gimp.org/ (link em inglês)
 36. Graphics Mode Printing for REXX
     - – Licença: Domínio público
@@ -147,8 +147,8 @@
     - – Aviso de direitos autorais: Copyright (c) 1997 Sergio Masci
 46. JasPer
     - – Licença: Grátis
-    - – Aviso de direitos autorais: Copyright (c) 2001-2021 Michael David Adams
-    - – Site de descarregamento: https://www.ece.uvic.ca/~frodo/jasper/ (link em inglês)
+    - – Aviso de direitos autorais: Copyright (c) 2001-2022 Michael David Adams
+    - – Site de descarregamento: https://www.ece.uvic.ca/~frodo/jasper/ (link em inglês) ou https://jasper-software.github.io/jasper/ (link em inglês)
 47. Jhead
     - – Licença: Domínio público
     - – Aviso de direitos autorais: Copyright (c) 2001-2018 Matthias Wandel

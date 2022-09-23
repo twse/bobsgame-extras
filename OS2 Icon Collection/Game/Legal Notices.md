@@ -1,17 +1,17 @@
 ﻿This folder may contain the following games:
 
 1. $Sheriff
-    - – License : Donationware
-    - – Copyright Notice : Copyright (c) 1996 Miltiadis Mitrakas
+   - – License : Donationware
+   - – Copyright Notice : Copyright (c) 1996 Miltiadis Mitrakas
 2. 6/49
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 1993 Joe Smeets
+   - – License : Free
+   - – Copyright Notice : Copyright (c) 1993 Joe Smeets
 3. Across Lite
    - – License : Free
    - – Copyright Notice : Copyright (c) 1995-1997 Literate Software Systems
 4. Animation Scramble
-    - – License : Free
-    - – Copyright Notice : Copyright (c) 1996 Shinji Takasugi
+   - – License : Free
+   - – Copyright Notice : Copyright (c) 1996 Shinji Takasugi
 5. ASTEROID
    - – License : Free
    - – Copyright Notice : Copyright (c) 1990-1993 Todd B. Crowe
@@ -134,8 +134,8 @@
     - – Copyright Notice : Copyright (c) 1996-2004 Jasper de Keijzer
 44. Gottet, Hexalate
     - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 2007-2021 Graeme Gott
-    - – Download Site : https://www.gottcode.org/
+    - – Copyright Notice : Copyright (c) 2007-2022 Graeme Gott
+    - – Download Site : https://gottcode.org/gottet/ (Gottet), https://gottcode.org/hexalate/ (Hexalate)
 45. Hangman
     - – License : Free
     - – Copyright Notice : Copyright (c) 1994 Everett Barnes, 1998-2001 Michael G. Slack
@@ -307,7 +307,7 @@
     - – Copyright Notice : Copyright (c) 1996 Stan J. Towianski
 100. SuperTux
      - – License : GPL 3.0
-     - – Copyright Notice : Copyright (c) 2003-2021 Bill Kendrick, Eric Windisch, Wesley Poole, Tobias Gläßer, Tobias Markus and the SuperTux Development Team
+     - – Copyright Notice : Copyright (c) 2003-2022 Bill Kendrick, Eric Windisch, Wesley Poole, Tobias Gläßer, Tobias Markus and the SuperTux Development Team
      - – Download Site : https://www.supertux.org/
 101. Tangram PM
      - – License : Free
@@ -323,7 +323,7 @@
      - – Copyright Notice : Copyright (c) 1991-1992 Markus Noller, 1993 Jim Garrison, 1998 Robert A. van Wier
 105. The Battle for Wesnoth
      - – License : GPL 2.0
-     - – Copyright Notice : Copyright (c) 2003-2021 David White
+     - – Copyright Notice : Copyright (c) 2003-2022 David White
      - – Download Site : http://www.wesnoth.org/
      - – Steam Entry : https://store.steampowered.com/app/599390
 106. Toyland

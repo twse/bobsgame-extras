@@ -115,7 +115,7 @@
     - – Download-Site: http://www.mklasson.com/hexit.php (link auf englisch)
 36. Hiew
     - – Lizenz: Shareware
-    - – Copyright-Hinweise: Copyright (c) 1997-2021 Eugene Suslikov
+    - – Copyright-Hinweise: Copyright (c) 1997-2022 Eugene Suslikov
     - – Download-Site: http://www.hiew.ru/ (link auf englisch)
 37. ICONRESOURCE
     - – Lizenz: LGPL 2.0

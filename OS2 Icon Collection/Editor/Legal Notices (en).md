@@ -34,7 +34,7 @@
     - – Download Site : http://elvis.the-little-red-haired-girl.org/
 11. Emacs
     - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 1985-2021 Richard Stallman
+    - – Copyright Notice : Copyright (c) 1985-2022 Richard Stallman
     - – Download Site : http://www.gnu.org/software/emacs/
 12. Enhanced Editor
     - – License : Shareware
@@ -50,8 +50,8 @@
     - – Copyright Notice : Copyright (c) 1994-2011 Jim Read
 16. FocusWriter
     - – License : GPL 3.0
-    - – Copyright Notice : Copyright (c) 2008-2021 Graeme Gott
-    - – Download Site : https://gottcode.org/
+    - – Copyright Notice : Copyright (c) 2008-2022 Graeme Gott
+    - – Download Site : https://gottcode.org/focuswriter/
 17. Future Wave Editor
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996-2000 Future Wave Limited

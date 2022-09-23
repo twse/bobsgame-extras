@@ -34,7 +34,7 @@
     - – Server pro stahování: http://elvis.the-little-red-haired-girl.org/ (odkaz v angličtina)
 11. Emacs
     - – Licence: GPL 3.0
-    - – Upozornění na autorská práva: Copyright (c) 1985-2021 Richard Stallman
+    - – Upozornění na autorská práva: Copyright (c) 1985-2022 Richard Stallman
     - – Server pro stahování: http://www.gnu.org/software/emacs/ (odkaz v angličtina)
 12. Enhanced Editor
     - – Licence: Shareware
@@ -50,8 +50,8 @@
     - – Upozornění na autorská práva: Copyright (c) 1994-2011 Jim Read
 16. FocusWriter
     - – Licence: GPL 3.0
-    - – Upozornění na autorská práva: Copyright (c) 2008-2021 Graeme Gott
-    - – Server pro stahování: https://gottcode.org/ (odkaz v angličtina)
+    - – Upozornění na autorská práva: Copyright (c) 2008-2022 Graeme Gott
+    - – Server pro stahování: https://gottcode.org/focuswriter/ (odkaz v angličtina)
 17. Future Wave Editor
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1996-2000 Future Wave Limited
