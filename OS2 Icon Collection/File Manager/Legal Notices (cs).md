@@ -56,7 +56,7 @@
 18. FM/2
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 1997-2001 Mark Kimes, 2002-2017 Gregg Young, Steven H. Levine
-    - – Server pro stahování: http://trac.netlabs.org/fm2 (odkaz v angličtina)
+    - – Server pro stahování: http://trac.netlabs.org/fm2
 19. K File Wizard
     - – Licence: GPL 3.0
     - – Upozornění na autorská práva: Copyright (c) 2014 Myung-Hun Ko
@@ -68,8 +68,8 @@
     - – Upozornění na autorská práva: Copyright (c) 1995 Ronald Van Iwaarden
 22. Midnight Commander
     - – Licence: GPL 3.0
-    - – Upozornění na autorská práva: Copyright (c) 1997-2021 Vývojáři Midnight Commander
-    - – Server pro stahování: http://midnight-commander.org/ (odkaz v angličtina)
+    - – Upozornění na autorská práva: Copyright (c) 1997-2022 Vývojáři Midnight Commander
+    - – Server pro stahování: http://midnight-commander.org/
 23. Mr. File/PM
     - – Licence: IBM EWS
     - – Upozornění na autorská práva: Copyright (c) 1995-2000 Michael Kaczmarski, Richard J. Moore

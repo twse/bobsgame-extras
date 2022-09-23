@@ -68,7 +68,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
     - – Upozornenie na autorských práva: Copyright (c) 1995 Ronald Van Iwaarden
 22. Midnight Commander
     - – Licencia: GPL 3.0
-    - – Upozornenie na autorských práva: Copyright (c) 1997-2021 Midnight Commander vývojári
+    - – Upozornenie na autorských práva: Copyright (c) 1997-2022 Midnight Commander vývojári
     - – Server pro stáhovanie: http://midnight-commander.org/
 23. Mr. File/PM
     - – Licencia: IBM EWS

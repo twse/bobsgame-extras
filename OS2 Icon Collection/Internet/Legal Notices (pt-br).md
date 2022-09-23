@@ -43,7 +43,7 @@
     - – Aviso de copyright: Copyright (c) 1996 Scott Russell
 14. cURL
     - – Licença: Grátis
-    - – Aviso de copyright: Copyright (c) 1996-2021 Daniel Stenberg
+    - – Aviso de copyright: Copyright (c) 1996-2022 Daniel Stenberg
     - – Site de download: https://curl.se/ (link em inglês)
 15. Deja News Reader
     - – Licença: Grátis
@@ -69,7 +69,7 @@
     - – Site de download: https://www.falkon.org/ (link em inglês)
 22. Firefox, SeaMonkey, Thunderbird
     - – Licença: MPL 2.0
-    - – Aviso de copyright: Copyright (c) 1998-2021 Contribuintes para a base de código Mozilla
+    - – Aviso de copyright: Copyright (c) 1998-2022 Contribuintes para a base de código Mozilla
     - – Site de download: https://www.mozilla.org/ (Firefox), https://www.seamonkey-project.org/ (SeaMonkey) ou https://www.thunderbird.net/ (Thunderbird)
 23. FormCheck/2
     - – Licença: Grátis
@@ -184,7 +184,7 @@
     - – Aviso de copyright: Copyright (c) 1994 Peter Wansch
 60. Links
     - – Licença: GPL 2.0
-    - – Aviso de copyright: Copyright (c) 1999-2021 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
+    - – Aviso de copyright: Copyright (c) 1999-2022 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
     - – Site de download: http://links.twibright.com/ (link em inglês)
 61. LJV Toolkit
     - – Licença: Shareware
@@ -287,7 +287,7 @@
     - – Aviso de copyright: Copyright (c) 1992-1999 Peter Mandrella
 92. Opera
     - – Licença: Grátis
-    - – Aviso de copyright: Copyright (c) 1994-2021 Opera Software ASA
+    - – Aviso de copyright: Copyright (c) 1994-2022 Opera Software ASA
     - – Site de download: https://www.opera.com/
 93. OS2_NTPD
     - – Licença: Grátis
@@ -397,7 +397,7 @@
      - – Aviso de copyright: Copyright (c) 1997 Jürgen Dankoweit
 127. Wget
      - – Licença: GPL 3.0
-     - – Aviso de copyright: Copyright (c) 1995-2021 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
+     - – Aviso de copyright: Copyright (c) 1995-2022 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
      - – Site de download: http://www.gnu.org/software/wget/ (link em inglês)
 128. whois
      - – Licença: Grátis

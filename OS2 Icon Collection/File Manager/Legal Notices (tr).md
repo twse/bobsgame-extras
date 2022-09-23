@@ -68,7 +68,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
     - – Telif Hakkı Bildirimi: Copyright (c) 1995 Ronald Van Iwaarden
 22. Midnight Commander
     - – Lisans: GPL 3.0
-    - – Telif Hakkı Bildirimi: Copyright (c) 1997-2021 Midnight Commander geliştirici
+    - – Telif Hakkı Bildirimi: Copyright (c) 1997-2022 Midnight Commander geliştirici
     - – İndirme Sitesi: http://midnight-commander.org/
 23. Mr. File/PM
     - – Lisans: IBM EWS

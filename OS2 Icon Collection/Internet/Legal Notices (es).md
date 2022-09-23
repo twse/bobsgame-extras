@@ -43,7 +43,7 @@
     - – Aviso de derechos de autor: Copyright (c) 1996 Scott Russell
 14. cURL
     - – Licencia: Gratis
-    - – Aviso de derechos de autor: Copyright (c) 1996-2021 Daniel Stenberg
+    - – Aviso de derechos de autor: Copyright (c) 1996-2022 Daniel Stenberg
     - – Sitio de descarga: https://curl.se/ (enlace en inglés)
 15. Deja News Reader
     - – Licencia: Gratis
@@ -69,7 +69,7 @@
     - – Sitio de descarga: https://www.falkon.org/ (enlace en inglés)
 22. Firefox, SeaMonkey, Thunderbird
     - – Licencia: MPL 2.0
-    - – Aviso de derechos de autor: Copyright (c) 1998-2021 Colaboradores de la base de código de Mozilla
+    - – Aviso de derechos de autor: Copyright (c) 1998-2022 Colaboradores de la base de código de Mozilla
     - – Sitio de descarga: https://www.mozilla.org/ (Firefox), https://www.seamonkey-project.org/ (SeaMonkey) o https://www.thunderbird.net/ (Thunderbird)
 23. FormCheck/2
     - – Licencia: Gratis
@@ -184,7 +184,7 @@
     - – Aviso de derechos de autor: Copyright (c) 1994 Peter Wansch
 60. Links
     - – Licencia: GPL 2.0
-    - – Aviso de derechos de autor: Copyright (c) 1999-2021 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
+    - – Aviso de derechos de autor: Copyright (c) 1999-2022 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
     - – Sitio de descarga: http://links.twibright.com/ (enlace en inglés)
 61. LJV Toolkit
     - – Licencia: Shareware
@@ -397,7 +397,7 @@
      - – Aviso de derechos de autor: Copyright (c) 1997 Jürgen Dankoweit
 127. Wget
      - – Licencia: GPL 3.0
-     - – Aviso de derechos de autor: Copyright (c) 1995-2021 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
+     - – Aviso de derechos de autor: Copyright (c) 1995-2022 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
      - – Sitio de descarga: http://www.gnu.org/software/wget/ (enlace en inglés)
 128. whois
      - – Licencia: Gratis

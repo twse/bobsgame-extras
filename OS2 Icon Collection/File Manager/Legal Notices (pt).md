@@ -68,7 +68,7 @@
     - – Aviso de direitos autorais: Copyright (c) 1995 Ronald Van Iwaarden
 22. Midnight Commander
     - – Licença: GPL 3.0
-    - – Aviso de direitos autorais: Copyright (c) 1997-2021 Desenvolvedores Midnight Commander
+    - – Aviso de direitos autorais: Copyright (c) 1997-2022 Desenvolvedores Midnight Commander
     - – Site de descarregamento: http://midnight-commander.org/ (link em inglês)
 23. Mr. File/PM
     - – Licença: IBM EWS

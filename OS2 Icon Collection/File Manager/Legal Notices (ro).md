@@ -56,7 +56,7 @@ Acest folder poate conține următorul software:
 18. FM/2
     - – Licență: GPL 2.0
     - – Aviz de copyright: Copyright (c) 1997-2001 Mark Kimes, 2002-2017 Gregg Young, Steven H. Levine
-    - – Site-ul de download: http://trac.netlabs.org/fm2 (legătură în limba engleza)
+    - – Site-ul de download: http://trac.netlabs.org/fm2
 19. K File Wizard
     - – Licență: GPL 3.0
     - – Aviz de copyright: Copyright (c) 2014 Myung-Hun Ko
@@ -68,8 +68,8 @@ Acest folder poate conține următorul software:
     - – Aviz de copyright: Copyright (c) 1995 Ronald Van Iwaarden
 22. Midnight Commander
     - – Licență: GPL 3.0
-    - – Aviz de copyright: Copyright (c) 1997-2021 Dezvoltatori Midnight Commander
-    - – Site-ul de download: http://midnight-commander.org/ (legătură în limba engleza)
+    - – Aviz de copyright: Copyright (c) 1997-2022 Dezvoltatori Midnight Commander
+    - – Site-ul de download: http://midnight-commander.org/
 23. Mr. File/PM
     - – Licență: IBM EWS
     - – Aviz de copyright: Copyright (c) 1995-2000 Michael Kaczmarski, Richard J. Moore

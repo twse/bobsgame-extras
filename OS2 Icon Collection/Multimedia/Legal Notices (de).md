@@ -76,7 +76,7 @@
     - – Copyright-Hinweise: Copyright (c) 1995 Harald Schönfeld, Bernd Spellenberg
 24. Flacon
     - – Lizenz: LGPL 2.1
-    - – Copyright-Hinweise: Copyright (c) 2012-2021 Alexander Sokolov
+    - – Copyright-Hinweise: Copyright (c) 2012-2022 Alexander Sokolov
     - – Download-Site: http://flacon.github.io/ (link auf englisch)
 25. Flash Player
     - – Lizenz: Frei
@@ -103,7 +103,7 @@
     - – Download-Site: https://lame.sourceforge.io/
 32. libvpx
     - – Lizenz: BSD 3-Klausel
-    - – Copyright-Hinweise: Copyright (c) 2010-2021 Der WebM-Projekt-Urheberer
+    - – Copyright-Hinweise: Copyright (c) 2010-2022 Der WebM-Projekt-Urheberer
     - – Download-Site: https://www.webmproject.org/ (link auf englisch)
 33. Lyrics, MotivatorMaker, QScaleGen
     - – Lizenz: GPL 2.0
@@ -228,7 +228,7 @@
     - – Copyright-Hinweise: Copyright (c) 2002 Doodle
 72. SMPlayer
     - – Lizenz: GPL 2.0
-    - – Copyright-Hinweise: Copyright (c) 2006-2021 Ricardo Villalba
+    - – Copyright-Hinweise: Copyright (c) 2006-2022 Ricardo Villalba
     - – Download-Site: https://www.smplayer.info/
 73. Sound Scheme Editor
     - – Lizenz: Frei
@@ -254,7 +254,7 @@
     - – Copyright-Hinweise: Copyright (c) 1994 Sander van Leeuwen
 80. VLC
     - – Lizenz: GPL 2.0
-    - – Copyright-Hinweise: Copyright (c) 1996-2021 VideoLAN
+    - – Copyright-Hinweise: Copyright (c) 1996-2022 VideoLAN
     - – Download-Site: http://www.videolan.org/vlc/
 81. VoiX
     - – Lizenz: LGPL 2.0

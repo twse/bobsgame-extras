@@ -76,7 +76,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Harald Schönfeld, Bernd Spellenberg
 24. Flacon
     - – Licenc: LGPL 2.1
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 2012-2021 Alexander Sokolov
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 2012-2022 Alexander Sokolov
     - – Letöltési hely: http://flacon.github.io/ (angol nyelvem)
 25. Flash Player
     - – Licenc: Szabad
@@ -103,7 +103,7 @@
     - – Letöltési hely: https://lame.sourceforge.io/ (angol nyelvem)
 32. libvpx
     - – Licenc: BSD 3-klauzula
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 2010-2021 Szerzői projekt WebM
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 2010-2022 Szerzői projekt WebM
     - – Letöltési hely: https://www.webmproject.org/ (angol nyelvem)
 33. Lyrics, MotivatorMaker, QScaleGen
     - – Licenc: GPL 2.0
@@ -228,7 +228,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2002 Doodle
 72. SMPlayer
     - – Licenc: GPL 2.0
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 2006-2021 Ricardo Villalba
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 2006-2022 Ricardo Villalba
     - – Letöltési hely: https://www.smplayer.info/
 73. Sound Scheme Editor
     - – Licenc: Szabad
@@ -254,7 +254,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994 Sander van Leeuwen
 80. VLC
     - – Licenc: GPL 2.0
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-2021 VideoLAN
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1996-2022 VideoLAN
     - – Letöltési hely: http://www.videolan.org/vlc/
 81. VoiX
     - – Licenc: LGPL 2.0

@@ -68,7 +68,7 @@
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Ronald Van Iwaarden
 22. Midnight Commander
     - – Licenc: GPL 3.0
-    - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2021 Fejlesztők Midnight Commander
+    - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2022 Fejlesztők Midnight Commander
     - – Letöltési hely: http://midnight-commander.org/ (angol nyelvem)
 23. Mr. File/PM
     - – Licenc: IBM EWS

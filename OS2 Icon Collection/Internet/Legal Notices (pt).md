@@ -184,7 +184,7 @@
     - – Aviso de direitos autorais: Copyright (c) 1994 Peter Wansch
 60. Links
     - – Licença: GPL 2.0
-    - – Aviso de direitos autorais: Copyright (c) 1999-2021 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
+    - – Aviso de direitos autorais: Copyright (c) 1999-2022 Mikuláš Patočka, 2000-2013 Karel Kulhavý, Petr Kulhavý, Martin Pergel
     - – Site de descarregamento: http://links.twibright.com/ (link em inglês)
 61. LJV Toolkit
     - – Licença: Shareware
@@ -287,7 +287,7 @@
     - – Aviso de direitos autorais: Copyright (c) 1992-1999 Peter Mandrella
 92. Opera
     - – Licença: Grátis
-    - – Aviso de direitos autorais: Copyright (c) 1994-2021 Opera Software ASA
+    - – Aviso de direitos autorais: Copyright (c) 1994-2022 Opera Software ASA
     - – Site de descarregamento: https://www.opera.com/
 93. OS2_NTPD
     - – Licença: Grátis
@@ -397,7 +397,7 @@
      - – Aviso de direitos autorais: Copyright (c) 1997 Jürgen Dankoweit
 127. Wget
      - – Licença: GPL 3.0
-     - – Aviso de direitos autorais: Copyright (c) 1995-2021 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
+     - – Aviso de direitos autorais: Copyright (c) 1995-2022 Hrvoje Nikšić, Dan Harkless, Mauro Tortonesi, Tim Rühsen, Darshit Shah, Giuseppe Scrivano
      - – Site de descarregamento: http://www.gnu.org/software/wget/ (link em inglês)
 128. whois
      - – Licença: Grátis

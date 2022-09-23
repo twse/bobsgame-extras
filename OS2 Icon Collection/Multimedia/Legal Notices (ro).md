@@ -76,7 +76,7 @@ Acest folder poate conține următorul software:
     - – Aviz de copyright: Copyright (c) 1995 Harald Schönfeld, Bernd Spellenberg
 24. Flacon
     - – Licență: LGPL 2.1
-    - – Aviz de copyright: Copyright (c) 2012-2021 Alexander Sokolov
+    - – Aviz de copyright: Copyright (c) 2012-2022 Alexander Sokolov
     - – Site-ul de download: http://flacon.github.io/ (legătură în limba engleza)
 25. Flash Player
     - – Licență: Gratis
@@ -103,7 +103,7 @@ Acest folder poate conține următorul software:
     - – Site-ul de download: https://lame.sourceforge.io/ (legătură în limba engleza)
 32. libvpx
     - – Licență: BSD 3-clause
-    - – Aviz de copyright: Copyright (c) 2010-2021 Autor proiect WebM
+    - – Aviz de copyright: Copyright (c) 2010-2022 Autor proiect WebM
     - – Site-ul de download: https://www.webmproject.org/ (legătură în limba engleza)
 33. Lyrics, MotivatorMaker, QScaleGen
     - – Licență: GPL 2.0
@@ -228,7 +228,7 @@ Acest folder poate conține următorul software:
     - – Aviz de copyright: Copyright (c) 2002 Doodle
 72. SMPlayer
     - – Licență: GPL 2.0
-    - – Aviz de copyright: Copyright (c) 2006-2021 Ricardo Villalba
+    - – Aviz de copyright: Copyright (c) 2006-2022 Ricardo Villalba
     - – Site-ul de download: https://www.smplayer.info/
 73. Sound Scheme Editor
     - – Licență: Gratis
@@ -254,7 +254,7 @@ Acest folder poate conține următorul software:
     - – Aviz de copyright: Copyright (c) 1994 Sander van Leeuwen
 80. VLC
     - – Licență: GPL 2.0
-    - – Aviz de copyright: Copyright (c) 1996-2021 VideoLAN
+    - – Aviz de copyright: Copyright (c) 1996-2022 VideoLAN
     - – Site-ul de download: http://www.videolan.org/vlc/
 81. VoiX
     - – Licență: LGPL 2.0

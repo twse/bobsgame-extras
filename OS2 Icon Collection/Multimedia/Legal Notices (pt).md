@@ -76,7 +76,7 @@
     - – Aviso de direitos autorais: Copyright (c) 1995 Harald Schönfeld, Bernd Spellenberg
 24. Flacon
     - – Licença: LGPL 2.1
-    - – Aviso de direitos autorais: Copyright (c) 2012-2021 Alexander Sokolov
+    - – Aviso de direitos autorais: Copyright (c) 2012-2022 Alexander Sokolov
     - – Site de descarregamento: http://flacon.github.io/ (link em inglês)
 25. Flash Player
     - – Licença: Grátis
@@ -103,7 +103,7 @@
     - – Site de descarregamento: https://lame.sourceforge.io/ (link em inglês)
 32. libvpx
     - – Licença: BSD do 3 cláusulas
-    - – Aviso de direitos autorais: Copyright (c) 2010-2021 Os Autores do Projeto WebM
+    - – Aviso de direitos autorais: Copyright (c) 2010-2022 Os Autores do Projeto WebM
     - – Site de descarregamento: https://www.webmproject.org/ (link em inglês)
 33. Lyrics, MotivatorMaker, QScaleGen
     - – Licença: GPL 2.0
@@ -228,7 +228,7 @@
     - – Aviso de direitos autorais: Copyright (c) 2002 Doodle
 72. SMPlayer
     - – Licença: GPL 2.0
-    - – Aviso de direitos autorais: Copyright (c) 2006-2021 Ricardo Villalba
+    - – Aviso de direitos autorais: Copyright (c) 2006-2022 Ricardo Villalba
     - – Site de descarregamento: https://www.smplayer.info/
 73. Sound Scheme Editor
     - – Licença: Grátis
@@ -254,7 +254,7 @@
     - – Aviso de direitos autorais: Copyright (c) 1994 Sander van Leeuwen
 80. VLC
     - – Licença: GPL 2.0
-    - – Aviso de direitos autorais: Copyright (c) 1996-2021 VideoLAN
+    - – Aviso de direitos autorais: Copyright (c) 1996-2022 VideoLAN
     - – Site de descarregamento: http://www.videolan.org/vlc/
 81. VoiX
     - – Licença: LGPL 2.0
