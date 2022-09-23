@@ -10,7 +10,9 @@
 
 ## UNA PLATAFORMA DE TORNEJOS MUNDIALS I CLASSIFICACIÓ GLOBAL I CLASSIFICACIONS PER A TOTS ELS JOCS DE TRENCACLOSQUES
 
-## MULTIJUGADOR LOCAL I EN LÍNIA AMB REPRODUCTORS IL·LIMITATS
+## MULTIJUGADOR LOCAL AMB JUGADORS IL·LIMITATS
+
+## MULTIJUGADOR EN LÍNIA AMB JUGADORS IL·LIMITATS
 
 ## ESCRIT DES DE ZERO EN C++, TRADUÏT DE JAVA, PORTAT DE C, PORTAT A PARTIR DE PATRONS, PROCESSAT PEL MEU CERTELL, PORTAT A PARTIR D'UN SENYAL DE RÀDIO TELEPÀTIC REBUT DE DÉU
 
@@ -26,7 +28,7 @@ A més, s'ha cuidat molt perquè **ok** sigui la *millor* versió de cada joc de
 
 **ok** és completament personalitzable, permetent al jugador crear regles de profunditat per imitar els jocs de trencaclosques existents o crear-ne de nous per afegir-los a la biblioteca en línia.
 
-Creeu els vostres propis modes de trencaclosques!  Inventa règims personalitzats o desafia als teus amics a una seqüència de tots els teus jocs favorits.  Competeix en un campionat del món en línia i millora les teves habilitats per arribar al cim de la taula de classificació pública.
+Creeu els vostres propis modes de trencaclosques! Inventa règims personalitzats o desafia als teus amics a una seqüència de tots els teus jocs favorits.  Competeix en un campionat del món en línia i millora les teves habilitats per arribar al cim de la taula de classificació pública.
 
 **ok** està en constant evolució amb nous paquets de temes, noves regles i paquets de trencaclosques dissenyats per l'usuari.
 
