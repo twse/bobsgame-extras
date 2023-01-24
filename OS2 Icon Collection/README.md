@@ -1,9 +1,9 @@
-﻿These icons are based on the lowercase letters of bob's game font and for use with OS/2 applications. The operating system should be at least OS/2 2.0 or newer.
+﻿These icons are based on the “bob's game” font's lowercase letters and for use with OS/2 applications and games. The operating system should be at least OS/2 2.0 or newer.
 
 Note that you have to use these icons on a file system which supports long file names. FAT16 does not support long file names, while the existing FAT32 or even NTFS file system drivers for OS/2, eCS and Arca OS are experimental at best, so the safest bet is to use a native IBM file system like HPFS (the OS/2, eCS and Arca OS default FS) or JFS.
 
-### ANNEX: How to add or update existing software entries.
-To add or update existing software entries, attach the following text, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax. The protocol for each download site should be **http** (not secure) or **https** (secure). FTP servers won't automatically create links in the GitHub web user interface; however the servers will appear underlined when editing.
+### ANNEX: How to add software entries.
+To add software entries, attach the following text, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax. The protocol for each download site should be **http** (not secure) or **https** (secure). FTP servers won't automatically create links in the GitHub web user interface; however the servers will appear underlined when editing.
 
 ```
 N. Software
@@ -14,11 +14,11 @@ N. Software
 
 Thanks goes to Apache and Infraware for these texts.
 
-This icon collection is subject to the following OS/2 software archives and websites which are located at:
+These icons are subject to the following OS/2 software archives and websites which are located at:
 * eCSoft/2: https://www.ecsoft2.org/ (site in English and Italian)
 * EDM/2: http://www.edm2.com/
 * Hobbes: https://hobbes.nmsu.edu/
-* LEO: ftp://crydee.sai.msu.ru/pub/comp/os/os2/leo/
+* LEO (using FTP server in Russia): ftp://crydee.sai.msu.ru/pub/comp/os/os2/leo/
 * Netlabs: ftp://ftp.netlabs.org/pub/
 * OS/2 World: https://www.os2world.com/
 
