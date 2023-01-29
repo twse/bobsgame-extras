@@ -22,7 +22,7 @@
 7. ngSpice
    - – License : BSD 3-Clause
    - – Copyright Notice : Copyright (c) 1985-2021 The Regents of the University of California and others
-   - – Download Site : http://ngspice.sourceforge.net/
+   - – Download Site : https://ngspice.sourceforge.io/
 8. Night Vision
    - – License : GPL 3.0
    - – Copyright Notice : Copyright (c) 1996-2015 Brian Simpson
