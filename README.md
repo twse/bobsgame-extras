@@ -116,7 +116,7 @@ This skin can be used with the emulators listed below. Robert Matthew Pelloni is
 ### Palm Hardware Emulator
 Copyright © 2013 Perpendox Software LLC
 
-**NB!** The program was removed the Google Play Store.
+**NB!** The program was removed the Google Play Store. It ran on Android devices running Froyo and above.
 
 ### Palm OS Emulator aka Copilot
 Copyright © 1998-2002 Palm, Inc.
