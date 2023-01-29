@@ -111,7 +111,7 @@ Acest folder poate conține următorul software:
 34. Zippy
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 2017 Dmitry A. Steklenev
-    - – Site-ul de download: http://www.5nets.ru/ (legătură în limba engleza)
+    - – Site-ul de download: https://5nets.ru/software/zippy/ (legătură în limba engleza)
 35. ZipStream
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1994-1995 Carbon Based Software

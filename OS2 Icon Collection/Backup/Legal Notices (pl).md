@@ -43,7 +43,7 @@ Ten folder może zawierać następujące oprogramowanie:
 14. PM Backup Suite
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 2017-2019 Dmitry A. Steklenev
-    - – Strona pobierania: http://www.5nets.ru/backup.html (w angielski)
+    - – Strona pobierania: https://5nets.ru/software/pmbackup/ (w angielski)
 15. RCONTROL
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 1997 Cornel Huth

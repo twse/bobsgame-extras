@@ -9,7 +9,6 @@ Tämä kansio saattaa sisältää seuraavat ohjelmistot:
 3. Characters Map/2
    - – Lisenssi: GPL 2.0
    - – Tekijän oikeus ilmoitus: Copyright (c) 1998-2013 Dmitry A. Steklenev
-   - – Lataussivusto: http://www.5nets.ru/charmap.html (linkki sivulla englanti)
 4. CodeTable/2
    - – Lisenssi: Shareware
    - – Tekijän oikeus ilmoitus: Copyright (c) 1992 The Software Mill

@@ -174,7 +174,7 @@
 54. PM123
     - – Lizenz: BSD 3-Klausel
     - – Copyright-Hinweise: Copyright (c) 1997-2003 Samuel Audet, Taneli Leppä, 2004-2017 Dmitry A. Steklenev, Marcel Müller
-    - – Download-Site: http://www.5nets.ru/pm123.html (link auf englisch) oder http://maazl.de/project/pm123/index.html (link auf englisch)
+    - – Download-Site: https://5nets.ru/software/pm123/ (link auf englisch) oder http://maazl.de/project/pm123/index.html (link auf englisch)
 55. PMaud
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 1996 Ryan C. Gordon 

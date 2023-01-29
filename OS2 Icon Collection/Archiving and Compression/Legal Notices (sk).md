@@ -111,7 +111,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 34. Zippy
     - – Licencia: Shareware
     - – Upozornenie na autorských práva: Copyright (c) 2017 Dmitry A. Steklenev
-    - – Server pro stáhovanie: http://www.5nets.ru/ (link v angličtina)
+    - – Server pro stáhovanie: https://5nets.ru/software/zippy/ (link v angličtina)
 35. ZipStream
     - – Licencia: Shareware
     - – Upozornenie na autorských práva: Copyright (c) 1994-1995 Carbon Based Software

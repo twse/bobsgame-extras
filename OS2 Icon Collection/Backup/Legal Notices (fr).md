@@ -43,7 +43,7 @@
 14. PM Backup Suite
     - – Licence : Partagiciel
     - – Avis de copyright : Copyright (c) 2017-2019 Dmitry A. Steklenev
-    - – Site de téléchargement : http://www.5nets.ru/backup.html (lien en anglais)
+    - – Site de téléchargement : https://5nets.ru/software/pmbackup/ (lien en anglais)
 15. RCONTROL
     - – Licence : Libre
     - – Avis de copyright : Copyright (c) 1997 Cornel Huth

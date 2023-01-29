@@ -9,7 +9,6 @@ Acest folder poate conține următorul software:
 3. Characters Map/2
    - – Licență: GPL 2.0
    - – Aviz de copyright: Copyright (c) 1998-2013 Dmitry A. Steklenev
-   - – Site-ul de download: http://www.5nets.ru/charmap.html (legătură în limba engleza)
 4. CodeTable/2
    - – Licență: Shareware
    - – Aviz de copyright: Copyright (c) 1992 The Software Mill

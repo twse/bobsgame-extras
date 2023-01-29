@@ -111,7 +111,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 33. Zippy
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 2017 Dmitry A. Steklenev
-    - – İndirme Sitesi: http://www.5nets.ru/ (bağda İngilizce)
+    - – İndirme Sitesi: https://5nets.ru/software/zippy/ (bağda İngilizce)
 34. ZipStream
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1994-1995 Carbon Based Software

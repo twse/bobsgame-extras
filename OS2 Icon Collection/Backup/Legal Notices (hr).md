@@ -43,7 +43,7 @@
 14. PM Backup Suite
     - – Licenca: Shareware
     - – Obavijest o autorskom pravu: Copyright (c) 2017-2019 Dmitry A. Steklenev
-    - – Web-mjesto za preuzimanje: http://www.5nets.ru/backup.html (poveznica na engleski)
+    - – Web-mjesto za preuzimanje: https://5nets.ru/software/pmbackup/ (poveznica na engleski)
 15. RCONTROL
     - – Licenca: Slobodno
     - – Obavijest o autorskom pravu: Copyright (c) 1997 Cornel Huth

@@ -43,7 +43,7 @@
 14. PM Backup Suite
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2017-2019 Dmitry A. Steklenev
-    - – Letöltési hely: http://www.5nets.ru/backup.html (angol nyelvem)
+    - – Letöltési hely: https://5nets.ru/software/pmbackup/ (angol nyelvem)
 15. RCONTROL
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Cornel Huth

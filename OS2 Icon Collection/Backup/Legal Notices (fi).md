@@ -43,7 +43,7 @@ Tämä kansio saattaa sisältää seuraavat ohjelmistot:
 14. PM Backup Suite
     - – Lisenssi: Shareware
     - – Tekijän oikeus ilmoitus: Copyright (c) 2017-2019 Dmitry A. Steklenev
-    - – Lataussivusto: http://www.5nets.ru/backup.html (linkki sivulla englanti)
+    - – Lataussivusto: https://5nets.ru/software/pmbackup/ (linkki sivulla englanti)
 15. RCONTROL
     - – Lisenssi: Vapaat
     - – Tekijän oikeus ilmoitus: Copyright (c) 1997 Cornel Huth

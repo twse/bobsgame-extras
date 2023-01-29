@@ -9,7 +9,6 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 3. Characters Map/2
    - – Licencia: GPL 2.0
    - – Upozornenie na autorských práva: Copyright (c) 1998-2013 Dmitry A. Steklenev
-   - – Server pro stáhovanie: http://www.5nets.ru/charmap.html (angol nyelvem)
 4. CodeTable/2
    - – Licencia: Shareware
    - – Upozornenie na autorských práva: Copyright (c) 1992 The Software Mill

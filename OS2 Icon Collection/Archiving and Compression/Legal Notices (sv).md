@@ -111,7 +111,7 @@
 34. Zippy
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 2017 Dmitry A. Steklenev
-    - – Nedladdningssida: http://www.5nets.ru/ (link på engelska)
+    - – Nedladdningssida: https://5nets.ru/software/zippy/ (link på engelska)
 35. ZipStream
     - – Licens: Shareware
     - – Copyrightmeddelande: Copyright (c) 1994-1995 Carbon Based Software

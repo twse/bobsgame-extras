@@ -9,7 +9,6 @@
 3. Characters Map/2
    - – Licenc: GPL 2.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2013 Dmitry A. Steklenev
-   - – Letöltési hely: http://www.5nets.ru/charmap.html (angol nyelvem)
 4. CodeTable/2
    - – Licenc: Shareware
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1992 The Software Mill

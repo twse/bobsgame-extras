@@ -9,7 +9,6 @@
 3. Characters Map/2
    - – Licenze: GPL 2.0
    - – Avviso di copyright: Copyright (c) 1998-2013 Dmitry A. Steklenev
-   - – Sito di download: http://www.5nets.ru/charmap.html (link in inglese)
 4. CodeTable/2
    - – Licenze: Shareware
    - – Avviso di copyright: Copyright (c) 1992 The Software Mill

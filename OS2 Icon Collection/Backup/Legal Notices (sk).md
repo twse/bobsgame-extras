@@ -43,7 +43,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 14. PM Backup Suite
     - – Licencia: Shareware
     - – Upozornenie na autorských práva: Copyright (c) 2017-2019 Dmitry A. Steklenev
-    - – Server pro stáhovanie: http://www.5nets.ru/backup.html (link v angličtina)
+    - – Server pro stáhovanie: https://5nets.ru/software/pmbackup/ (link v angličtina)
 15. RCONTROL
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 1997 Cornel Huth

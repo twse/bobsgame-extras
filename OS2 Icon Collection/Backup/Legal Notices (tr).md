@@ -43,7 +43,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 14. PM Backup Suite
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 2017-2019 Dmitry A. Steklenev
-    - – İndirme Sitesi: http://www.5nets.ru/backup.html (bağda İngilizce)
+    - – İndirme Sitesi: https://5nets.ru/software/pmbackup/ (bağda İngilizce)
 15. RCONTROL
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 1997 Cornel Huth
@@ -64,6 +64,6 @@ Bu klasör aşağıdaki yazılımı içerebilir:
     - – Telif Hakkı Bildirimi: Copyright (c) 2007-2014 Matus Tomlein
 21. Workplace Shell Backup Utility
     - – Lisans: Özgür
-    - – Telif Hakkı Bildirimi: Copyright (c) 1995 New Özgürdom Data Center
+    - – Telif Hakkı Bildirimi: Copyright (c) 1995 New Freedom Data Center
 
 Tam yasal uyarılar, katılımcı ve çevirmen listeleri için lütfen https://bobsgame.fandom.com/wiki/Extras (bağda İngilizce) ziyaret edin

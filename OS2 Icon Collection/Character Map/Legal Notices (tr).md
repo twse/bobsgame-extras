@@ -9,7 +9,6 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 3. Characters Map/2
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 1998-2013 Dmitry A. Steklenev
-   - – İndirme Sitesi: http://www.5nets.ru/charmap.html (bağda İngilizce)
 4. CodeTable/2
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1992 The Software Mill

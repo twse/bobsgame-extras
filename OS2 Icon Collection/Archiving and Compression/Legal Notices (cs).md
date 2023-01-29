@@ -111,7 +111,7 @@
 34. Zippy
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 2017 Dmitry A. Steklenev
-    - – Server pro stahování: http://www.5nets.ru/ (odkaz v angličtina)
+    - – Server pro stahování: https://5nets.ru/software/zippy/ (odkaz v angličtina)
 35. ZipStream
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1994-1995 Carbon Based Software

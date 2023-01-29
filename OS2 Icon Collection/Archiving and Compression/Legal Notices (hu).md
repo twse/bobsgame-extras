@@ -111,7 +111,7 @@
 34. Zippy
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2017 Dmitry A. Steklenev
-    - – Letöltési hely: http://www.5nets.ru/ (angol nyelvem)
+    - – Letöltési hely: https://5nets.ru/software/zippy/ (angol nyelvem)
 35. ZipStream
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1994-1995 Carbon Based Software

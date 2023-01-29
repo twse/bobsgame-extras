@@ -174,7 +174,7 @@
 54. PM123
     - – Licenc: BSD 3-klauzula
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2003 Samuel Audet, Taneli Leppä, 2004-2017 Dmitry A. Steklenev, Marcel Müller
-    - – Letöltési hely: http://www.5nets.ru/pm123.html (angol nyelvem) vagy http://maazl.de/project/pm123/index.html (angol nyelvem)
+    - – Letöltési hely: https://5nets.ru/software/pm123/ (angol nyelvem) vagy http://maazl.de/project/pm123/index.html (angol nyelvem)
 55. PMaud
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1996 Ryan C. Gordon 

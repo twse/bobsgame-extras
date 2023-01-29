@@ -43,7 +43,7 @@ Acest folder poate conține următorul software:
 14. PM Backup Suite
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 2017-2019 Dmitry A. Steklenev
-    - – Site-ul de download: http://www.5nets.ru/backup.html (legătură în limba engleza)
+    - – Site-ul de download: https://5nets.ru/software/pmbackup/ (legătură în limba engleza)
 15. RCONTROL
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 1997 Cornel Huth

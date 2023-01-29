@@ -9,7 +9,6 @@ Ten folder może zawierać następujące oprogramowanie:
 3. Characters Map/2
    - – Licencja: GPL 2.0
    - – Informacja o prawach autorskich: Copyright (c) 1998-2013 Dmitry A. Steklenev
-   - – Strona pobierania: http://www.5nets.ru/charmap.html (w angielski)
 4. CodeTable/2
    - – Licencja: Shareware
    - – Informacja o prawach autorskich: Copyright (c) 1992 The Software Mill

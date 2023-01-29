@@ -111,7 +111,7 @@ Ten folder może zawierać następujące oprogramowanie:
 34. Zippy
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 2017 Dmitry A. Steklenev
-    - – Strona pobierania: http://www.5nets.ru/ (w angielski)
+    - – Strona pobierania: https://5nets.ru/software/zippy/ (w angielski)
 35. ZipStream
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 1994-1995 Carbon Based Software
