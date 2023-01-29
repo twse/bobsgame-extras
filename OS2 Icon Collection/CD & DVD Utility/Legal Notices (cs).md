@@ -34,7 +34,7 @@
 11. dvdauthor
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 2003-2010 Scott Smith, 2010-2017 Lawrence D'Oliveiro
-    - – Server pro stahování: http://dvdauthor.sourceforge.net/ (odkaz v angličtina)
+    - – Server pro stahování: https://dvdauthor.sourceforge.net/ (odkaz v angličtina)
 12. DVDDAO
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 2004-2010 Nikolay Kolosov

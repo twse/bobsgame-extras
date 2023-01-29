@@ -34,7 +34,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 11. dvdauthor
     - – Lisans: GPL 2.0
     - – Telif Hakkı Bildirimi: Copyright (c) 2003-2010 Scott Smith, 2010-2017 Lawrence D'Oliveiro
-    - – İndirme Sitesi: http://dvdauthor.sourceforge.net/ (bağda İngilizce)
+    - – İndirme Sitesi: https://dvdauthor.sourceforge.net/ (bağda İngilizce)
 12. DVDDAO
     - – Lisans: Özgür
     - – Telif Hakkı Bildirimi: Copyright (c) 2004-2010 Nikolay Kolosov

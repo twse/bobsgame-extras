@@ -34,7 +34,7 @@ Ten folder może zawierać następujące oprogramowanie:
 11. dvdauthor
     - – Licencja: GPL 2.0
     - – Informacja o prawach autorskich: Copyright (c) 2003-2010 Scott Smith, 2010-2017 Lawrence D'Oliveiro
-    - – Strona pobierania: http://dvdauthor.sourceforge.net/ (w angielski)
+    - – Strona pobierania: https://dvdauthor.sourceforge.net/ (w angielski)
 12. DVDDAO
     - – Licencja: Wolny
     - – Informacja o prawach autorskich: Copyright (c) 2004-2010 Nikolay Kolosov

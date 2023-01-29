@@ -13,7 +13,7 @@
 4. AutoTrace
    - – Licenc: GPL 2.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2000-2003 Martin Weber
-   - – Letöltési hely: http://autotrace.sourceforge.net/ (angol nyelvem)
+   - – Letöltési hely: https://autotrace.sourceforge.net/ (angol nyelvem)
 5. Background Carousel
    - – Licenc: Szabad
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1995 Tony Beerman
@@ -103,7 +103,7 @@
 32. GIFLIB
     - – Licenc: MIT License
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997 Eric S. Raymond
-    - – Letöltési hely: http://giflib.sourceforge.net/ (angol nyelvem)
+    - – Letöltési hely: https://giflib.sourceforge.net/ (angol nyelvem)
 33. gifsicle
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2018 Eddie Kohler
@@ -194,13 +194,13 @@
 59. OptiPNG
     - – Licenc: zlib
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2017 Cosmin Truța és közreműködéseket szerző
-    - – Letöltési hely: http://optipng.sourceforge.net/ (angol nyelvem)
+    - – Letöltési hely: https://optipng.sourceforge.net/ (angol nyelvem)
 60. Painter, TPaint
     - – Licenc: GPL 2.0
 61. Panorama Tools
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2006 Helmut Dersch
-    - – Letöltési hely: http://panotools.sourceforge.net/ (angol nyelvem)
+    - – Letöltési hely: https://panotools.sourceforge.net/ (angol nyelvem)
 62. PhotoQt
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2011-2018 Lukas Spies
@@ -244,7 +244,7 @@
 74. Potrace
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2001-2019 Peter Selinger
-    - – Letöltési hely: http://potrace.sourceforge.net/ (angol nyelvem)
+    - – Letöltési hely: https://potrace.sourceforge.net/ (angol nyelvem)
 75. PPM2FLI
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1993-1999 Klaus Ehrenfried

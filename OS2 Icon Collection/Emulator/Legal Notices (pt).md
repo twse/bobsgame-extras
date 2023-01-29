@@ -10,7 +10,7 @@
 3. KEGS
    - – Licença: GPL 2.0
    - – Aviso de direitos autorais: Copyright (c) 1997-2004 Kent Dickey
-   - – Site de descarregamento: http://kegs.sourceforge.net/ (link em inglês)
+   - – Site de descarregamento: https://kegs.sourceforge.net/ (link em inglês)
 4. Virtual PC
    - – Licença: Grátis
    - – Aviso de direitos autorais: Copyright (c) 2008 Microsoft Corporation

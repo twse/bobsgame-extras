@@ -10,7 +10,7 @@
 3. KEGS
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 1997-2004 Kent Dickey
-   - – Download Site : http://kegs.sourceforge.net/
+   - – Download Site : https://kegs.sourceforge.net/
 4. Virtual PC
    - – License : Free
    - – Copyright Notice : Copyright (c) 2008 Microsoft Corporation

@@ -3,7 +3,7 @@
 1. CScreenie
    - – Licence: GPL 3.0
    - – Upozornění na autorská práva: Copyright (c) 2011-2012 Ivan Poštić
-   - – Server pro stahování: http://cscreenie.sourceforge.net/ (odkaz v angličtina)
+   - – Server pro stahování: https://cscreenie.sourceforge.net/ (odkaz v angličtina)
 2. Gotcha!
    - – Licence: GPL 2.0
    - – Upozornění na autorská práva: Copyright (c) 1998-2007 Thorsten Thielen

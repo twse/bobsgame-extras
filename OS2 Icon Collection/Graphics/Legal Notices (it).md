@@ -13,7 +13,7 @@
 4. AutoTrace
    - – Licenze: GPL 2.0
    - – Avviso di copyright: Copyright (c) 2000-2003 Martin Weber
-   - – Sito di download: http://autotrace.sourceforge.net/ (link in inglese)
+   - – Sito di download: https://autotrace.sourceforge.net/ (link in inglese)
 5. Background Carousel
    - – Licenze: Libre
    - – Avviso di copyright: Copyright (c) 1995 Tony Beerman
@@ -103,7 +103,7 @@
 32. GIFLIB
     - – Licenze: Licenze MIT
     - – Avviso di copyright: Copyright (c) 1997 Eric S. Raymond
-    - – Sito di download: http://giflib.sourceforge.net/ (link in inglese)
+    - – Sito di download: https://giflib.sourceforge.net/ (link in inglese)
 33. gifsicle
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1997-2018 Eddie Kohler
@@ -194,13 +194,13 @@
 59. OptiPNG
     - – Licenze: zlib
     - – Avviso di copyright: Copyright (c) 2001-2017 Cosmin Truța e l'autori collaboratori
-    - – Sito di download: http://optipng.sourceforge.net/ (link in inglese)
+    - – Sito di download: https://optipng.sourceforge.net/ (link in inglese)
 60. Painter, TPaint
     - – Licenze: GPL 2.0
 61. Panorama Tools
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 1998-2006 Helmut Dersch
-    - – Sito di download: http://panotools.sourceforge.net/ (link in inglese)
+    - – Sito di download: https://panotools.sourceforge.net/ (link in inglese)
 62. PhotoQt
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2011-2018 Lukas Spies
@@ -244,7 +244,7 @@
 74. Potrace
     - – Licenze: GPL 2.0
     - – Avviso di copyright: Copyright (c) 2001-2019 Peter Selinger
-    - – Sito di download: http://potrace.sourceforge.net/ (link in inglese)
+    - – Sito di download: https://potrace.sourceforge.net/ (link in inglese)
 75. PPM2FLI
     - – Licenze: Libre
     - – Avviso di copyright: Copyright (c) 1993-1999 Klaus Ehrenfried

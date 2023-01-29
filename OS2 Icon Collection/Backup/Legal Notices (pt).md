@@ -36,7 +36,7 @@
 12. luckyBackup
     - – Licença: GPL 3.0
     - – Aviso de direitos autorais: Copyright (c) 2007-2018 Loukas Avgeriou
-    - – Site de descarregamento: http://luckybackup.sourceforge.net/ (link em inglês)
+    - – Site de descarregamento: https://luckybackup.sourceforge.net/ (link em inglês)
 13. Obackup
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1991-1993 Trumphurst Ltd.

@@ -34,7 +34,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 11. dvdauthor
     - – Licencia: GPL 2.0
     - – Upozornenie na autorských práva: Copyright (c) 2003-2010 Scott Smith, 2010-2017 Lawrence D'Oliveiro
-    - – Server pro stáhovanie: http://dvdauthor.sourceforge.net/
+    - – Server pro stáhovanie: https://dvdauthor.sourceforge.net/ (link v angličtina)
 12. DVDDAO
     - – Licencia: Svobodné
     - – Upozornenie na autorských práva: Copyright (c) 2004-2010 Nikolay Kolosov

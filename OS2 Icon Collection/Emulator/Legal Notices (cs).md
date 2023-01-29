@@ -10,7 +10,7 @@
 3. KEGS
    - – Licenc: GPL 2.0
    - – Upozornění na autorská práva: Copyright (c) 1997-2004 Kent Dickey
-   - – Server pro stahování: http://kegs.sourceforge.net/ (odkaz v angličtina)
+   - – Server pro stahování: https://kegs.sourceforge.net/ (odkaz v angličtina)
 4. Virtual PC
    - – Licenc: Svobodné
    - – Upozornění na autorská práva: Copyright (c) 2008 Microsoft Corporation

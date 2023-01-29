@@ -3,7 +3,7 @@ Acest folder poate conține următorul software:
 1. CScreenie
    - – Licență: GPL 3.0
    - – Aviz de copyright: Copyright (c) 2011-2012 Ivan Poštić
-   - – Site-ul de download: http://cscreenie.sourceforge.net/ (legătură în limba engleza)
+   - – Site-ul de download: https://cscreenie.sourceforge.net/ (legătură în limba engleza)
 2. Gotcha!
    - – Licență: GPL 2.0
    - – Aviz de copyright: Copyright (c) 1998-2007 Thorsten Thielen

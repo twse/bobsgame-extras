@@ -24,7 +24,7 @@ Acest folder poate conține următorul software:
 8. Safecopy
    - – Licență: GPL 2.0
    - – Aviz de copyright: Copyright (c) 2005-2012 Eric Noack
-   - – Site-ul de download: http://safecopy.sourceforge.net/ (legătură în limba engleza)
+   - – Site-ul de download: https://safecopy.sourceforge.net/ (legătură în limba engleza)
 9. WSSFill
    - – Licență: Shareware
    - – Aviz de copyright: Copyright (c) 1998 Robert W. Babcock

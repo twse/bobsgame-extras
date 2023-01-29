@@ -36,7 +36,7 @@
 12. CScope
     - – License : BSD 3-Clause
     - – Copyright Notice : Copyright (c) 1998-2000 The Santa Cruz Operation
-    - – Download Site : http://cscope.sourceforge.net/
+    - – Download Site : https://cscope.sourceforge.net/
 13. C-Scout
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1996 a priori computer solutions GmbH
@@ -220,7 +220,7 @@
 68. Rexx/DW
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1997-2015 Mark Hessling
-    - – Download Site : http://rexxdw.sourceforge.net/
+    - – Download Site : https://rexxdw.sourceforge.net/
 69. REXX_EXE
     - – License : Free
     - – Copyright Notice : Copyright (c) 2006 Veit Kannegieser

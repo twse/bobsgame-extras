@@ -24,7 +24,7 @@
 8. Safecopy
    - – Licence: GPL 2.0
    - – Upozornění na autorská práva: Copyright (c) 2005-2012 Eric Noack
-   - – Server pro stahování: http://safecopy.sourceforge.net/ (odkaz v angličtina)
+   - – Server pro stahování: https://safecopy.sourceforge.net/ (odkaz v angličtina)
 9. WSSFill
    - – Licence: Shareware
    - – Upozornění na autorská práva: Copyright (c) 1998 Robert W. Babcock

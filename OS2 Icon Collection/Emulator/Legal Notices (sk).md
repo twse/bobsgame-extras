@@ -10,7 +10,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 3. KEGS
    - – Licencia: GPL 2.0
    - – Upozornenie na autorských práva: Copyright (c) 1997-2004 Kent Dickey
-   - – Server pro stáhovanie: http://kegs.sourceforge.net/ (link v angličtina)
+   - – Server pro stáhovanie: https://kegs.sourceforge.net/ (link v angličtina)
 4. Virtual PC
    - – Licencia: Svobodné
    - – Upozornenie na autorských práva: Copyright (c) 2008 Microsoft Corporation

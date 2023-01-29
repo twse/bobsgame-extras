@@ -24,7 +24,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 8. Safecopy
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 2005-2012 Eric Noack
-   - – İndirme Sitesi: http://safecopy.sourceforge.net/ (bağda İngilizce)
+   - – İndirme Sitesi: https://safecopy.sourceforge.net/ (bağda İngilizce)
 9. WSSFill
    - – Lisans: Shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1998 Robert W. Babcock

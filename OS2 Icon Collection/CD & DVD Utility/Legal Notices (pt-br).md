@@ -34,7 +34,7 @@
 11. dvdauthor
     - – Licença: GPL 2.0
     - – Aviso de copyright: Copyright (c) 2003-2010 Scott Smith, 2010-2017 Lawrence D'Oliveiro
-    - – Site de download: http://dvdauthor.sourceforge.net/
+    - – Site de download: https://dvdauthor.sourceforge.net/ (link em inglês)
 12. DVDDAO
     - – Licença: Grátis
     - – Aviso de copyright: Copyright (c) 2004-2010 Nikolay Kolosov

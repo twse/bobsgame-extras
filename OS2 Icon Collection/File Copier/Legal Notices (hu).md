@@ -24,7 +24,7 @@
 8. Safecopy
    - – Licenc: GPL 2.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2005-2012 Eric Noack
-   - – Letöltési hely: http://safecopy.sourceforge.net/ (angol nyelvem)
+   - – Letöltési hely: https://safecopy.sourceforge.net/ (angol nyelvem)
 9. WSSFill
    - – Licenc: Shareware
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1998 Robert W. Babcock

@@ -36,7 +36,7 @@
 12. luckyBackup
     - – Licenc: GPL 3.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2007-2018 Loukas Avgeriou
-    - – Letöltési hely: http://luckybackup.sourceforge.net/ (angol nyelvem)
+    - – Letöltési hely: https://luckybackup.sourceforge.net/ (angol nyelvem)
 13. Obackup
     - – Licenc: Shareware
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1991-1993 Trumphurst Ltd.

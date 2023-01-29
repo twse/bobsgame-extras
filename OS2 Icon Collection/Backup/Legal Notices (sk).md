@@ -36,7 +36,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 12. luckyBackup
     - – Licencia: GPL 3.0
     - – Upozornenie na autorských práva: Copyright (c) 2007-2018 Loukas Avgeriou
-    - – Server pro stáhovanie: http://luckybackup.sourceforge.net/ (link v angličtina)
+    - – Server pro stáhovanie: https://luckybackup.sourceforge.net/ (link v angličtina)
 13. Obackup
     - – Licencia: Shareware
     - – Upozornenie na autorských práva: Copyright (c) 1991-1993 Trumphurst Ltd.

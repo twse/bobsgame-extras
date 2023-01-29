@@ -24,7 +24,7 @@ Ten folder może zawierać następujące oprogramowanie:
 8. Safecopy
    - – Licencja: GPL 2.0
    - – Informacja o prawach autorskich: Copyright (c) 2005-2012 Eric Noack
-   - – Download Site : http://safecopy.sourceforge.net/ (w angielski)
+   - – Strona pobierania: https://safecopy.sourceforge.net/ (w angielski)
 9. WSSFill
    - – Licencja: Shareware
    - – Informacja o prawach autorskich: Copyright (c) 1998 Robert W. Babcock

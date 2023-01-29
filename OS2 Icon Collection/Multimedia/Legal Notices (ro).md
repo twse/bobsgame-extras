@@ -245,7 +245,7 @@ Acest folder poate conține următorul software:
 77. TiMidity
     - – Licență: GPL 2.0
     - – Aviz de copyright: Copyright (c) 1997-2012 Masanao Izumo, Tuukka Toivonen și contributori TiMidity
-    - – Site-ul de download: http://timidity.sourceforge.net/ (legătură în limba engleza)
+    - – Site-ul de download: https://timidity.sourceforge.net/ (legătură în limba engleza)
 78. trk2iso
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 2000 Valerie Vrabie

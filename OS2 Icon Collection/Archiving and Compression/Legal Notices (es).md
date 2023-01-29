@@ -16,7 +16,7 @@
 5. ARJ
    - – Licencia: Gratis o shareware
    - – Aviso de derechos de autor: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
-   - – Sitio de descarga: http://www.arjsoftware.com/ (enlace en inglés) o http://arj.sourceforge.net/ (enlace en inglés)
+   - – Sitio de descarga: http://www.arjsoftware.com/ (enlace en inglés) o https://arj.sourceforge.net/ (enlace en inglés)
 6. CABextract
    - – Licencia: GPL 2.0
    - – Aviso de derechos de autor: Copyright (c) 2000-2018 Stuart Caie

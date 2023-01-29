@@ -16,7 +16,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 5. ARJ
    - – Licencia: Svobodné alebo shareware
    - – Upozornenie na autorských práva: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
-   - – Server pro stáhovanie: http://www.arjsoftware.com/ (link v angličtina) alebo http://arj.sourceforge.net/ (link v angličtina)
+   - – Server pro stáhovanie: http://www.arjsoftware.com/ (link v angličtina) alebo https://arj.sourceforge.net/ (link v angličtina)
 6. CABextract
    - – Licencia: GPL 2.0
    - – Upozornenie na autorských práva: Copyright (c) 2000-2018 Stuart Caie

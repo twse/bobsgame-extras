@@ -3,7 +3,7 @@ Tento priečinok môže obsahovať nasledujúci softvér:
 1. CScreenie
    - – Licencia: GPL 3.0
    - – Upozornenie na autorských práva: Copyright (c) 2011-2012 Ivan Poštić
-   - – Server pro stáhovanie: http://cscreenie.sourceforge.net/ (link v angličtina)
+   - – Server pro stáhovanie: https://cscreenie.sourceforge.net/ (link v angličtina)
 2. Gotcha!
    - – Licencia: GPL 2.0
    - – Upozornenie na autorských práva: Copyright (c) 1998-2007 Thorsten Thielen

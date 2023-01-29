@@ -3,7 +3,7 @@
 1. CScreenie
    - – Licencia: GPL 3.0
    - – Aviso de derechos de autor: Copyright (c) 2011-2012 Ivan Poštić
-   - – Sitio de descarga: http://cscreenie.sourceforge.net/ (enlace en inglés)
+   - – Sitio de descarga: https://cscreenie.sourceforge.net/ (enlace en inglés)
 2. Gotcha!
    - – Licencia: GPL 2.0
    - – Aviso de derechos de autor: Copyright (c) 1998-2007 Thorsten Thielen

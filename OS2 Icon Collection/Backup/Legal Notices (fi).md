@@ -36,7 +36,7 @@ Tämä kansio saattaa sisältää seuraavat ohjelmistot:
 12. luckyBackup
     - – Lisenssi: GPL 3.0
     - – Tekijän oikeus ilmoitus: Copyright (c) 2007-2018 Loukas Avgeriou
-    - – Lataussivusto: http://luckybackup.sourceforge.net/ (linkki sivulla englanti)
+    - – Lataussivusto: https://luckybackup.sourceforge.net/ (linkki sivulla englanti)
 13. Obackup
     - – Lisenssi: Shareware
     - – Tekijän oikeus ilmoitus: Copyright (c) 1991-1993 Trumphurst Ltd.

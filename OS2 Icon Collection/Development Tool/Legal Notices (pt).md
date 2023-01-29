@@ -36,7 +36,7 @@
 12. CScope
     - – Licença: BSD de 3-cláusulas
     - – Aviso de direitos autorais: Copyright (c) 1998-2000 The Santa Cruz Operation
-    - – Site de descarregamento: http://cscope.sourceforge.net/ (link em inglês)
+    - – Site de descarregamento: https://cscope.sourceforge.net/ (link em inglês)
 13. C-Scout
     - – Licença: Shareware
     - – Aviso de direitos autorais: Copyright (c) 1996 a priori computer solutions GmbH
@@ -220,7 +220,7 @@
 68. Rexx/DW
     - – Licença: GPL 2.0
     - – Aviso de direitos autorais: Copyright (c) 1997-2015 Mark Hessling
-    - – Site de descarregamento: http://rexxdw.sourceforge.net/ (link em inglês)
+    - – Site de descarregamento: https://rexxdw.sourceforge.net/ (link em inglês)
 69. REXX_EXE
     - – Licença: Grátis
     - – Aviso de direitos autorais: Copyright (c) 2006 Veit Kannegieser

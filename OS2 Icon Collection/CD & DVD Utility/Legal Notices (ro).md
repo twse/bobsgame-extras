@@ -34,7 +34,7 @@ Acest folder poate conține următorul software:
 11. dvdauthor
     - – Licență: GPL 2.0
     - – Aviz de copyright: Copyright (c) 2003-2010 Scott Smith, 2010-2017 Lawrence D'Oliveiro
-    - – Site-ul de download: http://dvdauthor.sourceforge.net/ (legătură în limba engleza)
+    - – Site-ul de download: https://dvdauthor.sourceforge.net/ (legătură în limba engleza)
 12. DVDDAO
     - – Licență: Gratis
     - – Aviz de copyright: Copyright (c) 2004-2010 Nikolay Kolosov

@@ -36,7 +36,7 @@
 12. luckyBackup
     - – Licenca: GPL 3.0
     - – Obavijest o autorskom pravu: Copyright (c) 2007-2018 Loukas Avgeriou
-    - – Web-mjesto za preuzimanje: http://luckybackup.sourceforge.net/ (poveznica na engleski)
+    - – Web-mjesto za preuzimanje: https://luckybackup.sourceforge.net/ (poveznica na engleski)
 13. Obackup
     - – Licenca: Shareware
     - – Obavijest o autorskom pravu: Copyright (c) 1991-1993 Trumphurst Ltd.

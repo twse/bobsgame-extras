@@ -36,7 +36,7 @@ Ten folder może zawierać następujące oprogramowanie:
 12. luckyBackup
     - – Licencja: GPL 3.0
     - – Informacja o prawach autorskich: Copyright (c) 2007-2018 Loukas Avgeriou
-    - – Strona pobierania: http://luckybackup.sourceforge.net/ (w angielski)
+    - – Strona pobierania: https://luckybackup.sourceforge.net/ (w angielski)
 13. Obackup
     - – Licencja: Shareware
     - – Informacja o prawach autorskich: Copyright (c) 1991-1993 Trumphurst Ltd.

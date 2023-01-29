@@ -245,7 +245,7 @@
 77. TiMidity
     - – Lizenz: GPL 2.0
     - – Copyright-Hinweise: Copyright (c) 1997-2012 Masanao Izumo, Tuukka Toivonen und TiMidity-Mitwirkender
-    - – Download-Site: http://timidity.sourceforge.net/ (link auf englisch)
+    - – Download-Site: https://timidity.sourceforge.net/ (link auf englisch)
 78. trk2iso
     - – Lizenz: Frei
     - – Copyright-Hinweise: Copyright (c) 2000 Valerie Vrabie

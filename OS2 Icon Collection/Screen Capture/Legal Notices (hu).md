@@ -3,7 +3,7 @@
 1. CScreenie
    - – Licenc: GPL 3.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2011-2012 Ivan Poštić
-   - – Letöltési hely: http://cscreenie.sourceforge.net/ (angol nyelvem)
+   - – Letöltési hely: https://cscreenie.sourceforge.net/ (angol nyelvem)
 2. Gotcha!
    - – Licenc: GPL 2.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1998-2007 Thorsten Thielen

@@ -10,7 +10,7 @@
 3. KEGS
    - – Licenca: GPL 2.0
    - – Obavijest o autorskom pravu: Copyright (c) 1997-2004 Kent Dickey
-   - – Web-mjesto za preuzimanje: http://kegs.sourceforge.net/ (poveznica na engleski)
+   - – Web-mjesto za preuzimanje: https://kegs.sourceforge.net/ (poveznica na engleski)
 4. Virtual PC
    - – Licenca: Slobodno
    - – Obavijest o autorskom pravu: Copyright (c) 2008 Microsoft Corporation

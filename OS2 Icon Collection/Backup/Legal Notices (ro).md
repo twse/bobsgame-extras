@@ -36,7 +36,7 @@ Acest folder poate conține următorul software:
 12. luckyBackup
     - – Licență: GPL 3.0
     - – Aviz de copyright: Copyright (c) 2007-2018 Loukas Avgeriou
-    - – Site-ul de download: http://luckybackup.sourceforge.net/ (legătură în limba engleza)
+    - – Site-ul de download: https://luckybackup.sourceforge.net/ (legătură în limba engleza)
 13. Obackup
     - – Licență: Shareware
     - – Aviz de copyright: Copyright (c) 1991-1993 Trumphurst Ltd.

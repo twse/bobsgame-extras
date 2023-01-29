@@ -103,7 +103,7 @@
 34. Netcat
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1995-1996 Avian Research, 2002-2004 Giovanni Giacobbi
-    - – Download Site : http://netcat.sourceforge.net/
+    - – Download Site : https://netcat.sourceforge.net/
 35. OS2TERM
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993 Jeff M. Garzik

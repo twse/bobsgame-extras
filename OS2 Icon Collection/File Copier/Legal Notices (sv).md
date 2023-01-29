@@ -24,7 +24,7 @@
 8. Safecopy
    - – Licens: GPL 2.0
    - – Copyrightmeddelande: Copyright (c) 2005-2012 Eric Noack
-   - – Nedladdningssida: http://safecopy.sourceforge.net/ (link på engelska)
+   - – Nedladdningssida: https://safecopy.sourceforge.net/ (link på engelska)
 9. WSSFill
    - – Licens: Shareware
    - – Copyrightmeddelande: Copyright (c) 1998 Robert W. Babcock

@@ -10,7 +10,7 @@
 3. KEGS
    - – Licenc: GPL 2.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2004 Kent Dickey
-   - – Letöltési hely: http://kegs.sourceforge.net/ (angol nyelvem)
+   - – Letöltési hely: https://kegs.sourceforge.net/ (angol nyelvem)
 4. Virtual PC
    - – Licenc: Szabad
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2008 Microsoft Corporation

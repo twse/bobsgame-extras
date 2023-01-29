@@ -34,7 +34,7 @@
 11. dvdauthor
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2003-2010 Scott Smith, 2010-2017 Lawrence D'Oliveiro
-    - – Letöltési hely: http://dvdauthor.sourceforge.net/ (angol nyelvem)
+    - – Letöltési hely: https://dvdauthor.sourceforge.net/ (angol nyelvem)
 12. DVDDAO
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2004-2010 Nikolay Kolosov

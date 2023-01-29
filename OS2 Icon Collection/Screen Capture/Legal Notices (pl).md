@@ -3,7 +3,7 @@ Ten folder może zawierać następujące oprogramowanie:
 1. CScreenie
    - – Licencja: GPL 3.0
    - – Informacja o prawach autorskich: Copyright (c) 2011-2012 Ivan Poštić
-   - – Strona pobierania: http://cscreenie.sourceforge.net/ (w angielski)
+   - – Strona pobierania: https://cscreenie.sourceforge.net/ (w angielski)
 2. Gotcha!
    - – Licencja: GPL 2.0
    - – Informacja o prawach autorskich: Copyright (c) 1998-2007 Thorsten Thielen

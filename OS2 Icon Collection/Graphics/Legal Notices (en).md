@@ -13,7 +13,7 @@
 4. AutoTrace
    - – License : GPL 2.0
    - – Copyright Notice : Copyright (c) 2000-2003 Martin Weber
-   - – Download Site : http://autotrace.sourceforge.net/
+   - – Download Site : https://autotrace.sourceforge.net/
 5. Background Carousel
    - – License : Free
    - – Copyright Notice : Copyright (c) 1995 Tony Beerman
@@ -103,7 +103,7 @@
 32. GIFLIB
     - – License : MIT License
     - – Copyright Notice : Copyright (c) 1997 Eric S. Raymond
-    - – Download Site : http://giflib.sourceforge.net/
+    - – Download Site : https://giflib.sourceforge.net/
 33. gifsicle
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1997-2018 Eddie Kohler
@@ -194,13 +194,13 @@
 59. OptiPNG
     - – License : zlib
     - – Copyright Notice : Copyright (c) 2001-2017 Cosmin Truța and the Contributing Authors
-    - – Download Site : http://optipng.sourceforge.net/
+    - – Download Site : https://optipng.sourceforge.net/
 60. Painter, TPaint
     - – License : GPL 2.0
 61. Panorama Tools
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1998-2006 Helmut Dersch
-    - – Download Site : http://panotools.sourceforge.net/
+    - – Download Site : https://panotools.sourceforge.net/
 62. PhotoQt
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2011-2018 Lukas Spies
@@ -244,7 +244,7 @@
 74. Potrace
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2001-2019 Peter Selinger
-    - – Download Site : http://potrace.sourceforge.net/
+    - – Download Site : https://potrace.sourceforge.net/
 75. PPM2FLI
     - – License : Free
     - – Copyright Notice : Copyright (c) 1993-1999 Klaus Ehrenfried

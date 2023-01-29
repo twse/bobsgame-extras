@@ -13,7 +13,7 @@
 4. AutoTrace
    - – Licence: GPL 2.0
    - – Upozornění na autorská práva: Copyright (c) 2000-2003 Martin Weber
-   - – Server pro stahování: http://autotrace.sourceforge.net/ (odkaz v angličtina)
+   - – Server pro stahování: https://autotrace.sourceforge.net/ (odkaz v angličtina)
 5. Background Carousel
    - – Licence: Svobodné
    - – Upozornění na autorská práva: Copyright (c) 1995 Tony Beerman
@@ -103,7 +103,7 @@
 32. GIFLIB
     - – Licence: MIT License
     - – Upozornění na autorská práva: Copyright (c) 1997 Eric S. Raymond
-    - – Server pro stahování: http://giflib.sourceforge.net/ (odkaz v angličtina)
+    - – Server pro stahování: https://giflib.sourceforge.net/ (odkaz v angličtina)
 33. gifsicle
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 1997-2018 Eddie Kohler
@@ -194,13 +194,13 @@
 59. OptiPNG
     - – Licence: zlib
     - – Upozornění na autorská práva: Copyright (c) 2001-2017 Cosmin Truța a přispěvatelní autori
-    - – Server pro stahování: http://optipng.sourceforge.net/ (odkaz v angličtina)
+    - – Server pro stahování: https://optipng.sourceforge.net/ (odkaz v angličtina)
 60. Painter, TPaint
     - – Licence: GPL 2.0
 61. Panorama Tools
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 1998-2006 Helmut Dersch
-    - – Server pro stahování: http://panotools.sourceforge.net/ (odkaz v angličtina)
+    - – Server pro stahování: https://panotools.sourceforge.net/ (odkaz v angličtina)
 62. PhotoQt
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 2011-2018 Lukas Spies
@@ -244,7 +244,7 @@
 74. Potrace
     - – Licence: GPL 2.0
     - – Upozornění na autorská práva: Copyright (c) 2001-2019 Peter Selinger
-    - – Server pro stahování: http://potrace.sourceforge.net/ (odkaz v angličtina)
+    - – Server pro stahování: https://potrace.sourceforge.net/ (odkaz v angličtina)
 75. PPM2FLI
     - – Licence: Svobodné
     - – Upozornění na autorská práva: Copyright (c) 1993-1999 Klaus Ehrenfried

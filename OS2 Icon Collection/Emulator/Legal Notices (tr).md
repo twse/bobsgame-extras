@@ -10,7 +10,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 3. KEGS
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 1997-2004 Kent Dickey
-   - – İndirme Sitesi: http://kegs.sourceforge.net/ (bağda İngilizce)
+   - – İndirme Sitesi: https://kegs.sourceforge.net/ (bağda İngilizce)
 4. Virtual PC
    - – Lisans: Özgür
    - – Telif Hakkı Bildirimi: Copyright (c) 2008 Microsoft Corporation

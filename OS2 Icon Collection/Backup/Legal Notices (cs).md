@@ -36,7 +36,7 @@
 12. luckyBackup
     - – Licence: GPL 3.0
     - – Upozornění na autorská práva: Copyright (c) 2007-2018 Loukas Avgeriou
-    - – Server pro stahování: http://luckybackup.sourceforge.net/ (odkaz v angličtina)
+    - – Server pro stahování: https://luckybackup.sourceforge.net/ (odkaz v angličtina)
 13. Obackup
     - – Licence: Shareware
     - – Upozornění na autorská práva: Copyright (c) 1991-1993 Trumphurst Ltd.

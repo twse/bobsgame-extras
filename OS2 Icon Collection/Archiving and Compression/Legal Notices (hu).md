@@ -16,7 +16,7 @@
 5. ARJ
    - – Licenc: Szabad vagy shareware
    - – Szerzői jogi figyelmeztetés: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
-   - – Letöltési hely: http://www.arjsoftware.com/ (angol nyelvem) vagy http://arj.sourceforge.net/ (angol nyelvem)
+   - – Letöltési hely: http://www.arjsoftware.com/ (angol nyelvem) vagy https://arj.sourceforge.net/ (angol nyelvem)
 6. CABextract
    - – Licenc: GPL 2.0
    - – Szerzői jogi figyelmeztetés: Copyright (c) 2000-2018 Stuart Caie

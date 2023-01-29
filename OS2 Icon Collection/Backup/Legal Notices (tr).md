@@ -36,7 +36,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 12. luckyBackup
     - – Lisans: GPL 3.0
     - – Telif Hakkı Bildirimi: Copyright (c) 2007-2018 Loukas Avgeriou
-    - – İndirme Sitesi: http://luckybackup.sourceforge.net/ (bağda İngilizce)
+    - – İndirme Sitesi: https://luckybackup.sourceforge.net/ (bağda İngilizce)
 13. Obackup
     - – Lisans: Shareware
     - – Telif Hakkı Bildirimi: Copyright (c) 1991-1993 Trumphurst Ltd.

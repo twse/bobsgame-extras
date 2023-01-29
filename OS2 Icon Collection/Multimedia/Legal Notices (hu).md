@@ -245,7 +245,7 @@
 77. TiMidity
     - – Licenc: GPL 2.0
     - – Szerzői jogi figyelmeztetés: Copyright (c) 1997-2012 Masanao Izumo, Tuukka Toivonen és TiMidity közreműködők
-    - – Letöltési hely: http://timidity.sourceforge.net/ (angol nyelvem)
+    - – Letöltési hely: https://timidity.sourceforge.net/ (angol nyelvem)
 78. trk2iso
     - – Licenc: Szabad
     - – Szerzői jogi figyelmeztetés: Copyright (c) 2000 Valerie Vrabie

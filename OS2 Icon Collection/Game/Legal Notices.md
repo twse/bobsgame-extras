@@ -18,7 +18,7 @@
 6. Atomiks
    - – License : GPL 3.0
    - – Copyright Notice : Copyright (c) 2013-2015 Mateusz Viste
-   - – Download Site : http://atomiks.sourceforge.net/
+   - – Download Site : https://atomiks.sourceforge.net/
 7. Baby Mush
    - – License : Free
    - – Copyright Notice : Copyright (c) 1995 Shade Planet Software
@@ -142,7 +142,7 @@
 46. Hex-a-Hop
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2005-2007 Tom Beaumont
-    - – Download Site : http://hexahop.sourceforge.net/
+    - – Download Site : https://hexahop.sourceforge.net/
 47. hTetris
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 1999 SUE Group

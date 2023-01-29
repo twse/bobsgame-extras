@@ -3,7 +3,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 1. CScreenie
    - – Lisans: GPL 3.0
    - – Telif Hakkı Bildirimi: Copyright (c) 2011-2012 Ivan Poštić
-   - – İndirme Sitesi: http://cscreenie.sourceforge.net/ (bağda İngilizce)
+   - – İndirme Sitesi: https://cscreenie.sourceforge.net/ (bağda İngilizce)
 2. Gotcha!
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 1998-2007 Thorsten Thielen

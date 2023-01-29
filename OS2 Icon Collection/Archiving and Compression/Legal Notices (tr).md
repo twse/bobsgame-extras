@@ -16,7 +16,7 @@ Bu klasör aşağıdaki yazılımı içerebilir:
 5. ARJ
    - – Lisans: Özgür veya shareware
    - – Telif Hakkı Bildirimi: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
-   - – İndirme Sitesi: http://www.arjsoftware.com/ (bağda İngilizce) veya http://arj.sourceforge.net/ (bağda İngilizce)
+   - – İndirme Sitesi: http://www.arjsoftware.com/ (bağda İngilizce) veya https://arj.sourceforge.net/ (bağda İngilizce)
 6. CABextract
    - – Lisans: GPL 2.0
    - – Telif Hakkı Bildirimi: Copyright (c) 2000-2018 Stuart Caie

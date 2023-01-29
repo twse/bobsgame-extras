@@ -16,7 +16,7 @@ Ten folder może zawierać następujące oprogramowanie:
 5. ARJ
    - – Licencja: Wolny lub shareware
    - – Informacja o prawach autorskich: Copyright (c) 1994-2009 ARJ Software, ARJ Software Russia
-   - – Strona pobierania: http://www.arjsoftware.com/ (w angielski) lub http://arj.sourceforge.net/ (w angielski)
+   - – Strona pobierania: http://www.arjsoftware.com/ (w angielski) lub https://arj.sourceforge.net/ (w angielski)
 6. CABextract
    - – Licencja: GPL 2.0
    - – Informacja o prawach autorskich: Copyright (c) 2000-2018 Stuart Caie
