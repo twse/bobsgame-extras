@@ -153,7 +153,7 @@
     - – Copyright Notice : Copyright (c) 2015 André Doff
 52. Win95Key
     - – License : Free
-    - – Copyright Notice : Copyright (c) 2003 Viktor Remennik, Alex Samorukov, Nikolay Kolosov
+    - – Copyright Notice : Copyright (c) 2003 Viktor Remennik, Oleksii Samorukov, Nikolay Kolosov
 53. Workplace Security
     - – License : Shareware
     - – Copyright Notice : Copyright (c) 1995-1996 Maple Valley Software

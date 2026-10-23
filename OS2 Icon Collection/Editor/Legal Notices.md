@@ -69,7 +69,7 @@
     - – Copyright Notice : Copyright (c) 1988-1990 Thuan-Tit Ewe
 22. HPLED
     - – License : Free
-    - – Copyright Notice : Copyright (c) 2003 Alex Samorukov
+    - – Copyright Notice : Copyright (c) 2003 Oleksii Samorukov
 23. iEdit
     - – License : Cardware
     - – Copyright Notice : Copyright (c) 1995 Alexander Wilkens

@@ -172,7 +172,7 @@
     - – Copyright Notice : Copyright (c) 1990-1992 John Ridges
 56. USBMOUNTD
     - – License : Free
-    - – Copyright Notice : Copyright (c) 2003 Alex Samorukov
+    - – Copyright Notice : Copyright (c) 2003 Oleksii Samorukov
 57. VFATMon
     - – License : GPL 2.0
     - – Copyright Notice : Copyright (c) 2004 Jason R Stefanovich
